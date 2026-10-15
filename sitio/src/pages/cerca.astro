@@ -1,0 +1,39 @@
+---
+// Búsqueda por cercanía: la página es estática; pide la ubicación en el navegador y consulta /api/cerca (Worker + D1).
+import Base from '../layouts/Base.astro';
+---
+<Base titulo="Iglesias cerca de mí | Iglesias de América Latina" descripcion="Encontrá las iglesias evangélicas y comunidades de fe más cercanas a tu ubicación, con dirección, distancia y datos de contacto.">
+  <h1>Iglesias cerca de vos</h1>
+  <p id="estado">Para buscar necesitamos tu ubicación. Solo se usa en este momento para calcular distancias; no se guarda ni se envía a nadie más que a este sitio.</p>
+  <p><button class="boton" id="btn-ubicar" type="button">Usar mi ubicación</button></p>
+  <form id="f-manual" class="aviso" hidden>
+    <strong>O buscá por localidad</strong>
+    <p>Si no querés compartir tu ubicación, elegí tu país y localidad en el <a href="/directorio/">directorio</a>.</p>
+  </form>
+  <div id="resultados"></div>
+  <script is:inline>
+    const estado = document.getElementById('estado'), res = document.getElementById('resultados'), btn = document.getElementById('btn-ubicar'), manual = document.getElementById('f-manual');
+    const qs = new URLSearchParams(location.search);
+    function fmtKm(m) { return m < 1000 ? `${Math.round(m)} m` : `${(m / 1000).toFixed(1)} km`; }
+    async function buscar(lat, lon) {
+      estado.textContent = 'Buscando iglesias cercanas...';
+      const r = await fetch(`/api/cerca?lat=${lat}&lon=${lon}`); const j = await r.json();
+      if (!r.ok) { estado.textContent = j.error || 'No pudimos buscar. Probá de nuevo.'; return; }
+      if (!j.resultados.length) { estado.textContent = 'No encontramos iglesias con ubicación en el mapa a menos de 25 km. Probá en el directorio por localidad.'; manual.hidden = false; return; }
+      estado.textContent = `${j.resultados.length} iglesias a menos de ${fmtKm(j.radio_m)} de tu ubicación. Las distancias son en línea recta.`;
+      res.innerHTML = '<ul class="lista">' + j.resultados.map(i => `<li><a href="${i.url}">${i.nombre}</a><small>${fmtKm(i.distancia_m)} · ${i.denominacion || 'Sin clasificar'} · ${i.direccion || ''}${i.direccion ? ', ' : ''}${i.localidad}${i.horarios ? ' · ' + i.horarios : ''}</small></li>`).join('') + '</ul>' +
+        `<p><a class="boton secundario" href="https://www.google.com/maps/search/iglesia/@${lat},${lon},14z" rel="noopener">Ver la zona en Google Maps</a></p>`;
+      history.replaceState(null, '', `/cerca/?lat=${lat.toFixed(5)}&lon=${lon.toFixed(5)}`);
+    }
+    function ubicar() {
+      if (!navigator.geolocation) { estado.textContent = 'Tu navegador no permite obtener la ubicación.'; manual.hidden = false; return; }
+      estado.textContent = 'Esperando tu permiso para usar la ubicación...';
+      navigator.geolocation.getCurrentPosition(p => buscar(p.coords.latitude, p.coords.longitude), err => {
+        estado.textContent = err.code === 1 ? 'No diste permiso de ubicación. Podés buscar por localidad en el directorio.' : 'No pudimos obtener tu ubicación. Probá de nuevo o buscá por localidad.'; manual.hidden = false;
+      }, { enableHighAccuracy: false, timeout: 15000, maximumAge: 600000 });
+    }
+    btn.addEventListener('click', ubicar);
+    if (qs.get('lat') && qs.get('lon')) buscar(parseFloat(qs.get('lat')), parseFloat(qs.get('lon')));
+    else if (qs.get('auto') === '1') ubicar();
+  </script>
+</Base>

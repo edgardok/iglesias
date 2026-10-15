@@ -18,7 +18,10 @@ CREATE TABLE IF NOT EXISTS iglesias (
   provincia_slug TEXT NOT NULL,
   localidad_slug TEXT NOT NULL,
   nombre TEXT NOT NULL,
+  lat REAL,                                   -- para la búsqueda por cercanía
+  lon REAL,
   datos TEXT NOT NULL,                        -- la ficha completa en JSON
   PRIMARY KEY (pais_slug, slug)
 );
 CREATE INDEX IF NOT EXISTS iglesias_localidad ON iglesias (pais_slug, provincia_slug, localidad_slug, nombre);
+CREATE INDEX IF NOT EXISTS iglesias_geo ON iglesias (lat, lon);

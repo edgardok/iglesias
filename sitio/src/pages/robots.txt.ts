@@ -2,6 +2,7 @@ export const GET = () => new Response(`# Este sitio existe para ser leído. Bien
 User-agent: *
 Allow: /
 Disallow: /api/
+Disallow: /cerca/?
 
 User-agent: GPTBot
 Allow: /

@@ -1,34 +1,62 @@
 ---
 import Base from '../layouts/Base.astro';
-import { iglesias, paises, PAISES_LATAM, NOMBRE_SITIO, urlPais, tiposDe, urlTipo } from '../lib/datos';
-const total = iglesias.length;
-const conCoords = iglesias.filter(i => i.lat).length;
-const conHorarios = iglesias.filter(i => i.horarios).length;
-const cubiertos = new Set(paises.map(p => p.slug));
-const tipos = tiposDe(iglesias).slice(0, 12);
+import Donar from '../components/Donar.astro';
+import { iglesias, paises, NOMBRE_SITIO } from '../lib/datos';
+const total = iglesias.length.toLocaleString('es');
+const conCoords = iglesias.filter(i => i.lat).length.toLocaleString('es');
+const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: NOMBRE_SITIO, url: Astro.site?.href,
+  description: 'Directorio abierto de iglesias evangélicas y otras comunidades de fe de América Latina, hecho para que buscadores y asistentes de IA las encuentren.',
+  potentialAction: { '@type': 'SearchAction', target: `${Astro.site?.href}cerca/`, 'query-input': 'required name=ubicacion' } };
 ---
-<Base titulo={`${NOMBRE_SITIO}: directorio abierto de templos y comunidades de fe`} descripcion={`Directorio abierto con ${total.toLocaleString('es')} iglesias evangélicas y otras comunidades de fe de América Latina, por país, región y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
-  <h1>Que toda iglesia de América Latina sea encontrable</h1>
-  <p>Miles de iglesias existen solo en Facebook, Instagram o WhatsApp. Para Google y para los asistentes de inteligencia artificial, no existen. Este directorio junta los datos públicos de cada país y los publica en un formato que cualquier buscador o modelo puede leer, con una URL permanente por iglesia.</p>
-  <p><a href="/movimiento/"><strong>Leé por qué hacemos esto</strong></a>: la idea, el foco en los asistentes de IA y cómo sumarse.</p>
-  <div class="aviso"><strong>¿Tu iglesia está acá?</strong> Buscala por país, región y localidad. Si falta o tiene datos viejos, <a href="/sumarse/">sumala o corregila</a> en dos minutos.</div>
-  <h2>Países</h2>
-  <ul class="grilla">
-    {PAISES_LATAM.map(p => cubiertos.has(p.slug)
-      ? <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>({paises.find(x => x.slug === p.slug)!.iglesias.length.toLocaleString('es')})</small></li>
-      : <li class="gris">{p.nombre} <small>(próximamente)</small></li>)}
+<Base titulo={`${NOMBRE_SITIO}: que ninguna iglesia quede afuera`} descripcion={`Directorio abierto con ${total} iglesias evangélicas y otras comunidades de fe de América Latina. Buscá cerca de tu ubicación o explorá por país. Gratis, con datos públicos, pensado para buscadores y asistentes de IA.`} jsonld={jsonld}>
+  <section class="hero">
+    <h1>Que ninguna iglesia quede afuera</h1>
+    <p class="grande">Cuando alguien le pregunta a Google o a un asistente de inteligencia artificial "¿qué iglesias hay cerca de mi casa?", solo aparecen las que tienen datos públicos legibles. Las que viven solo en Facebook, Instagram o WhatsApp no existen para ellos. Este proyecto junta los datos públicos de cada país de América Latina y le da a cada iglesia una página que cualquier buscador o modelo puede leer.</p>
+    <p class="acciones">
+      <a class="boton" href="/cerca/" id="btn-cerca">Buscar iglesias cerca de mí</a>
+      <a class="boton secundario" href="/directorio/">Explorar el directorio</a>
+    </p>
+    <p><small>{total} iglesias y comunidades de fe en {paises.map(p => p.nombre).join(', ')}, {conCoords} con ubicación en el mapa. Sin registro, sin costo.</small></p>
+  </section>
+
+  <h2>Cómo funciona</h2>
+  <ul class="pasos">
+    <li><strong>Juntamos los datos públicos.</strong> Registros oficiales de cultos de cada país y OpenStreetMap. Nada de raspar redes sociales. <a href="/fuentes/">Cada dato dice de dónde salió.</a></li>
+    <li><strong>Le damos a cada iglesia una página.</strong> Con dirección, horarios, contacto y datos estructurados que Google, ChatGPT, Claude o Perplexity pueden leer y citar.</li>
+    <li><strong>La iglesia reclama la suya.</strong> Dos minutos de formulario para completar horarios y redes. <a href="/sumarse/">Sumá o corregí la tuya.</a></li>
   </ul>
-  <p><small>Empezamos por Argentina. Cada país se suma cuando conseguimos una fuente pública confiable; <a href="/fuentes/">acá explicamos cuáles usamos</a> y <a href="https://github.com/edgardok/iglesias/blob/main/data/README.md">cómo agregar uno</a>.</small></p>
-  <h2>Por tipo</h2>
-  <ul class="grilla">{tipos.map(t => <li>{t.nombre} <small>({t.iglesias.length.toLocaleString('es')})</small></li>)}</ul>
-  <p>{paises.map(p => <a href={`${urlPais(p.slug)}tipo/`}>Tipos en {p.nombre}</a>)}</p>
-  <h2>Para buscadores y asistentes de IA</h2>
-  <p>Cada iglesia tiene una URL permanente con su descripción en prosa y datos estructurados schema.org. Cada localidad tiene además una versión en Markdown. Todo el dataset se puede descargar en <a href="/datos/">datos abiertos</a> y hay un <a href="/llms.txt">llms.txt</a>.</p>
-  <h2>Qué hay hoy</h2>
-  <dl>
-    <dt>Países</dt><dd>{paises.length} de {PAISES_LATAM.length}</dd>
-    <dt>Fichas</dt><dd>{total.toLocaleString('es')}</dd>
-    <dt>Con ubicación en mapa</dt><dd>{conCoords.toLocaleString('es')}</dd>
-    <dt>Con horarios</dt><dd>{conHorarios.toLocaleString('es')}</dd>
-  </dl>
+
+  <h2>Para quien busca</h2>
+  <p>Te mudaste, estás de viaje o simplemente querés conocer qué comunidades hay en tu barrio. <a href="/cerca/">Buscá cerca de tu ubicación</a> o navegá <a href="/directorio/">por país, región y localidad</a>. Podés <a href="#instalar" id="link-instalar">instalar esta página en tu teléfono</a> como una app para tenerla a mano.</p>
+
+  <h2>Para las iglesias</h2>
+  <p>Si tu iglesia tiene Facebook pero no una web, hoy es invisible para quien pregunta a un asistente de IA. Reclamá tu ficha gratis, cargá horarios y un teléfono, y tu comunidad pasa a ser encontrable. <a href="/sumarse/">Empezá acá.</a> Si sos parte de una red o denominación, podemos cargar todas tus congregaciones juntas.</p>
+
+  <h2>El movimiento</h2>
+  <p>Esto es más que un directorio: es la idea de que ninguna comunidad quede afuera de la forma en que la gente busca hoy. Abierto, gratuito, para toda América Latina. <a href="/movimiento/">Leé el manifiesto</a>, los principios y las formas de sumarse.</p>
+
+  <Donar />
+
+  <section id="instalar" class="aviso" hidden>
+    <strong>Instalá el directorio en tu teléfono.</strong>
+    <p id="instalar-texto">Funciona como una app: un ícono en tu pantalla de inicio que abre el directorio al instante. No ocupa espacio ni pide permisos.</p>
+    <p><button class="boton" id="btn-instalar" type="button">Instalar</button></p>
+  </section>
+  <script is:inline>
+    // Instalación como PWA: en Chrome/Edge/Android se usa el prompt nativo; en iOS se explican los pasos.
+    let prompt = null;
+    const caja = document.getElementById('instalar'), btn = document.getElementById('btn-instalar'), texto = document.getElementById('instalar-texto');
+    const esIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.MSStream;
+    const yaInstalada = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
+    window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); prompt = e; caja.hidden = false; });
+    if (esIOS && !yaInstalada) { caja.hidden = false; btn.hidden = true; texto.textContent = 'En iPhone: tocá el botón Compartir de Safari y elegí "Agregar a pantalla de inicio". Queda como una app.'; }
+    document.getElementById('link-instalar').addEventListener('click', e => { if (caja.hidden) { e.preventDefault(); alert(yaInstalada ? 'Ya la tenés instalada.' : 'Tu navegador no ofrece instalación directa. Agregá esta página a favoritos o a la pantalla de inicio desde el menú del navegador.'); } });
+    btn?.addEventListener('click', async () => { if (!prompt) return; prompt.prompt(); const r = await prompt.userChoice; if (r.outcome === 'accepted') caja.hidden = true; prompt = null; });
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');
+  </script>
+  <style is:global>
+    .hero { padding: 1rem 0 .5rem } .hero h1 { font-size: 2.2rem }
+    .grande { font-size: 1.15rem } .acciones .boton { margin: .25rem .5rem .25rem 0 }
+    .pasos { padding-left: 1.2rem } .pasos li { margin: .6rem 0 }
+  </style>
 </Base>

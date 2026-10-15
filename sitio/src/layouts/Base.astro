@@ -13,6 +13,12 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <title>{titulo}</title>
   <meta name="description" content={descripcion} />
   <link rel="canonical" href={canonical} />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="icon" href="/icono.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/icono-192.png" />
+  <meta name="theme-color" content="#7a3e1d" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Iglesias" />
   <meta name="robots" content="index,follow,max-snippet:-1" />
   <meta property="og:title" content={titulo} />
   <meta property="og:description" content={descripcion} />
@@ -26,7 +32,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     header, main, footer { max-width:860px; margin:0 auto; padding:0 1.25rem }
     header { display:flex; justify-content:space-between; align-items:center; padding-top:1rem; padding-bottom:1rem; border-bottom:1px solid var(--linea); flex-wrap:wrap; gap:.5rem }
     header a { color:var(--tinta); text-decoration:none; font-weight:600 }
-    header nav a { margin-left:1rem; font-weight:400; color:var(--suave) }
+    header nav a { margin-left:.9rem; font-weight:400; color:var(--suave) }
     main { padding-top:1.5rem; padding-bottom:3rem }
     h1 { font-size:1.75rem; line-height:1.2; margin:.25rem 0 .75rem }
     h2 { font-size:1.15rem; margin-top:2rem }
@@ -49,7 +55,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 <body>
   <header>
     <a href="/">{NOMBRE_SITIO}</a>
-    <nav><a href="/movimiento/">El movimiento</a><a href="/paises/">Países</a><a href="/sumarse/">Sumar mi iglesia</a><a href="/fuentes/">Fuentes</a><a href="/datos/">Datos abiertos</a><a href="/apoyar/">Apoyar</a></nav>
+    <nav><a href="/cerca/">Cerca de mí</a><a href="/directorio/">Directorio</a><a href="/movimiento/">El movimiento</a><a href="/sumarse/">Sumar mi iglesia</a><a href="/fuentes/">Fuentes</a><a href="/apoyar/">Apoyar</a></nav>
   </header>
   <main><slot /></main>
   <footer>

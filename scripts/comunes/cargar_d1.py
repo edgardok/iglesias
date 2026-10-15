@@ -37,8 +37,9 @@ def main(carpeta):
     ejecutar(f"DELETE FROM iglesias WHERE pais_slug = {q(pais)};")
     inserts = []
     for k in range(0, len(ig), FILAS_POR_INSERT):
-        filas = ','.join(f"({q(i['pais_slug'])},{q(i['slug'])},{q(i['provincia_slug'])},{q(i['localidad_slug'])},{q(i['nombre'])},{q(json.dumps(i, ensure_ascii=False))})" for i in ig[k:k+FILAS_POR_INSERT])
-        inserts.append(f"INSERT OR REPLACE INTO iglesias (pais_slug, slug, provincia_slug, localidad_slug, nombre, datos) VALUES {filas};")
+        def num(v): return 'NULL' if v is None else repr(float(v))
+        filas = ','.join(f"({q(i['pais_slug'])},{q(i['slug'])},{q(i['provincia_slug'])},{q(i['localidad_slug'])},{q(i['nombre'])},{num(i.get('lat'))},{num(i.get('lon'))},{q(json.dumps(i, ensure_ascii=False))})" for i in ig[k:k+FILAS_POR_INSERT])
+        inserts.append(f"INSERT OR REPLACE INTO iglesias (pais_slug, slug, provincia_slug, localidad_slug, nombre, lat, lon, datos) VALUES {filas};")
     for k in range(0, len(inserts), INSERTS_POR_PEDIDO):
         ejecutar('\n'.join(inserts[k:k+INSERTS_POR_PEDIDO]))
         print(f'{min((k+INSERTS_POR_PEDIDO)*FILAS_POR_INSERT, len(ig))}/{len(ig)}', file=sys.stderr)

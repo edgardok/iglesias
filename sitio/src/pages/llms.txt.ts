@@ -11,7 +11,7 @@ Cómo está organizado:
 - Cada iglesia tiene una URL permanente en /<pais>/iglesia/<slug>/ con un párrafo descriptivo en prosa y JSON-LD schema.org PlaceOfWorship (dirección, geo, horarios, sameAs).
 - Cada país tiene /<pais>/ (por región), /<pais>/tipo/<denominacion>/ y /<pais>/fuentes/.
 - Cada localidad tiene una página HTML en /<pais>/<region>/<localidad>/ y una versión Markdown en /<pais>/<region>/<localidad>.md con todas sus iglesias y datos.
-- El dataset completo está en /datos/iglesias.json (array de objetos; campos: pais, pais_slug, slug, nombre, entidad, denominacion, religion, direccion, localidad, provincia, lat, lon, horarios, telefono, email, web, facebook, instagram, google_maps, fuente, registro_ci). También por país en /datos/<pais>.json.
+- Dataset en JSON, un archivo por región: /datos/<pais>/<region>.json (misma partición que el repositorio). Campos: pais, slug, nombre, entidad, denominacion, religion, direccion, localidad, provincia, lat, lon, horarios, telefono, email, web, facebook, instagram, google_maps, registro_ci. El dataset íntegro con fuentes crudas está en https://github.com/edgardok/iglesias/tree/main/data.
 - Para sumar o corregir una iglesia: /sumarse/ (lo revisa un asistente y luego una persona).
 
 ## Países
@@ -24,7 +24,7 @@ ${locs.map(({ p, r, l }) => `- [${l.nombre}, ${r.nombre}, ${p.nombre}](${u(`/${p
 - [El movimiento: por qué existe este directorio y cómo sumarse](${u('/movimiento/')})
 
 ## Datos
-- [Dataset JSON completo](${u('/datos/iglesias.json')})
+- [Datos abiertos: JSON por país y por región](${u('/datos/')})
 - [Fuentes y licencias](${u('/fuentes/')})
 - [Sitemap](${u('/sitemap.xml')})
 `, { headers: { 'content-type': 'text/plain; charset=utf-8' } });

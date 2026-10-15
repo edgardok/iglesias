@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Infiere denominación y religión a partir del nombre de la entidad, para las fichas que no la tienen."""
 import json, re, sys, unicodedata
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from datos import cargar, guardar
 def norm(s): return unicodedata.normalize('NFKD', s).encode('ascii','ignore').decode().lower()
 REGLAS = [  # (patrón, denominación, religión)
     (r'testigos de jehova', 'Testigos de Jehová', 'Cristiana'),
@@ -42,7 +45,7 @@ TRAD = {'catholic':'Católica','roman catholic':'Católica','folk catholicism':'
  'jewish':'Judía','jude':'Judía','judia':'Judía','judia conservadora':'Judía','orthodox jewish':'Judía','conservative':'Judía','lubavitch':'Judía','jabad lubavitch':'Judía',
  'muslim':'Musulmana','sunni':'Musulmana','shia':'Musulmana','musulmana sunita':'Musulmana','musulmana chiita':'Musulmana',
  'buddhist':'Budista','tibetan':'Budista','nichiren':'Budista','new kadampa tradition':'Budista','zen':'Budista','hindu':'Hinduista','bahai':"Bahá'í",'baha i':"Bahá'í",'instituto bahai':"Bahá'í",'spiritualist':'Espiritista','religiosa':None,'fixme':None,'retiros':None,'la gruta':None,'gruta de la virgen':'Católica','cita con la vida':'Evangélica'}
-ig = json.load(open(sys.argv[1], encoding='utf-8')); n = 0
+ig = cargar(sys.argv[1]); n = 0
 for i in ig:
     d = i.get('denominacion')
     if d and d not in CANON:
@@ -54,5 +57,5 @@ for i in ig:
     t = norm(i['entidad'] + ' ' + i['nombre'])
     for pat, den, rel in REGLAS:
         if re.search(pat, t): i['denominacion'] = den; i['religion'] = i.get('religion') or rel; n += 1; break
-json.dump(ig, open(sys.argv[1], 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+guardar(sys.argv[1], ig)
 import collections; print(n, 'inferidas'); print(collections.Counter(i.get('denominacion') for i in ig).most_common(25))

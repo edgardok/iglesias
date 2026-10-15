@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
-"""Fusiona los templos de OpenStreetMap con data/iglesias.json.
+"""Fusiona los templos de OpenStreetMap con data/<pais>/iglesias/*.json.
 
 - Asigna provincia y localidad a cada punto OSM con la API georef (apis.datos.gob.ar), por lote.
 - Si un punto OSM coincide con una ficha del registro (mismo nombre normalizado y misma localidad o
   misma provincia con nombre muy específico), le pega coordenadas, web, redes, teléfono y horarios.
 - Si no coincide, lo agrega como ficha nueva con fuente OpenStreetMap.
 
-Uso: python3 -I scripts/enriquecer_osm.py data/raw/osm-place-of-worship.json data/iglesias.json
+Uso: python3 -I scripts/comunes/enriquecer_osm.py data/ar/raw/osm-place-of-worship.json data/ar
 """
 import json, re, sys, unicodedata, urllib.request, time, collections
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from datos import cargar, guardar
 
 def slugify(s):
     s = unicodedata.normalize('NFKD', s or '').encode('ascii', 'ignore').decode()
@@ -42,7 +45,7 @@ def georef(puntos):
     return out
 
 def main(src_osm, dst):
-    iglesias = json.load(open(dst, encoding='utf-8'))
+    iglesias = cargar(dst)
     els = [e for e in json.load(open(src_osm))['elements'] if e.get('tags', {}).get('name')]
     pts = [((e.get('lat') or e['center']['lat']), (e.get('lon') or e['center']['lon'])) for e in els]
     ubic = georef(pts)
@@ -94,7 +97,7 @@ def main(src_osm, dst):
         })
         nuevos += 1
 
-    json.dump(iglesias, open(dst, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    guardar(dst, iglesias)
     print(f'OSM: {len(els)} con nombre, {pegados} pegados a fichas del registro, {nuevos} fichas nuevas. Total {len(iglesias)}')
 
 if __name__ == '__main__':

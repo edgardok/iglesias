@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
-"""Normaliza el CSV del Registro Nacional de Cultos a data/iglesias.json.
+"""Normaliza el CSV del Registro Nacional de Cultos a data/ar/iglesias/<provincia>.json.
 
 Uso: python3 -I scripts/ar/registro_cultos.py data/ar/raw/registro-culto-export.csv data/ar/iglesias.json
 """
 import csv, json, re, sys, unicodedata, collections
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'comunes'))
+from datos import cargar, guardar
+
 
 PROV_ALIAS = {
     'tucuman': 'Tucumán',
@@ -72,8 +76,8 @@ def main(src, dst):
             'telefono': None, 'email': None, 'horarios': None, 'lat': None, 'lon': None,
             'reclamada': False,
         })
-    json.dump(out, open(dst, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
-    print(f'{len(out)} registros -> {dst}')
+    n = guardar(dst, out)
+    print(f'{len(out)} registros -> {dst}/iglesias/ ({n} archivos)')
     print('provincias:', sorted({o["provincia"] for o in out}))
 
 if __name__ == '__main__':

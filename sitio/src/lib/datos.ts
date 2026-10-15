@@ -1,5 +1,5 @@
 // Carga todos los países: data/<iso>/iglesias.json + data/<iso>/fuentes.json
-const archivos = import.meta.glob('../../../data/*/iglesias.json', { eager: true, import: 'default' }) as Record<string, Iglesia[]>;
+const archivos = import.meta.glob('../../../data/*/iglesias/*.json', { eager: true, import: 'default' }) as Record<string, Iglesia[]>;
 const archivosFuentes = import.meta.glob('../../../data/*/fuentes.json', { eager: true, import: 'default' }) as Record<string, Fuentes>;
 
 export type Iglesia = {

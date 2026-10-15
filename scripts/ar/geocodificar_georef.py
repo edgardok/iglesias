@@ -4,9 +4,12 @@
 Solo acepta resultados filtrados por provincia + localidad censal, o provincia + departamento. Sin filtro
 georef puede ubicar la calle en otro partido, así que preferimos no tener coordenadas a tenerlas mal.
 Escribe data/geo.json {slug: {lat, lon, direccion_normalizada, filtro}}. Se aplica con aplicar_geo.py.
-Uso: python3 -I scripts/geocodificar.py data/iglesias.json data/geo.json
+Uso: python3 -I scripts/geocodificar.py data/ar data/ar/geo.json
 """
 import json, re, sys, time, urllib.request, urllib.error
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'comunes'))
+from datos import cargar, guardar
 from concurrent.futures import ThreadPoolExecutor
 
 LOTE = 100
@@ -49,7 +52,7 @@ def pasada(pend, geo, filtro, dst):
     json.dump(geo, open(dst, 'w', encoding='utf-8'), ensure_ascii=False)
 
 def main(src, dst):
-    ig = json.load(open(src, encoding='utf-8'))
+    ig = cargar(src)
     try: geo = json.load(open(dst, encoding='utf-8'))
     except Exception: geo = {}
     def pend(): return [i for i in ig if not i.get('lat') and i['slug'] not in geo and i['direccion'] and re.search(r'\d', i['direccion']) and i['provincia'] != 'Sin provincia' and i['localidad'] != 'Sin localidad']

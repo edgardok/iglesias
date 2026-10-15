@@ -5,7 +5,7 @@ Una carpeta por país, nombrada con su código ISO 3166-1 en minúsculas.
 ```
 data/<iso>/
   raw/          fuentes tal como se descargaron; no se editan
-  iglesias.json dataset normalizado del país (lo que publica el sitio)
+  iglesias/     dataset normalizado del país, un archivo por región (lo que publica el sitio; ninguno debe superar 20 MB)
   fuentes.json  de dónde salió cada dato: organismo, URL, licencia, fecha, script, limitaciones
   geo.json      coordenadas obtenidas por geocodificación (si aplica)
 ```

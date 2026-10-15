@@ -14,14 +14,24 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { z } from 'zod';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
 
 const PAISES: Record<string, string> = { ar: 'Argentina', bo: 'Bolivia', br: 'Brasil', cl: 'Chile', co: 'Colombia', cr: 'Costa Rica', cu: 'Cuba', ec: 'Ecuador', sv: 'El Salvador', gt: 'Guatemala', hn: 'Honduras', mx: 'México', ni: 'Nicaragua', pa: 'Panamá', py: 'Paraguay', pe: 'Perú', pr: 'Puerto Rico', do: 'República Dominicana', uy: 'Uruguay', ve: 'Venezuela' };
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const RAIZ = resolve(dirname(fileURLToPath(import.meta.url)), '..', '..');
-const rutaDatos = (pais: string) => resolve(RAIZ, 'data', pais, 'iglesias.json');
+const carpetaDatos = (pais: string) => resolve(RAIZ, 'data', pais, 'iglesias');
+function leerPais(pais: string): Iglesia[] {
+  const dir = carpetaDatos(pais); if (!existsSync(dir)) return [];
+  return readdirSync(dir).filter(f => f.endsWith('.json')).sort().flatMap(f => JSON.parse(readFileSync(resolve(dir, f), 'utf8')));
+}
+function escribirPais(pais: string, lista: Iglesia[]) {
+  const dir = carpetaDatos(pais); mkdirSync(dir, { recursive: true });
+  const porRegion = new Map<string, Iglesia[]>();
+  for (const i of lista) { const k = i.provincia_slug; porRegion.set(k, [...(porRegion.get(k) ?? []), i]); }
+  for (const [k, v] of porRegion) writeFileSync(resolve(dir, `${k}.json`), JSON.stringify(v.sort((a, b) => a.slug.localeCompare(b.slug)), null, 0));
+}
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
 const localIdx = args.indexOf('--local');
@@ -91,7 +101,7 @@ async function main() {
   const pendientes = await traerPendientes();
   console.log(`${pendientes.length} solicitudes pendientes`);
   const porPais = new Map<string, Iglesia[]>();
-  const cargar = (pais: string) => { if (!porPais.has(pais)) { try { porPais.set(pais, JSON.parse(readFileSync(rutaDatos(pais), 'utf8'))); } catch { porPais.set(pais, []); } } return porPais.get(pais)!; };
+  const cargar = (pais: string) => { if (!porPais.has(pais)) porPais.set(pais, leerPais(pais)); return porPais.get(pais)!; };
   let cambios = 0; const paisesTocados = new Set<string>();
 
   for (const s of pendientes) {
@@ -131,8 +141,8 @@ async function main() {
   }
 
   if (cambios && !dryRun) {
-    for (const pais of paisesTocados) { mkdirSync(dirname(rutaDatos(pais)), { recursive: true }); writeFileSync(rutaDatos(pais), JSON.stringify(porPais.get(pais), null, 0)); }
-    console.log(`${cambios} cambios escritos en data/<pais>/iglesias.json (${[...paisesTocados].join(', ')}). Revisá el diff, commiteá y desplegá.`);
+    for (const pais of paisesTocados) escribirPais(pais, porPais.get(pais)!);
+    console.log(`${cambios} cambios escritos en data/<pais>/iglesias/<region>.json (${[...paisesTocados].join(', ')}). Revisá el diff, commiteá y desplegá.`);
   }
   else console.log(`${cambios} cambios${dryRun ? ' (dry-run, nada escrito)' : ''}.`);
 }

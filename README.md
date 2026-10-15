@@ -13,7 +13,7 @@ fuente pública confiable.
 ```
 data/<iso>/            un país por carpeta (código ISO 3166-1 en minúsculas)
   raw/                 fuentes tal como se bajaron; no se editan
-  iglesias.json        dataset normalizado del país
+  iglesias/<region>.json  dataset normalizado, un archivo por región (límite 20 MB cada uno)
   fuentes.json         de dónde salió cada dato: organismo, URL, licencia, fecha, script, limitaciones
   geo.json             coordenadas obtenidas por geocodificación (si aplica)
 scripts/<iso>/         scripts específicos del país (parsear su registro, geocodificar con su API)
@@ -22,7 +22,7 @@ sitio/                 Astro (estático) + Worker de Cloudflare para el formular
   src/pages/           inicio, países, /<pais>/ por región, localidades (HTML y .md), tipo, fuentes, ficha por iglesia, formulario, llms.txt, sitemaps, datos
   functions/api/       handlers del formulario (Turnstile + D1) y del endpoint para el agente
   worker/index.ts      enruta /api/* a los handlers y sirve el resto como assets
-  agente/procesar.ts   agente con Claude que revisa las solicitudes y actualiza data/<pais>/iglesias.json
+  agente/procesar.ts   agente con Claude que revisa las solicitudes y actualiza data/<pais>/iglesias/<region>.json
 ```
 
 Detalle de los datos y cómo sumar un país: [data/README.md](data/README.md).
@@ -53,11 +53,11 @@ Detalle de los datos y cómo sumar un país: [data/README.md](data/README.md).
 ## Regenerar datos (Argentina)
 
 ```bash
-python3 -I scripts/ar/registro_cultos.py data/ar/raw/registro-culto-export.csv data/ar/iglesias.json
-python3 -I scripts/comunes/enriquecer_osm.py data/ar/raw/osm-place-of-worship.json data/ar/iglesias.json
-python3 -I scripts/comunes/denominacion.py data/ar/iglesias.json
-python3 -I scripts/ar/geocodificar_georef.py data/ar/iglesias.json data/ar/geo.json   # lento: una hora aprox.
-python3 -I scripts/ar/aplicar_geo.py data/ar/iglesias.json data/ar/geo.json
+python3 -I scripts/ar/registro_cultos.py data/ar/raw/registro-culto-export.csv data/ar
+python3 -I scripts/comunes/enriquecer_osm.py data/ar/raw/osm-place-of-worship.json data/ar
+python3 -I scripts/comunes/denominacion.py data/ar
+python3 -I scripts/ar/geocodificar_georef.py data/ar data/ar/geo.json   # lento: una hora aprox.
+python3 -I scripts/ar/aplicar_geo.py data/ar data/ar/geo.json
 ```
 
 ## Sitio
@@ -88,7 +88,7 @@ npx tsx agente/procesar.ts --local agente/ejemplo-solicitudes.json --dry-run   #
 API_BASE=https://<worker>.workers.dev AGENTE_TOKEN=... npx tsx agente/procesar.ts
 ```
 
-Necesita credenciales de la API de Anthropic. El agente escribe en `data/<pais>/iglesias.json` y marca las
+Necesita credenciales de la API de Anthropic. El agente escribe en `data/<pais>/iglesias/<region>.json` y marca las
 solicitudes; publicar sigue siendo un commit y un deploy hechos por una persona.
 
 ## Pendiente

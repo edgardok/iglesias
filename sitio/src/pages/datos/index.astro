@@ -1,14 +1,17 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { iglesias, paises } from '../../lib/datos';
+import { iglesias, paises, provinciasDe } from '../../lib/datos';
 ---
-<Base titulo="Datos abiertos | Iglesias de América Latina" descripcion="Descargá el dataset completo del directorio de iglesias de América Latina en JSON, completo o por país. Licencia ODbL.">
+<Base titulo="Datos abiertos | Iglesias de América Latina" descripcion="Descargá el directorio de iglesias de América Latina en JSON, por país o por región. Licencia ODbL.">
   <h1>Datos abiertos</h1>
-  <p>Todo el directorio, {iglesias.length.toLocaleString('es')} fichas, en un solo archivo: <a href="/datos/iglesias.json">iglesias.json</a>.</p>
-  <p>Por país: {paises.map(p => <a href={`/datos/${p.slug}.json`}>{p.nombre} ({p.iglesias.length.toLocaleString('es')})</a>)}</p>
+  <p>{iglesias.length.toLocaleString('es')} fichas, en un archivo JSON por región de cada país. Es la misma partición que tiene el <a href="https://github.com/edgardok/iglesias/tree/main/data">repositorio</a> en <code>data/&lt;pais&gt;/iglesias/&lt;region&gt;.json</code>, así que podés bajar de acá o clonar.</p>
+  {paises.map(p => <>
+    <h2>{p.nombre} <small>({p.iglesias.length.toLocaleString('es')})</small></h2>
+    <ul class="grilla">{provinciasDe(p.slug).map(r => <li><a href={`/datos/${p.slug}/${r.slug}.json`}>{r.nombre}</a> <small>({r.iglesias.length.toLocaleString('es')})</small></li>)}</ul>
+  </>)}
   <h2>Campos</h2>
-  <p><code>pais</code>, <code>pais_slug</code>, <code>slug</code>, <code>nombre</code>, <code>entidad</code>, <code>filial</code>, <code>denominacion</code>, <code>religion</code>, <code>direccion</code>, <code>localidad</code>, <code>provincia</code> (región de primer nivel del país), <code>lat</code>, <code>lon</code>, <code>horarios</code>, <code>telefono</code>, <code>email</code>, <code>web</code>, <code>facebook</code>, <code>instagram</code>, <code>google_maps</code>, <code>fuente</code>, <code>registro_ci</code>, <code>reclamada</code>.</p>
+  <p><code>pais</code>, <code>pais_slug</code>, <code>slug</code>, <code>nombre</code>, <code>entidad</code>, <code>filial</code>, <code>denominacion</code>, <code>religion</code>, <code>direccion</code>, <code>localidad</code>, <code>provincia</code> (región de primer nivel del país), <code>lat</code>, <code>lon</code>, <code>horarios</code>, <code>telefono</code>, <code>email</code>, <code>web</code>, <code>facebook</code>, <code>instagram</code>, <code>google_maps</code>, <code>fuente</code>, <code>registro_ci</code>, <code>reclamada</code>. La URL de cada ficha es <code>/&lt;pais_slug&gt;/iglesia/&lt;slug&gt;/</code>.</p>
   <h2>Licencia y fuentes</h2>
-  <p>Los datos combinan registros públicos de cada país y OpenStreetMap (ODbL). Los aportes de las iglesias se publican bajo la misma licencia ODbL. Si usás los datos, citá la fuente y compartí las mejoras. El detalle de cada fuente, con fecha, licencia, script y limitaciones, está en <a href="/fuentes/">fuentes</a>.</p>
-  <p>También hay un <a href="/llms.txt">llms.txt</a> para asistentes de IA, un <a href="/sitemap.xml">sitemap.xml</a> y el <a href="https://github.com/edgardok/iglesias">repositorio con los crudos y los scripts</a>.</p>
+  <p>Los datos combinan registros públicos de cada país y OpenStreetMap (ODbL). Los aportes de las iglesias se publican bajo la misma licencia ODbL. Si usás los datos, citá la fuente y compartí las mejoras. El detalle de cada fuente está en <a href="/fuentes/">fuentes</a>.</p>
+  <p>También hay un <a href="/llms.txt">llms.txt</a> para asistentes de IA y un <a href="/sitemap.xml">sitemap.xml</a>.</p>
 </Base>

@@ -32,8 +32,24 @@ REGLAS = [  # (patrón, denominación, religión)
     (r'umbanda|africanist|afro|batuque|quimbanda|kimbanda|orixa|orisha|yoruba|ifa\b', 'Afroamericana (umbanda / africanista)', 'Religiones afroamericanas'),
     (r'gauchito gil|difunta correa|san la muerte|religiosidad popular', 'Religiosidad popular', 'Religiosidad popular'),
 ]
+# Valores crudos de OSM (inglés o variantes) -> denominación canónica. Lo que no está acá y no es canónico se descarta y se re-infiere.
+CANON = {d for _, d, _ in REGLAS} | {'Católica', 'Evangélica', 'Pentecostal'}
+TRAD = {'catholic':'Católica','roman catholic':'Católica','folk catholicism':'Religiosidad popular','greek catholic':'Católica','ukrainian greek catholic':'Católica','maronite':'Católica','institucion de religion catolica':'Católica','parroquia':'Católica','basilica':'Católica','capilla':'Católica',
+ 'evangelical':'Evangélica','evangelical christian':'Evangélica','cristiana evangelica':'Evangélica','crstiana evangelica':'Evangélica','christian':'Evangélica','cristiana':'Evangélica','protestant':'Protestante','protestante':'Protestante','neo pentecostal':'Pentecostal','charismatic':'Pentecostal','carismatic':'Pentecostal','apostolic':'Pentecostal','profetica apostolica':'Pentecostal','apostolic assembly of the faith in christ jesus':'Pentecostal','la luz del mundo':'La Luz del Mundo',
+ 'baptist':'Bautista','bautista independiente':'Bautista','lutheran':'Luterana','evangelical lutheran':'Luterana','methodist':'Metodista','metodista calvinista':'Metodista','anglican':'Anglicana','presbyterian':'Presbiteriana / Reformada','presbiteriana':'Presbiteriana / Reformada','presbiteriana reformada':'Presbiteriana / Reformada','reformed':'Presbiteriana / Reformada','reformada':'Presbiteriana / Reformada','reform':'Judía','congregational':'Congregacionalista','congregacionalista':'Congregacionalista','disciples of christ':'Discípulos de Cristo','quaker':'Cuáquera','unionista':'Evangélica','mennonite':'Menonita','salvation army':'Ejército de Salvación',
+ 'mormon':'Iglesia de Jesucristo de los Santos de los Últimos Días','latter day saints':'Iglesia de Jesucristo de los Santos de los Últimos Días','iglesia de los santos de los ultimos dias':'Iglesia de Jesucristo de los Santos de los Últimos Días','jehovahs witness':'Testigos de Jehová','seventh day adventist':'Adventista del Séptimo Día','adventist':'Adventista del Séptimo Día','new apostolic':'Nueva Apostólica','iglesia nueva apostolica':'Nueva Apostólica','assemblies of god':'Asambleas de Dios','union de las asambleas de dios':'Asambleas de Dios','universal':'Iglesia Universal del Reino de Dios',
+ 'orthodox':'Ortodoxa','russian orthodox':'Ortodoxa','romanian orthodox':'Ortodoxa','greek orthodox':'Ortodoxa','armenian apostolic':'Ortodoxa','bizantino ucraniana':'Católica',
+ 'jewish':'Judía','jude':'Judía','judia':'Judía','judia conservadora':'Judía','orthodox jewish':'Judía','conservative':'Judía','lubavitch':'Judía','jabad lubavitch':'Judía',
+ 'muslim':'Musulmana','sunni':'Musulmana','shia':'Musulmana','musulmana sunita':'Musulmana','musulmana chiita':'Musulmana',
+ 'buddhist':'Budista','tibetan':'Budista','nichiren':'Budista','new kadampa tradition':'Budista','zen':'Budista','hindu':'Hinduista','bahai':"Bahá'í",'baha i':"Bahá'í",'instituto bahai':"Bahá'í",'spiritualist':'Espiritista','religiosa':None,'fixme':None,'retiros':None,'la gruta':None,'gruta de la virgen':'Católica','cita con la vida':'Evangélica'}
 ig = json.load(open(sys.argv[1], encoding='utf-8')); n = 0
 for i in ig:
+    d = i.get('denominacion')
+    if d and d not in CANON:
+        k = norm(d).replace('-', ' ').replace('_', ' ').strip()
+        i['denominacion'] = TRAD.get(k) if (k in TRAD or len(k.split()) <= 4) else None
+        if i['denominacion'] is None and k in TRAD: pass
+        elif i['denominacion'] is None and k not in TRAD: i['denominacion'] = None
     if i.get('denominacion'): continue
     t = norm(i['entidad'] + ' ' + i['nombre'])
     for pat, den, rel in REGLAS:

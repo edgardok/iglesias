@@ -10,17 +10,32 @@ completados por las propias iglesias a través de un formulario.
 - `data/iglesias.json`: el dataset normalizado. Es la única fuente de verdad del sitio.
 - `scripts/normalizar.py`: CSV oficial a JSON.
 - `scripts/enriquecer_osm.py`: fusiona OpenStreetMap y asigna provincia y municipio con la API georef.
+- `scripts/denominacion.py`: normaliza la denominación de OSM e infiere la del resto a partir del nombre.
+- `scripts/geocodificar.py` + `scripts/aplicar_geo.py`: geocodifican direcciones del registro con georef (solo con filtro de localidad o departamento; sin filtro georef ubica mal). Resultado en `data/geo.json`.
 - `sitio/`: Astro (estático) + Worker de Cloudflare para el formulario.
-  - `src/pages/`: inicio, provincias, localidades, ficha por iglesia, formulario, robots, llms.txt, sitemap, datos.
+  - `src/pages/`: inicio, provincias, localidades (HTML y `.md`), tipo/denominación, ficha por iglesia, formulario, robots, llms.txt, sitemap index, datos.
   - `functions/api/`: handlers del formulario (Turnstile + D1) y del endpoint para el agente.
   - `worker/index.ts`: enruta `/api/*` a los handlers y sirve el resto como assets.
   - `agente/procesar.ts`: agente con Claude que revisa las solicitudes y actualiza `data/iglesias.json`.
+
+## Optimización para buscadores y LLMs
+
+- Una URL permanente por iglesia: `/iglesia/<slug>/`, con un párrafo en prosa que resume todo lo que se sabe de ella y JSON-LD (`PlaceOfWorship` + `Organization`, `BreadcrumbList`, `WebPage`) con dirección, geo, horarios, identificador del registro y `sameAs` a web y redes.
+- Páginas por localidad con resumen en prosa, conteo por denominación, `ItemList` completo y una versión Markdown (`/<provincia>/<localidad>.md`) pensada para crawlers de IA.
+- Páginas por tipo (`/tipo/bautista/`, `/tipo/catolica/`, ...) que responden "iglesias X en Argentina" por provincia y localidad.
+- `llms.txt` con la descripción del sitio, cómo está organizado, el esquema del dataset y enlaces a las localidades con más iglesias en Markdown.
+- `robots.txt` que permite explícitamente GPTBot, ClaudeBot, Google-Extended y PerplexityBot.
+- Sitemap index con partes de 10.000 URLs.
+- Dataset completo en `/datos/iglesias.json` con CORS abierto.
 
 ## Regenerar datos
 
 ```bash
 python3 -I scripts/normalizar.py data/raw/registro-culto-export.csv data/iglesias.json
 python3 -I scripts/enriquecer_osm.py data/raw/osm-place-of-worship.json data/iglesias.json
+python3 -I scripts/denominacion.py data/iglesias.json
+python3 -I scripts/geocodificar.py data/iglesias.json data/geo.json   # lento: una hora aprox.
+python3 -I scripts/aplicar_geo.py data/iglesias.json data/geo.json
 ```
 
 ## Sitio
@@ -39,7 +54,7 @@ cd sitio && npm install && npm run build && npm run dev
    exportar `PUBLIC_TURNSTILE_SITE_KEY` antes del build.
 5. `npm run deploy`
 
-Se usa Workers con assets estáticos y no Pages porque el sitio tiene unas 42.000 páginas y Pages corta en 20.000 archivos.
+Se usa Workers con assets estáticos y no Pages porque el sitio tiene unas 47.000 archivos y Pages corta en 20.000. La URL pública se configura con `SITE_URL` al hacer el build (afecta canonical, sitemap, llms.txt y JSON-LD).
 
 ## Agente
 

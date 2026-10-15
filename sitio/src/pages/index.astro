@@ -4,6 +4,10 @@ import { iglesias, provincias, urlProvincia } from '../lib/datos';
 const total = iglesias.length;
 const conCoords = iglesias.filter(i => i.lat).length;
 const reclamadas = iglesias.filter(i => i.reclamada).length;
+const conHorarios = iglesias.filter(i => i.horarios).length;
+const porTipo = new Map<string, number>(); for (const i of iglesias) porTipo.set(i.denominacion ?? 'Sin clasificar', (porTipo.get(i.denominacion ?? 'Sin clasificar') ?? 0) + 1);
+const tipos = [...porTipo.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
+import { slugify } from '../lib/datos';
 ---
 <Base titulo="Iglesias de Argentina: directorio abierto de templos y comunidades" descripcion={`Directorio abierto con ${total.toLocaleString('es-AR')} templos, iglesias y comunidades de fe de Argentina, por provincia y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
   <h1>Que toda iglesia de Argentina sea encontrable</h1>
@@ -13,10 +17,16 @@ const reclamadas = iglesias.filter(i => i.reclamada).length;
   <ul class="grilla">
     {provincias.map(p => <li><a href={urlProvincia(p.slug)}>{p.nombre}</a> <small>({p.iglesias.length.toLocaleString('es-AR')})</small></li>)}
   </ul>
+  <h2>Por tipo</h2>
+  <ul class="grilla">{tipos.map(([d, n]) => <li><a href={`/tipo/${slugify(d)}/`}>{d}</a> <small>({n.toLocaleString('es-AR')})</small></li>)}</ul>
+  <p><a href="/tipo/">Ver todos los tipos</a></p>
+  <h2>Para buscadores y asistentes de IA</h2>
+  <p>Cada iglesia tiene una URL permanente con su descripción en prosa y datos estructurados schema.org. Cada localidad tiene además una versión en Markdown. Todo el dataset se puede descargar en <a href="/datos/">datos abiertos</a> y hay un <a href="/llms.txt">llms.txt</a>.</p>
   <h2>Qué hay hoy</h2>
   <dl>
     <dt>Fichas</dt><dd>{total.toLocaleString('es-AR')}</dd>
     <dt>Con ubicación en mapa</dt><dd>{conCoords.toLocaleString('es-AR')}</dd>
+    <dt>Con horarios</dt><dd>{conHorarios.toLocaleString('es-AR')}</dd>
     <dt>Reclamadas por su iglesia</dt><dd>{reclamadas.toLocaleString('es-AR')}</dd>
   </dl>
 </Base>

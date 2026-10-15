@@ -7,6 +7,7 @@ Escribe data/geo.json {slug: {lat, lon, direccion_normalizada, filtro}}. Se apli
 Uso: python3 -I scripts/geocodificar.py data/iglesias.json data/geo.json
 """
 import json, re, sys, time, urllib.request, urllib.error
+from concurrent.futures import ThreadPoolExecutor
 
 LOTE = 100
 def limpiar(d):
@@ -30,15 +31,22 @@ def pedir(items):
     return [{'direcciones': []} for _ in items]
 
 def pasada(pend, geo, filtro, dst):
-    for k in range(0, len(pend), LOTE):
-        lote = pend[k:k+LOTE]
+    lotes = [pend[k:k+LOTE] for k in range(0, len(pend), LOTE)]
+    def trabajo(lote):
         items = [{'direccion': limpiar(i['direccion']), 'provincia': i['provincia'], filtro: i['localidad'], 'max': 1, 'campos': 'estandar'} for i in lote]
-        for i, r in zip(lote, pedir(items)):
-            ds = r.get('direcciones') or []
-            u = ds[0].get('ubicacion') if ds else None
-            if u and u.get('lat'): geo[i['slug']] = {'lat': u['lat'], 'lon': u['lon'], 'direccion_normalizada': ds[0].get('nomenclatura'), 'filtro': filtro}
-        json.dump(geo, open(dst, 'w', encoding='utf-8'), ensure_ascii=False)
-        print(f'[{filtro}] {min(k+LOTE, len(pend))}/{len(pend)} -> {len(geo)} geocodificadas', file=sys.stderr)
+        return list(zip(lote, pedir(items)))
+    hechos = 0
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        for res in ex.map(trabajo, lotes):
+            for i, r in res:
+                ds = r.get('direcciones') or []
+                u = ds[0].get('ubicacion') if ds else None
+                if u and u.get('lat'): geo[i['slug']] = {'lat': u['lat'], 'lon': u['lon'], 'direccion_normalizada': ds[0].get('nomenclatura'), 'filtro': filtro}
+            hechos += len(res)
+            if hechos % (LOTE * 5) == 0 or hechos == len(pend):
+                json.dump(geo, open(dst, 'w', encoding='utf-8'), ensure_ascii=False)
+                print(f'[{filtro}] {hechos}/{len(pend)} -> {len(geo)} geocodificadas', file=sys.stderr)
+    json.dump(geo, open(dst, 'w', encoding='utf-8'), ensure_ascii=False)
 
 def main(src, dst):
     ig = json.load(open(src, encoding='utf-8'))

@@ -274109,7 +274109,7 @@
 "lat": -27.6652865,
 "lon": -54.9814223,
 "reclamada": false,
-"denominacion": "Congregational",
+"denominacion": "Congregacionalista",
 "religion": "Cristiana",
 "osm_id": "node/479795442"
 },
@@ -274996,7 +274996,7 @@
 "lat": -27.4831403,
 "lon": -55.1240944,
 "reclamada": false,
-"denominacion": "Congregational",
+"denominacion": "Congregacionalista",
 "religion": "Cristiana",
 "osm_id": "node/483187828"
 },
@@ -275413,7 +275413,7 @@
 "lat": -32.4816296,
 "lon": -58.2411458,
 "reclamada": false,
-"denominacion": "Congregational",
+"denominacion": "Congregacionalista",
 "religion": "Cristiana",
 "osm_id": "way/875601646"
 },
@@ -318157,7 +318157,7 @@
 "lat": -34.5205728,
 "lon": -58.4839363,
 "reclamada": false,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/467837091"
 },
@@ -321488,7 +321488,7 @@
 "lat": -34.6542473,
 "lon": -58.7600401,
 "reclamada": false,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/1449937748"
 },
@@ -326927,7 +326927,7 @@
 "lat": -34.4139703,
 "lon": -58.5915547,
 "reclamada": false,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/476960200"
 },
@@ -606100,7 +606100,7 @@
 "lat": -38.9333635,
 "lon": -69.2283612,
 "reclamada": false,
-"denominacion": "Universal",
+"denominacion": "Iglesia Universal del Reino de Dios",
 "religion": "Cristiana",
 "osm_id": "way/1190292600"
 },
@@ -782065,7 +782065,7 @@
 "horarios": null,
 "lat": -29.1434191,
 "lon": -58.136159,
-"denominacion": "Folk catholicism",
+"denominacion": "Religiosidad popular",
 "religion": "Cristiana",
 "osm_id": "node/304416209"
 },
@@ -782470,7 +782470,7 @@
 "horarios": null,
 "lat": -27.6326109,
 "lon": -55.4319618,
-"denominacion": "Russian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "node/454366796"
 },
@@ -782524,7 +782524,7 @@
 "horarios": null,
 "lat": -34.5918756,
 "lon": -58.4306494,
-"denominacion": "Armenian apostolic",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "node/454506453"
 },
@@ -782794,7 +782794,7 @@
 "horarios": null,
 "lat": -27.3661322,
 "lon": -55.8978605,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/457898551"
 },
@@ -782983,7 +782983,7 @@
 "horarios": null,
 "lat": -27.5037369,
 "lon": -55.1282336,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/464683167"
 },
@@ -783334,7 +783334,7 @@
 "horarios": null,
 "lat": -27.3917155,
 "lon": -55.9051476,
-"denominacion": "Congregational",
+"denominacion": "Congregacionalista",
 "religion": "Cristiana",
 "osm_id": "node/483059652"
 },
@@ -784414,7 +784414,7 @@
 "horarios": null,
 "lat": -34.5914793,
 "lon": -58.4147438,
-"denominacion": "Russian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "node/872742168"
 },
@@ -786709,7 +786709,7 @@
 "horarios": null,
 "lat": -34.6395356,
 "lon": -58.43815,
-"denominacion": "Presbiteriana",
+"denominacion": "Presbiteriana / Reformada",
 "religion": "Cristiana",
 "osm_id": "node/1402320497"
 },
@@ -787303,7 +787303,7 @@
 "horarios": null,
 "lat": -34.6375725,
 "lon": -58.7864018,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "node/1482815511"
 },
@@ -788842,7 +788842,7 @@
 "horarios": null,
 "lat": -34.6571725,
 "lon": -58.7869628,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "node/1766979781"
 },
@@ -790165,7 +790165,7 @@
 "horarios": null,
 "lat": -27.4589825,
 "lon": -55.8622442,
-"denominacion": "Latter-day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "node/1946145540"
 },
@@ -790624,7 +790624,7 @@
 "horarios": null,
 "lat": -27.4763725,
 "lon": -55.1088412,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/1978209105"
 },
@@ -791434,7 +791434,7 @@
 "horarios": null,
 "lat": -31.6487992,
 "lon": -64.4573422,
-"denominacion": "La gruta",
+"denominacion": null,
 "religion": null,
 "osm_id": "node/2041089830"
 },
@@ -792595,7 +792595,7 @@
 "horarios": null,
 "lat": -34.5141026,
 "lon": -58.7142169,
-"denominacion": "Parroquia",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/2147343419"
 },
@@ -794323,7 +794323,7 @@
 "horarios": null,
 "lat": -34.6336846,
 "lon": -58.4929417,
-"denominacion": "Parroquia",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/2352878497"
 },
@@ -796348,7 +796348,7 @@
 "horarios": "Sa 11:00, 19:00",
 "lat": -27.4526363,
 "lon": -59.0088391,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/2442133516"
 },
@@ -797077,7 +797077,7 @@
 "horarios": null,
 "lat": -34.5569187,
 "lon": -58.4503839,
-"denominacion": "Presbiteriana",
+"denominacion": "Presbiteriana / Reformada",
 "religion": "Cristiana",
 "osm_id": "node/2480793030"
 },
@@ -797266,7 +797266,7 @@
 "horarios": null,
 "lat": -26.9587809,
 "lon": -65.0413922,
-"denominacion": "Capilla del espiritu santo",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/2499526354"
 },
@@ -798562,7 +798562,7 @@
 "horarios": null,
 "lat": -43.3276999,
 "lon": -65.4795761,
-"denominacion": "Metodista calvinista",
+"denominacion": "Metodista",
 "religion": "Cristiana",
 "osm_id": "node/2531700112"
 },
@@ -798589,7 +798589,7 @@
 "horarios": null,
 "lat": -43.3057968,
 "lon": -65.5888106,
-"denominacion": "Unionista",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/2531703636"
 },
@@ -799777,7 +799777,7 @@
 "horarios": null,
 "lat": -34.05161,
 "lon": -63.7322986,
-"denominacion": "Capilla san isidro labrador",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/2613430313"
 },
@@ -799939,7 +799939,7 @@
 "horarios": null,
 "lat": -37.2874646,
 "lon": -56.9953184,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/2632323479"
 },
@@ -808093,7 +808093,7 @@
 "horarios": null,
 "lat": -38.0954391,
 "lon": -57.569962,
-"denominacion": "Russian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "node/3220820996"
 },
@@ -808741,7 +808741,7 @@
 "horarios": null,
 "lat": -30.9818354,
 "lon": -64.4956753,
-"denominacion": "Unión de las asambleas de dios",
+"denominacion": "Asambleas de Dios",
 "religion": "Cristiana",
 "osm_id": "node/3270299761"
 },
@@ -810469,7 +810469,7 @@
 "horarios": null,
 "lat": -33.3946181,
 "lon": -69.2116548,
-"denominacion": "Camino a estancia silva s/n",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/3360364393"
 },
@@ -812062,7 +812062,7 @@
 "horarios": null,
 "lat": -34.5987537,
 "lon": -58.4209545,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/3452053898"
 },
@@ -817192,7 +817192,7 @@
 "horarios": null,
 "lat": -32.3993961,
 "lon": -59.7869419,
-"denominacion": "Basílica",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/3765236639"
 },
@@ -818974,7 +818974,7 @@
 "horarios": null,
 "lat": -34.8727702,
 "lon": -58.0469541,
-"denominacion": "Cristiana evangélica",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/3831812457"
 },
@@ -820216,7 +820216,7 @@
 "horarios": null,
 "lat": -34.6313937,
 "lon": -58.3871673,
-"denominacion": "Romanian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "node/3926065957"
 },
@@ -822403,7 +822403,7 @@
 "horarios": null,
 "lat": -34.5828344,
 "lon": -58.5991065,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/4098647228"
 },
@@ -822673,7 +822673,7 @@
 "horarios": null,
 "lat": -30.9744537,
 "lon": -64.0919322,
-"denominacion": "Marcela venturini",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/4100957946"
 },
@@ -823969,7 +823969,7 @@
 "horarios": null,
 "lat": -30.9771898,
 "lon": -64.0902139,
-"denominacion": "Marcela venturini",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/4131719653"
 },
@@ -825670,7 +825670,7 @@
 "horarios": null,
 "lat": -25.7382783,
 "lon": -59.107721,
-"denominacion": "Evangelica",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/4218437518"
 },
@@ -826183,7 +826183,7 @@
 "horarios": null,
 "lat": -31.5508465,
 "lon": -63.5360662,
-"denominacion": "Profética apostólica",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/4232031201"
 },
@@ -827614,7 +827614,7 @@
 "horarios": null,
 "lat": -27.2035151,
 "lon": -54.9755747,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/4333128126"
 },
@@ -827641,7 +827641,7 @@
 "horarios": null,
 "lat": -27.2024705,
 "lon": -54.9808388,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/4333132442"
 },
@@ -827668,7 +827668,7 @@
 "horarios": null,
 "lat": -27.2152585,
 "lon": -54.9732117,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/4333133138"
 },
@@ -827722,7 +827722,7 @@
 "horarios": null,
 "lat": -31.4206303,
 "lon": -64.17995,
-"denominacion": "Musulmana sunita",
+"denominacion": "Musulmana",
 "religion": "Musulmana",
 "osm_id": "node/4339269970"
 },
@@ -827749,7 +827749,7 @@
 "horarios": null,
 "lat": -31.4002043,
 "lon": -64.1838326,
-"denominacion": "Musulmana chiita",
+"denominacion": "Musulmana",
 "religion": "Musulmana",
 "osm_id": "node/4339269971"
 },
@@ -828505,7 +828505,7 @@
 "horarios": null,
 "lat": -30.3467567,
 "lon": -60.5221851,
-"denominacion": "Religiosa",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/4368635170"
 },
@@ -828586,7 +828586,7 @@
 "horarios": null,
 "lat": -28.4624106,
 "lon": -62.1109504,
-"denominacion": "La parroquia fue creada el 23 de julio de 1965",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/4370549050"
 },
@@ -832501,7 +832501,7 @@
 "horarios": null,
 "lat": -27.8583267,
 "lon": -55.6267174,
-"denominacion": "Bizantino-ucraniana",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/4510209380"
 },
@@ -834796,7 +834796,7 @@
 "horarios": null,
 "lat": -34.4652892,
 "lon": -58.5826522,
-"denominacion": "Evangelical, christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/4675083971"
 },
@@ -835363,7 +835363,7 @@
 "horarios": null,
 "lat": -32.3547985,
 "lon": -58.8483709,
-"denominacion": "Jewish",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/4699232033"
 },
@@ -837631,7 +837631,7 @@
 "horarios": "Su 09:00-11:00; Su 18:00-20:00",
 "lat": -31.3550923,
 "lon": -64.1633347,
-"denominacion": "Institución de religión católica",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/4886809149"
 },
@@ -839386,7 +839386,7 @@
 "horarios": null,
 "lat": -35.1114772,
 "lon": -60.4951432,
-"denominacion": "Cristiana",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/5067698162"
 },
@@ -843679,7 +843679,7 @@
 "horarios": null,
 "lat": -34.5879864,
 "lon": -58.7509882,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "node/5419555066"
 },
@@ -846460,7 +846460,7 @@
 "horarios": null,
 "lat": -31.5333159,
 "lon": -68.5124238,
-"denominacion": "Charismatic",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/5619097984"
 },
@@ -849646,7 +849646,7 @@
 "horarios": null,
 "lat": -42.2256456,
 "lon": -71.3408329,
-"denominacion": "Tibetan",
+"denominacion": "Budista",
 "religion": "Budista",
 "osm_id": "node/5919403275"
 },
@@ -849916,7 +849916,7 @@
 "horarios": null,
 "lat": -33.0120025,
 "lon": -58.5240544,
-"denominacion": "Christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/5941334122"
 },
@@ -853696,7 +853696,7 @@
 "horarios": null,
 "lat": -27.3768485,
 "lon": -59.0843245,
-"denominacion": "Bahai",
+"denominacion": "Bahá'í",
 "religion": "Bahá'í",
 "osm_id": "node/6401507488"
 },
@@ -853723,7 +853723,7 @@
 "horarios": null,
 "lat": -27.3763623,
 "lon": -59.0849413,
-"denominacion": "Instituto bahai",
+"denominacion": "Bahá'í",
 "religion": "Bahá'í",
 "osm_id": "node/6401508808"
 },
@@ -855316,7 +855316,7 @@
 "horarios": null,
 "lat": -31.1464266,
 "lon": -64.2916445,
-"denominacion": "Gruta de la virgen",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/6620444256"
 },
@@ -856423,7 +856423,7 @@
 "horarios": null,
 "lat": -25.1067486,
 "lon": -65.5386827,
-"denominacion": "Quaker",
+"denominacion": "Cuáquera",
 "religion": "Cristiana",
 "osm_id": "node/6867094247"
 },
@@ -856801,7 +856801,7 @@
 "horarios": null,
 "lat": -34.5582386,
 "lon": -58.4452397,
-"denominacion": "Reform",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/6952859903"
 },
@@ -857800,7 +857800,7 @@
 "horarios": null,
 "lat": -34.5643102,
 "lon": -58.4634076,
-"denominacion": "Presbiteriana",
+"denominacion": "Presbiteriana / Reformada",
 "religion": "Cristiana",
 "osm_id": "node/7115382126"
 },
@@ -859663,7 +859663,7 @@
 "horarios": null,
 "lat": -34.5436031,
 "lon": -58.4776382,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "node/7817419187"
 },
@@ -859744,7 +859744,7 @@
 "horarios": null,
 "lat": -34.6388899,
 "lon": -58.4675581,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "node/7830965876"
 },
@@ -859771,7 +859771,7 @@
 "horarios": null,
 "lat": -34.6230016,
 "lon": -58.4092506,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "node/7830981245"
 },
@@ -860419,7 +860419,7 @@
 "horarios": null,
 "lat": -34.6027718,
 "lon": -58.4064002,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/8089519534"
 },
@@ -861526,7 +861526,7 @@
 "horarios": null,
 "lat": -27.7810757,
 "lon": -64.2606787,
-"denominacion": "Latter-day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "node/8610892115"
 },
@@ -862903,7 +862903,7 @@
 "horarios": null,
 "lat": -27.9139801,
 "lon": -55.8242543,
-"denominacion": "Ukrainian greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/8952603328"
 },
@@ -863011,7 +863011,7 @@
 "horarios": null,
 "lat": -34.5955714,
 "lon": -58.7337199,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "node/9005290527"
 },
@@ -863038,7 +863038,7 @@
 "horarios": null,
 "lat": -31.2400166,
 "lon": -64.4641918,
-"denominacion": "Quaker",
+"denominacion": "Cuáquera",
 "religion": "Cristiana",
 "osm_id": "node/9006717696"
 },
@@ -863848,7 +863848,7 @@
 "horarios": null,
 "lat": -34.4996188,
 "lon": -58.6277288,
-"denominacion": "Evangelical lutheran",
+"denominacion": "Luterana",
 "religion": "Cristiana",
 "osm_id": "node/9099323610"
 },
@@ -864037,7 +864037,7 @@
 "horarios": null,
 "lat": -32.0140842,
 "lon": -60.5983665,
-"denominacion": "Retiros",
+"denominacion": null,
 "religion": "Cristiana",
 "osm_id": "node/9127108358"
 },
@@ -865765,7 +865765,7 @@
 "horarios": null,
 "lat": -31.0891604,
 "lon": -64.5088896,
-"denominacion": "La luz del mundo",
+"denominacion": "La Luz del Mundo",
 "religion": "Cristiana",
 "osm_id": "node/9338528749"
 },
@@ -866602,7 +866602,7 @@
 "horarios": null,
 "lat": -34.6257795,
 "lon": -58.48152,
-"denominacion": "Musulmana chiita",
+"denominacion": "Musulmana",
 "religion": "Musulmana",
 "osm_id": "node/9472331512"
 },
@@ -867115,7 +867115,7 @@
 "horarios": null,
 "lat": -27.5650544,
 "lon": -67.6215279,
-"denominacion": "La luz del mundo",
+"denominacion": "La Luz del Mundo",
 "religion": "Cristiana",
 "osm_id": "node/9624101928"
 },
@@ -867250,7 +867250,7 @@
 "horarios": null,
 "lat": -34.6460039,
 "lon": -58.6172138,
-"denominacion": "Apostolic",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/9669009528"
 },
@@ -870787,7 +870787,7 @@
 "horarios": null,
 "lat": -27.835601,
 "lon": -64.2590938,
-"denominacion": "Latter-day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "node/10179033954"
 },
@@ -872083,7 +872083,7 @@
 "horarios": null,
 "lat": -34.5923998,
 "lon": -58.4275248,
-"denominacion": "Greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/10597309905"
 },
@@ -873541,7 +873541,7 @@
 "horarios": null,
 "lat": -27.3770417,
 "lon": -55.8948041,
-"denominacion": "Ukrainian greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/10716313909"
 },
@@ -879103,7 +879103,7 @@
 "horarios": null,
 "lat": -31.1141976,
 "lon": -64.4855578,
-"denominacion": "La luz del mundo",
+"denominacion": "La Luz del Mundo",
 "religion": "Cristiana",
 "osm_id": "node/11649912268"
 },
@@ -879319,7 +879319,7 @@
 "horarios": null,
 "lat": -22.1040867,
 "lon": -65.597134,
-"denominacion": "Quaker",
+"denominacion": "Cuáquera",
 "religion": "Cristiana",
 "osm_id": "node/11737755927"
 },
@@ -881344,7 +881344,7 @@
 "horarios": null,
 "lat": -22.1040864,
 "lon": -65.5971347,
-"denominacion": "Quaker",
+"denominacion": "Cuáquera",
 "religion": "Cristiana",
 "osm_id": "node/12018692113"
 },
@@ -885097,7 +885097,7 @@
 "horarios": "Su 10:30",
 "lat": -37.9517147,
 "lon": -57.6478278,
-"denominacion": "Crstiana evangélica",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "node/12519286275"
 },
@@ -886690,7 +886690,7 @@
 "horarios": null,
 "lat": -31.5447587,
 "lon": -68.5381417,
-"denominacion": "Neo-pentecostal",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/12779986751"
 },
@@ -891334,7 +891334,7 @@
 "horarios": null,
 "lat": -31.4649044,
 "lon": -68.5186325,
-"denominacion": "Neo-pentecostal",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/13277743326"
 },
@@ -891388,7 +891388,7 @@
 "horarios": null,
 "lat": -32.3426122,
 "lon": -65.0098489,
-"denominacion": "Iglesia nueva apostolica",
+"denominacion": "Nueva Apostólica",
 "religion": "Cristiana",
 "osm_id": "node/13281403383"
 },
@@ -893062,7 +893062,7 @@
 "horarios": null,
 "lat": -31.4119363,
 "lon": -68.4815743,
-"denominacion": "Neo-pentecostal",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/13521844624"
 },
@@ -893332,7 +893332,7 @@
 "horarios": null,
 "lat": -31.4009849,
 "lon": -68.4894179,
-"denominacion": "Neo-pentecostal",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "node/13606482415"
 },
@@ -896653,7 +896653,7 @@
 "horarios": null,
 "lat": -34.5649026,
 "lon": -58.4593483,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/13900105588"
 },
@@ -896842,7 +896842,7 @@
 "horarios": null,
 "lat": -34.5923853,
 "lon": -58.3948155,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/13930001523"
 },
@@ -896869,7 +896869,7 @@
 "horarios": null,
 "lat": -34.6023763,
 "lon": -58.4156035,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/13930354111"
 },
@@ -896896,7 +896896,7 @@
 "horarios": null,
 "lat": -34.5822399,
 "lon": -58.4093568,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "node/13932064379"
 },
@@ -896950,7 +896950,7 @@
 "horarios": null,
 "lat": -36.6191009,
 "lon": -64.2790995,
-"denominacion": "Catholic apostolic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "node/13937602005"
 },
@@ -897787,7 +897787,7 @@
 "horarios": null,
 "lat": -27.4876294,
 "lon": -58.990124,
-"denominacion": "Folk catholicism",
+"denominacion": "Religiosidad popular",
 "religion": "Cristiana",
 "osm_id": "node/14062609345"
 },
@@ -900676,7 +900676,7 @@
 "horarios": null,
 "lat": -26.835983,
 "lon": -65.2200069,
-"denominacion": "Fixme",
+"denominacion": null,
 "religion": "Cristiana",
 "osm_id": "way/108018127"
 },
@@ -902782,7 +902782,7 @@
 "horarios": null,
 "lat": -27.913158,
 "lon": -55.75084,
-"denominacion": "Cita con la vida",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "way/175355262"
 },
@@ -903187,7 +903187,7 @@
 "horarios": "Sa-Su 19:30",
 "lat": -27.491965,
 "lon": -55.1064717,
-"denominacion": "Ukrainian greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "way/183226131"
 },
@@ -904726,7 +904726,7 @@
 "horarios": null,
 "lat": -34.6434473,
 "lon": -58.4634287,
-"denominacion": "Presbiteriana",
+"denominacion": "Presbiteriana / Reformada",
 "religion": "Cristiana",
 "osm_id": "way/205354136"
 },
@@ -906157,7 +906157,7 @@
 "horarios": null,
 "lat": -32.9213708,
 "lon": -68.842061,
-"denominacion": "Maronite",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "way/223322776"
 },
@@ -916201,7 +916201,7 @@
 "horarios": null,
 "lat": -31.6480713,
 "lon": -60.7147971,
-"denominacion": "Jude",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/368975427"
 },
@@ -917335,7 +917335,7 @@
 "horarios": null,
 "lat": -32.072829,
 "lon": -60.4677086,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "way/388500961"
 },
@@ -918118,7 +918118,7 @@
 "horarios": null,
 "lat": -34.6691117,
 "lon": -58.8201996,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/407708169"
 },
@@ -919657,7 +919657,7 @@
 "horarios": null,
 "lat": -27.3662592,
 "lon": -55.8906386,
-"denominacion": "Judía conservadora",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/445101402"
 },
@@ -920008,7 +920008,7 @@
 "horarios": null,
 "lat": -27.4397806,
 "lon": -55.9494216,
-"denominacion": "Ukrainian greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "way/451190111"
 },
@@ -922870,7 +922870,7 @@
 "horarios": null,
 "lat": -34.8427709,
 "lon": -58.5199409,
-"denominacion": "Apostolic assembly of the faith in christ jesus",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "way/467477264"
 },
@@ -923167,7 +923167,7 @@
 "horarios": null,
 "lat": -34.5805132,
 "lon": -58.5801632,
-"denominacion": "Christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "way/467532875"
 },
@@ -923329,7 +923329,7 @@
 "horarios": null,
 "lat": -34.7298426,
 "lon": -58.4386885,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/468081611"
 },
@@ -923491,7 +923491,7 @@
 "horarios": null,
 "lat": -34.7597789,
 "lon": -58.4047946,
-"denominacion": "Christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "way/468119341"
 },
@@ -924652,7 +924652,7 @@
 "horarios": null,
 "lat": -34.7541584,
 "lon": -58.4825154,
-"denominacion": "Christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "way/469235452"
 },
@@ -926812,7 +926812,7 @@
 "horarios": null,
 "lat": -34.6123634,
 "lon": -58.3743397,
-"denominacion": "Presbiteriana",
+"denominacion": "Presbiteriana / Reformada",
 "religion": "Cristiana",
 "osm_id": "way/473094318"
 },
@@ -926893,7 +926893,7 @@
 "horarios": null,
 "lat": -34.6030452,
 "lon": -58.4877733,
-"denominacion": "Presbiteriana",
+"denominacion": "Presbiteriana / Reformada",
 "religion": "Cristiana",
 "osm_id": "way/473405406"
 },
@@ -928216,7 +928216,7 @@
 "horarios": null,
 "lat": -34.6819285,
 "lon": -58.5135047,
-"denominacion": "Christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "way/476383516"
 },
@@ -928324,7 +928324,7 @@
 "horarios": null,
 "lat": -34.613735,
 "lon": -58.4256536,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "way/476445070"
 },
@@ -928783,7 +928783,7 @@
 "horarios": null,
 "lat": -34.6423485,
 "lon": -58.623063,
-"denominacion": "Christian",
+"denominacion": "Evangélica",
 "religion": "Cristiana",
 "osm_id": "way/477544649"
 },
@@ -931186,7 +931186,7 @@
 "horarios": null,
 "lat": -28.0041544,
 "lon": -55.6082394,
-"denominacion": "Ukrainian greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "way/525020701"
 },
@@ -931213,7 +931213,7 @@
 "horarios": null,
 "lat": -28.0065404,
 "lon": -55.6073071,
-"denominacion": "Russian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "way/525020706"
 },
@@ -936424,7 +936424,7 @@
 "horarios": null,
 "lat": -34.6356403,
 "lon": -58.4814909,
-"denominacion": "Ukrainian greek catholic",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "way/565653143"
 },
@@ -941014,7 +941014,7 @@
 "horarios": null,
 "lat": -34.6251002,
 "lon": -58.3700364,
-"denominacion": "Russian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "way/672817484"
 },
@@ -944065,7 +944065,7 @@
 "horarios": null,
 "lat": -33.6611451,
 "lon": -65.4604477,
-"denominacion": "Capilla de nuestra señora de shoenstatt",
+"denominacion": "Católica",
 "religion": "Cristiana",
 "osm_id": "way/740872232"
 },
@@ -946171,7 +946171,7 @@
 "horarios": null,
 "lat": -31.4075692,
 "lon": -64.1814564,
-"denominacion": "Reformada",
+"denominacion": "Presbiteriana / Reformada",
 "religion": null,
 "osm_id": "way/813727727"
 },
@@ -947062,7 +947062,7 @@
 "horarios": null,
 "lat": -34.5420776,
 "lon": -58.4770047,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "way/838851914"
 },
@@ -947143,7 +947143,7 @@
 "horarios": null,
 "lat": -34.6122823,
 "lon": -58.4252181,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "way/839187880"
 },
@@ -947170,7 +947170,7 @@
 "horarios": null,
 "lat": -34.5644752,
 "lon": -58.4652252,
-"denominacion": "Disciples of christ",
+"denominacion": "Discípulos de Cristo",
 "religion": "Cristiana",
 "osm_id": "way/839189979"
 },
@@ -947467,7 +947467,7 @@
 "horarios": null,
 "lat": -38.9578618,
 "lon": -68.0656285,
-"denominacion": "Universal",
+"denominacion": "Iglesia Universal del Reino de Dios",
 "religion": "Cristiana",
 "osm_id": "way/844646671"
 },
@@ -947683,7 +947683,7 @@
 "horarios": null,
 "lat": -42.7658972,
 "lon": -65.0391801,
-"denominacion": "Universal",
+"denominacion": "Iglesia Universal del Reino de Dios",
 "religion": "Cristiana",
 "osm_id": "way/851635593"
 },
@@ -948331,7 +948331,7 @@
 "horarios": null,
 "lat": -34.6291143,
 "lon": -58.5000728,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/871749773"
 },
@@ -948358,7 +948358,7 @@
 "horarios": null,
 "lat": -34.5583287,
 "lon": -58.4610239,
-"denominacion": "Jewish",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/871750774"
 },
@@ -956269,7 +956269,7 @@
 "horarios": null,
 "lat": -38.9012095,
 "lon": -70.0652873,
-"denominacion": "Universal",
+"denominacion": "Iglesia Universal del Reino de Dios",
 "religion": "Cristiana",
 "osm_id": "way/1149303115"
 },
@@ -956782,7 +956782,7 @@
 "horarios": null,
 "lat": -34.565319,
 "lon": -58.4459651,
-"denominacion": "Iglesia de los santos de los últimos días",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/1160310903"
 },
@@ -957160,7 +957160,7 @@
 "horarios": null,
 "lat": -38.947768,
 "lon": -68.0468654,
-"denominacion": "Adventist",
+"denominacion": "Adventista del Séptimo Día",
 "religion": "Cristiana",
 "osm_id": "way/1174485920"
 },
@@ -958321,7 +958321,7 @@
 "horarios": null,
 "lat": -34.5396907,
 "lon": -58.5549879,
-"denominacion": "Russian orthodox",
+"denominacion": "Ortodoxa",
 "religion": "Cristiana",
 "osm_id": "way/1206311473"
 },
@@ -962074,7 +962074,7 @@
 "horarios": null,
 "lat": -31.3586933,
 "lon": -64.2459674,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/1330202062"
 },
@@ -962398,7 +962398,7 @@
 "horarios": null,
 "lat": -38.9366747,
 "lon": -67.9991866,
-"denominacion": "Evangelical lutheran",
+"denominacion": "Luterana",
 "religion": "Cristiana",
 "osm_id": "way/1340684561"
 },
@@ -962614,7 +962614,7 @@
 "horarios": null,
 "lat": -34.46342,
 "lon": -58.5790894,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/1351118009"
 },
@@ -963316,7 +963316,7 @@
 "horarios": "Su 10:00",
 "lat": -31.5268027,
 "lon": -68.5162636,
-"denominacion": "Carismatic",
+"denominacion": "Pentecostal",
 "religion": "Cristiana",
 "osm_id": "way/1368508167"
 },
@@ -963370,7 +963370,7 @@
 "horarios": null,
 "lat": -31.5222262,
 "lon": -68.5172468,
-"denominacion": "Bautista independiente",
+"denominacion": "Bautista",
 "religion": "Cristiana",
 "osm_id": "way/1370887993"
 },
@@ -963937,7 +963937,7 @@
 "horarios": null,
 "lat": -34.4953742,
 "lon": -58.6293284,
-"denominacion": "Nichiren",
+"denominacion": "Budista",
 "religion": "Budista",
 "osm_id": "way/1389682028"
 },
@@ -964153,7 +964153,7 @@
 "horarios": null,
 "lat": -34.5905543,
 "lon": -58.4334257,
-"denominacion": "New kadampa tradition",
+"denominacion": "Budista",
 "religion": "Budista",
 "osm_id": "way/1395648253"
 },
@@ -966394,7 +966394,7 @@
 "horarios": null,
 "lat": -34.5757218,
 "lon": -58.4980113,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/1510171658"
 },
@@ -967042,7 +967042,7 @@
 "horarios": null,
 "lat": -34.5960156,
 "lon": -58.4100708,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528638181"
 },
@@ -967069,7 +967069,7 @@
 "horarios": null,
 "lat": -38.7249297,
 "lon": -62.2579896,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528638955"
 },
@@ -967096,7 +967096,7 @@
 "horarios": null,
 "lat": -34.6184004,
 "lon": -58.4612306,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528639499"
 },
@@ -967123,7 +967123,7 @@
 "horarios": null,
 "lat": -34.6500125,
 "lon": -58.6239015,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528643338"
 },
@@ -967150,7 +967150,7 @@
 "horarios": null,
 "lat": -34.6245418,
 "lon": -58.475889,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528644730"
 },
@@ -967177,7 +967177,7 @@
 "horarios": null,
 "lat": -34.6119113,
 "lon": -58.4376868,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528648259"
 },
@@ -967204,7 +967204,7 @@
 "horarios": null,
 "lat": -34.6001253,
 "lon": -58.4468988,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528648260"
 },
@@ -967231,7 +967231,7 @@
 "horarios": null,
 "lat": -34.5986185,
 "lon": -58.4323617,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528648261"
 },
@@ -967258,7 +967258,7 @@
 "horarios": null,
 "lat": -34.6009787,
 "lon": -58.4069413,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528678277"
 },
@@ -967285,7 +967285,7 @@
 "horarios": null,
 "lat": -34.6052859,
 "lon": -58.3983523,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528678278"
 },
@@ -967312,7 +967312,7 @@
 "horarios": null,
 "lat": -34.5870214,
 "lon": -58.4217208,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528879015"
 },
@@ -967339,7 +967339,7 @@
 "horarios": null,
 "lat": -34.5678121,
 "lon": -58.4408426,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528879017"
 },
@@ -967366,7 +967366,7 @@
 "horarios": null,
 "lat": -34.4907204,
 "lon": -58.5019127,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528886107"
 },
@@ -967393,7 +967393,7 @@
 "horarios": null,
 "lat": -34.4432639,
 "lon": -58.5534272,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528886629"
 },
@@ -967420,7 +967420,7 @@
 "horarios": null,
 "lat": -32.9501683,
 "lon": -60.645909,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528888173"
 },
@@ -967447,7 +967447,7 @@
 "horarios": null,
 "lat": -31.4007704,
 "lon": -64.18305,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528896513"
 },
@@ -967474,7 +967474,7 @@
 "horarios": null,
 "lat": -32.9082556,
 "lon": -68.8448496,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528898683"
 },
@@ -967501,7 +967501,7 @@
 "horarios": null,
 "lat": -26.8372541,
 "lon": -65.2103147,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528902792"
 },
@@ -967528,7 +967528,7 @@
 "horarios": null,
 "lat": -26.837186,
 "lon": -65.2104813,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528902793"
 },
@@ -967582,7 +967582,7 @@
 "horarios": null,
 "lat": -34.9210617,
 "lon": -57.9615336,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528935363"
 },
@@ -967609,7 +967609,7 @@
 "horarios": null,
 "lat": -41.1370762,
 "lon": -71.3043671,
-"denominacion": "Jabad Lubavitch",
+"denominacion": "Judía",
 "religion": "Judía",
 "osm_id": "way/1528935977"
 },
@@ -968743,7 +968743,7 @@
 "horarios": null,
 "lat": -34.5357497,
 "lon": -58.7895403,
-"denominacion": "Latter day saints",
+"denominacion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
 "religion": "Cristiana",
 "osm_id": "way/1557240950"
 },

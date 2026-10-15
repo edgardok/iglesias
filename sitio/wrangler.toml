@@ -1,5 +1,5 @@
 # Cloudflare Worker con assets estáticos (hasta 100.000 archivos; Pages se queda en 20.000 y el sitio tiene ~42.000).
-name = "iglesias-latam"
+name = "iglesias"
 main = "worker/index.ts"
 compatibility_date = "2026-01-01"
 

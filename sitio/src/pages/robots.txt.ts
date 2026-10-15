@@ -12,5 +12,5 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://iglesias-latam.workers.dev/sitemap.xml
+Sitemap: https://iglesias.edgardo-krause.workers.dev/sitemap.xml
 `, { headers: { 'content-type': 'text/plain; charset=utf-8' } });

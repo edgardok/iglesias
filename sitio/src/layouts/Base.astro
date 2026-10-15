@@ -1,8 +1,8 @@
 ---
 import { NOMBRE_SITIO } from '../lib/urls';
 import Donar from '../components/Donar.astro';
-interface Props { titulo: string; descripcion: string; jsonld?: unknown; }
-const { titulo, descripcion, jsonld } = Astro.props;
+interface Props { titulo: string; descripcion: string; jsonld?: unknown; ancho?: boolean; }
+const { titulo, descripcion, jsonld, ancho = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 <!doctype html>
@@ -33,7 +33,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     header { display:flex; justify-content:space-between; align-items:center; padding-top:1rem; padding-bottom:1rem; border-bottom:1px solid var(--linea); flex-wrap:wrap; gap:.5rem }
     header a { color:var(--tinta); text-decoration:none; font-weight:600 }
     header nav a { margin-left:.9rem; font-weight:400; color:var(--suave) }
+    @media (max-width:640px) { header nav a.menor { display:none } header nav a { margin-left:.7rem; font-size:.95rem } }
     main { padding-top:1.5rem; padding-bottom:3rem }
+    main.ancho { max-width:none; padding:0 }
     h1 { font-size:1.75rem; line-height:1.2; margin:.25rem 0 .75rem }
     h2 { font-size:1.15rem; margin-top:2rem }
     a { color:var(--acento) }
@@ -55,9 +57,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 <body>
   <header>
     <a href="/">{NOMBRE_SITIO}</a>
-    <nav><a href="/cerca/">Cerca de mí</a><a href="/directorio/">Directorio</a><a href="/movimiento/">El movimiento</a><a href="/sumarse/">Sumar mi iglesia</a><a href="/fuentes/">Fuentes</a><a href="/apoyar/">Apoyar</a></nav>
+    <nav><a href="/cerca/">Cerca de mí</a><a href="/directorio/">Directorio</a><a href="/movimiento/" class="menor">El movimiento</a><a href="/sumarse/">Sumar mi iglesia</a><a href="/fuentes/" class="menor">Fuentes</a><a href="/apoyar/">Apoyar</a></nav>
   </header>
-  <main><slot /></main>
+  <main class={ancho ? 'ancho' : ''}><slot /></main>
   <footer>
     <p>Directorio abierto de templos y comunidades de fe de América Latina, construido con datos públicos de cada país y de <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> (ODbL), completados por las propias iglesias. <a href="/fuentes/">De dónde sale cada dato</a>.</p>
     <Donar compacto />

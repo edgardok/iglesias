@@ -1,62 +1,152 @@
 ---
 import Base from '../layouts/Base.astro';
 import Donar from '../components/Donar.astro';
-import { iglesias, paises, NOMBRE_SITIO } from '../lib/datos';
+import { iglesias, paises, PAISES_LATAM, NOMBRE_SITIO } from '../lib/datos';
 const total = iglesias.length.toLocaleString('es');
 const conCoords = iglesias.filter(i => i.lat).length.toLocaleString('es');
+const localidades = new Set(iglesias.map(i => `${i.pais_slug}/${i.provincia_slug}/${i.localidad_slug}`)).size.toLocaleString('es');
 const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: NOMBRE_SITIO, url: Astro.site?.href,
   description: 'Directorio abierto de iglesias evangélicas y otras comunidades de fe de América Latina, hecho para que buscadores y asistentes de IA las encuentren.',
   potentialAction: { '@type': 'SearchAction', target: `${Astro.site?.href}cerca/`, 'query-input': 'required name=ubicacion' } };
 ---
-<Base titulo={`${NOMBRE_SITIO}: que ninguna iglesia quede afuera`} descripcion={`Directorio abierto con ${total} iglesias evangélicas y otras comunidades de fe de América Latina. Buscá cerca de tu ubicación o explorá por país. Gratis, con datos públicos, pensado para buscadores y asistentes de IA.`} jsonld={jsonld}>
+<Base titulo={`${NOMBRE_SITIO}: encontrá una iglesia cerca`} descripcion={`Buscá iglesias evangélicas y comunidades de fe en ${localidades} localidades de América Latina. ${total} fichas con dirección, horarios y contacto. Gratis y abierto.`} jsonld={jsonld} ancho>
+
   <section class="hero">
-    <h1>Que ninguna iglesia quede afuera</h1>
-    <p class="grande">Cuando alguien le pregunta a Google o a un asistente de inteligencia artificial "¿qué iglesias hay cerca de mi casa?", solo aparecen las que tienen datos públicos legibles. Las que viven solo en Facebook, Instagram o WhatsApp no existen para ellos. Este proyecto junta los datos públicos de cada país de América Latina y le da a cada iglesia una página que cualquier buscador o modelo puede leer.</p>
-    <p class="acciones">
-      <a class="boton" href="/cerca/" id="btn-cerca">Buscar iglesias cerca de mí</a>
-      <a class="boton secundario" href="/directorio/">Explorar el directorio</a>
-    </p>
-    <p><small>{total} iglesias y comunidades de fe en {paises.map(p => p.nombre).join(', ')}, {conCoords} con ubicación en el mapa. Sin registro, sin costo.</small></p>
+    <div class="contenido">
+      <p class="eyebrow">Un directorio abierto para toda América Latina</p>
+      <h1>Que ninguna iglesia<br />quede afuera</h1>
+      <p class="sub">Cuando alguien pregunta a Google o a un asistente de inteligencia artificial "¿qué iglesias hay cerca?", solo aparecen las que tienen datos públicos. Las que viven solo en Facebook o WhatsApp no existen para ellos. Acá le damos a cada iglesia una página que cualquiera puede encontrar.</p>
+      <p class="hero-links"><a href="/movimiento/">Por qué hacemos esto</a> · <a href="/sumarse/">Sumá tu iglesia</a></p>
+    </div>
   </section>
 
-  <h2>Cómo funciona</h2>
-  <ul class="pasos">
-    <li><strong>Juntamos los datos públicos.</strong> Registros oficiales de cultos de cada país y OpenStreetMap. Nada de raspar redes sociales. <a href="/fuentes/">Cada dato dice de dónde salió.</a></li>
-    <li><strong>Le damos a cada iglesia una página.</strong> Con dirección, horarios, contacto y datos estructurados que Google, ChatGPT, Claude o Perplexity pueden leer y citar.</li>
-    <li><strong>La iglesia reclama la suya.</strong> Dos minutos de formulario para completar horarios y redes. <a href="/sumarse/">Sumá o corregí la tuya.</a></li>
-  </ul>
+  <section class="buscador-wrap">
+    <form class="buscador" id="buscador" autocomplete="off" role="search">
+      <label class="campo">
+        <span>¿Dónde buscás?</span>
+        <input id="q" name="q" type="search" placeholder="Localidad, barrio o ciudad. Ej.: Merlo, Rosario, Medellín" aria-label="Localidad" aria-autocomplete="list" aria-controls="sugerencias" />
+        <ul id="sugerencias" role="listbox" hidden></ul>
+      </label>
+      <button class="boton principal" type="submit">Buscar iglesias</button>
+      <button class="boton ubicacion" type="button" id="btn-ubicacion"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="8"/></svg> Cerca de mí</button>
+    </form>
+    <p class="pie-buscador">{total} iglesias en {localidades} localidades de {paises.map(p => p.nombre).join(' y ')}. <a href="/directorio/">O explorá el directorio por país y región</a>.</p>
+  </section>
 
-  <h2>Para quien busca</h2>
-  <p>Te mudaste, estás de viaje o simplemente querés conocer qué comunidades hay en tu barrio. <a href="/cerca/">Buscá cerca de tu ubicación</a> o navegá <a href="/directorio/">por país, región y localidad</a>. Podés <a href="#instalar" id="link-instalar">instalar esta página en tu teléfono</a> como una app para tenerla a mano.</p>
+  <section class="franja">
+    <div class="contenido tarjetas">
+      <article>
+        <div class="icono" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 21V9l8-6 8 6v12"/><path d="M9 21v-7h6v7"/><path d="M12 3v4M10 5h4"/></svg></div>
+        <h2>Una página por iglesia</h2>
+        <p>Dirección, horarios, contacto y redes en una URL permanente, con datos estructurados que Google, ChatGPT, Claude o Perplexity pueden leer y citar.</p>
+      </article>
+      <article>
+        <div class="icono" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 22s7-7 7-12a7 7 0 0 0-14 0c0 5 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
+        <h2>Buscá cerca de donde estás</h2>
+        <p>Te mudaste, estás de viaje o querés conocer tu barrio. Compartí tu ubicación y te mostramos las comunidades más cercanas, con la distancia.</p>
+      </article>
+      <article>
+        <div class="icono" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/><path d="M19 15l2 2-4 4"/></svg></div>
+        <h2>Datos públicos, abiertos y con fuente</h2>
+        <p>Registros oficiales de cada país y OpenStreetMap, nunca redes sociales raspadas. <a href="/fuentes/">Cada dato dice de dónde salió</a> y todo se puede descargar.</p>
+      </article>
+    </div>
+  </section>
 
-  <h2>Para las iglesias</h2>
-  <p>Si tu iglesia tiene Facebook pero no una web, hoy es invisible para quien pregunta a un asistente de IA. Reclamá tu ficha gratis, cargá horarios y un teléfono, y tu comunidad pasa a ser encontrable. <a href="/sumarse/">Empezá acá.</a> Si sos parte de una red o denominación, podemos cargar todas tus congregaciones juntas.</p>
+  <section class="contenido numeros">
+    <div><strong>{total}</strong><span>iglesias y comunidades</span></div>
+    <div><strong>{localidades}</strong><span>localidades</span></div>
+    <div><strong>{conCoords}</strong><span>con ubicación en el mapa</span></div>
+    <div><strong>{paises.length}<small> de {PAISES_LATAM.length}</small></strong><span>países, y sumando</span></div>
+  </section>
 
-  <h2>El movimiento</h2>
-  <p>Esto es más que un directorio: es la idea de que ninguna comunidad quede afuera de la forma en que la gente busca hoy. Abierto, gratuito, para toda América Latina. <a href="/movimiento/">Leé el manifiesto</a>, los principios y las formas de sumarse.</p>
+  <section class="contenido iglesias-cta">
+    <div>
+      <h2>¿Sos de una iglesia?</h2>
+      <p>Si tu iglesia tiene Facebook pero no una web, hoy es invisible para quien le pregunta a un asistente de IA. Reclamá tu ficha gratis, cargá horarios y un teléfono, y tu comunidad pasa a ser encontrable. Lleva dos minutos.</p>
+      <p><a class="boton" href="/sumarse/">Sumar o reclamar mi iglesia</a> <a class="boton secundario" href="/movimiento/">Leer el manifiesto</a></p>
+    </div>
+  </section>
 
-  <Donar />
+  <section class="contenido"><Donar /></section>
 
-  <section id="instalar" class="aviso" hidden>
+  <section id="instalar" class="contenido aviso instalar" hidden>
     <strong>Instalá el directorio en tu teléfono.</strong>
-    <p id="instalar-texto">Funciona como una app: un ícono en tu pantalla de inicio que abre el directorio al instante. No ocupa espacio ni pide permisos.</p>
+    <p id="instalar-texto">Un ícono en tu pantalla de inicio que abre la búsqueda al instante. No ocupa espacio ni pide permisos.</p>
     <p><button class="boton" id="btn-instalar" type="button">Instalar</button></p>
   </section>
+
   <script is:inline>
-    // Instalación como PWA: en Chrome/Edge/Android se usa el prompt nativo; en iOS se explican los pasos.
+    // Buscador con autocompletado de localidades (índice estático liviano).
+    const q = document.getElementById('q'), lista = document.getElementById('sugerencias'), form = document.getElementById('buscador');
+    let idx = null, sel = -1, items = [];
+    const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    async function cargar() { if (!idx) { idx = await fetch('/datos/localidades.json').then(r => r.json()); idx.forEach(x => x.k = norm(`${x.ln} ${x.rn} ${x.pn}`)); } return idx; }
+    function render() {
+      lista.innerHTML = items.map((x, i) => `<li role="option" aria-selected="${i === sel}" data-i="${i}"><b>${x.ln}</b> <span>${x.rn}, ${x.pn} · ${x.n}</span></li>`).join('');
+      lista.hidden = items.length === 0;
+    }
+    function ir(x) { location.href = `/${x.p}/${x.r}/${x.l}/`; }
+    q.addEventListener('focus', cargar);
+    q.addEventListener('input', async () => {
+      const t = norm(q.value.trim()); sel = -1;
+      if (t.length < 2) { items = []; render(); return; }
+      const d = await cargar();
+      const empieza = d.filter(x => norm(x.ln).startsWith(t)), contiene = d.filter(x => !norm(x.ln).startsWith(t) && x.k.includes(t));
+      items = [...empieza.sort((a, b) => b.n - a.n), ...contiene.sort((a, b) => b.n - a.n)].slice(0, 8); render();
+    });
+    q.addEventListener('keydown', e => {
+      if (lista.hidden) return;
+      if (e.key === 'ArrowDown') { sel = Math.min(sel + 1, items.length - 1); render(); e.preventDefault(); }
+      else if (e.key === 'ArrowUp') { sel = Math.max(sel - 1, 0); render(); e.preventDefault(); }
+      else if (e.key === 'Escape') { items = []; render(); }
+    });
+    lista.addEventListener('mousedown', e => { const li = e.target.closest('li'); if (li) ir(items[+li.dataset.i]); });
+    document.addEventListener('click', e => { if (!form.contains(e.target)) { items = []; render(); } });
+    form.addEventListener('submit', e => {
+      e.preventDefault();
+      if (sel >= 0 && items[sel]) return ir(items[sel]);
+      if (items.length) return ir(items[0]);
+      if (q.value.trim().length >= 2) { q.setCustomValidity('No encontramos esa localidad. Probá con otra, o usá "Cerca de mí".'); q.reportValidity(); setTimeout(() => q.setCustomValidity(''), 2500); }
+      else q.focus();
+    });
+    document.getElementById('btn-ubicacion').addEventListener('click', () => { location.href = '/cerca/?auto=1'; });
+
+    // Instalación como PWA
     let prompt = null;
     const caja = document.getElementById('instalar'), btn = document.getElementById('btn-instalar'), texto = document.getElementById('instalar-texto');
     const esIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.MSStream;
     const yaInstalada = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
     window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); prompt = e; caja.hidden = false; });
     if (esIOS && !yaInstalada) { caja.hidden = false; btn.hidden = true; texto.textContent = 'En iPhone: tocá el botón Compartir de Safari y elegí "Agregar a pantalla de inicio". Queda como una app.'; }
-    document.getElementById('link-instalar').addEventListener('click', e => { if (caja.hidden) { e.preventDefault(); alert(yaInstalada ? 'Ya la tenés instalada.' : 'Tu navegador no ofrece instalación directa. Agregá esta página a favoritos o a la pantalla de inicio desde el menú del navegador.'); } });
     btn?.addEventListener('click', async () => { if (!prompt) return; prompt.prompt(); const r = await prompt.userChoice; if (r.outcome === 'accepted') caja.hidden = true; prompt = null; });
     if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');
   </script>
+
   <style is:global>
-    .hero { padding: 1rem 0 .5rem } .hero h1 { font-size: 2.2rem }
-    .grande { font-size: 1.15rem } .acciones .boton { margin: .25rem .5rem .25rem 0 }
-    .pasos { padding-left: 1.2rem } .pasos li { margin: .6rem 0 }
+    .contenido { max-width: 1040px; margin: 0 auto; padding: 0 1.25rem }
+    .hero { background: radial-gradient(120% 140% at 10% 0%, #a35a2e 0%, #7a3e1d 45%, #4a2411 100%); color: #fff; padding: clamp(3rem, 8vw, 6rem) 0 clamp(6rem, 12vw, 8rem) }
+    .hero .eyebrow { text-transform: uppercase; letter-spacing: .12em; font-size: .8rem; opacity: .85; margin: 0 0 1rem }
+    .hero h1 { font-size: clamp(2.4rem, 6vw, 4.2rem); line-height: 1.02; margin: 0 0 1.25rem; letter-spacing: -.02em; max-width: 14ch }
+    .hero .sub { font-size: clamp(1.05rem, 1.6vw, 1.3rem); line-height: 1.5; max-width: 60ch; opacity: .95; margin: 0 }
+    .hero-links { margin-top: 1.25rem; opacity: .9 } .hero-links a { color: #fff; text-underline-offset: 3px }
+    .buscador-wrap { max-width: 1040px; margin: clamp(-4.5rem, -8vw, -3.5rem) auto 0; padding: 0 1.25rem; position: relative; z-index: 2 }
+    .buscador { background: #fff; border-radius: 18px; box-shadow: 0 20px 60px rgba(40, 20, 8, .18), 0 2px 8px rgba(40,20,8,.08); padding: 1rem; display: grid; grid-template-columns: 1fr auto auto; gap: .75rem; align-items: end }
+    .buscador .campo { position: relative; display: block; margin: 0; font-weight: 600 } .buscador .campo > span { display: block; font-size: .8rem; color: var(--suave); margin: 0 0 .35rem .25rem; text-transform: uppercase; letter-spacing: .06em }
+    .buscador input { width: 100%; font-size: 1.15rem; padding: .95rem 1rem; border: 2px solid #e4e2dc; border-radius: 12px; margin: 0; background: #faf9f6 } .buscador input:focus { outline: none; border-color: var(--acento); background: #fff }
+    .buscador .boton { padding: 1rem 1.4rem; border-radius: 12px; font-size: 1.05rem; white-space: nowrap; display: inline-flex; align-items: center; gap: .45rem }
+    .buscador .ubicacion { background: #fff; color: var(--acento); border: 2px solid var(--acento) }
+    #sugerencias { position: absolute; left: 0; right: 0; top: 100%; margin: .35rem 0 0; padding: .35rem; list-style: none; background: #fff; border: 1px solid var(--linea); border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,.12); z-index: 5; max-height: 320px; overflow: auto; font-weight: 400 }
+    #sugerencias li { padding: .6rem .75rem; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; gap: 1rem } #sugerencias li span { color: var(--suave); font-size: .9rem } #sugerencias li[aria-selected="true"], #sugerencias li:hover { background: #f3ebe4 }
+    .pie-buscador { text-align: center; color: var(--suave); margin: 1rem 0 0; font-size: .95rem }
+    .franja { padding: 3.5rem 0 1rem }
+    .tarjetas { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5rem }
+    .tarjetas article { background: #fff; border: 1px solid var(--linea); border-radius: 16px; padding: 1.5rem } .tarjetas h2 { margin: .75rem 0 .5rem; font-size: 1.15rem } .tarjetas p { margin: 0; color: #3a3a3a }
+    .icono { width: 44px; height: 44px; border-radius: 12px; background: #f3ebe4; color: var(--acento); display: grid; place-items: center } .icono svg { width: 26px; height: 26px }
+    .numeros { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem; padding-top: 2.5rem; padding-bottom: 1rem; text-align: center }
+    .numeros strong { display: block; font-size: 2rem; letter-spacing: -.02em; color: var(--acento) } .numeros strong small { font-size: 1rem; color: var(--suave) } .numeros span { color: var(--suave); font-size: .95rem }
+    .iglesias-cta { padding-top: 2.5rem } .iglesias-cta > div { background: linear-gradient(135deg, #f3ebe4, #faf4ee); border-radius: 18px; padding: 2rem } .iglesias-cta h2 { margin-top: 0 } .iglesias-cta .boton { margin: .25rem .5rem .25rem 0 }
+    .instalar { margin-bottom: 2rem }
+    @media (max-width: 720px) { .buscador { grid-template-columns: 1fr } .buscador .boton { justify-content: center } .hero h1 { max-width: none } }
   </style>
 </Base>

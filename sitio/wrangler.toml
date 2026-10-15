@@ -12,13 +12,12 @@ directory = "dist"
 binding = "ASSETS"
 not_found_handling = "404-page"
 
-# Crear la base:        npx wrangler d1 create iglesias-latam   (pegar el database_id acá)
-# Aplicar el esquema:   npx wrangler d1 execute iglesias-latam --file=schema.sql --remote
-# Descomentar estas cuatro líneas después de crear la base (el deploy falla si el id no existe):
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "iglesias-latam"
-# database_id = "REEMPLAZAR"
+# Crear la base:        npx wrangler d1 create iglesias   (pegar el database_id acá)
+# Aplicar el esquema:   npx wrangler d1 execute iglesias --file=schema.sql --remote
+[[d1_databases]]
+binding = "DB"
+database_name = "iglesias"
+database_id = "511d35ed-fb42-40c1-9f3a-89c90f61d852"
 
 # Secretos:  npx wrangler secret put TURNSTILE_SECRET_KEY ; npx wrangler secret put AGENTE_TOKEN
 # Variable de build para Astro: PUBLIC_TURNSTILE_SITE_KEY (clave pública de Turnstile)

@@ -12,7 +12,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
   const ver = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
     method: 'POST', headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY ?? '1x0000000000000000000000000000000AA', response: token, remoteip: ip }),
+    body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY, response: token, remoteip: ip }),
   }).then(r => r.json() as Promise<{ success: boolean }>);
   if (!ver.success) return json({ error: 'La verificación anti-bots falló. Recargá la página e intentá de nuevo.' }, 403);
 

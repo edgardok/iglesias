@@ -1,6 +1,20 @@
-// Carga todos los países: data/<iso>/iglesias.json + data/<iso>/fuentes.json
-const archivos = import.meta.glob('../../../data/*/iglesias/*.json', { eager: true, import: 'default' }) as Record<string, Iglesia[]>;
-const archivosFuentes = import.meta.glob('../../../data/*/fuentes.json', { eager: true, import: 'default' }) as Record<string, Fuentes>;
+// Carga todos los países desde data/<iso>/iglesias/*.json leyendo el disco en tiempo de build.
+// Se lee con fs (y no con import) a propósito: así los 30 MB de datos no quedan incrustados en el bundle del Worker.
+// Solo lo usan páginas prerenderizadas; las páginas que corren en el Worker consultan D1 (ver d1.ts).
+import { readdirSync, readFileSync, existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { slugify } from './urls';
+const RAIZ_DATOS = resolve(process.cwd(), '..', 'data');
+function leerTodo(): Iglesia[] {
+  if (!existsSync(RAIZ_DATOS)) return [];
+  const out: Iglesia[] = [];
+  for (const pais of readdirSync(RAIZ_DATOS)) {
+    const dir = resolve(RAIZ_DATOS, pais, 'iglesias');
+    if (!existsSync(dir)) continue;
+    for (const f of readdirSync(dir).filter(f => f.endsWith('.json')).sort()) out.push(...JSON.parse(readFileSync(resolve(dir, f), 'utf8')));
+  }
+  return out;
+}
 
 export type Iglesia = {
   slug: string; nombre: string; entidad: string; entidad_slug: string; filial: string | null;
@@ -15,10 +29,9 @@ export type Fuente = { nombre: string; organismo?: string; url?: string; archivo
 export type Fuentes = { pais: string; iso: string; region_nombre: string; actualizado: string; fuentes: Fuente[]; pendientes?: string[] };
 export type Pais = { nombre: string; slug: string; region_nombre: string; iglesias: Iglesia[]; fuentes: Fuentes | null };
 
-export const iglesias: Iglesia[] = Object.values(archivos).flat();
+export const iglesias: Iglesia[] = leerTodo();
 
-const fuentesPorIso = new Map<string, Fuentes>();
-for (const [ruta, f] of Object.entries(archivosFuentes)) fuentesPorIso.set(ruta.split('/').at(-2)!, f);
+import { fuentesPorPais as fuentesPorIso } from './fuentes';
 
 const porPais = new Map<string, Pais>();
 for (const i of iglesias) {
@@ -60,14 +73,7 @@ export function tiposDe(lista: Iglesia[]) {
   return [...m.values()].sort((a, b) => b.iglesias.length - a.iglesias.length);
 }
 
-export const urlPais = (p: string) => `/${p}/`;
-export const urlProvincia = (p: string, s: string) => `/${p}/${s}/`;
-export const urlLocalidad = (p: string, s: string, l: string) => `/${p}/${s}/${l}/`;
-export const urlIglesia = (i: Iglesia) => `/${i.pais_slug}/iglesia/${i.slug}/`;
-export const urlTipo = (p: string, t: string) => `/${p}/tipo/${t}/`;
+export { urlPais, urlProvincia, urlLocalidad, urlTipo, slugify, NOMBRE_SITIO } from './urls';
+import { urlIglesiaDe } from './urls';
+export const urlIglesia = (i: Iglesia) => urlIglesiaDe(i.pais_slug, i.slug);
 
-export function slugify(s: string) {
-  return s.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^a-zA-Z0-9]+/g, '-').replace(/^-|-$/g, '').toLowerCase();
-}
-
-export const NOMBRE_SITIO = 'Iglesias de América Latina';

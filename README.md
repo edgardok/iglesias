@@ -18,10 +18,11 @@ data/<iso>/            un país por carpeta (código ISO 3166-1 en minúsculas)
   geo.json             coordenadas obtenidas por geocodificación (si aplica)
 scripts/<iso>/         scripts específicos del país (parsear su registro, geocodificar con su API)
 scripts/comunes/       scripts que sirven para todos: OpenStreetMap, inferencia de denominación
-sitio/                 Astro (estático) + Worker de Cloudflare para el formulario
-  src/pages/           inicio, países, /<pais>/ por región, localidades (HTML y .md), tipo, fuentes, ficha por iglesia, formulario, llms.txt, sitemaps, datos
-  functions/api/       handlers del formulario (Turnstile + D1) y del endpoint para el agente
-  worker/index.ts      enruta /api/* a los handlers y sirve el resto como assets
+sitio/                 Astro con el adaptador de Cloudflare: páginas estáticas + Worker que lee D1
+  src/pages/           inicio, países, /<pais>/ por región, tipo, fuentes, formulario, llms.txt, sitemaps, datos (estáticas);
+                       fichas de iglesia, localidades (HTML y .md) y /api/* (renderizadas en el Worker desde D1)
+  src/lib/datos.ts     lee data/*/iglesias/*.json del disco en el build (solo páginas estáticas)
+  src/lib/d1.ts        consultas a D1 para las páginas que corren en el Worker
   agente/procesar.ts   agente con Claude que revisa las solicitudes y actualiza data/<pais>/iglesias/<region>.json
 ```
 
@@ -66,26 +67,42 @@ python3 -I scripts/ar/aplicar_geo.py data/ar data/ar/geo.json
 cd sitio && npm install && npm run build && npm run dev
 ```
 
-## Desplegar en Cloudflare (gratis)
+## Arquitectura en Cloudflare (plan gratuito)
 
-Conectado por GitHub: Workers & Pages → Import a repository → este repo. Root directory `sitio`, build `npm run build`,
-deploy `npx wrangler deploy`. Variables de build: `SITE_URL` (URL pública; define canonical, sitemap y JSON-LD) y
-`PUBLIC_TURNSTILE_SITE_KEY`.
+El plan gratuito de Workers permite 20.000 archivos estáticos por Worker, y solo Argentina tendría 42.000 páginas.
+Por eso el sitio es híbrido:
 
-Después del primer deploy, para que el formulario funcione:
+- **Estático** (~100 archivos): portada, países, regiones, tipos, fuentes, formulario, sitemaps, llms.txt y los JSON por región.
+- **Renderizado en el Worker desde D1**: la ficha de cada iglesia (`/<pais>/iglesia/<slug>/`), las páginas de localidad
+  (HTML y `.md`) y la API del formulario. D1 es la base SQLite de Cloudflare; tiene una copia de todas las fichas en la
+  tabla `iglesias`. Las respuestas se cachean en el borde (`s-maxage=86400`).
+- **GitHub es la fuente de verdad.** D1 es una copia que se recarga con `scripts/comunes/cargar_d1.py` después de cambiar datos.
 
-1. `npx wrangler d1 create iglesias-latam`, pegar el id en `sitio/wrangler.toml` y descomentar el bloque D1.
-2. `npx wrangler d1 execute iglesias-latam --file=schema.sql --remote`
-3. Crear un sitio en Turnstile y cargar `npx wrangler secret put TURNSTILE_SECRET_KEY` y `npx wrangler secret put AGENTE_TOKEN`.
+### Deploy
 
-Se usa Workers con assets estáticos y no Pages porque el sitio tiene unos 48.000 archivos y Pages corta en 20.000.
+Conectado por GitHub: cada push a `main` dispara `npm run build` y `npx wrangler deploy` (configurado en `wrangler.toml`,
+`[build]`). Root directory del proyecto en Cloudflare: `sitio`.
+
+Cuando cambian los datos de un país, además hay que recargar D1 (una vez, desde cualquier máquina con el token):
+
+```bash
+python3 -I scripts/comunes/cargar_d1.py data/ar
+```
+
+Necesita `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID` en el entorno (en este repo se cargan desde `.env`, que no se versiona).
+
+### Configuración ya hecha (una sola vez)
+
+- Base D1 `iglesias` con el esquema de `sitio/schema.sql` (tablas `solicitudes` e `iglesias`).
+- Widget de Turnstile `iglesias`; la clave pública está en `sumarse.astro` y la secreta como secreto del Worker.
+- Secretos del Worker: `TURNSTILE_SECRET_KEY`, `AGENTE_TOKEN`.
 
 ## Agente
 
 ```bash
 cd sitio
 npx tsx agente/procesar.ts --local agente/ejemplo-solicitudes.json --dry-run   # prueba sin tocar nada
-API_BASE=https://<worker>.workers.dev AGENTE_TOKEN=... npx tsx agente/procesar.ts
+API_BASE=https://iglesias.edgardo-krause.workers.dev AGENTE_TOKEN=... npx tsx agente/procesar.ts   # el token está en .env
 ```
 
 Necesita credenciales de la API de Anthropic. El agente escribe en `data/<pais>/iglesias/<region>.json` y marca las

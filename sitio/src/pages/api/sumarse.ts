@@ -1,15 +1,15 @@
-// Cloudflare Pages Function: recibe el formulario, valida Turnstile y guarda en D1.
-interface Env { DB: D1Database; TURNSTILE_SECRET_KEY: string }
-
+// Recibe el formulario, valida Turnstile y guarda en D1.
+export const prerender = false;
+import type { APIRoute } from 'astro';
 const CAMPOS = ['pais','slug','nombre','denominacion','direccion','localidad','provincia','horarios','telefono','email','facebook','instagram','google_maps','web','contacto_nombre','contacto_email','comentario'] as const;
 const json = (b: unknown, status = 200) => new Response(JSON.stringify(b), { status, headers: { 'content-type': 'application/json; charset=utf-8' } });
 
-export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
+export const POST: APIRoute = async ({ request, locals }) => {
+  const env = locals.runtime.env;
   const form = await request.formData();
   const token = String(form.get('cf-turnstile-response') ?? '');
   const ip = request.headers.get('CF-Connecting-IP') ?? '';
   if (!token) return json({ error: 'Completá la verificación anti-bots.' }, 400);
-
   const ver = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
     method: 'POST', headers: { 'content-type': 'application/json' },
     body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY, response: token, remoteip: ip }),

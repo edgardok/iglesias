@@ -1,15 +1,20 @@
 ---
+// Ficha de iglesia: se renderiza en el Worker leyendo D1 (no es estática, para no superar el límite de archivos del plan gratuito).
+export const prerender = false;
 import Base from '../../../layouts/Base.astro';
-import { iglesias, urlProvincia, urlLocalidad, urlPais, urlIglesia, NOMBRE_SITIO } from '../../../lib/datos';
+import { urlProvincia, urlLocalidad, urlPais, urlIglesiaDe, NOMBRE_SITIO } from '../../../lib/urls';
+import { db, iglesiaPorSlug, otrasEnLocalidad, CACHE } from '../../../lib/d1';
 import { descripcion } from '../../../lib/texto';
-export function getStaticPaths() { return iglesias.map(i => ({ params: { pais: i.pais_slug, slug: i.slug }, props: { i } })); }
-const { i } = Astro.props;
+const { pais, slug } = Astro.params;
+const i = await iglesiaPorSlug(db(Astro.locals), pais!, slug!);
+if (!i) return new Response('Ficha no encontrada', { status: 404, headers: { 'content-type': 'text/plain; charset=utf-8' } });
+Astro.response.headers.set('Cache-Control', CACHE);
+const cercanas = await otrasEnLocalidad(db(Astro.locals), i);
 const url = new URL(Astro.url.pathname, Astro.site).href;
 const dirCompleta = [i.direccion, i.localidad, i.provincia, i.pais].filter(Boolean).join(', ');
 const mapsUrl = i.google_maps ?? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(i.lat ? `${i.lat},${i.lon}` : `${i.nombre}, ${dirCompleta}`)}`;
 const osmUrl = i.lat ? `https://www.openstreetmap.org/?mlat=${i.lat}&mlon=${i.lon}#map=18/${i.lat}/${i.lon}` : null;
 const desc = descripcion(i);
-const cercanas = iglesias.filter(o => o.pais_slug === i.pais_slug && o.localidad_slug === i.localidad_slug && o.provincia_slug === i.provincia_slug && o.slug !== i.slug).slice(0, 8);
 const jsonld = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -62,7 +67,7 @@ const jsonld = {
     </div>
     {cercanas.length > 0 && <>
       <h2>Otras iglesias en {i.localidad}</h2>
-      <ul class="lista">{cercanas.map(c => <li><a href={urlIglesia(c)}>{c.nombre}</a><small>{c.denominacion ?? ''}{c.direccion ? ` · ${c.direccion}` : ''}</small></li>)}</ul>
+      <ul class="lista">{cercanas.map(c => <li><a href={urlIglesiaDe(c.pais_slug, c.slug)}>{c.nombre}</a><small>{c.denominacion ?? ''}{c.direccion ? ` · ${c.direccion}` : ''}</small></li>)}</ul>
       <p><a href={urlLocalidad(i.pais_slug, i.provincia_slug, i.localidad_slug)}>Ver todas las iglesias de {i.localidad}</a></p>
     </>}
   </article>

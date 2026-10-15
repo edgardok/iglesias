@@ -1,4 +1,5 @@
 import type { Iglesia } from './datos';
+import { urlIglesiaDe } from './urls';
 
 /** Párrafo descriptivo en prosa, pensado para que un buscador o un LLM lo pueda citar tal cual. */
 export function descripcion(i: Iglesia): string {
@@ -21,5 +22,5 @@ export function lineaMd(i: Iglesia, site: URL): string {
   const campos = [i.direccion && `Dirección: ${i.direccion}`, i.denominacion && `Denominación: ${i.denominacion}`, i.horarios && `Horarios: ${i.horarios}`,
     i.telefono && `Tel: ${i.telefono}`, i.web && `Web: ${i.web}`, i.facebook && `Facebook: ${i.facebook}`, i.instagram && `Instagram: ${i.instagram}`,
     i.lat && `Coordenadas: ${i.lat}, ${i.lon}`].filter(Boolean);
-  return `- **${i.nombre}** (${new URL(`/${i.pais_slug}/iglesia/${i.slug}/`, site).href})${campos.length ? '. ' + campos.join('. ') : ''}.`;
+  return `- **${i.nombre}** (${new URL(urlIglesiaDe(i.pais_slug, i.slug), site).href})${campos.length ? '. ' + campos.join('. ') : ''}.`;
 }

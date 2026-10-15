@@ -1,11 +1,14 @@
 ---
+// Página de localidad: renderizada en el Worker desde D1.
+export const prerender = false;
 import Base from '../../../../layouts/Base.astro';
-import { paises, provinciasDe, localidadesDe, urlIglesia, urlProvincia, urlPais, NOMBRE_SITIO } from '../../../../lib/datos';
-export function getStaticPaths() {
-  return paises.flatMap(p => provinciasDe(p.slug).flatMap(r => localidadesDe(p.slug, r.slug).map(l => ({ params: { pais: p.slug, provincia: r.slug, localidad: l.slug }, props: { p, r, l } }))));
-}
-const { p, r, l } = Astro.props;
-const lista = [...l.iglesias].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
+import { urlProvincia, urlPais, urlIglesiaDe, NOMBRE_SITIO } from '../../../../lib/urls';
+import { db, iglesiasDeLocalidad, CACHE } from '../../../../lib/d1';
+const { pais, provincia, localidad } = Astro.params;
+const lista = await iglesiasDeLocalidad(db(Astro.locals), pais!, provincia!, localidad!);
+if (!lista.length) return new Response('Localidad no encontrada', { status: 404, headers: { 'content-type': 'text/plain; charset=utf-8' } });
+Astro.response.headers.set('Cache-Control', CACHE);
+const p = { nombre: lista[0].pais, slug: pais! }, r = { nombre: lista[0].provincia, slug: provincia! }, l = { nombre: lista[0].localidad, slug: localidad! };
 const porDen = new Map<string, number>();
 for (const i of lista) porDen.set(i.denominacion ?? 'Sin clasificar', (porDen.get(i.denominacion ?? 'Sin clasificar') ?? 0) + 1);
 const dens = [...porDen.entries()].sort((a, b) => b[1] - a[1]);
@@ -13,7 +16,7 @@ const resumen = `En ${l.nombre}, ${r.nombre}, ${p.nombre}, este directorio regis
 const url = new URL(Astro.url.pathname, Astro.site).href;
 const jsonld = { '@context': 'https://schema.org', '@graph': [
   { '@type': 'ItemList', '@id': `${url}#lista`, name: `Iglesias en ${l.nombre}, ${r.nombre}, ${p.nombre}`, description: resumen, numberOfItems: lista.length,
-    itemListElement: lista.map((i, n) => ({ '@type': 'ListItem', position: n + 1, url: new URL(urlIglesia(i), Astro.site).href, name: i.nombre })) },
+    itemListElement: lista.map((i, n) => ({ '@type': 'ListItem', position: n + 1, url: new URL(urlIglesiaDe(i.pais_slug, i.slug), Astro.site).href, name: i.nombre })) },
   { '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: NOMBRE_SITIO, item: Astro.site?.href },
     { '@type': 'ListItem', position: 2, name: p.nombre, item: new URL(urlPais(p.slug), Astro.site).href },
@@ -26,5 +29,5 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
   <p>{resumen}</p>
   <p>¿Falta la tuya o tiene datos viejos? <a href={`/sumarse/?pais=${p.slug}`}>Sumala o corregila</a>. Esta lista también está en <a href={`/${p.slug}/${r.slug}/${l.slug}.md`}>formato Markdown</a> para asistentes de IA.</p>
   {dens.length > 1 && <p><small>{dens.map(([d, n]) => `${d}: ${n}`).join(' · ')}</small></p>}
-  <ul class="lista">{lista.map(i => <li><a href={urlIglesia(i)}>{i.nombre}</a><small>{i.denominacion ?? 'Sin clasificar'}{i.direccion ? ` · ${i.direccion}` : ''}{i.horarios ? ` · ${i.horarios}` : ''}</small></li>)}</ul>
+  <ul class="lista">{lista.map(i => <li><a href={urlIglesiaDe(i.pais_slug, i.slug)}>{i.nombre}</a><small>{i.denominacion ?? 'Sin clasificar'}{i.direccion ? ` · ${i.direccion}` : ''}{i.horarios ? ` · ${i.horarios}` : ''}</small></li>)}</ul>
 </Base>

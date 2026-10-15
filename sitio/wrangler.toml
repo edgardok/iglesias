@@ -3,6 +3,10 @@ name = "iglesias-latam"
 main = "worker/index.ts"
 compatibility_date = "2026-01-01"
 
+# wrangler corre esto antes de cada deploy, así el sitio se genera aunque el panel no tenga build command.
+[build]
+command = "npm run build"
+
 [assets]
 directory = "dist"
 binding = "ASSETS"

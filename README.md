@@ -5,7 +5,7 @@ Directorio estático de iglesias evangélicas y otras comunidades de fe no cató
 Google ni los modelos de lenguaje pueden leer. Acá juntamos los datos públicos de cada país, los normalizamos
 y los publicamos con datos estructurados, documentando de dónde sale cada dato.
 
-Alcance: América Latina, país por país. Hoy está Argentina (32.706 fichas). Cada país se suma cuando hay una
+Alcance: América Latina, país por país. Hoy están Argentina (32.706 fichas) y una semilla de Colombia (1.284). Cada país se suma cuando hay una
 fuente pública confiable.
 
 ## Estructura
@@ -51,7 +51,16 @@ Detalle de los datos y cómo sumar un país: [data/README.md](data/README.md).
 - Preferimos no tener un dato a tenerlo mal (por ejemplo, no se publican coordenadas sin confirmar la localidad).
 - Todo lo que aportan las iglesias se publica bajo ODbL, igual que el resto.
 
-## Regenerar datos (Argentina)
+## Regenerar datos
+
+Colombia:
+
+```bash
+python3 -I scripts/co/csv_inicial.py data/co/raw/churches_colombia.csv data/co
+python3 -I scripts/comunes/denominacion.py data/co
+```
+
+Argentina:
 
 ```bash
 python3 -I scripts/ar/registro_cultos.py data/ar/raw/registro-culto-export.csv data/ar

@@ -1,0 +1,31 @@
+[
+{
+"slug": "capilla-de-fatima-quibdo",
+"nombre": "Capilla de Fátima",
+"entidad": "Capilla de Fátima",
+"entidad_slug": "capilla-de-fatima",
+"filial": null,
+"direccion": "Carrera 5",
+"localidad": "Quibdó",
+"localidad_slug": "quibdo",
+"provincia": "Chocó",
+"provincia_slug": "choco",
+"pais": "Colombia",
+"pais_slug": "co",
+"registro_ci": null,
+"fuente": "EncuentraIglesias.com (directorio de terceros)",
+"denominacion": "Evangélica",
+"religion": "Cristiana",
+"web": null,
+"facebook": null,
+"instagram": null,
+"google_maps": null,
+"telefono": null,
+"email": null,
+"horarios": null,
+"lat": null,
+"lon": null,
+"reclamada": false,
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-fatima-quibdo-colombia-1051"
+}
+]

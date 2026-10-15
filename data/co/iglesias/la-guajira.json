@@ -1,0 +1,31 @@
+[
+{
+"slug": "iglesia-p-riohacha",
+"nombre": "Iglesia P",
+"entidad": "Iglesia P",
+"entidad_slug": "iglesia-p",
+"filial": null,
+"direccion": "Calle 46",
+"localidad": "Riohacha",
+"localidad_slug": "riohacha",
+"provincia": "La Guajira",
+"provincia_slug": "la-guajira",
+"pais": "Colombia",
+"pais_slug": "co",
+"registro_ci": null,
+"fuente": "EncuentraIglesias.com (directorio de terceros)",
+"denominacion": "Evangélica",
+"religion": "Cristiana",
+"web": null,
+"facebook": null,
+"instagram": null,
+"google_maps": null,
+"telefono": null,
+"email": null,
+"horarios": null,
+"lat": null,
+"lon": null,
+"reclamada": false,
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-p-riohacha-colombia-2458"
+}
+]

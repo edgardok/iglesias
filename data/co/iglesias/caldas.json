@@ -1,0 +1,31 @@
+[
+{
+"slug": "el-redil-oriente-manizales",
+"nombre": "El Redil Oriente",
+"entidad": "Federación de Iglesias Bautistas Evangélicas de Colombia (FIBEC)",
+"entidad_slug": "federacion-de-iglesias-bautistas-evangelicas-de-colombia-fibec",
+"filial": null,
+"direccion": "Llanogrande, Rionegro, Sector Chipre",
+"localidad": "Manizales",
+"localidad_slug": "manizales",
+"provincia": "Caldas",
+"provincia_slug": "caldas",
+"pais": "Colombia",
+"pais_slug": "co",
+"registro_ci": null,
+"fuente": "Redil.org (FIBEC)",
+"denominacion": "Bautista",
+"religion": "Cristiana",
+"web": null,
+"facebook": null,
+"instagram": null,
+"google_maps": null,
+"telefono": null,
+"email": null,
+"horarios": null,
+"lat": null,
+"lon": null,
+"reclamada": false,
+"fuente_url": "https://redil.org/el-redil-oriente/"
+}
+]

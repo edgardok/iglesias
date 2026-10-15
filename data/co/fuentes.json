@@ -1,0 +1,31 @@
+{
+  "pais": "Colombia",
+  "iso": "co",
+  "region_nombre": "departamento",
+  "actualizado": "2026-10-15",
+  "fuentes": [
+    {
+      "nombre": "Recopilación inicial (CSV)",
+      "organismo": "Compilado por el proyecto a partir de directorios públicos en la web",
+      "archivo": "data/co/raw/churches_colombia.csv",
+      "descarga": "2026-10-15",
+      "licencia": "Datos de hecho (nombre, dirección, teléfono) tomados de páginas públicas; cada fila indica su origen en fuente_url",
+      "que_aporta": "1.284 iglesias evangélicas: 1.257 listadas en EncuentraIglesias.com, 26 de la red FIBEC (redil.org) y una del Ministerio del Interior. Nombre, denominación, y en pocos casos dirección, web, teléfono o email.",
+      "script": "scripts/co/csv_inicial.py",
+      "limitaciones": "La mayoría no trae ciudad ni departamento; la localidad se deduce de la URL de origen y 891 fichas quedan sin ubicar. Casi ninguna tiene coordenadas. Es una semilla: la cobertura real de Colombia requiere el Registro Público de Entidades Religiosas del Ministerio del Interior."
+    },
+    {
+      "nombre": "Aportes de las iglesias",
+      "organismo": "Formulario del sitio, revisado por un asistente y una persona",
+      "url": "/sumarse/",
+      "licencia": "ODbL 1.0 (al enviar, la iglesia acepta publicar los datos bajo esta licencia)",
+      "que_aporta": "Horarios, contacto, redes, correcciones y fichas nuevas.",
+      "script": "sitio/agente/procesar.ts"
+    }
+  ],
+  "pendientes": [
+    "Registro Público de Entidades Religiosas del Ministerio del Interior (datos.gov.co) como fuente principal.",
+    "OpenStreetMap para Colombia (coordenadas y parroquias no católicas).",
+    "Ubicar las 891 fichas sin departamento."
+  ]
+}

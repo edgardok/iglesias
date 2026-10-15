@@ -18,3 +18,4 @@ Para sumar un país: crear la carpeta, bajar las fuentes a `raw/`, escribir los 
 | País | Estado | Fichas | Fuentes principales |
 |---|---|---|---|
 | Argentina (`ar`) | publicado | 32.706 | Registro Nacional de Cultos, OpenStreetMap, georef |
+| Colombia (`co`) | semilla | 1.284 | CSV recopilado de directorios web (EncuentraIglesias, FIBEC); pendiente el registro del Ministerio del Interior |

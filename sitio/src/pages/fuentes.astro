@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import { paises, urlPais } from '../lib/datos';
+---
+<Base titulo="De dónde salen los datos | Iglesias de América Latina" descripcion="Fuentes de datos del directorio: registros públicos de cada país, OpenStreetMap y aportes de las iglesias, con licencia, fecha y limitaciones.">
+  <h1>De dónde salen los datos</h1>
+  <p>Cada ficha indica su fuente. Las fuentes se documentan por país en un archivo <code>fuentes.json</code> que vive junto a los datos, y los scripts que las procesan están publicados en el <a href="https://github.com/edgardok/iglesias">repositorio</a>, en <code>scripts/&lt;país&gt;/</code>.</p>
+  <h2>Principios</h2>
+  <ul>
+    <li>Solo fuentes públicas o con licencia abierta. No se raspan Facebook, Instagram ni Google Maps: las iglesias pegan sus enlaces en el formulario.</li>
+    <li>Preferimos no tener un dato a tenerlo mal: por ejemplo, no publicamos coordenadas si la geocodificación no pudo confirmar la localidad.</li>
+    <li>Todo lo que aportan las iglesias se publica bajo ODbL, igual que el resto.</li>
+  </ul>
+  {paises.map(p => <>
+    <h2><a href={`${urlPais(p.slug)}fuentes/`}>{p.nombre}</a></h2>
+    <ul>{(p.fuentes?.fuentes ?? []).map(f => <li><strong>{f.nombre}</strong>{f.organismo ? `, ${f.organismo}` : ''}. {f.que_aporta}</li>)}</ul>
+  </>)}
+</Base>

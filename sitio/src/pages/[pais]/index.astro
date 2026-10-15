@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import { paises, provinciasDe, urlProvincia, tiposDe, urlTipo, urlPais } from '../../lib/datos';
+export function getStaticPaths() { return paises.map(p => ({ params: { pais: p.slug }, props: { p } })); }
+const { p } = Astro.props;
+const provs = provinciasDe(p.slug);
+const tipos = tiposDe(p.iglesias).slice(0, 10);
+const conCoords = p.iglesias.filter(i => i.lat).length;
+const desc = `${p.iglesias.length.toLocaleString('es')} iglesias, templos y comunidades de fe de ${p.nombre} por ${p.region_nombre} y localidad. ${tipos.slice(0, 4).map(t => `${t.iglesias.length.toLocaleString('es')} ${t.nombre.toLowerCase()}`).join(', ')}.`;
+---
+<Base titulo={`Iglesias de ${p.nombre}: ${p.iglesias.length.toLocaleString('es')} templos por ${p.region_nombre}`} descripcion={desc}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href="/paises/">Países</a></nav>
+  <h1>Iglesias de {p.nombre}</h1>
+  <p>{desc} {conCoords.toLocaleString('es')} tienen ubicación en el mapa. <a href={`${urlPais(p.slug)}fuentes/`}>De dónde salen estos datos</a>.</p>
+  <h2>Por {p.region_nombre}</h2>
+  <ul class="grilla">{provs.map(r => <li><a href={urlProvincia(p.slug, r.slug)}>{r.nombre}</a> <small>({r.iglesias.length.toLocaleString('es')})</small></li>)}</ul>
+  <h2>Por tipo</h2>
+  <ul class="grilla">{tipos.map(t => <li><a href={urlTipo(p.slug, t.slug)}>{t.nombre}</a> <small>({t.iglesias.length.toLocaleString('es')})</small></li>)}</ul>
+  <p><a href={`${urlPais(p.slug)}tipo/`}>Ver todos los tipos en {p.nombre}</a></p>
+</Base>

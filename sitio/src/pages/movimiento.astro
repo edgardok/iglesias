@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import { iglesias, paises, NOMBRE_SITIO } from '../lib/datos';
+const total = iglesias.length.toLocaleString('es');
+const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline: 'Que toda iglesia de América Latina sea encontrable', inLanguage: 'es',
+  description: 'Por qué existe este directorio: miles de iglesias viven solo en redes sociales que ni los buscadores ni los asistentes de IA pueden leer. La idea, los principios y cómo sumarse.',
+  publisher: { '@type': 'Organization', name: NOMBRE_SITIO, url: Astro.site?.href } };
+---
+<Base titulo="El movimiento: que toda iglesia de América Latina sea encontrable" descripcion="Por qué existe este directorio: miles de iglesias viven solo en Facebook, Instagram y WhatsApp, que ni Google ni los asistentes de IA pueden leer. La idea, los principios y cómo sumarse." jsonld={jsonld}>
+  <h1>Que toda iglesia sea encontrable</h1>
+
+  <p><strong>Una persona se muda a un barrio nuevo y busca una iglesia.</strong> Hace diez años abría Google. Hoy, cada vez más, le pregunta a un asistente de inteligencia artificial: "¿qué iglesias hay cerca de mi casa?". Y el asistente responde con las que conoce. Las demás, para esa persona, no existen.</p>
+
+  <h2>El problema</h2>
+  <p>La mayoría de las iglesias de América Latina están online, pero en el lugar equivocado. Tienen una página de Facebook, un Instagram, un grupo de WhatsApp. Para su comunidad alcanza. Para alguien de afuera, no: Facebook e Instagram bloquean a los buscadores y, explícitamente, a los rastreadores de los modelos de lenguaje. Lo que una iglesia publica ahí no lo lee Google, no lo lee ChatGPT, no lo lee Claude ni Perplexity ni Gemini.</p>
+  <p>Hicimos la prueba con un barrio del conurbano de Buenos Aires. Le preguntamos a varios asistentes qué iglesias había. Sin acceso a internet, ninguno pudo nombrar una. Con acceso a internet, encontraron tres: una cuyos datos aparecían solo en directorios raspados por terceros, y dos que existían únicamente como una cuenta de Instagram y una página de Facebook, sin dirección ni horario legibles. Y seguro había varias más que no aparecieron en absoluto. Hoy la identidad digital de esas iglesias la escriben desconocidos, o no la escribe nadie.</p>
+
+  <h2>La idea</h2>
+  <p>No hace falta que cada iglesia construya una web. Hace falta que exista, en algún lugar público y abierto, una ficha con sus datos básicos en un formato que las máquinas puedan leer: nombre, dirección, localidad, denominación, horarios, un teléfono, sus redes. Una URL permanente por iglesia, con texto en prosa y datos estructurados, dentro de un directorio que los buscadores y los asistentes de IA puedan recorrer completo.</p>
+  <p>Eso es este sitio. Empezamos con los datos públicos que ya existen, los registros de cultos de cada país y OpenStreetMap, y los publicamos ordenados. Hoy son {total} fichas en {paises.map(p => p.nombre).join(', ')}. Después, cada iglesia reclama la suya y la completa. El trabajo pesado ya está hecho; a la iglesia le quedan dos minutos de formulario.</p>
+
+  <h2>El foco: los asistentes de IA</h2>
+  <p>Google ya tiene su directorio, Google Maps, y funciona razonablemente para quien lo usa. El hueco está en los modelos de lenguaje, que cada año responden más preguntas de la vida cotidiana y que no pueden leer redes sociales. Este directorio está diseñado para ellos primero:</p>
+  <ul>
+    <li>Cada ficha tiene un párrafo en prosa que un modelo puede citar tal cual, y datos estructurados schema.org para los que indexan.</li>
+    <li>Cada localidad tiene su lista también en Markdown, el formato que los rastreadores de IA leen más limpio.</li>
+    <li>El archivo <a href="/llms.txt">llms.txt</a> explica a los modelos qué hay y cómo está organizado, y el <a href="/robots.txt">robots.txt</a> les da la bienvenida con nombre y apellido.</li>
+    <li>Todo el dataset se puede descargar. Si alguien entrena o alimenta un asistente con datos abiertos, queremos estar ahí.</li>
+  </ul>
+  <p>La forma de medir si funciona es simple: preguntarle a un asistente qué iglesias hay en una localidad, antes y después. Vamos a repetir esa prueba y publicar los resultados.</p>
+
+  <h2>Principios</h2>
+  <ul>
+    <li><strong>Abierto y gratuito.</strong> Nadie paga por estar. Los datos son de todos, bajo licencia ODbL, y el código es público.</li>
+    <li><strong>Para todas las comunidades de fe.</strong> Evangélicas, católicas, judías, musulmanas, budistas y las demás. El directorio no opina sobre doctrina; describe dónde y cuándo se reúne cada comunidad.</li>
+    <li><strong>Solo fuentes legítimas.</strong> Registros públicos, OpenStreetMap y lo que cada iglesia aporta por su cuenta. No raspamos Facebook, Instagram ni Google Maps. <a href="/fuentes/">Cada dato dice de dónde salió</a>.</li>
+    <li><strong>Mejor sin dato que con dato malo.</strong> Si no podemos confirmar una ubicación, no la publicamos.</li>
+    <li><strong>La iglesia es dueña de su ficha.</strong> Puede reclamarla, corregirla y pedir que se marque como suya.</li>
+  </ul>
+
+  <h2>Cómo sumarse</h2>
+  <ul>
+    <li><strong>Si sos de una iglesia:</strong> buscá tu ficha y <a href="/sumarse/">reclamala o creala</a>. Horarios y un teléfono son lo que más le sirve a quien busca.</li>
+    <li><strong>Si sos de una red o denominación:</strong> podés mandarnos el listado de tus congregaciones y las cargamos todas juntas.</li>
+    <li><strong>Si conocés un registro público de otro país:</strong> <a href="https://github.com/edgardok/iglesias/issues">avisanos</a>. Sumar un país es bajar la fuente, escribir un script y documentarla; está explicado en el <a href="https://github.com/edgardok/iglesias">repositorio</a>.</li>
+    <li><strong>Si programás:</strong> el código y los datos están en GitHub. Hay mucho por mejorar: cruce de duplicados, geocodificación, más fuentes.</li>
+  </ul>
+
+  <div class="aviso"><strong>En una frase:</strong> queremos que, cuando alguien le pregunte a cualquier asistente qué iglesias hay en su barrio, ninguna quede afuera por no tener una web.</div>
+</Base>

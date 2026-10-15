@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { paises, urlPais } from '../../lib/datos';
+export function getStaticPaths() { return paises.map(p => ({ params: { pais: p.slug }, props: { p } })); }
+const { p } = Astro.props;
+const f = p.fuentes;
+const porFuente = new Map<string, number>(); for (const i of p.iglesias) porFuente.set(i.fuente, (porFuente.get(i.fuente) ?? 0) + 1);
+---
+<Base titulo={`Fuentes de datos de ${p.nombre} | Iglesias de América Latina`} descripcion={`De dónde salen las ${p.iglesias.length.toLocaleString('es')} fichas de ${p.nombre}: ${(f?.fuentes ?? []).map(x => x.nombre).join(', ')}. Licencias, fechas, scripts y limitaciones.`}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(p.slug)}>{p.nombre}</a></nav>
+  <h1>De dónde salen los datos de {p.nombre}</h1>
+  {f ? <>
+    <p>Última actualización: {f.actualizado}. {p.iglesias.length.toLocaleString('es')} fichas. Fuente declarada en cada ficha: {[...porFuente.entries()].sort((a, b) => b[1] - a[1]).map(([k, n]) => `${k} (${n.toLocaleString('es')})`).join('; ')}.</p>
+    {f.fuentes.map(x => <>
+      <h2>{x.nombre}</h2>
+      <dl>
+        {x.organismo && <><dt>Organismo</dt><dd>{x.organismo}</dd></>}
+        {x.url && <><dt>Enlace</dt><dd><a href={x.url}>{x.url}</a></dd></>}
+        {x.que_aporta && <><dt>Qué aporta</dt><dd>{x.que_aporta}</dd></>}
+        {x.licencia && <><dt>Licencia</dt><dd>{x.licencia}</dd></>}
+        {x.descarga && <><dt>Descargado</dt><dd>{x.descarga}</dd></>}
+        {x.archivo && <><dt>Archivo crudo</dt><dd><a href={`https://github.com/edgardok/iglesias/blob/main/${x.archivo}`}><code>{x.archivo}</code></a></dd></>}
+        {x.script && <><dt>Script</dt><dd><code>{x.script}</code></dd></>}
+        {x.limitaciones && <><dt>Limitaciones</dt><dd>{x.limitaciones}</dd></>}
+      </dl>
+    </>)}
+    {f.pendientes?.length ? <><h2>Pendiente</h2><ul>{f.pendientes.map(t => <li>{t}</li>)}</ul></> : null}
+  </> : <p>Este país todavía no tiene su archivo de fuentes documentado.</p>}
+</Base>

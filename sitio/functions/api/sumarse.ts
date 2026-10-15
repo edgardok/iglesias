@@ -1,7 +1,7 @@
 // Cloudflare Pages Function: recibe el formulario, valida Turnstile y guarda en D1.
 interface Env { DB: D1Database; TURNSTILE_SECRET_KEY: string }
 
-const CAMPOS = ['slug','nombre','denominacion','direccion','localidad','provincia','horarios','telefono','email','facebook','instagram','google_maps','web','contacto_nombre','contacto_email','comentario'] as const;
+const CAMPOS = ['pais','slug','nombre','denominacion','direccion','localidad','provincia','horarios','telefono','email','facebook','instagram','google_maps','web','contacto_nombre','contacto_email','comentario'] as const;
 const json = (b: unknown, status = 200) => new Response(JSON.stringify(b), { status, headers: { 'content-type': 'application/json; charset=utf-8' } });
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
@@ -18,7 +18,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
   const datos: Record<string, string> = {};
   for (const c of CAMPOS) datos[c] = String(form.get(c) ?? '').trim().slice(0, 1000);
-  if (!datos.nombre || !datos.localidad || !datos.provincia || !datos.contacto_email) return json({ error: 'Faltan campos obligatorios.' }, 400);
+  if (!datos.pais || !datos.nombre || !datos.localidad || !datos.provincia || !datos.contacto_email) return json({ error: 'Faltan campos obligatorios.' }, 400);
   for (const u of ['facebook','instagram','google_maps','web']) if (datos[u] && !/^https?:\/\//i.test(datos[u])) return json({ error: `El enlace de ${u} no es válido.` }, 400);
 
   const id = crypto.randomUUID();

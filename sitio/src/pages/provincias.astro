@@ -1,8 +1,0 @@
----
-import Base from '../layouts/Base.astro';
-import { provincias, urlProvincia } from '../lib/datos';
----
-<Base titulo="Iglesias por provincia | Iglesias de Argentina" descripcion="Listado de templos y comunidades de fe de Argentina por provincia.">
-  <h1>Provincias</h1>
-  <ul class="lista">{provincias.map(p => <li><a href={urlProvincia(p.slug)}>{p.nombre}</a> <small>{p.iglesias.length.toLocaleString('es-AR')} fichas</small></li>)}</ul>
-</Base>

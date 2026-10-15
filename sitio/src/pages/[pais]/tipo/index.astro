@@ -1,0 +1,13 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { paises, tiposDe, urlTipo, urlPais } from '../../../lib/datos';
+export function getStaticPaths() { return paises.map(p => ({ params: { pais: p.slug }, props: { p } })); }
+const { p } = Astro.props;
+const tipos = tiposDe(p.iglesias);
+---
+<Base titulo={`Iglesias de ${p.nombre} por denominación y religión`} descripcion={`Las ${p.iglesias.length.toLocaleString('es')} fichas de ${p.nombre} agrupadas por denominación: ${tipos.slice(0, 8).map(t => `${t.nombre} (${t.iglesias.length})`).join(', ')}.`}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(p.slug)}>{p.nombre}</a></nav>
+  <h1>Tipos de comunidad en {p.nombre}</h1>
+  <p>La denominación se toma de OpenStreetMap o se infiere del nombre de la entidad registrada; puede tener errores. Las iglesias pueden corregirla al reclamar su ficha.</p>
+  <ul class="lista">{tipos.map(t => <li><a href={urlTipo(p.slug, t.slug)}>{t.nombre}</a> <small>{t.iglesias.length.toLocaleString('es')} fichas</small></li>)}</ul>
+</Base>

@@ -1,0 +1,22 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { paises, tiposDe, urlPais, urlProvincia, urlLocalidad } from '../../../lib/datos';
+export function getStaticPaths() { return paises.flatMap(p => tiposDe(p.iglesias).map(t => ({ params: { pais: p.slug, den: t.slug }, props: { p, t } }))); }
+const { p, t } = Astro.props;
+const porProv = new Map<string, { nombre: string; slug: string; n: number; locs: Map<string, { nombre: string; slug: string; n: number }> }>();
+for (const i of t.iglesias) {
+  const r = porProv.get(i.provincia_slug) ?? { nombre: i.provincia, slug: i.provincia_slug, n: 0, locs: new Map() }; r.n++;
+  const l = r.locs.get(i.localidad_slug) ?? { nombre: i.localidad, slug: i.localidad_slug, n: 0 }; l.n++; r.locs.set(i.localidad_slug, l); porProv.set(i.provincia_slug, r);
+}
+const provs = [...porProv.values()].sort((a, b) => b.n - a.n);
+const desc = `${t.iglesias.length.toLocaleString('es')} iglesias y comunidades de tipo ${t.nombre} en ${p.nombre}, por ${p.region_nombre} y localidad. ${provs.slice(0, 5).map(r => `${r.nombre}: ${r.n}`).join(', ')}.`;
+---
+<Base titulo={`Iglesias ${t.nombre} en ${p.nombre}: ${t.iglesias.length.toLocaleString('es')} templos`} descripcion={desc}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(p.slug)}>{p.nombre}</a> › <a href={`${urlPais(p.slug)}tipo/`}>Por tipo</a></nav>
+  <h1>Iglesias {t.nombre} en {p.nombre}</h1>
+  <p>{desc}</p>
+  {provs.map(r => <>
+    <h2><a href={urlProvincia(p.slug, r.slug)}>{r.nombre}</a> <small>({r.n})</small></h2>
+    <ul class="grilla">{[...r.locs.values()].sort((a, b) => b.n - a.n).slice(0, 60).map(l => <li><a href={urlLocalidad(p.slug, r.slug, l.slug)}>{l.nombre}</a> <small>({l.n})</small></li>)}</ul>
+  </>)}
+</Base>

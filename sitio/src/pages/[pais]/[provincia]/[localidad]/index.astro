@@ -1,0 +1,30 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import { paises, provinciasDe, localidadesDe, urlIglesia, urlProvincia, urlPais, NOMBRE_SITIO } from '../../../../lib/datos';
+export function getStaticPaths() {
+  return paises.flatMap(p => provinciasDe(p.slug).flatMap(r => localidadesDe(p.slug, r.slug).map(l => ({ params: { pais: p.slug, provincia: r.slug, localidad: l.slug }, props: { p, r, l } }))));
+}
+const { p, r, l } = Astro.props;
+const lista = [...l.iglesias].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
+const porDen = new Map<string, number>();
+for (const i of lista) porDen.set(i.denominacion ?? 'Sin clasificar', (porDen.get(i.denominacion ?? 'Sin clasificar') ?? 0) + 1);
+const dens = [...porDen.entries()].sort((a, b) => b[1] - a[1]);
+const resumen = `En ${l.nombre}, ${r.nombre}, ${p.nombre}, este directorio registra ${lista.length} ${lista.length === 1 ? 'iglesia o comunidad de fe' : 'iglesias y comunidades de fe'}: ${dens.slice(0, 6).map(([d, n]) => `${n} ${d.toLowerCase()}`).join(', ')}${dens.length > 6 ? ', entre otras' : ''}.`;
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const jsonld = { '@context': 'https://schema.org', '@graph': [
+  { '@type': 'ItemList', '@id': `${url}#lista`, name: `Iglesias en ${l.nombre}, ${r.nombre}, ${p.nombre}`, description: resumen, numberOfItems: lista.length,
+    itemListElement: lista.map((i, n) => ({ '@type': 'ListItem', position: n + 1, url: new URL(urlIglesia(i), Astro.site).href, name: i.nombre })) },
+  { '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: NOMBRE_SITIO, item: Astro.site?.href },
+    { '@type': 'ListItem', position: 2, name: p.nombre, item: new URL(urlPais(p.slug), Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: r.nombre, item: new URL(urlProvincia(p.slug, r.slug), Astro.site).href },
+    { '@type': 'ListItem', position: 4, name: l.nombre, item: url } ] } ] };
+---
+<Base titulo={`Iglesias en ${l.nombre}, ${r.nombre}, ${p.nombre}: ${lista.length} templos y comunidades`} descripcion={resumen.slice(0, 300)} jsonld={jsonld}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(p.slug)}>{p.nombre}</a> › <a href={urlProvincia(p.slug, r.slug)}>{r.nombre}</a></nav>
+  <h1>Iglesias en {l.nombre}</h1>
+  <p>{resumen}</p>
+  <p>¿Falta la tuya o tiene datos viejos? <a href={`/sumarse/?pais=${p.slug}`}>Sumala o corregila</a>. Esta lista también está en <a href={`/${p.slug}/${r.slug}/${l.slug}.md`}>formato Markdown</a> para asistentes de IA.</p>
+  {dens.length > 1 && <p><small>{dens.map(([d, n]) => `${d}: ${n}`).join(' · ')}</small></p>}
+  <ul class="lista">{lista.map(i => <li><a href={urlIglesia(i)}>{i.nombre}</a><small>{i.denominacion ?? 'Sin clasificar'}{i.direccion ? ` · ${i.direccion}` : ''}{i.horarios ? ` · ${i.horarios}` : ''}</small></li>)}</ul>
+</Base>

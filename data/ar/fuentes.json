@@ -1,0 +1,53 @@
+{
+  "pais": "Argentina",
+  "iso": "ar",
+  "region_nombre": "provincia",
+  "actualizado": "2026-10-15",
+  "fuentes": [
+    {
+      "nombre": "Registro Nacional de Cultos",
+      "organismo": "Secretaría de Culto, Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+      "url": "https://www.cancilleria.gob.ar/es/iniciativas/datos-abiertos/set-de-datos-de-culto",
+      "archivo": "data/ar/raw/registro-culto-export.csv",
+      "descarga": "2026-10-15",
+      "licencia": "Datos públicos del Estado argentino",
+      "que_aporta": "Nombre, dirección, localidad y provincia de 30.178 entidades religiosas no católicas y sus filiales (templos). Por ley no incluye a la Iglesia Católica.",
+      "script": "scripts/ar/registro_cultos.py",
+      "limitaciones": "Sin horarios, contacto ni coordenadas. Direcciones a veces catastrales (manzana y lote). Sin fecha de última actualización publicada."
+    },
+    {
+      "nombre": "OpenStreetMap",
+      "organismo": "Comunidad OpenStreetMap",
+      "url": "https://www.openstreetmap.org/copyright",
+      "archivo": "data/ar/raw/osm-place-of-worship.json",
+      "descarga": "2026-10-15",
+      "licencia": "ODbL 1.0",
+      "que_aporta": "8.206 lugares de culto con coordenadas (7.054 con nombre), de los cuales unos 2.600 son católicos. Algunos con web, teléfono, horarios y redes.",
+      "script": "scripts/comunes/enriquecer_osm.py (consulta en data/ar/raw/overpass.ql)",
+      "limitaciones": "Cobertura desigual según la ciudad. Solo 77 se pudieron cruzar con el registro oficial; el resto son fichas separadas y puede haber duplicados."
+    },
+    {
+      "nombre": "API georef",
+      "organismo": "Datos Argentina (Jefatura de Gabinete)",
+      "url": "https://datosgobar.github.io/georef-ar-api/",
+      "archivo": "data/ar/geo.json",
+      "descarga": "2026-10-15",
+      "licencia": "Datos públicos del Estado argentino",
+      "que_aporta": "Provincia y municipio de cada punto de OpenStreetMap, y coordenadas aproximadas para 8.268 direcciones del registro.",
+      "script": "scripts/ar/geocodificar_georef.py y scripts/ar/aplicar_geo.py",
+      "limitaciones": "Solo se aceptaron resultados filtrados por localidad o departamento; sin filtro la API ubica la calle en otro partido."
+    },
+    {
+      "nombre": "Aportes de las iglesias",
+      "organismo": "Formulario del sitio, revisado por un asistente y una persona",
+      "url": "/sumarse/",
+      "licencia": "ODbL 1.0 (al enviar, la iglesia acepta publicar los datos bajo esta licencia)",
+      "que_aporta": "Horarios, contacto, redes, correcciones y fichas nuevas.",
+      "script": "sitio/agente/procesar.ts"
+    }
+  ],
+  "pendientes": [
+    "Parroquias católicas: guía eclesiástica de AICA o webs de cada diócesis.",
+    "Cruce más fino entre OpenStreetMap y el registro para eliminar duplicados."
+  ]
+}

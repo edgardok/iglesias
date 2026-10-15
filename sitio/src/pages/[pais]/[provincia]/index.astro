@@ -1,0 +1,13 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { paises, provinciasDe, localidadesDe, urlLocalidad, urlPais } from '../../../lib/datos';
+export function getStaticPaths() { return paises.flatMap(p => provinciasDe(p.slug).map(r => ({ params: { pais: p.slug, provincia: r.slug }, props: { p, r } }))); }
+const { p, r } = Astro.props;
+const locs = localidadesDe(p.slug, r.slug);
+---
+<Base titulo={`Iglesias en ${r.nombre}, ${p.nombre}: ${r.iglesias.length.toLocaleString('es')} templos por localidad`} descripcion={`Templos, iglesias y comunidades de fe en ${r.nombre}, ${p.nombre}, ordenados por localidad. ${locs.length} localidades.`}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(p.slug)}>{p.nombre}</a></nav>
+  <h1>Iglesias en {r.nombre}</h1>
+  <p>{r.iglesias.length.toLocaleString('es')} fichas en {locs.length} localidades de {r.nombre}, {p.nombre}.</p>
+  <ul class="grilla">{locs.map(l => <li><a href={urlLocalidad(p.slug, r.slug, l.slug)}>{l.nombre}</a> <small>({l.iglesias.length})</small></li>)}</ul>
+</Base>

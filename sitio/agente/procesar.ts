@@ -14,12 +14,14 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { z } from 'zod';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+
+const PAISES: Record<string, string> = { ar: 'Argentina', bo: 'Bolivia', br: 'Brasil', cl: 'Chile', co: 'Colombia', cr: 'Costa Rica', cu: 'Cuba', ec: 'Ecuador', sv: 'El Salvador', gt: 'Guatemala', hn: 'Honduras', mx: 'México', ni: 'Nicaragua', pa: 'Panamá', py: 'Paraguay', pe: 'Perú', pr: 'Puerto Rico', do: 'República Dominicana', uy: 'Uruguay', ve: 'Venezuela' };
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const RAIZ = resolve(dirname(fileURLToPath(import.meta.url)), '..', '..');
-const RUTA_DATOS = resolve(RAIZ, 'data', 'iglesias.json');
+const rutaDatos = (pais: string) => resolve(RAIZ, 'data', pais, 'iglesias.json');
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
 const localIdx = args.indexOf('--local');
@@ -36,13 +38,13 @@ const Decision = z.object({
   confianza: z.number().min(0).max(1),
   ficha: z.object({
     nombre: z.string(), denominacion: z.string().nullable(), direccion: z.string().nullable(),
-    localidad: z.string(), provincia: z.string(), horarios: z.string().nullable(),
+    localidad: z.string(), provincia: z.string().describe('Región de primer nivel del país: provincia, departamento o estado'), horarios: z.string().nullable(),
     telefono: z.string().nullable(), email: z.string().nullable(), web: z.string().nullable(),
     facebook: z.string().nullable(), instagram: z.string().nullable(), google_maps: z.string().nullable(),
   }).describe('Datos normalizados a publicar. Teléfonos en formato +54..., URLs completas, horarios legibles.'),
 });
 
-const SISTEMA = `Sos el asistente de un directorio abierto de iglesias de Argentina. Recibís lo que una persona cargó en un formulario
+const SISTEMA = `Sos el asistente de un directorio abierto de iglesias de América Latina. Recibís lo que una persona cargó en un formulario
 para sumar o reclamar la ficha de su iglesia, junto con fichas existentes que podrían ser la misma iglesia.
 
 Decidí una de cuatro acciones:
@@ -86,14 +88,18 @@ async function marcar(id: string, estado: string, resolucion: unknown) {
 
 async function main() {
   const client = new Anthropic();
-  const iglesias: Iglesia[] = JSON.parse(readFileSync(RUTA_DATOS, 'utf8'));
   const pendientes = await traerPendientes();
   console.log(`${pendientes.length} solicitudes pendientes`);
-  let cambios = 0;
+  const porPais = new Map<string, Iglesia[]>();
+  const cargar = (pais: string) => { if (!porPais.has(pais)) { try { porPais.set(pais, JSON.parse(readFileSync(rutaDatos(pais), 'utf8'))); } catch { porPais.set(pais, []); } } return porPais.get(pais)!; };
+  let cambios = 0; const paisesTocados = new Set<string>();
 
   for (const s of pendientes) {
+    const pais = (s.datos.pais || 'ar').toLowerCase();
+    if (!/^[a-z]{2}$/.test(pais)) { await marcar(s.id, 'revisar', { motivo: 'país inválido' }); continue; }
+    const iglesias = cargar(pais); paisesTocados.add(pais);
     const cands = candidatas(iglesias, s.datos);
-    const { contacto_nombre, contacto_email, ...publicos } = s.datos; // los datos de contacto privados no van al modelo
+    const { contacto_nombre, contacto_email, ...publicos } = s.datos; const nombrePais = PAISES[pais] ?? pais.toUpperCase(); // los datos de contacto privados no van al modelo
     const res = await client.beta.messages.parse({
       model: 'claude-opus-5-5',
       max_tokens: 4000,
@@ -116,7 +122,7 @@ async function main() {
     } else if (d.accion === 'crear') {
       const f = d.ficha; const base = slugify(`${f.nombre} ${f.localidad}`); let slug = base, n = 1;
       while (iglesias.some(i => i.slug === slug)) slug = `${base}-${++n}`;
-      iglesias.push({ slug, nombre: f.nombre, entidad: f.nombre, entidad_slug: slugify(f.nombre), filial: null, direccion: f.direccion ?? '', localidad: f.localidad, localidad_slug: slugify(f.localidad),
+      iglesias.push({ pais: nombrePais, pais_slug: pais, slug, nombre: f.nombre, entidad: f.nombre, entidad_slug: slugify(f.nombre), filial: null, direccion: f.direccion ?? '', localidad: f.localidad, localidad_slug: slugify(f.localidad),
         provincia: f.provincia, provincia_slug: f.provincia === 'Ciudad Autónoma de Buenos Aires' ? 'caba' : slugify(f.provincia), registro_ci: null, fuente: 'Aportado por la iglesia',
         denominacion: f.denominacion, web: f.web, facebook: f.facebook, instagram: f.instagram, google_maps: f.google_maps, telefono: f.telefono, email: f.email, horarios: f.horarios, lat: null, lon: null, reclamada: true });
       cambios++;
@@ -124,7 +130,10 @@ async function main() {
     await marcar(s.id, d.accion === 'revisar' ? 'revisar' : d.accion === 'rechazar' ? 'rechazada' : 'aprobada', d);
   }
 
-  if (cambios && !dryRun) { writeFileSync(RUTA_DATOS, JSON.stringify(iglesias, null, 0)); console.log(`${cambios} cambios escritos en data/iglesias.json. Revisá el diff, commiteá y desplegá.`); }
+  if (cambios && !dryRun) {
+    for (const pais of paisesTocados) { mkdirSync(dirname(rutaDatos(pais)), { recursive: true }); writeFileSync(rutaDatos(pais), JSON.stringify(porPais.get(pais), null, 0)); }
+    console.log(`${cambios} cambios escritos en data/<pais>/iglesias.json (${[...paisesTocados].join(', ')}). Revisá el diff, commiteá y desplegá.`);
+  }
   else console.log(`${cambios} cambios${dryRun ? ' (dry-run, nada escrito)' : ''}.`);
 }
 

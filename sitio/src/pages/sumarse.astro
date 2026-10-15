@@ -1,21 +1,23 @@
 ---
 import Base from '../layouts/Base.astro';
+import { PAISES_LATAM } from '../lib/datos';
 const siteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '1x00000000000000000000AA'; // clave de prueba de Cloudflare: siempre pasa
 ---
-<Base titulo="Sumar o reclamar mi iglesia | Iglesias de Argentina" descripcion="Formulario para sumar una iglesia al directorio abierto o reclamar y corregir una ficha existente. Gratis.">
+<Base titulo="Sumar o reclamar mi iglesia | Iglesias de América Latina" descripcion="Formulario para sumar una iglesia de cualquier país de América Latina al directorio abierto, o reclamar y corregir una ficha existente. Gratis.">
   <h1>Sumá o reclamá tu iglesia</h1>
-  <p>Contanos los datos de tu iglesia. Un asistente revisa lo que llega, lo cruza con el registro oficial y publica la ficha. Nadie va a venderte nada: el directorio es gratis y abierto.</p>
+  <p>Contanos los datos de tu iglesia. Vale para cualquier país de América Latina, aunque todavía no tenga datos cargados. Un asistente revisa lo que llega, lo cruza con los registros públicos y publica la ficha. Nadie va a venderte nada: el directorio es gratis y abierto.</p>
   <form id="f" method="post" action="/api/sumarse">
     <input type="hidden" name="slug" id="slug" />
+    <label>País <select name="pais" id="pais" required>
+      <option value="">Elegí</option>
+      {PAISES_LATAM.map(p => <option value={p.slug}>{p.nombre}</option>)}
+    </select></label>
     <p id="reclamo" hidden class="aviso">Estás reclamando la ficha <strong id="reclamo-slug"></strong>. Completá solo lo que quieras corregir o agregar.</p>
     <label>Nombre de la iglesia <input name="nombre" required maxlength="200" /></label>
     <label>Denominación o red <input name="denominacion" maxlength="200" placeholder="Ej.: Bautista, Asambleas de Dios, Católica, independiente" /></label>
     <label>Dirección <input name="direccion" maxlength="200" /></label>
     <label>Localidad <input name="localidad" required maxlength="120" /></label>
-    <label>Provincia <select name="provincia" required>
-      <option value="">Elegí</option>
-      {['Buenos Aires','Catamarca','Chaco','Chubut','Ciudad Autónoma de Buenos Aires','Córdoba','Corrientes','Entre Ríos','Formosa','Jujuy','La Pampa','La Rioja','Mendoza','Misiones','Neuquén','Río Negro','Salta','San Juan','San Luis','Santa Cruz','Santa Fe','Santiago del Estero','Tierra del Fuego','Tucumán'].map(p => <option>{p}</option>)}
-    </select></label>
+    <label>Provincia, departamento o estado <input name="provincia" required maxlength="120" placeholder="Ej.: Buenos Aires, Antioquia, Jalisco" /></label>
     <label>Horarios de reunión <textarea name="horarios" rows="2" maxlength="500" placeholder="Ej.: Domingos 10:00 y 19:00, miércoles 20:00 oración"></textarea></label>
     <label>Teléfono o WhatsApp <input name="telefono" maxlength="40" /></label>
     <label>Email de contacto público <input name="email" type="email" maxlength="120" /></label>
@@ -32,7 +34,8 @@ const siteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '1x0000000000000000
   </form>
   <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
   <script is:inline>
-    const slug = new URLSearchParams(location.search).get('slug');
+    const qs = new URLSearchParams(location.search); const slug = qs.get('slug'); const pais = qs.get('pais');
+    if (pais) document.getElementById('pais').value = pais;
     if (slug) { document.getElementById('slug').value = slug; document.getElementById('reclamo').hidden = false; document.getElementById('reclamo-slug').textContent = slug; }
     const f = document.getElementById('f'), msj = document.getElementById('msj');
     f.addEventListener('submit', async (e) => {

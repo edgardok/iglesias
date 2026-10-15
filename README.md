@@ -1,41 +1,63 @@
-# Iglesias de Argentina: directorio abierto
+# Iglesias de América Latina: directorio abierto
 
-MVP de un directorio estático con una ficha por templo, pensado para que buscadores y asistentes de IA
-puedan leer qué iglesias hay en cada localidad. Datos del Registro Nacional de Cultos y OpenStreetMap,
-completados por las propias iglesias a través de un formulario.
+Directorio estático con una URL por templo, pensado para que buscadores y asistentes de IA puedan responder
+"qué iglesias hay en tal localidad". Miles de iglesias existen solo en Facebook, Instagram o WhatsApp, que ni
+Google ni los modelos de lenguaje pueden leer. Acá juntamos los datos públicos de cada país, los normalizamos
+y los publicamos con datos estructurados, documentando de dónde sale cada dato.
+
+Alcance: América Latina, país por país. Hoy está Argentina (37.155 fichas). Cada país se suma cuando hay una
+fuente pública confiable.
 
 ## Estructura
 
-- `data/raw/`: fuentes tal como se bajaron (CSV de Cancillería, JSON de Overpass). No se editan.
-- `data/iglesias.json`: el dataset normalizado. Es la única fuente de verdad del sitio.
-- `scripts/normalizar.py`: CSV oficial a JSON.
-- `scripts/enriquecer_osm.py`: fusiona OpenStreetMap y asigna provincia y municipio con la API georef.
-- `scripts/denominacion.py`: normaliza la denominación de OSM e infiere la del resto a partir del nombre.
-- `scripts/geocodificar.py` + `scripts/aplicar_geo.py`: geocodifican direcciones del registro con georef (solo con filtro de localidad o departamento; sin filtro georef ubica mal). Resultado en `data/geo.json`.
-- `sitio/`: Astro (estático) + Worker de Cloudflare para el formulario.
-  - `src/pages/`: inicio, provincias, localidades (HTML y `.md`), tipo/denominación, ficha por iglesia, formulario, robots, llms.txt, sitemap index, datos.
-  - `functions/api/`: handlers del formulario (Turnstile + D1) y del endpoint para el agente.
-  - `worker/index.ts`: enruta `/api/*` a los handlers y sirve el resto como assets.
-  - `agente/procesar.ts`: agente con Claude que revisa las solicitudes y actualiza `data/iglesias.json`.
+```
+data/<iso>/            un país por carpeta (código ISO 3166-1 en minúsculas)
+  raw/                 fuentes tal como se bajaron; no se editan
+  iglesias.json        dataset normalizado del país
+  fuentes.json         de dónde salió cada dato: organismo, URL, licencia, fecha, script, limitaciones
+  geo.json             coordenadas obtenidas por geocodificación (si aplica)
+scripts/<iso>/         scripts específicos del país (parsear su registro, geocodificar con su API)
+scripts/comunes/       scripts que sirven para todos: OpenStreetMap, inferencia de denominación
+sitio/                 Astro (estático) + Worker de Cloudflare para el formulario
+  src/pages/           inicio, países, /<pais>/ por región, localidades (HTML y .md), tipo, fuentes, ficha por iglesia, formulario, llms.txt, sitemaps, datos
+  functions/api/       handlers del formulario (Turnstile + D1) y del endpoint para el agente
+  worker/index.ts      enruta /api/* a los handlers y sirve el resto como assets
+  agente/procesar.ts   agente con Claude que revisa las solicitudes y actualiza data/<pais>/iglesias.json
+```
+
+Detalle de los datos y cómo sumar un país: [data/README.md](data/README.md).
+
+## URLs
+
+- `/<pais>/` país por región · `/<pais>/<region>/` · `/<pais>/<region>/<localidad>/` y `.md`
+- `/<pais>/iglesia/<slug>/` ficha permanente de cada iglesia
+- `/<pais>/tipo/<denominacion>/` · `/<pais>/fuentes/`
+- `/fuentes/`, `/datos/`, `/datos/iglesias.json`, `/datos/<pais>.json`, `/llms.txt`, `/sitemap.xml`
 
 ## Optimización para buscadores y LLMs
 
-- Una URL permanente por iglesia: `/iglesia/<slug>/`, con un párrafo en prosa que resume todo lo que se sabe de ella y JSON-LD (`PlaceOfWorship` + `Organization`, `BreadcrumbList`, `WebPage`) con dirección, geo, horarios, identificador del registro y `sameAs` a web y redes.
-- Páginas por localidad con resumen en prosa, conteo por denominación, `ItemList` completo y una versión Markdown (`/<provincia>/<localidad>.md`) pensada para crawlers de IA.
-- Páginas por tipo (`/tipo/bautista/`, `/tipo/catolica/`, ...) que responden "iglesias X en Argentina" por provincia y localidad.
-- `llms.txt` con la descripción del sitio, cómo está organizado, el esquema del dataset y enlaces a las localidades con más iglesias en Markdown.
+- Una URL permanente por iglesia con un párrafo en prosa que resume lo que se sabe de ella y JSON-LD (`PlaceOfWorship` + `Organization`, `BreadcrumbList`, `WebPage`) con dirección, geo, horarios, identificador del registro y `sameAs` a web y redes.
+- Páginas por localidad con resumen en prosa, conteo por denominación, `ItemList` completo y una versión Markdown pensada para crawlers de IA.
+- Páginas por tipo que responden "iglesias X en <país>" por región y localidad.
+- `llms.txt` con la descripción del sitio, cómo está organizado, el esquema del dataset y las localidades con más iglesias en Markdown.
 - `robots.txt` que permite explícitamente GPTBot, ClaudeBot, Google-Extended y PerplexityBot.
-- Sitemap index con partes de 10.000 URLs.
-- Dataset completo en `/datos/iglesias.json` con CORS abierto.
+- Sitemap index con partes de 10.000 URLs. Dataset completo y por país con CORS abierto.
+- Página de fuentes por país generada desde `fuentes.json`, con enlace al archivo crudo y al script.
 
-## Regenerar datos
+## Principios sobre los datos
+
+- Solo fuentes públicas o con licencia abierta. No se raspan Facebook, Instagram ni Google Maps: las iglesias pegan sus enlaces en el formulario.
+- Preferimos no tener un dato a tenerlo mal (por ejemplo, no se publican coordenadas sin confirmar la localidad).
+- Todo lo que aportan las iglesias se publica bajo ODbL, igual que el resto.
+
+## Regenerar datos (Argentina)
 
 ```bash
-python3 -I scripts/normalizar.py data/raw/registro-culto-export.csv data/iglesias.json
-python3 -I scripts/enriquecer_osm.py data/raw/osm-place-of-worship.json data/iglesias.json
-python3 -I scripts/denominacion.py data/iglesias.json
-python3 -I scripts/geocodificar.py data/iglesias.json data/geo.json   # lento: una hora aprox.
-python3 -I scripts/aplicar_geo.py data/iglesias.json data/geo.json
+python3 -I scripts/ar/registro_cultos.py data/ar/raw/registro-culto-export.csv data/ar/iglesias.json
+python3 -I scripts/comunes/enriquecer_osm.py data/ar/raw/osm-place-of-worship.json data/ar/iglesias.json
+python3 -I scripts/comunes/denominacion.py data/ar/iglesias.json
+python3 -I scripts/ar/geocodificar_georef.py data/ar/iglesias.json data/ar/geo.json   # lento: una hora aprox.
+python3 -I scripts/ar/aplicar_geo.py data/ar/iglesias.json data/ar/geo.json
 ```
 
 ## Sitio
@@ -46,15 +68,17 @@ cd sitio && npm install && npm run build && npm run dev
 
 ## Desplegar en Cloudflare (gratis)
 
-1. `npx wrangler login`
-2. `npx wrangler d1 create iglesias-ar` y pegar el `database_id` en `wrangler.toml`.
-3. `npx wrangler d1 execute iglesias-ar --file=schema.sql --remote`
-4. Crear un sitio en Turnstile (dashboard de Cloudflare), y:
-   `npx wrangler secret put TURNSTILE_SECRET_KEY`, `npx wrangler secret put AGENTE_TOKEN`,
-   exportar `PUBLIC_TURNSTILE_SITE_KEY` antes del build.
-5. `npm run deploy`
+Conectado por GitHub: Workers & Pages → Import a repository → este repo. Root directory `sitio`, build `npm run build`,
+deploy `npx wrangler deploy`. Variables de build: `SITE_URL` (URL pública; define canonical, sitemap y JSON-LD) y
+`PUBLIC_TURNSTILE_SITE_KEY`.
 
-Se usa Workers con assets estáticos y no Pages porque el sitio tiene unas 47.000 archivos y Pages corta en 20.000. La URL pública se configura con `SITE_URL` al hacer el build (afecta canonical, sitemap, llms.txt y JSON-LD).
+Después del primer deploy, para que el formulario funcione:
+
+1. `npx wrangler d1 create iglesias-latam`, pegar el id en `sitio/wrangler.toml` y descomentar el bloque D1.
+2. `npx wrangler d1 execute iglesias-latam --file=schema.sql --remote`
+3. Crear un sitio en Turnstile y cargar `npx wrangler secret put TURNSTILE_SECRET_KEY` y `npx wrangler secret put AGENTE_TOKEN`.
+
+Se usa Workers con assets estáticos y no Pages porque el sitio tiene unos 48.000 archivos y Pages corta en 20.000.
 
 ## Agente
 
@@ -64,12 +88,12 @@ npx tsx agente/procesar.ts --local agente/ejemplo-solicitudes.json --dry-run   #
 API_BASE=https://<worker>.workers.dev AGENTE_TOKEN=... npx tsx agente/procesar.ts
 ```
 
-Necesita credenciales de la API de Anthropic (`ANTHROPIC_API_KEY` o `ant auth login`). El agente escribe en
-`data/iglesias.json` y marca las solicitudes; publicar sigue siendo un commit y un deploy hechos por una persona.
+Necesita credenciales de la API de Anthropic. El agente escribe en `data/<pais>/iglesias.json` y marca las
+solicitudes; publicar sigue siendo un commit y un deploy hechos por una persona.
 
 ## Pendiente
 
-- Correr el agente contra solicitudes reales (no se probó por falta de API key en esta máquina).
-- Parroquias católicas: solo las que están en OpenStreetMap. Falta la guía de AICA o las diócesis.
-- Geocodificar las fichas del registro oficial (hoy solo tienen coordenadas las de OSM).
-- Dominio propio y envío de email a quien reclama la ficha cuando se publica.
+- Más países. Candidatos con registro público: Chile (Registro de Entidades Religiosas), Colombia (Registro Público de Entidades Religiosas del Ministerio del Interior), México (Asociaciones Religiosas de la SEGOB), Perú (Registro de Entidades Religiosas del Ministerio de Justicia), Brasil (CNPJ con CNAE 94.91-0).
+- Correr el agente contra solicitudes reales.
+- Parroquias católicas de Argentina (guía AICA).
+- Email a quien reclama la ficha cuando se publica.

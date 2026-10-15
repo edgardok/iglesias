@@ -1,0 +1,69 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { iglesias, urlProvincia, urlLocalidad, urlPais, urlIglesia, NOMBRE_SITIO } from '../../../lib/datos';
+import { descripcion } from '../../../lib/texto';
+export function getStaticPaths() { return iglesias.map(i => ({ params: { pais: i.pais_slug, slug: i.slug }, props: { i } })); }
+const { i } = Astro.props;
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const dirCompleta = [i.direccion, i.localidad, i.provincia, i.pais].filter(Boolean).join(', ');
+const mapsUrl = i.google_maps ?? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(i.lat ? `${i.lat},${i.lon}` : `${i.nombre}, ${dirCompleta}`)}`;
+const osmUrl = i.lat ? `https://www.openstreetmap.org/?mlat=${i.lat}&mlon=${i.lon}#map=18/${i.lat}/${i.lon}` : null;
+const desc = descripcion(i);
+const cercanas = iglesias.filter(o => o.pais_slug === i.pais_slug && o.localidad_slug === i.localidad_slug && o.provincia_slug === i.provincia_slug && o.slug !== i.slug).slice(0, 8);
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': ['PlaceOfWorship', 'Organization'], '@id': `${url}#lugar`, name: i.nombre, url, description: desc,
+      alternateName: i.filial ? `${i.entidad} filial ${i.filial}` : undefined,
+      keywords: [i.denominacion, i.religion, 'iglesia', 'templo', i.localidad, i.provincia, i.pais].filter(Boolean).join(', '),
+      address: { '@type': 'PostalAddress', streetAddress: i.direccion || undefined, addressLocality: i.localidad, addressRegion: i.provincia, addressCountry: i.pais_slug.toUpperCase() },
+      geo: i.lat ? { '@type': 'GeoCoordinates', latitude: i.lat, longitude: i.lon } : undefined,
+      hasMap: mapsUrl,
+      parentOrganization: i.filial ? { '@type': 'Organization', name: i.entidad } : undefined,
+      identifier: i.registro_ci ? { '@type': 'PropertyValue', propertyID: `Registro de cultos (${i.pais})`, value: i.registro_ci } : undefined,
+      sameAs: [i.web, i.facebook, i.instagram, i.google_maps, i.osm_id ? `https://www.openstreetmap.org/${i.osm_id}` : null].filter(Boolean),
+      telephone: i.telefono || undefined, email: i.email || undefined, openingHours: i.horarios || undefined,
+      isAccessibleForFree: true, publicAccess: true,
+    },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: NOMBRE_SITIO, item: Astro.site?.href },
+      { '@type': 'ListItem', position: 2, name: i.pais, item: new URL(urlPais(i.pais_slug), Astro.site).href },
+      { '@type': 'ListItem', position: 3, name: i.provincia, item: new URL(urlProvincia(i.pais_slug, i.provincia_slug), Astro.site).href },
+      { '@type': 'ListItem', position: 4, name: i.localidad, item: new URL(urlLocalidad(i.pais_slug, i.provincia_slug, i.localidad_slug), Astro.site).href },
+      { '@type': 'ListItem', position: 5, name: i.nombre, item: url } ] },
+    { '@type': 'WebPage', '@id': url, url, name: `${i.nombre} - ${i.localidad}, ${i.provincia}, ${i.pais}`, description: desc, inLanguage: 'es', about: { '@id': `${url}#lugar` },
+      isPartOf: { '@type': 'WebSite', name: NOMBRE_SITIO, url: Astro.site?.href }, license: 'https://opendatacommons.org/licenses/odbl/1-0/' },
+  ],
+};
+---
+<Base titulo={`${i.nombre} - ${i.localidad}, ${i.provincia}, ${i.pais}`} descripcion={desc.slice(0, 300)} jsonld={jsonld}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(i.pais_slug)}>{i.pais}</a> › <a href={urlProvincia(i.pais_slug, i.provincia_slug)}>{i.provincia}</a> › <a href={urlLocalidad(i.pais_slug, i.provincia_slug, i.localidad_slug)}>{i.localidad}</a></nav>
+  <article>
+    <h1>{i.nombre}</h1>
+    <p>{desc}</p>
+    <h2>Datos</h2>
+    <dl>
+      <dt>Tipo</dt><dd>{i.denominacion ?? 'Sin dato'}{i.religion && i.religion !== i.denominacion ? ` · ${i.religion}` : ''}</dd>
+      <dt>Dirección</dt><dd>{i.direccion || 'Sin dato'}, {i.localidad}, {i.provincia}, {i.pais}</dd>
+      {i.filial && <><dt>Entidad</dt><dd>{i.entidad} (filial {i.filial})</dd></>}
+      <dt>Horarios</dt><dd>{i.horarios ?? 'No informados. Si es tu iglesia, agregalos abajo.'}</dd>
+      <dt>Teléfono</dt><dd>{i.telefono ? <a href={`tel:${i.telefono}`}>{i.telefono}</a> : 'No informado'}</dd>
+      {i.email && <><dt>Email</dt><dd><a href={`mailto:${i.email}`}>{i.email}</a></dd></>}
+      {i.web && <><dt>Sitio web</dt><dd><a href={i.web} rel="nofollow noopener">{i.web}</a></dd></>}
+      {i.facebook && <><dt>Facebook</dt><dd><a href={i.facebook} rel="nofollow noopener">{i.facebook}</a></dd></>}
+      {i.instagram && <><dt>Instagram</dt><dd><a href={i.instagram} rel="nofollow noopener">{i.instagram}</a></dd></>}
+      <dt>Mapa</dt><dd><a href={mapsUrl} rel="nofollow noopener">{i.google_maps ? 'Ver en Google Maps' : 'Buscar en Google Maps'}</a>{osmUrl && <> · <a href={osmUrl} rel="nofollow noopener">OpenStreetMap</a></>}{i.lat && <small> · {i.lat}, {i.lon}{i.geo_fuente ? ' (aprox.)' : ''}</small>}</dd>
+      <dt>Fuente</dt><dd><a href={`${urlPais(i.pais_slug)}fuentes/`}>{i.fuente}</a>{i.registro_ci ? ` · inscripción N° ${i.registro_ci}` : ''}</dd>
+    </dl>
+    <div class="aviso">
+      <strong>{i.reclamada ? 'Ficha reclamada y mantenida por la iglesia.' : '¿Esta es tu iglesia?'}</strong>
+      {!i.reclamada && <> Reclamá la ficha para agregar horarios, contacto y redes. Es gratis y lleva dos minutos. <a class="boton" href={`/sumarse/?pais=${i.pais_slug}&slug=${i.slug}`} style="margin-left:.5rem">Reclamar ficha</a></>}
+    </div>
+    {cercanas.length > 0 && <>
+      <h2>Otras iglesias en {i.localidad}</h2>
+      <ul class="lista">{cercanas.map(c => <li><a href={urlIglesia(c)}>{c.nombre}</a><small>{c.denominacion ?? ''}{c.direccion ? ` · ${c.direccion}` : ''}</small></li>)}</ul>
+      <p><a href={urlLocalidad(i.pais_slug, i.provincia_slug, i.localidad_slug)}>Ver todas las iglesias de {i.localidad}</a></p>
+    </>}
+  </article>
+</Base>

@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import { paises, PAISES_LATAM, urlPais } from '../lib/datos';
+const cubiertos = new Set(paises.map(p => p.slug));
+---
+<Base titulo="Países | Iglesias de América Latina" descripcion="Países cubiertos por el directorio abierto de iglesias de América Latina y cantidad de fichas en cada uno.">
+  <h1>Países</h1>
+  <ul class="lista">{PAISES_LATAM.map(p => cubiertos.has(p.slug)
+    ? <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>{paises.find(x => x.slug === p.slug)!.iglesias.length.toLocaleString('es')} fichas · <a href={`${urlPais(p.slug)}fuentes/`}>fuentes</a></small></li>
+    : <li class="gris">{p.nombre} <small>Próximamente. ¿Conocés un registro público de iglesias de este país? <a href="https://github.com/edgardok/iglesias/issues">Avisanos</a>.</small></li>)}</ul>
+</Base>

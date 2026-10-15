@@ -2,7 +2,9 @@ import type { Iglesia } from './datos';
 
 /** Párrafo descriptivo en prosa, pensado para que un buscador o un LLM lo pueda citar tal cual. */
 export function descripcion(i: Iglesia): string {
-  const tipo = i.denominacion ? `${/^(Católica|Evangélica|Pentecostal|Bautista|Luterana|Metodista|Anglicana|Ortodoxa|Judía|Musulmana|Budista|Hinduista|Espiritista|Menonita)$/.test(i.denominacion) ? 'comunidad ' + i.denominacion.toLowerCase() : i.denominacion}` : (i.religion ? `comunidad ${i.religion.toLowerCase()}` : 'comunidad de fe');
+  const noCristiana = i.religion && i.religion !== 'Cristiana';
+  const tipo = noCristiana ? `comunidad ${i.religion!.toLowerCase()}${i.denominacion && i.denominacion !== i.religion ? ` (${i.denominacion})` : ''}`
+    : i.denominacion ? `iglesia de denominación ${i.denominacion}` : 'iglesia o comunidad de fe';
   const partes = [`${i.nombre} es una ${tipo} ubicada en ${i.localidad}, provincia de ${i.provincia}, Argentina.`];
   if (i.direccion) partes.push(`Su dirección es ${i.direccion}, ${i.localidad}.`);
   if (i.filial) partes.push(`Es la filial ${i.filial} de ${i.entidad}, entidad inscripta en el Registro Nacional de Cultos${i.registro_ci ? ` con el número ${i.registro_ci}` : ''}.`);

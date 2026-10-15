@@ -1,0 +1,10 @@
+---
+import Base from '../../layouts/Base.astro';
+import { iglesias } from '../../lib/datos';
+---
+<Base titulo="Datos abiertos | Iglesias de Argentina" descripcion="Descargá el dataset completo del directorio de iglesias de Argentina en JSON. Licencia abierta.">
+  <h1>Datos abiertos</h1>
+  <p>Todo el directorio, {iglesias.length.toLocaleString('es-AR')} fichas, en un solo archivo: <a href="/datos/iglesias.json">iglesias.json</a>.</p>
+  <p>Fuentes: Registro Nacional de Cultos (datos públicos del Estado argentino) y OpenStreetMap (ODbL). Los aportes de las iglesias se publican bajo la misma licencia ODbL. Si usás los datos, citá la fuente y compartí las mejoras.</p>
+  <p>También hay un <a href="/llms.txt">llms.txt</a> para asistentes de IA y un <a href="/sitemap.xml">sitemap.xml</a>.</p>
+</Base>

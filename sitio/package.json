@@ -1,0 +1,20 @@
+{
+  "name": "iglesias-ar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "wrangler dev",
+    "deploy": "astro build && wrangler deploy"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.134.0",
+    "astro": "^5",
+    "tsx": "^4.23.15",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}

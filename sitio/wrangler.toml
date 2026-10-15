@@ -1,0 +1,19 @@
+# Cloudflare Worker con assets estáticos (hasta 100.000 archivos; Pages se queda en 20.000 y el sitio tiene ~42.000).
+name = "iglesias-ar"
+main = "worker/index.ts"
+compatibility_date = "2026-01-01"
+
+[assets]
+directory = "dist"
+binding = "ASSETS"
+not_found_handling = "404-page"
+
+# Crear la base:        npx wrangler d1 create iglesias-ar   (pegar el database_id acá)
+# Aplicar el esquema:   npx wrangler d1 execute iglesias-ar --file=schema.sql --remote
+[[d1_databases]]
+binding = "DB"
+database_name = "iglesias-ar"
+database_id = "REEMPLAZAR"
+
+# Secretos:  npx wrangler secret put TURNSTILE_SECRET_KEY ; npx wrangler secret put AGENTE_TOKEN
+# Variable de build para Astro: PUBLIC_TURNSTILE_SITE_KEY (clave pública de Turnstile)

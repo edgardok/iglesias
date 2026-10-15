@@ -1,0 +1,17 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { provincias, localidadesDe, urlIglesia, urlProvincia } from '../../../lib/datos';
+export function getStaticPaths() {
+  return provincias.flatMap(p => localidadesDe(p.slug).map(l => ({ params: { provincia: p.slug, localidad: l.slug }, props: { p, l } })));
+}
+const { p, l } = Astro.props;
+const lista = [...l.iglesias].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
+const jsonld = { '@context': 'https://schema.org', '@type': 'ItemList', name: `Iglesias en ${l.nombre}, ${p.nombre}`,
+  itemListElement: lista.slice(0, 200).map((i, n) => ({ '@type': 'ListItem', position: n + 1, url: new URL(urlIglesia(i), Astro.site).href, name: i.nombre })) };
+---
+<Base titulo={`Iglesias en ${l.nombre}, ${p.nombre}: ${lista.length} templos`} descripcion={`Listado de ${lista.length} iglesias, templos y comunidades de fe en ${l.nombre}, ${p.nombre}, con dirección y datos de contacto.`} jsonld={jsonld}>
+  <p class="migas"><a href="/">Inicio</a> › <a href={urlProvincia(p.slug)}>{p.nombre}</a></p>
+  <h1>Iglesias en {l.nombre}</h1>
+  <p>{lista.length} fichas en {l.nombre}, {p.nombre}. ¿Falta la tuya? <a href="/sumarse/">Sumala</a>.</p>
+  <ul class="lista">{lista.map(i => <li><a href={urlIglesia(i)}>{i.nombre}</a><small>{i.direccion || 'Sin dirección'}{i.denominacion ? ` · ${i.denominacion}` : ''}</small></li>)}</ul>
+</Base>

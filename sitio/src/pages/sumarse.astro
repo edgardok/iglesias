@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+const siteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '1x00000000000000000000AA'; // clave de prueba de Cloudflare: siempre pasa
+---
+<Base titulo="Sumar o reclamar mi iglesia | Iglesias de Argentina" descripcion="Formulario para sumar una iglesia al directorio abierto o reclamar y corregir una ficha existente. Gratis.">
+  <h1>Sumá o reclamá tu iglesia</h1>
+  <p>Contanos los datos de tu iglesia. Un asistente revisa lo que llega, lo cruza con el registro oficial y publica la ficha. Nadie va a venderte nada: el directorio es gratis y abierto.</p>
+  <form id="f" method="post" action="/api/sumarse">
+    <input type="hidden" name="slug" id="slug" />
+    <p id="reclamo" hidden class="aviso">Estás reclamando la ficha <strong id="reclamo-slug"></strong>. Completá solo lo que quieras corregir o agregar.</p>
+    <label>Nombre de la iglesia <input name="nombre" required maxlength="200" /></label>
+    <label>Denominación o red <input name="denominacion" maxlength="200" placeholder="Ej.: Bautista, Asambleas de Dios, Católica, independiente" /></label>
+    <label>Dirección <input name="direccion" maxlength="200" /></label>
+    <label>Localidad <input name="localidad" required maxlength="120" /></label>
+    <label>Provincia <select name="provincia" required>
+      <option value="">Elegí</option>
+      {['Buenos Aires','Catamarca','Chaco','Chubut','Ciudad Autónoma de Buenos Aires','Córdoba','Corrientes','Entre Ríos','Formosa','Jujuy','La Pampa','La Rioja','Mendoza','Misiones','Neuquén','Río Negro','Salta','San Juan','San Luis','Santa Cruz','Santa Fe','Santiago del Estero','Tierra del Fuego','Tucumán'].map(p => <option>{p}</option>)}
+    </select></label>
+    <label>Horarios de reunión <textarea name="horarios" rows="2" maxlength="500" placeholder="Ej.: Domingos 10:00 y 19:00, miércoles 20:00 oración"></textarea></label>
+    <label>Teléfono o WhatsApp <input name="telefono" maxlength="40" /></label>
+    <label>Email de contacto público <input name="email" type="email" maxlength="120" /></label>
+    <label>Página de Facebook <input name="facebook" type="url" maxlength="300" placeholder="https://www.facebook.com/..." /></label>
+    <label>Instagram <input name="instagram" type="url" maxlength="300" /></label>
+    <label>Enlace de Google Maps <input name="google_maps" type="url" maxlength="500" placeholder="Pegá el link de 'Compartir' de Google Maps" /></label>
+    <label>Sitio web <input name="web" type="url" maxlength="300" /></label>
+    <label>Tu nombre y rol (no se publica) <input name="contacto_nombre" required maxlength="120" placeholder="Ej.: Juan Pérez, pastor" /></label>
+    <label>Tu email (no se publica, para avisarte cuando esté publicada) <input name="contacto_email" type="email" required maxlength="120" /></label>
+    <label>Algo más que quieras contar <textarea name="comentario" rows="3" maxlength="1000"></textarea></label>
+    <div class="cf-turnstile" data-sitekey={siteKey} data-language="es" style="margin-top:1rem"></div>
+    <p><button class="boton" type="submit">Enviar</button></p>
+    <p id="msj" role="status"></p>
+  </form>
+  <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <script is:inline>
+    const slug = new URLSearchParams(location.search).get('slug');
+    if (slug) { document.getElementById('slug').value = slug; document.getElementById('reclamo').hidden = false; document.getElementById('reclamo-slug').textContent = slug; }
+    const f = document.getElementById('f'), msj = document.getElementById('msj');
+    f.addEventListener('submit', async (e) => {
+      e.preventDefault(); msj.textContent = 'Enviando...';
+      const r = await fetch(f.action, { method: 'POST', body: new FormData(f) });
+      const j = await r.json().catch(() => ({}));
+      if (r.ok) { f.reset(); msj.textContent = '¡Gracias! Recibimos los datos. Te avisamos por email cuando la ficha esté publicada.'; }
+      else msj.textContent = j.error ?? 'No pudimos enviar el formulario. Probá de nuevo en un rato.';
+    });
+  </script>
+</Base>

@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { iglesias, urlProvincia, urlLocalidad } from '../../lib/datos';
+export function getStaticPaths() { return iglesias.map(i => ({ params: { slug: i.slug }, props: { i } })); }
+const { i } = Astro.props;
+const dirCompleta = [i.direccion, i.localidad, i.provincia, 'Argentina'].filter(Boolean).join(', ');
+const mapsBusqueda = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${i.nombre}, ${dirCompleta}`)}`;
+const jsonld: Record<string, unknown> = {
+  '@context': 'https://schema.org', '@type': ['PlaceOfWorship', 'Organization'], name: i.nombre, url: new URL(Astro.url.pathname, Astro.site).href,
+  address: { '@type': 'PostalAddress', streetAddress: i.direccion || undefined, addressLocality: i.localidad, addressRegion: i.provincia, addressCountry: 'AR' },
+  parentOrganization: i.filial ? { '@type': 'Organization', name: i.entidad } : undefined,
+  sameAs: [i.web, i.facebook, i.instagram, i.google_maps].filter(Boolean),
+  telephone: i.telefono || undefined, email: i.email || undefined,
+  geo: i.lat ? { '@type': 'GeoCoordinates', latitude: i.lat, longitude: i.lon } : undefined,
+  openingHours: i.horarios || undefined,
+};
+const desc = `${i.nombre}${i.denominacion ? ` (${i.denominacion})` : ''} en ${i.localidad}, ${i.provincia}. ${i.direccion ? `Dirección: ${i.direccion}. ` : ''}${i.horarios ? `Horarios: ${i.horarios}. ` : ''}Ficha del directorio abierto de iglesias de Argentina.`;
+---
+<Base titulo={`${i.nombre} - ${i.localidad}, ${i.provincia}`} descripcion={desc} jsonld={jsonld}>
+  <p class="migas"><a href="/">Inicio</a> › <a href={urlProvincia(i.provincia_slug)}>{i.provincia}</a> › <a href={urlLocalidad(i.provincia_slug, i.localidad_slug)}>{i.localidad}</a></p>
+  <h1>{i.nombre}</h1>
+  <p>{i.denominacion ?? (i.filial ? `Filial de ${i.entidad}` : 'Comunidad de fe')} en {i.localidad}, {i.provincia}.</p>
+  <dl>
+    <dt>Dirección</dt><dd>{i.direccion || 'Sin dato'}, {i.localidad}, {i.provincia}</dd>
+    {i.filial && <><dt>Entidad</dt><dd>{i.entidad} (filial {i.filial})</dd></>}
+    {i.horarios && <><dt>Horarios</dt><dd>{i.horarios}</dd></>}
+    {i.telefono && <><dt>Teléfono</dt><dd><a href={`tel:${i.telefono}`}>{i.telefono}</a></dd></>}
+    {i.email && <><dt>Email</dt><dd><a href={`mailto:${i.email}`}>{i.email}</a></dd></>}
+    {i.web && <><dt>Sitio web</dt><dd><a href={i.web} rel="nofollow">{i.web}</a></dd></>}
+    {i.facebook && <><dt>Facebook</dt><dd><a href={i.facebook} rel="nofollow">{i.facebook}</a></dd></>}
+    {i.instagram && <><dt>Instagram</dt><dd><a href={i.instagram} rel="nofollow">{i.instagram}</a></dd></>}
+    <dt>Mapa</dt><dd><a href={i.google_maps ?? mapsBusqueda} rel="nofollow">{i.google_maps ? 'Ver en Google Maps' : 'Buscar en Google Maps'}</a>{i.lat && <> · <a href={`https://www.openstreetmap.org/?mlat=${i.lat}&mlon=${i.lon}#map=18/${i.lat}/${i.lon}`} rel="nofollow">OpenStreetMap</a></>}</dd>
+    <dt>Fuente</dt><dd>{i.fuente}{i.registro_ci ? ` · inscripción N° ${i.registro_ci}` : ''}</dd>
+  </dl>
+  <div class="aviso">
+    <strong>{i.reclamada ? 'Ficha reclamada por la iglesia.' : '¿Esta es tu iglesia?'}</strong>
+    {!i.reclamada && <> Reclamá la ficha para agregar horarios, contacto y redes. Es gratis. <a class="boton" href={`/sumarse/?slug=${i.slug}`} style="margin-left:.5rem">Reclamar ficha</a></>}
+  </div>
+</Base>

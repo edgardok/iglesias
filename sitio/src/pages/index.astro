@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import { iglesias, provincias, urlProvincia } from '../lib/datos';
+const total = iglesias.length;
+const conCoords = iglesias.filter(i => i.lat).length;
+const reclamadas = iglesias.filter(i => i.reclamada).length;
+---
+<Base titulo="Iglesias de Argentina: directorio abierto de templos y comunidades" descripcion={`Directorio abierto con ${total.toLocaleString('es-AR')} templos, iglesias y comunidades de fe de Argentina, por provincia y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
+  <h1>Que toda iglesia de Argentina sea encontrable</h1>
+  <p>Miles de iglesias existen solo en Facebook, Instagram o WhatsApp. Para Google y para los asistentes de inteligencia artificial, no existen. Este directorio junta los datos públicos de todas y los publica en un formato que cualquier buscador o modelo puede leer.</p>
+  <div class="aviso"><strong>¿Tu iglesia está acá?</strong> Buscala por provincia y localidad. Si falta o tiene datos viejos, <a href="/sumarse/">sumala o corregila</a> en dos minutos.</div>
+  <h2>Por provincia</h2>
+  <ul class="grilla">
+    {provincias.map(p => <li><a href={urlProvincia(p.slug)}>{p.nombre}</a> <small>({p.iglesias.length.toLocaleString('es-AR')})</small></li>)}
+  </ul>
+  <h2>Qué hay hoy</h2>
+  <dl>
+    <dt>Fichas</dt><dd>{total.toLocaleString('es-AR')}</dd>
+    <dt>Con ubicación en mapa</dt><dd>{conCoords.toLocaleString('es-AR')}</dd>
+    <dt>Reclamadas por su iglesia</dt><dd>{reclamadas.toLocaleString('es-AR')}</dd>
+  </dl>
+</Base>

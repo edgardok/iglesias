@@ -57,5 +57,6 @@ for i in ig:
     t = norm(i['entidad'] + ' ' + i['nombre'])
     for pat, den, rel in REGLAS:
         if re.search(pat, t): i['denominacion'] = den; i['religion'] = i.get('religion') or rel; n += 1; break
+ig = [i for i in ig if i.get('denominacion') != 'Católica']  # el directorio no incluye iglesias católicas
 guardar(sys.argv[1], ig)
 import collections; print(n, 'inferidas'); print(collections.Counter(i.get('denominacion') for i in ig).most_common(25))

@@ -11,7 +11,7 @@
       "archivo": "data/ar/raw/registro-culto-export.csv",
       "descarga": "2026-10-15",
       "licencia": "Datos públicos del Estado argentino",
-      "que_aporta": "Nombre, dirección, localidad y provincia de 30.178 entidades religiosas no católicas y sus filiales (templos). Por ley no incluye a la Iglesia Católica.",
+      "que_aporta": "Nombre, dirección, localidad y provincia de 30.178 entidades religiosas y sus filiales (templos). El registro no incluye a la Iglesia Católica, que tampoco forma parte de este directorio.",
       "script": "scripts/ar/registro_cultos.py",
       "limitaciones": "Sin horarios, contacto ni coordenadas. Direcciones a veces catastrales (manzana y lote). Sin fecha de última actualización publicada."
     },
@@ -22,7 +22,7 @@
       "archivo": "data/ar/raw/osm-place-of-worship.json",
       "descarga": "2026-10-15",
       "licencia": "ODbL 1.0",
-      "que_aporta": "8.206 lugares de culto con coordenadas (7.054 con nombre), de los cuales unos 2.600 son católicos. Algunos con web, teléfono, horarios y redes.",
+      "que_aporta": "Lugares de culto con coordenadas y, en algunos casos, web, teléfono, horarios y redes. Se descartan los marcados como católicos.",
       "script": "scripts/comunes/enriquecer_osm.py (consulta en data/ar/raw/overpass.ql)",
       "limitaciones": "Cobertura desigual según la ciudad. Solo 77 se pudieron cruzar con el registro oficial; el resto son fichas separadas y puede haber duplicados."
     },
@@ -47,7 +47,6 @@
     }
   ],
   "pendientes": [
-    "Parroquias católicas: guía eclesiástica de AICA o webs de cada diócesis.",
     "Cruce más fino entre OpenStreetMap y el registro para eliminar duplicados."
   ]
 }

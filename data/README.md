@@ -17,4 +17,4 @@ Para sumar un país: crear la carpeta, bajar las fuentes a `raw/`, escribir los 
 
 | País | Estado | Fichas | Fuentes principales |
 |---|---|---|---|
-| Argentina (`ar`) | publicado | 37.155 | Registro Nacional de Cultos, OpenStreetMap, georef |
+| Argentina (`ar`) | publicado | 32.706 | Registro Nacional de Cultos, OpenStreetMap, georef |

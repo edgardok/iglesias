@@ -1,11 +1,11 @@
 # Iglesias de América Latina: directorio abierto
 
-Directorio estático con una URL por templo, pensado para que buscadores y asistentes de IA puedan responder
+Directorio estático de iglesias evangélicas y otras comunidades de fe no católicas, con una URL por templo, pensado para que buscadores y asistentes de IA puedan responder
 "qué iglesias hay en tal localidad". Miles de iglesias existen solo en Facebook, Instagram o WhatsApp, que ni
 Google ni los modelos de lenguaje pueden leer. Acá juntamos los datos públicos de cada país, los normalizamos
 y los publicamos con datos estructurados, documentando de dónde sale cada dato.
 
-Alcance: América Latina, país por país. Hoy está Argentina (37.155 fichas). Cada país se suma cuando hay una
+Alcance: América Latina, país por país. Hoy está Argentina (32.706 fichas). Cada país se suma cuando hay una
 fuente pública confiable.
 
 ## Estructura
@@ -95,5 +95,4 @@ solicitudes; publicar sigue siendo un commit y un deploy hechos por una persona.
 
 - Más países. Candidatos con registro público: Chile (Registro de Entidades Religiosas), Colombia (Registro Público de Entidades Religiosas del Ministerio del Interior), México (Asociaciones Religiosas de la SEGOB), Perú (Registro de Entidades Religiosas del Ministerio de Justicia), Brasil (CNPJ con CNAE 94.91-0).
 - Correr el agente contra solicitudes reales.
-- Parroquias católicas de Argentina (guía AICA).
 - Email a quien reclama la ficha cuando se publica.

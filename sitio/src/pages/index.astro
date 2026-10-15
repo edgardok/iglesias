@@ -7,7 +7,7 @@ const conHorarios = iglesias.filter(i => i.horarios).length;
 const cubiertos = new Set(paises.map(p => p.slug));
 const tipos = tiposDe(iglesias).slice(0, 12);
 ---
-<Base titulo={`${NOMBRE_SITIO}: directorio abierto de templos y comunidades de fe`} descripcion={`Directorio abierto con ${total.toLocaleString('es')} iglesias, templos y comunidades de fe de América Latina, por país, región y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
+<Base titulo={`${NOMBRE_SITIO}: directorio abierto de templos y comunidades de fe`} descripcion={`Directorio abierto con ${total.toLocaleString('es')} iglesias evangélicas y otras comunidades de fe de América Latina, por país, región y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
   <h1>Que toda iglesia de América Latina sea encontrable</h1>
   <p>Miles de iglesias existen solo en Facebook, Instagram o WhatsApp. Para Google y para los asistentes de inteligencia artificial, no existen. Este directorio junta los datos públicos de cada país y los publica en un formato que cualquier buscador o modelo puede leer, con una URL permanente por iglesia.</p>
   <p><a href="/movimiento/"><strong>Leé por qué hacemos esto</strong></a>: la idea, el foco en los asistentes de IA y cómo sumarse.</p>

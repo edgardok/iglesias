@@ -46,7 +46,8 @@ def georef(puntos):
 
 def main(src_osm, dst):
     iglesias = cargar(dst)
-    els = [e for e in json.load(open(src_osm))['elements'] if e.get('tags', {}).get('name')]
+    CATOLICAS = {'catholic','roman_catholic','greek_catholic','ukrainian_greek_catholic','maronite','folk_catholicism'}
+    els = [e for e in json.load(open(src_osm))['elements'] if e.get('tags', {}).get('name') and e['tags'].get('denomination') not in CATOLICAS]
     pts = [((e.get('lat') or e['center']['lat']), (e.get('lon') or e['center']['lon'])) for e in els]
     ubic = georef(pts)
 

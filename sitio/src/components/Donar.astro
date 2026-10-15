@@ -1,0 +1,17 @@
+---
+interface Props { compacto?: boolean }
+const { compacto = false } = Astro.props;
+const PAYPAL = 'https://www.paypal.com/paypalme/edgardokrause';
+const MP = 'https://link.mercadopago.com.ar/indicedeiglesias';
+---
+{compacto
+  ? <p>Este directorio es gratuito y lo sostenemos entre todos. Si querés ayudarnos a llegar a más iglesias y más países, podés <a href={MP} rel="noopener">donar con Mercado Pago</a> o <a href={PAYPAL} rel="noopener">con PayPal</a>.</p>
+  : <div class="aviso donar">
+      <strong>Ayudanos a llegar a más iglesias.</strong>
+      <p>Este directorio es gratuito para las iglesias y para quien lo consulta. Lo que cuesta es el tiempo de conseguir datos de cada país, limpiarlos y mantenerlos. Si te sirve lo que hacemos, una donación nos ayuda a sumar el próximo país y a que ninguna iglesia quede afuera.</p>
+      <p>
+        <a class="boton" href={MP} rel="noopener">Donar con Mercado Pago</a>
+        <a class="boton secundario" href={PAYPAL} rel="noopener">Donar con PayPal</a>
+      </p>
+      <p><small>Mercado Pago para Argentina en pesos; PayPal para el resto del mundo.</small></p>
+    </div>}

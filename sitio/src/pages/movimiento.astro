@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import Donar from '../components/Donar.astro';
 import { iglesias, paises, NOMBRE_SITIO } from '../lib/datos';
 const total = iglesias.length.toLocaleString('es');
 const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline: 'Que toda iglesia de América Latina sea encontrable', inLanguage: 'es',
@@ -46,5 +47,6 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline:
     <li><strong>Si programás:</strong> el código y los datos están en GitHub. Hay mucho por mejorar: cruce de duplicados, geocodificación, más fuentes.</li>
   </ul>
 
+  <Donar />
   <div class="aviso"><strong>En una frase:</strong> queremos que, cuando alguien le pregunte a cualquier asistente qué iglesias hay en su barrio, ninguna quede afuera por no tener una web.</div>
 </Base>

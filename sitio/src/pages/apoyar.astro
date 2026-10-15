@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import Donar from '../components/Donar.astro';
+import { iglesias, paises } from '../lib/datos';
+---
+<Base titulo="Apoyar el proyecto | Iglesias de América Latina" descripcion="Cómo ayudar a que toda iglesia de América Latina sea encontrable: con una donación, reclamando tu ficha, aportando datos de tu país o código.">
+  <h1>Apoyar el proyecto</h1>
+  <p>Hoy el directorio tiene {iglesias.length.toLocaleString('es')} fichas de {paises.map(p => p.nombre).join(', ')}. Queremos llegar a toda América Latina. Hay cuatro maneras de ayudar, y ninguna es más importante que otra.</p>
+  <Donar />
+  <h2>Con tu iglesia</h2>
+  <p><a href="/sumarse/">Reclamá tu ficha</a> y cargá horarios y un teléfono. Es lo que más le sirve a quien busca, y cada ficha completa mejora el directorio entero.</p>
+  <h2>Con datos</h2>
+  <p>Si conocés un registro público de iglesias de tu país, o sos parte de una red de congregaciones y podés compartir el listado, <a href="https://github.com/edgardok/iglesias/issues">avisanos</a>. Un país nuevo empieza siempre por una fuente.</p>
+  <h2>Con código</h2>
+  <p>Todo es abierto y está en <a href="https://github.com/edgardok/iglesias">GitHub</a>. Hay trabajo en cruce de duplicados, geocodificación, nuevas fuentes y en medir cómo nos leen los asistentes de IA.</p>
+</Base>

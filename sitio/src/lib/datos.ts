@@ -6,7 +6,7 @@ export type Iglesia = {
   registro_ci: string | null; fuente: string;
   web: string | null; facebook: string | null; instagram: string | null; google_maps: string | null;
   telefono: string | null; email: string | null; horarios: string | null; lat: number | null; lon: number | null;
-  reclamada: boolean; religion?: string | null; denominacion?: string | null; osm_id?: string | null;
+  reclamada: boolean; religion?: string | null; denominacion?: string | null; osm_id?: string | null; geo_fuente?: string | null;
 };
 
 export const iglesias = iglesiasJson as Iglesia[];
@@ -32,3 +32,7 @@ export function localidadesDe(provSlug: string) {
 export const urlIglesia = (i: Iglesia) => `/iglesia/${i.slug}/`;
 export const urlProvincia = (s: string) => `/${s}/`;
 export const urlLocalidad = (p: string, l: string) => `/${p}/${l}/`;
+
+export function slugify(s: string) {
+  return s.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^a-zA-Z0-9]+/g, '-').replace(/^-|-$/g, '').toLowerCase();
+}

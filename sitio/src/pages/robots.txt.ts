@@ -12,5 +12,5 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://iglesias-ar.pages.dev/sitemap.xml
+Sitemap: https://iglesias-ar.workers.dev/sitemap.xml
 `, { headers: { 'content-type': 'text/plain; charset=utf-8' } });

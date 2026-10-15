@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import { iglesias, urlIglesia, slugify } from '../../lib/datos';
+export function getStaticPaths() {
+  const m = new Map<string, { nombre: string; iglesias: typeof iglesias }>();
+  for (const i of iglesias) { const d = i.denominacion ?? 'Sin clasificar'; const k = slugify(d); const g = m.get(k) ?? { nombre: d, iglesias: [] }; g.iglesias.push(i); m.set(k, g); }
+  return [...m.entries()].map(([den, g]) => ({ params: { den }, props: g }));
+}
+const { nombre, iglesias: lista } = Astro.props;
+const porProv = new Map<string, { nombre: string; slug: string; n: number; locs: Map<string, { nombre: string; slug: string; n: number }> }>();
+for (const i of lista) {
+  const p = porProv.get(i.provincia_slug) ?? { nombre: i.provincia, slug: i.provincia_slug, n: 0, locs: new Map() }; p.n++;
+  const l = p.locs.get(i.localidad_slug) ?? { nombre: i.localidad, slug: i.localidad_slug, n: 0 }; l.n++; p.locs.set(i.localidad_slug, l); porProv.set(i.provincia_slug, p);
+}
+const provs = [...porProv.values()].sort((a, b) => b.n - a.n);
+const desc = `${lista.length.toLocaleString('es-AR')} iglesias y comunidades de tipo ${nombre} en Argentina, por provincia y localidad. ${provs.slice(0, 5).map(p => `${p.nombre}: ${p.n}`).join(', ')}.`;
+---
+<Base titulo={`Iglesias ${nombre} en Argentina: ${lista.length.toLocaleString('es-AR')} templos`} descripcion={desc}>
+  <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href="/tipo/">Por tipo</a></nav>
+  <h1>Iglesias {nombre} en Argentina</h1>
+  <p>{desc}</p>
+  {provs.map(p => <>
+    <h2><a href={`/${p.slug}/`}>{p.nombre}</a> <small>({p.n})</small></h2>
+    <ul class="grilla">{[...p.locs.values()].sort((a, b) => b.n - a.n).slice(0, 60).map(l => <li><a href={`/${p.slug}/${l.slug}/`}>{l.nombre}</a> <small>({l.n})</small></li>)}</ul>
+  </>)}
+</Base>

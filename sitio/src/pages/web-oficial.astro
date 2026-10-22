@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base titulo="Una web oficial para tu iglesia, gratis | Iglesias de América Latina" descripcion="Si tu iglesia tiene Facebook pero no una web, te armamos un sitio propio con dominio a partir de su ficha del directorio. Gratis, alojado en Cloudflare, editable por vos.">
+  <h1>Una web oficial para tu iglesia, gratis</h1>
+  <p>Si tu iglesia tiene Facebook pero no una web, esto es para vos. A partir de la ficha del directorio armamos un sitio propio: dirección, horarios, contacto, redes, un texto de bienvenida y las fotos que nos mandes. Lo estamos armando ahora; anotarte te pone primero en la lista y nos ayuda a decidir qué construir.</p>
+  <h2>Qué va a incluir</h2>
+  <ul>
+    <li><strong>Una dirección propia</strong> del tipo <code>tuiglesia.&lt;nuestro dominio&gt;</code>, o conectamos el dominio que ya tengas.</li>
+    <li><strong>Plantillas</strong>: elegís entre unos pocos diseños y colores; el contenido lo cambiás vos cuando quieras, sin programar.</li>
+    <li><strong>Hosting</strong> en Cloudflare, sin costo, sin publicidad y sin que tengas que mantener nada.</li>
+    <li><strong>Encontrable</strong>: la web y la ficha se enlazan entre sí, con los datos estructurados que leen Google y los asistentes de IA.</li>
+  </ul>
+  <h2>Qué no incluye, por ahora</h2>
+  <p>Cuentas de usuarios, donaciones online, inscripciones a eventos, transmisiones en vivo. Eso ya es una plataforma, otro proyecto. Si lo necesitás, contanos igual en el pedido: saber cuántos lo piden nos sirve para decidir.</p>
+  <h2>Cómo funciona</h2>
+  <ol>
+    <li>Pedís tu web con el formulario, indicando cuál es tu iglesia en el directorio.</li>
+    <li>Te escribimos para confirmar que sos de la iglesia y pedirte fotos y un texto de bienvenida.</li>
+    <li>Te mandamos el enlace. Desde ahí, los cambios los hacés vos.</li>
+  </ol>
+  <p id="cta"><a class="boton" id="btn-pedir" href="/sumarse/?tipo=web">Pedir mi web oficial</a></p>
+  <script is:inline>
+    const qs = new URLSearchParams(location.search), b = document.getElementById('btn-pedir');
+    if (qs.get('slug')) b.href = `/sumarse/?tipo=web&pais=${encodeURIComponent(qs.get('pais') || '')}&slug=${encodeURIComponent(qs.get('slug'))}`;
+  </script>
+</Base>

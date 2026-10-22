@@ -107,6 +107,13 @@ async function main() {
   for (const s of pendientes) {
     const pais = (s.datos.pais || 'ar').toLowerCase();
     if (!/^[a-z]{2}$/.test(pais)) { await marcar(s.id, 'revisar', { motivo: 'país inválido' }); continue; }
+    const tipo = s.datos.tipo || (s.datos.slug ? 'reclamar' : 'nueva');
+    if (tipo === 'cambio' || tipo === 'web') {
+      // Son conversaciones con una persona, no actualizaciones de datos: van directo a revisión humana.
+      console.log(`  ${s.id}: ${tipo} -> revisar (${s.datos.nombre}, ${s.datos.localidad || 'sin localidad'})`);
+      await marcar(s.id, 'revisar', { accion: 'revisar', motivo: tipo === 'web' ? 'Pedido de web oficial: contactar a la iglesia' : 'Pedido de cambio o ayuda: responder por email', slug_objetivo: s.datos.slug || null });
+      continue;
+    }
     const iglesias = cargar(pais); paisesTocados.add(pais);
     const cands = candidatas(iglesias, s.datos);
     const { contacto_nombre, contacto_email, ...publicos } = s.datos; const nombrePais = PAISES[pais] ?? pais.toUpperCase(); // los datos de contacto privados no van al modelo

@@ -61,10 +61,17 @@ const jsonld = {
       <dt>Mapa</dt><dd><a href={mapsUrl} rel="nofollow noopener">{i.google_maps ? 'Ver en Google Maps' : 'Buscar en Google Maps'}</a>{osmUrl && <> · <a href={osmUrl} rel="nofollow noopener">OpenStreetMap</a></>}{i.lat && <small> · {i.lat}, {i.lon}{i.geo_fuente ? ' (aprox.)' : ''}</small>}</dd>
       <dt>Fuente</dt><dd><a href={`${urlPais(i.pais_slug)}fuentes/`}>{i.fuente}</a>{i.registro_ci ? ` · inscripción N° ${i.registro_ci}` : ''}</dd>
     </dl>
-    <div class="aviso">
-      <strong>{i.reclamada ? 'Ficha reclamada y mantenida por la iglesia.' : '¿Esta es tu iglesia?'}</strong>
-      {!i.reclamada && <> Reclamá la ficha para agregar horarios, contacto y redes. Es gratis y lleva dos minutos. <a class="boton" href={`/sumarse/?pais=${i.pais_slug}&slug=${i.slug}`} style="margin-left:.5rem">Reclamar ficha</a></>}
-    </div>
+    <section class="acciones-ficha">
+      <h2>{i.reclamada ? 'Esta ficha la mantiene la iglesia' : '¿Sos de esta iglesia?'}</h2>
+      <div class="tarjetas-acciones">
+        {!i.reclamada && <a class="accion" href={`/sumarse/?pais=${i.pais_slug}&slug=${i.slug}&tipo=reclamar`}>
+          <strong>Reclamar la ficha</strong><span>Confirmá que es tuya y cargá horarios, teléfono y redes. Gratis, dos minutos.</span></a>}
+        <a class="accion" href={`/sumarse/?pais=${i.pais_slug}&slug=${i.slug}&tipo=cambio`}>
+          <strong>Pedir un cambio o ayuda</strong><span>Un dato mal, una iglesia que cerró, una duda. Te respondemos por email.</span></a>
+        <a class="accion" href={`/web-oficial/?pais=${i.pais_slug}&slug=${i.slug}`}>
+          <strong>Quiero una web oficial</strong><span>Un sitio propio con dominio, gratis, a partir de esta ficha. Elegís la plantilla y lo editás vos.</span></a>
+      </div>
+    </section>
     {cercanas.length > 0 && <>
       <h2>Otras iglesias en {i.localidad}</h2>
       <ul class="lista">{cercanas.map(c => <li><a href={urlIglesiaDe(c.pais_slug, c.slug)}>{c.nombre}</a><small>{c.denominacion ?? ''}{c.direccion ? ` · ${c.direccion}` : ''}</small></li>)}</ul>

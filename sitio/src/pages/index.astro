@@ -1,10 +1,14 @@
 ---
 import Base from '../layouts/Base.astro';
 import Donar from '../components/Donar.astro';
-import { iglesias, paises, PAISES_LATAM, NOMBRE_SITIO } from '../lib/datos';
-const total = iglesias.length.toLocaleString('es');
-const conCoords = iglesias.filter(i => i.lat).length.toLocaleString('es');
-const localidades = new Set(iglesias.map(i => `${i.pais_slug}/${i.provincia_slug}/${i.localidad_slug}`)).size.toLocaleString('es');
+import { iglesias, paises, PAISES_LATAM, OTROS_PAISES, esLatam, listaPaises, NOMBRE_SITIO } from '../lib/datos';
+// Los números de la portada cuentan solo América Latina; España y Estados Unidos se mencionan aparte.
+const latam = iglesias.filter(i => esLatam(i.pais_slug));
+const paisesLatam = paises.filter(p => esLatam(p.slug));
+const otros = paises.filter(p => !esLatam(p.slug));
+const total = latam.length.toLocaleString('es');
+const conCoords = latam.filter(i => i.lat).length.toLocaleString('es');
+const localidades = new Set(latam.filter(i => i.localidad_slug !== 'sin-localidad').map(i => `${i.pais_slug}/${i.provincia_slug}/${i.localidad_slug}`)).size.toLocaleString('es');
 const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: NOMBRE_SITIO, url: Astro.site?.href,
   description: 'Directorio abierto de iglesias evangélicas y otras comunidades de fe de América Latina, hecho para que buscadores y asistentes de IA las encuentren.',
   potentialAction: { '@type': 'SearchAction', target: `${Astro.site?.href}cerca/`, 'query-input': 'required name=ubicacion' } };
@@ -30,7 +34,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: NOM
       <button class="boton principal" type="submit">Buscar iglesias</button>
       <button class="boton ubicacion" type="button" id="btn-ubicacion"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="8"/></svg> Cerca de mí</button>
     </form>
-    <p class="pie-buscador">{total} iglesias en {localidades} localidades de {paises.map(p => p.nombre).join(' y ')}. <a href="/directorio/">O explorá el directorio por país y región</a>.</p>
+    <p class="pie-buscador">{total} iglesias en {localidades} localidades de {listaPaises(paisesLatam.map(p => p.nombre))}{otros.length ? `, y ${otros.reduce((n, p) => n + p.iglesias.length, 0).toLocaleString('es')} más en ${listaPaises(otros.map(p => p.nombre))}` : ''}. <a href="/directorio/">Explorá el directorio por país y región</a>.</p>
   </section>
 
   <section class="franja">
@@ -57,7 +61,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: NOM
     <div><strong>{total}</strong><span>iglesias y comunidades</span></div>
     <div><strong>{localidades}</strong><span>localidades</span></div>
     <div><strong>{conCoords}</strong><span>con ubicación en el mapa</span></div>
-    <div><strong>{paises.length}<small> de {PAISES_LATAM.length}</small></strong><span>países, y sumando</span></div>
+    <div><strong>{paisesLatam.length}<small> de {PAISES_LATAM.length}</small></strong><span>países de América Latina</span></div>
   </section>
 
   <section class="contenido iglesias-cta">

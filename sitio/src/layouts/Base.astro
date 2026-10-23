@@ -1,9 +1,9 @@
 ---
 import { NOMBRE_SITIO } from '../lib/urls';
 import Donar from '../components/Donar.astro';
-interface Props { titulo: string; descripcion: string; jsonld?: unknown; ancho?: boolean; }
-const { titulo, descripcion, jsonld, ancho = false } = Astro.props;
-const canonical = new URL(Astro.url.pathname, Astro.site);
+interface Props { titulo: string; descripcion: string; jsonld?: unknown; ancho?: boolean; noindex?: boolean; canonicalExtra?: string; }
+const { titulo, descripcion, jsonld, ancho = false, noindex = false, canonicalExtra = '' } = Astro.props;
+const canonical = new URL(Astro.url.pathname + canonicalExtra, Astro.site);
 ---
 <!doctype html>
 <html lang="es">
@@ -19,7 +19,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <meta name="theme-color" content="#7a3e1d" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="Iglesias" />
-  <meta name="robots" content="index,follow,max-snippet:-1" />
+  <meta name="robots" content={noindex ? 'noindex,follow' : 'index,follow,max-snippet:-1'} />
   <meta property="og:title" content={titulo} />
   <meta property="og:description" content={descripcion} />
   <meta property="og:type" content="website" />

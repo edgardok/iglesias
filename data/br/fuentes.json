@@ -1,0 +1,32 @@
+{
+  "pais": "Brasil",
+  "iso": "br",
+  "region_nombre": "estado",
+  "actualizado": "2026-10-23",
+  "fuentes": [
+    {
+      "nombre": "EncuentraIglesias.com (directorio de terceros)",
+      "organismo": "EncuentraIglesias.com",
+      "url": "https://encuentraiglesias.com",
+      "archivo": "data/br/raw/churches_Brasil.csv",
+      "descarga": "2026-10-22",
+      "licencia": "Sin licencia abierta declarada. Se publican solo datos de hecho (nombre, denominación, ubicación aproximada) con el enlace a la página de origen en cada ficha, hasta reemplazarlos por un registro público.",
+      "que_aporta": "10.758 fichas de iglesias evangélicas y de otras confesiones cristianas no católicas; 182 con localidad (1%).",
+      "script": "scripts/comunes/csv_encuentraiglesias.py (listas de regiones en scripts/comunes/regiones.py)",
+      "limitaciones": "La ubicación se deduce del final de la URL de origen, sin tildes en las ciudades, y se puede equivocar. Sin dirección, teléfono ni coordenadas en casi todos los casos. Se descartaron filas con marcas católicas inequívocas en el nombre (parroquia, catedral, Nuestra Señora y similares); es una heurística y puede dejar pasar o excluir alguna."
+    },
+    {
+      "nombre": "Aportes de las iglesias",
+      "organismo": "Formulario del sitio, revisado por un asistente y una persona",
+      "url": "/sumarse/",
+      "licencia": "ODbL 1.0 (al enviar, la iglesia acepta publicar los datos bajo esta licencia)",
+      "que_aporta": "Horarios, contacto, redes, correcciones y fichas nuevas.",
+      "script": "sitio/agente/procesar.ts"
+    }
+  ],
+  "pendientes": [
+    "Receita Federal: CNPJ con actividad CNAE 94.91-0 (organizaciones religiosas), disponible como datos abiertos.",
+    "IBGE para ubicar municipios.",
+    "Completar localidad y dirección de las fichas sin ubicar."
+  ]
+}

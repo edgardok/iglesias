@@ -48,6 +48,15 @@ export const PAISES_LATAM: { nombre: string; slug: string }[] = [
   { nombre: 'Perú', slug: 'pe' }, { nombre: 'Puerto Rico', slug: 'pr' }, { nombre: 'República Dominicana', slug: 'do' }, { nombre: 'Uruguay', slug: 'uy' }, { nombre: 'Venezuela', slug: 've' },
 ];
 
+/** Países con datos pero fuera de América Latina: se muestran aparte en la portada. */
+export const OTROS_PAISES: { nombre: string; slug: string }[] = [{ nombre: 'España', slug: 'es' }, { nombre: 'Estados Unidos', slug: 'us' }];
+export const esLatam = (slug: string) => PAISES_LATAM.some(p => p.slug === slug);
+export const listaPaises = (nombres: string[]) => new Intl.ListFormat('es', { style: 'long', type: 'conjunction' }).format(nombres);
+/** Máximo de fichas por archivo JSON publicado en /datos/ (Cloudflare limita cada archivo a 25 MiB). */
+export const CHUNK_DATOS = 12000;
+export const clavesDatos = (slugRegion: string, k: number) => (k === 0 ? slugRegion : `${slugRegion}-${k + 1}`);
+export const esPseudo = (slug: string) => slug.startsWith('sin-');
+
 export function provinciasDe(paisSlug: string) {
   const m = new Map<string, { nombre: string; slug: string; iglesias: Iglesia[] }>();
   for (const i of porPais.get(paisSlug)?.iglesias ?? []) {

@@ -16,6 +16,12 @@ Para sumar un país: crear la carpeta, bajar las fuentes a `raw/`, escribir los 
 (los comunes como OpenStreetMap y denominaciones están en `scripts/comunes/`), y documentar todo en `fuentes.json`.
 
 | País | Estado | Fichas | Fuentes principales |
-|---|---|---|---|
-| Argentina (`ar`) | publicado | 32.706 | Registro Nacional de Cultos, OpenStreetMap, georef |
-| Colombia (`co`) | semilla | 1.284 | CSV recopilado de directorios web (EncuentraIglesias, FIBEC); pendiente el registro del Ministerio del Interior |
+| --- | --- | --- | --- |
+| Argentina (`ar`) | publicado | 32.745 | Registro Nacional de Cultos, OpenStreetMap, georef, federaciones |
+| Brasil (`br`) | semilla | 10.758 | EncuentraIglesias.com (casi sin ubicación) |
+| Chile (`cl`) | semilla | 967 | EncuentraIglesias.com |
+| Colombia (`co`) | semilla | 1.165 | EncuentraIglesias.com, FIBEC; pendiente el registro del Ministerio del Interior |
+| México (`mx`) | semilla | 2.693 | EncuentraIglesias.com |
+| Perú (`pe`) | semilla | 1.189 | EncuentraIglesias.com |
+| España (`es`) | semilla, fuera de América Latina | 2.552 | EncuentraIglesias.com |
+| Estados Unidos (`us`) | semilla, fuera de América Latina | 39.984 | EncuentraIglesias.com |

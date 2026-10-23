@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Donar from '../components/Donar.astro';
-import { iglesias, paises, NOMBRE_SITIO } from '../lib/datos';
+import { iglesias, paises, listaPaises, NOMBRE_SITIO } from '../lib/datos';
 const total = iglesias.length.toLocaleString('es');
 const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline: 'Que toda iglesia de América Latina sea encontrable', inLanguage: 'es',
   description: 'Por qué existe este directorio: miles de iglesias viven solo en redes sociales que ni los buscadores ni los asistentes de IA pueden leer. La idea, los principios y cómo sumarse.',
@@ -18,7 +18,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline:
 
   <h2>La idea</h2>
   <p>No hace falta que cada iglesia construya una web. Hace falta que exista, en algún lugar público y abierto, una ficha con sus datos básicos en un formato que las máquinas puedan leer: nombre, dirección, localidad, denominación, horarios, un teléfono, sus redes. Una URL permanente por iglesia, con texto en prosa y datos estructurados, dentro de un directorio que los buscadores y los asistentes de IA puedan recorrer completo.</p>
-  <p>Eso es este sitio. Empezamos con los datos públicos que ya existen, los registros de cultos de cada país y OpenStreetMap, y los publicamos ordenados. Hoy son {total} fichas en {paises.map(p => p.nombre).join(', ')}. Después, cada iglesia reclama la suya y la completa. El trabajo pesado ya está hecho; a la iglesia le quedan dos minutos de formulario.</p>
+  <p>Eso es este sitio. Empezamos con los datos públicos que ya existen, los registros de cultos de cada país y OpenStreetMap, y los publicamos ordenados. Hoy son {total} fichas en {listaPaises(paises.map(p => p.nombre))}. Después, cada iglesia reclama la suya y la completa. El trabajo pesado ya está hecho; a la iglesia le quedan dos minutos de formulario.</p>
 
   <h2>El foco: los asistentes de IA</h2>
   <p>Google ya tiene su directorio, Google Maps, y funciona razonablemente para quien lo usa. El hueco está en los modelos de lenguaje, que cada año responden más preguntas de la vida cotidiana y que no pueden leer redes sociales. Este directorio está diseñado para ellos primero:</p>
@@ -34,7 +34,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline:
   <ul>
     <li><strong>Abierto y gratuito.</strong> Nadie paga por estar. Los datos son de todos, bajo licencia ODbL, y el código es público.</li>
     <li><strong>Para las iglesias que nadie lista.</strong> Evangélicas, pentecostales, bautistas, adventistas y las demás comunidades que no tienen una estructura central que las publique. Las parroquias católicas quedan fuera: ya cuentan con sus propias guías diocesanas. El directorio no opina sobre doctrina; describe dónde y cuándo se reúne cada comunidad.</li>
-    <li><strong>Solo fuentes legítimas.</strong> Registros públicos, OpenStreetMap y lo que cada iglesia aporta por su cuenta. No raspamos Facebook, Instagram ni Google Maps. <a href="/fuentes/">Cada dato dice de dónde salió</a>.</li>
+    <li><strong>Fuentes a la vista.</strong> Preferimos registros públicos, OpenStreetMap y lo que cada iglesia aporta por su cuenta. Donde todavía no existe un registro, usamos directorios web de terceros, siempre declarados y con enlace a la página de origen, y los reemplazamos cuando aparece una fuente oficial. No raspamos Facebook, Instagram ni Google Maps. <a href="/fuentes/">Cada dato dice de dónde salió</a>.</li>
     <li><strong>Mejor sin dato que con dato malo.</strong> Si no podemos confirmar una ubicación, no la publicamos.</li>
     <li><strong>La iglesia es dueña de su ficha.</strong> Puede reclamarla, corregirla y pedir que se marque como suya.</li>
   </ul>

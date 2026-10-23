@@ -5,7 +5,7 @@ Directorio estático de iglesias evangélicas y otras comunidades de fe no cató
 Google ni los modelos de lenguaje pueden leer. Acá juntamos los datos públicos de cada país, los normalizamos
 y los publicamos con datos estructurados, documentando de dónde sale cada dato.
 
-Alcance: América Latina, país por país. Hoy están Argentina (32.706 fichas) y una semilla de Colombia (1.284). Cada país se suma cuando hay una
+Alcance: América Latina, país por país. Hoy hay datos de Argentina (la más completa, con el registro oficial), Colombia, Brasil, Chile, México y Perú, más España y Estados Unidos fuera de América Latina. Salvo Argentina son semillas: casi todo viene de un directorio de terceros, sin dirección ni coordenadas. Cada país se suma cuando hay una
 fuente pública confiable.
 
 ## Estructura
@@ -47,17 +47,23 @@ Detalle de los datos y cómo sumar un país: [data/README.md](data/README.md).
 
 ## Principios sobre los datos
 
-- Solo fuentes públicas o con licencia abierta. No se raspan Facebook, Instagram ni Google Maps: las iglesias pegan sus enlaces en el formulario.
+- Preferimos fuentes públicas o con licencia abierta. Donde aún no hay un registro oficial usamos directorios web de terceros, declarados como tales y con el enlace de origen en cada ficha, hasta reemplazarlos. No se raspan Facebook, Instagram ni Google Maps: las iglesias pegan sus enlaces en el formulario.
 - Preferimos no tener un dato a tenerlo mal (por ejemplo, no se publican coordenadas sin confirmar la localidad).
 - Todo lo que aportan las iglesias se publica bajo ODbL, igual que el resto.
 
 ## Regenerar datos
 
-Colombia:
+Países con CSV recopilado (Brasil, Chile, México, Perú, España, Estados Unidos; Argentina anexa solo las filas de federaciones):
+
+```bash
+python3 -I scripts/comunes/csv_encuentraiglesias.py mx data/mx/raw/churches_Mexico.csv data/mx
+python3 -I scripts/comunes/csv_encuentraiglesias.py ar data/ar/raw/churches_Argentina_encuentraiglesias.csv data/ar --anexar --sin-encuentraiglesias
+```
+
+Colombia (mismo formato, con ciudades conocidas de Colombia):
 
 ```bash
 python3 -I scripts/co/csv_inicial.py data/co/raw/churches_colombia.csv data/co
-python3 -I scripts/comunes/denominacion.py data/co
 ```
 
 Argentina:
@@ -95,8 +101,11 @@ Conectado por GitHub: cada push a `main` dispara `npm run build` y `npx wrangler
 Cuando cambian los datos de un país, además hay que recargar D1 (una vez, desde cualquier máquina con el token):
 
 ```bash
-python3 -I scripts/comunes/cargar_d1.py data/ar
+python3 -I scripts/comunes/cargar_d1.py data/ar              # borra y vuelve a cargar el país
+python3 -I scripts/comunes/cargar_d1.py data/ar --incremental # solo agrega lo que falta, sin borrar
 ```
+
+El plan gratuito de D1 permite 100.000 filas escritas por día: cargar de a un país por vez y usar `--incremental` cuando se pueda.
 
 Necesita `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID` en el entorno (en este repo se cargan desde `.env`, que no se versiona).
 

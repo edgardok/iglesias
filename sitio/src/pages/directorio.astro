@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { iglesias, paises, PAISES_LATAM, NOMBRE_SITIO, urlPais, tiposDe, urlTipo } from '../lib/datos';
+import { iglesias, paises, PAISES_LATAM, OTROS_PAISES, esLatam, NOMBRE_SITIO, urlPais, tiposDe, urlTipo } from '../lib/datos';
 const total = iglesias.length;
 const conCoords = iglesias.filter(i => i.lat).length;
 const conHorarios = iglesias.filter(i => i.horarios).length;
@@ -17,6 +17,7 @@ const tipos = tiposDe(iglesias).slice(0, 12);
       ? <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>({paises.find(x => x.slug === p.slug)!.iglesias.length.toLocaleString('es')})</small></li>
       : <li class="gris">{p.nombre} <small>(próximamente)</small></li>)}
   </ul>
+  {paises.some(p => !esLatam(p.slug)) && <><h2>Fuera de América Latina</h2><ul class="grilla">{paises.filter(p => !esLatam(p.slug)).map(p => <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>({p.iglesias.length.toLocaleString('es')})</small></li>)}</ul><p><small>Comunidades de habla hispana y de otros países que también quedaron en el directorio.</small></p></>}
   <p><small>Empezamos por Argentina. Cada país se suma cuando conseguimos una fuente pública confiable; <a href="/fuentes/">acá explicamos cuáles usamos</a> y <a href="https://github.com/edgardok/iglesias/blob/main/data/README.md">cómo agregar uno</a>.</small></p>
   <h2>Por tipo</h2>
   <ul class="grilla">{tipos.map(t => <li>{t.nombre} <small>({t.iglesias.length.toLocaleString('es')})</small></li>)}</ul>

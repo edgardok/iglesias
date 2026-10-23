@@ -10,6 +10,7 @@ Uso: python3 -I scripts/co/csv_inicial.py data/co/raw/churches_colombia.csv data
 import csv, re, sys, os, unicodedata
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'comunes'))
 from datos import guardar
+from csv_encuentraiglesias import es_catolica
 
 def slugify(s):
     s = unicodedata.normalize('NFKD', s or '').encode('ascii', 'ignore').decode()
@@ -77,7 +78,8 @@ def main(src, dst):
     rows = list(csv.DictReader(open(src, encoding='utf-8')))
     out, vistos = [], set()
     for r in rows:
-        if r['name'].lower().startswith('directorio ') and 'encuentraiglesias' in r['name'].lower(): continue  # fila meta
+        if r['name'].lower().startswith(('directorio ', 'registro nacional', 'registro público', 'registro publico')): continue  # filas que describen un directorio u organismo
+        if es_catolica(r['name']): continue  # el directorio no incluye iglesias católicas
         loc, dep = ubicar(r)
         direccion = r['address'].strip() or (r['notes'].replace('Region:', '').strip() if r['notes'].startswith('Region:') else '')
         base = slugify(f"{r['name']} {loc if loc != 'Sin localidad' else ''}") or slugify(r['id'])

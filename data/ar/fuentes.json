@@ -2,7 +2,7 @@
   "pais": "Argentina",
   "iso": "ar",
   "region_nombre": "provincia",
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-23",
   "fuentes": [
     {
       "nombre": "Registro Nacional de Cultos",
@@ -36,6 +36,16 @@
       "que_aporta": "Provincia y municipio de cada punto de OpenStreetMap, y coordenadas aproximadas para 8.268 direcciones del registro.",
       "script": "scripts/ar/geocodificar_georef.py y scripts/ar/aplicar_geo.py",
       "limitaciones": "Solo se aceptaron resultados filtrados por localidad o departamento; sin filtro la API ubica la calle en otro partido."
+    },
+    {
+      "nombre": "Federaciones y directorios evangélicos (CSV recopilado)",
+      "organismo": "FAIE (Federación Argentina de Iglesias Evangélicas), Páginas Arco Iris Cristianas, IPUA, Unión de las Asambleas de Dios",
+      "archivo": "data/ar/raw/churches_Argentina_encuentraiglesias.csv",
+      "descarga": "2026-10-22",
+      "licencia": "Datos de hecho tomados de páginas públicas de cada federación; cada ficha enlaza su origen.",
+      "que_aporta": "39 fichas con datos de contacto de iglesias afiliadas y sedes centrales.",
+      "script": "scripts/comunes/csv_encuentraiglesias.py --anexar --sin-encuentraiglesias",
+      "limitaciones": "No se importaron 2.466 filas de EncuentraIglesias.com incluidas en el mismo CSV: no traen ubicación y casi seguro duplican fichas del registro oficial. El archivo crudo se conserva en data/ar/raw/."
     },
     {
       "nombre": "Aportes de las iglesias",

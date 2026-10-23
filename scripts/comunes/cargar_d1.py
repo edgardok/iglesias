@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Carga data/<pais>/iglesias/*.json en la tabla `iglesias` de D1 usando la API HTTP de Cloudflare.
 
-Uso: python3 -I scripts/comunes/cargar_d1.py data/ar
+Uso: python3 -I scripts/comunes/cargar_d1.py data/ar [--incremental]
+  --incremental  no borra: consulta los slugs que D1 ya tiene y agrega solo los que faltan (ahorra escrituras: el plan gratuito permite 100.000 por día)
 Requiere CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID y D1_DATABASE_ID en el entorno (o el id en sitio/wrangler.toml).
 Borra las fichas del país y las vuelve a insertar, así D1 queda igual que el repo. GitHub es la fuente de verdad.
 """
@@ -31,10 +32,17 @@ def ejecutar(sql):
             print('HTTP', e.code, cuerpo, file=sys.stderr); sys.exit(1)
     sys.exit(1)
 
-def main(carpeta):
+def main(carpeta, incremental=False):
     pais = os.path.basename(carpeta.rstrip('/'))
     ig = cargar(carpeta); print(f'{len(ig)} fichas de {pais}', file=sys.stderr)
-    ejecutar(f"DELETE FROM iglesias WHERE pais_slug = {q(pais)};")
+    if incremental:
+        r = ejecutar(f"SELECT slug FROM iglesias WHERE pais_slug = {q(pais)};")
+        en_d1 = {x['slug'] for x in r['result'][0]['results']}
+        ig = [i for i in ig if i['slug'] not in en_d1]
+        print(f'{len(en_d1)} ya están en D1; se agregan {len(ig)}', file=sys.stderr)
+        if not ig: print('nada para agregar', file=sys.stderr); return
+    else:
+        ejecutar(f"DELETE FROM iglesias WHERE pais_slug = {q(pais)};")
     inserts = []
     for k in range(0, len(ig), FILAS_POR_INSERT):
         def num(v): return 'NULL' if v is None else repr(float(v))
@@ -46,4 +54,4 @@ def main(carpeta):
     n = ejecutar(f"SELECT count(*) AS n FROM iglesias WHERE pais_slug = {q(pais)};")['result'][0]['results'][0]['n']
     print(f'listo: {n} filas de {pais} en D1', file=sys.stderr)
 
-if __name__ == '__main__': main(sys.argv[1])
+if __name__ == '__main__': main(sys.argv[1], '--incremental' in sys.argv)

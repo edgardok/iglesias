@@ -2,17 +2,17 @@
   "pais": "Colombia",
   "iso": "co",
   "region_nombre": "departamento",
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-23",
   "fuentes": [
     {
-      "nombre": "Recopilación inicial (CSV)",
+      "nombre": "Recopilación (CSV): EncuentraIglesias.com y federaciones",
       "organismo": "Compilado por el proyecto a partir de directorios públicos en la web",
       "archivo": "data/co/raw/churches_colombia.csv",
       "descarga": "2026-10-15",
-      "licencia": "Datos de hecho (nombre, dirección, teléfono) tomados de páginas públicas; cada fila indica su origen en fuente_url",
-      "que_aporta": "1.284 iglesias evangélicas: 1.257 listadas en EncuentraIglesias.com, 26 de la red FIBEC (redil.org) y una del Ministerio del Interior. Nombre, denominación, y en pocos casos dirección, web, teléfono o email.",
+      "licencia": "Datos de hecho (nombre, dirección, teléfono) tomados de páginas públicas; cada ficha enlaza su página de origen. EncuentraIglesias.com no declara licencia abierta.",
+      "que_aporta": "1.165 iglesias evangélicas: 1.138 de EncuentraIglesias.com (directorio de terceros). el resto de la red FIBEC (redil.org) y directorios bautistas. 284 con localidad.",
       "script": "scripts/co/csv_inicial.py",
-      "limitaciones": "La mayoría no trae ciudad ni departamento; la localidad se deduce de la URL de origen y 891 fichas quedan sin ubicar. Casi ninguna tiene coordenadas. Es una semilla: la cobertura real de Colombia requiere el Registro Público de Entidades Religiosas del Ministerio del Interior."
+      "limitaciones": "La mayoría no trae ciudad ni departamento; la localidad se deduce de la URL de origen. Casi ninguna tiene coordenadas. Se descartaron filas con marcas católicas inequívocas en el nombre. Es una semilla: la cobertura real requiere el Registro Público de Entidades Religiosas del Ministerio del Interior."
     },
     {
       "nombre": "Aportes de las iglesias",

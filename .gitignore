@@ -4,3 +4,6 @@ dist/
 .wrangler/
 .env*
 .DS_Store
+
+# Archivo de origen redundante (suma de los CSV por país, 46 MB)
+data/_origen/

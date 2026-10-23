@@ -23,9 +23,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 5.0668,
+"lon": -75.50684,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-oriente/"
+"fuente_url": "https://redil.org/el-redil-oriente/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

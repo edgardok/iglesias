@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.12806,
+"lon": -75.70667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chulpaca-pueblo-nuevo-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chulpaca-pueblo-nuevo-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cofradia-san-sebastian-chincha-alta",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cofradia-san-sebastian-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cofradia-san-sebastian-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-moreno-parcona",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.04154,
+"lon": -75.6983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-moreno-parcona-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-moreno-parcona-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-7mo-dia-ica",
@@ -197,10 +200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.01889,
+"lon": -75.75806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-amor-verde-subtanjalla-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-amor-verde-subtanjalla-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-christian-pentecos-del-peru-movimiento-misionero-mundial-ica",
@@ -284,10 +288,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.86667,
+"lon": -76.26667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-movimiento-misionero-mundial-paracas-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-movimiento-misionero-mundial-paracas-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jose-san-jose",
@@ -342,10 +347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71029,
+"lon": -76.20538,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristo-rey-pisco-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristo-rey-pisco-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-internacional-casa-de-oracion-guadalupe",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.986,
+"lon": -75.77281,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-internacional-casa-de-oracion-guadalupe-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-internacional-casa-de-oracion-guadalupe-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostes-mundial-chincha-alta",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-mundial-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-mundial-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-de-la-tinguina-la-tinguina",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.03583,
+"lon": -75.70028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-de-la-tinguina-la-tinguina-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-de-la-tinguina-la-tinguina-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-los-molinos-san-jose-de-los-molinos",
@@ -516,10 +525,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-del-peru-chincha-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-del-peru-chincha-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-evangelica-vida-nueva-parcona",
@@ -545,10 +555,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.04154,
+"lon": -75.6983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-evangelica-vida-nueva-parcona-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-evangelica-vida-nueva-parcona-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-jose-ica",
@@ -632,10 +643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-es-vida-y-poder-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-es-vida-y-poder-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maria-auxiliadora-nueva-imagen-chincha-alta",
@@ -661,10 +673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maria-auxiliadora-nueva-imagen-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maria-auxiliadora-nueva-imagen-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "milagroso-divino-nino-jesus-la-tinguina",
@@ -690,10 +703,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.03583,
+"lon": -75.70028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/milagroso-divino-nino-jesus-la-tinguina-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/milagroso-divino-nino-jesus-la-tinguina-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-internacional-pentecostes-primitiva-la-tinguina",
@@ -719,10 +733,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.03583,
+"lon": -75.70028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-internacional-pentecostes-primitiva-la-tinguina-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-internacional-pentecostes-primitiva-la-tinguina-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mixto-santa-rosa-chincha-chincha-alta",
@@ -748,10 +763,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mixto-santa-rosa-chincha-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mixto-santa-rosa-chincha-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-de-padua-pueblo-nuevo",
@@ -777,10 +793,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.12806,
+"lon": -75.70667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-de-padua-pueblo-nuevo-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-de-padua-pueblo-nuevo-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-subtanjalla",
@@ -806,10 +823,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.01889,
+"lon": -75.75806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-subtanjalla-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-subtanjalla-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-jeronimo-de-jesus-maria-ica",
@@ -951,9 +969,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.40985,
+"lon": -76.13235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unidad-christiana-chincha-alta-ica"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unidad-christiana-chincha-alta-ica",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.36731,
+"lon": -3.24125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antiguo-establo-nuevo-baztan-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antiguo-establo-nuevo-baztan-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "asamblea-cristiana-de-madrid-madrid",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-cristiana-de-madrid-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-cristiana-de-madrid-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "asociacion-betel-madrid",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-betel-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-betel-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-las-concepcionistas-torrelaguna",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.82764,
+"lon": -3.53683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-las-concepcionistas-torrelaguna-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-las-concepcionistas-torrelaguna-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-prado-nuevo-el-escorial",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58254,
+"lon": -4.12846,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-prado-nuevo-el-escorial-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-prado-nuevo-el-escorial-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-blas-miraflores-de-la-sierra",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.8155,
+"lon": -3.76213,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-blas-miraflores-de-la-sierra-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-blas-miraflores-de-la-sierra-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-ezequiel-moreno-madrid",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-ezequiel-moreno-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-ezequiel-moreno-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-etsam-madrid",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-etsam-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-etsam-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-universitaria-madrid",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-universitaria-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-universitaria-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-convivencias-divina-pastora-guadarrama",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.6727,
+"lon": -4.08949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-convivencias-divina-pastora-guadarrama-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-convivencias-divina-pastora-guadarrama-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-espiritualidad-santa-maria-galapagar",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5783,
+"lon": -4.00426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-espiritualidad-santa-maria-galapagar-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-espiritualidad-santa-maria-galapagar-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-4c-estrecho-madrid",
@@ -342,10 +353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-4c-estrecho-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-4c-estrecho-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-tiempo-nuevo-parla",
@@ -371,10 +383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.23604,
+"lon": -3.76752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-tiempo-nuevo-parla-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-tiempo-nuevo-parla-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-de-evangelizacion-anuncio-de-paz-madrid",
@@ -400,10 +413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-evangelizacion-anuncio-de-paz-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-evangelizacion-anuncio-de-paz-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-mariapolis-luminosa-las-rozas-de-madrid",
@@ -429,10 +443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.49292,
+"lon": -3.87371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-mariapolis-luminosa-las-rozas-de-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-mariapolis-luminosa-las-rozas-de-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-lgbt-y-emaus-madrid",
@@ -458,10 +473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-lgbt-y-emaus-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-lgbt-y-emaus-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-maranatha-madrid",
@@ -487,10 +503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-maranatha-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-maranatha-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cuerpo-de-cristo-san-blas-madrid",
@@ -516,10 +533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cuerpo-de-cristo-san-blas-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cuerpo-de-cristo-san-blas-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-camino-antiguo-madrid",
@@ -545,10 +563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-camino-antiguo-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-camino-antiguo-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-momento-de-dios-galapagar",
@@ -574,10 +593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5783,
+"lon": -4.00426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-momento-de-dios-galapagar-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-momento-de-dios-galapagar-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-casa-de-acompanamiento-pelayos-de-la-presa",
@@ -603,10 +623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.36051,
+"lon": -4.33462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-casa-de-acompanamiento-pelayos-de-la-presa-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-casa-de-acompanamiento-pelayos-de-la-presa-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-ecce-homo-alcala-de-henares",
@@ -632,10 +653,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48205,
+"lon": -3.35996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-ecce-homo-alcala-de-henares-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-ecce-homo-alcala-de-henares-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-nuestra-senra-de-la-fuensanta-lozoya",
@@ -661,10 +683,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94949,
+"lon": -3.79086,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nuestra-senra-de-la-fuensanta-lozoya-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nuestra-senra-de-la-fuensanta-lozoya-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-orcalez-santorcaz",
@@ -690,10 +713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.47176,
+"lon": -3.23462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-orcalez-santorcaz-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-orcalez-santorcaz-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-isidro-alcobendas",
@@ -719,10 +743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.54746,
+"lon": -3.64197,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-isidro-alcobendas-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-isidro-alcobendas-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-nicasio-leganes",
@@ -748,10 +773,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32718,
+"lon": -3.7635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-nicasio-leganes-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-nicasio-leganes-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pedro-de-meaques-madrid",
@@ -777,10 +803,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pedro-de-meaques-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pedro-de-meaques-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-lucia-alcala-de-henares",
@@ -806,10 +833,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48205,
+"lon": -3.35996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-lucia-alcala-de-henares-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-lucia-alcala-de-henares-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-consuelo-ciempozuelos",
@@ -835,10 +863,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.15913,
+"lon": -3.62103,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-consuelo-ciempozuelos-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-consuelo-ciempozuelos-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-rosario-chinchon",
@@ -864,10 +893,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.1402,
+"lon": -3.42267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-rosario-chinchon-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-rosario-chinchon-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fuente-de-vida-parla-parla",
@@ -893,10 +923,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.23604,
+"lon": -3.76752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fuente-de-vida-parla-parla-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fuente-de-vida-parla-parla-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermanas-del-angel-de-la-guarda-madrid",
@@ -922,10 +953,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermanas-del-angel-de-la-guarda-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermanas-del-angel-de-la-guarda-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-abundante-vida-madrid",
@@ -951,10 +983,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-abundante-vida-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-abundante-vida-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-calatrava-madrid",
@@ -980,10 +1013,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-calatrava-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-calatrava-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-madrid",
@@ -1009,10 +1043,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-madrid",
@@ -1038,10 +1073,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-alianza-renacer-fuenlabrada",
@@ -1067,10 +1103,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.28419,
+"lon": -3.79415,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alianza-renacer-fuenlabrada-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alianza-renacer-fuenlabrada-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-episcopala-episcopal-de-san-jorge-madrid",
@@ -1096,10 +1133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopala-episcopal-de-san-jorge-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopala-episcopal-de-san-jorge-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-alameda-de-osuna-madrid",
@@ -1125,10 +1163,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-alameda-de-osuna-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-alameda-de-osuna-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-amor-de-dios-madrid",
@@ -1154,10 +1193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-amor-de-dios-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-amor-de-dios-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-jesus-madrid",
@@ -1183,10 +1223,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-jesus-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-jesus-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-usera-madrid",
@@ -1212,10 +1253,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-usera-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-usera-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-vallecas-madrid",
@@ -1241,10 +1283,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-vallecas-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-vallecas-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-el-buen-pastor-madrid",
@@ -1270,10 +1313,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-buen-pastor-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-buen-pastor-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-emanuel-madrid",
@@ -1299,10 +1343,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-emanuel-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-emanuel-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-pueblo-nuevo-madrid",
@@ -1328,10 +1373,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-pueblo-nuevo-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-pueblo-nuevo-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-calvario-torrejon-de-ardoz",
@@ -1357,10 +1403,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.45535,
+"lon": -3.46973,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-calvario-torrejon-de-ardoz-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-calvario-torrejon-de-ardoz-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-celebracion-cristiana-madrid",
@@ -1386,10 +1433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-celebracion-cristiana-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-celebracion-cristiana-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cenfol-espana-madrid",
@@ -1415,10 +1463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cenfol-espana-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cenfol-espana-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-centro-cristiano-adonay-madrid",
@@ -1444,10 +1493,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-cristiano-adonay-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-cristiano-adonay-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-china-rio-de-esperanza-madrid",
@@ -1473,10 +1523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-china-rio-de-esperanza-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-china-rio-de-esperanza-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-comunidad-cristiana-de-fe-madrid",
@@ -1502,10 +1553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-comunidad-cristiana-de-fe-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-comunidad-cristiana-de-fe-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-adventista-del-septimo-dia-madrid-aluche-madrid",
@@ -1531,10 +1583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-adventista-del-septimo-dia-madrid-aluche-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-adventista-del-septimo-dia-madrid-aluche-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-china-en-espana-tirso-de-molina-madrid",
@@ -1560,10 +1613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-china-en-espana-tirso-de-molina-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-china-en-espana-tirso-de-molina-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-de-aluche-madrid",
@@ -1589,10 +1643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-aluche-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-aluche-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-de-chamartin-madrid",
@@ -1618,10 +1673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-chamartin-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-chamartin-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-en-hortaleza-eben-ezer-madrid",
@@ -1647,10 +1703,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-en-hortaleza-eben-ezer-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-en-hortaleza-eben-ezer-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-las-aguilas-madrid",
@@ -1676,10 +1733,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-las-aguilas-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-las-aguilas-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-hosanna-madrid",
@@ -1705,10 +1763,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-hosanna-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-hosanna-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-manantiales-boadilla-del-monte",
@@ -1734,10 +1793,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.405,
+"lon": -3.87835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-manantiales-boadilla-del-monte-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-manantiales-boadilla-del-monte-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-torrelodones",
@@ -1763,10 +1823,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.57654,
+"lon": -3.92658,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-torrelodones-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-torrelodones-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-verbo-madrid",
@@ -1792,10 +1853,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-verbo-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-verbo-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cuerpo-de-cristo-general-ricardos-madrid",
@@ -1821,10 +1883,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cuerpo-de-cristo-general-ricardos-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cuerpo-de-cristo-general-ricardos-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-alpajes-aranjuez",
@@ -1850,10 +1913,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.03108,
+"lon": -3.60246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-alpajes-aranjuez-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-alpajes-aranjuez-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-madrid-madrid",
@@ -1879,10 +1943,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-madrid-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-madrid-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-comunidad-internacional-torrejon-de-ardoz",
@@ -1908,10 +1973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.45535,
+"lon": -3.46973,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-comunidad-internacional-torrejon-de-ardoz-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-comunidad-internacional-torrejon-de-ardoz-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-misionera-mundial-madrid",
@@ -1937,10 +2003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-misionera-mundial-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-misionera-mundial-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-verbo-de-dios-madrid",
@@ -1966,10 +2033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-verbo-de-dios-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-verbo-de-dios-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-filadelfia-orcasur-madrid",
@@ -1995,10 +2063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-filadelfia-orcasur-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-filadelfia-orcasur-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesus-madrid",
@@ -2024,10 +2093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesus-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesus-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-elegidos-de-dios-madrid",
@@ -2053,10 +2123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-elegidos-de-dios-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-elegidos-de-dios-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-juan-y-pablo-san-fernando-de-henares",
@@ -2082,10 +2153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.42386,
+"lon": -3.53261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-juan-y-pablo-san-fernando-de-henares-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-juan-y-pablo-san-fernando-de-henares-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pablo-torrejon-de-ardoz",
@@ -2111,10 +2183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.45535,
+"lon": -3.46973,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pablo-torrejon-de-ardoz-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pablo-torrejon-de-ardoz-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-ejercito-de-salvacion-hermosilla-madrid",
@@ -2140,10 +2213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ejercito-de-salvacion-hermosilla-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ejercito-de-salvacion-hermosilla-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-buen-pastor-de-madrid-madrid",
@@ -2169,10 +2243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-pastor-de-madrid-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-pastor-de-madrid-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-espanola-reformada-episcopal-madrid",
@@ -2198,10 +2273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-espanola-reformada-episcopal-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-espanola-reformada-episcopal-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-adulam-de-madrid-madrid",
@@ -2227,10 +2303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-adulam-de-madrid-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-adulam-de-madrid-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-alemana-madrid",
@@ -2256,10 +2333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-alemana-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-alemana-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-de-getafe-getafe",
@@ -2285,10 +2363,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30571,
+"lon": -3.73295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-getafe-getafe-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-getafe-getafe-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-de-san-sebastian-de-los-reyes-san-sebastian-de-los-reyes",
@@ -2314,10 +2393,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.55555,
+"lon": -3.62733,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-san-sebastian-de-los-reyes-san-sebastian-de-los-reyes-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-san-sebastian-de-los-reyes-san-sebastian-de-los-reyes-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-madrid",
@@ -2343,10 +2423,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-buenas-noticias-mostoles",
@@ -2372,10 +2453,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32234,
+"lon": -3.86496,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-buenas-noticias-mostoles-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-buenas-noticias-mostoles-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-casa-de-oracion-de-madrid-madrid",
@@ -2401,10 +2483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-oracion-de-madrid-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-oracion-de-madrid-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-casa-de-oracion-madrid",
@@ -2430,10 +2513,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-oracion-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-oracion-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-china-espanola-madrid",
@@ -2459,10 +2543,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-china-espanola-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-china-espanola-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cristo-reina-con-poder-madrid",
@@ -2488,10 +2573,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristo-reina-con-poder-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristo-reina-con-poder-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cristo-vive-madrid",
@@ -2517,10 +2603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristo-vive-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristo-vive-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cuerpo-de-cristo-collado-villalba",
@@ -2546,10 +2633,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.63506,
+"lon": -4.00486,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cuerpo-de-cristo-collado-villalba-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cuerpo-de-cristo-collado-villalba-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-hermanos-el-shadday-madrid",
@@ -2575,10 +2663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-el-shadday-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-el-shadday-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-hermanos-resurreccion-y-vida-madrid",
@@ -2604,10 +2693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-resurreccion-y-vida-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-resurreccion-y-vida-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-la-corrala-madrid",
@@ -2633,10 +2723,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-la-corrala-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-la-corrala-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-trafalgar-madrid",
@@ -2662,10 +2753,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-trafalgar-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-trafalgar-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-del-nazareno-madrid",
@@ -2691,10 +2783,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-del-nazareno-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-del-nazareno-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-eben-ezer-dios-es-amor-madrid",
@@ -2720,10 +2813,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-eben-ezer-dios-es-amor-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-eben-ezer-dios-es-amor-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-encuetro-con-dios-madrid",
@@ -2749,10 +2843,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-encuetro-con-dios-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-encuetro-con-dios-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-espanola-congregacion-de-la-esperanza-mostoles",
@@ -2778,10 +2873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32234,
+"lon": -3.86496,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-espanola-congregacion-de-la-esperanza-mostoles-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-espanola-congregacion-de-la-esperanza-mostoles-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-espanola-el-salvador-madrid",
@@ -2807,10 +2903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-espanola-el-salvador-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-espanola-el-salvador-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-fuente-de-la-vida-madrid",
@@ -2836,10 +2933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-fuente-de-la-vida-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-fuente-de-la-vida-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-jesucristo-la-roca-madrid",
@@ -2865,10 +2963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-jesucristo-la-roca-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-jesucristo-la-roca-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-amistad-cristiana-madrid",
@@ -2894,10 +2993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-amistad-cristiana-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-amistad-cristiana-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-bethel-madrid",
@@ -2923,10 +3023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-bethel-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-bethel-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-elim-arganda-del-rey",
@@ -2981,10 +3082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-salem-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-salem-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pueblo-nuevo-madrid",
@@ -3010,10 +3112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pueblo-nuevo-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pueblo-nuevo-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-salem-madrid",
@@ -3039,10 +3142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-salem-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-salem-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelio-cuadrangular-vida-nueva-usera-madrid",
@@ -3068,10 +3172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelio-cuadrangular-vida-nueva-usera-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelio-cuadrangular-vida-nueva-usera-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelista-san-fernando-de-henares",
@@ -3097,10 +3202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.42386,
+"lon": -3.53261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelista-san-fernando-de-henares-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelista-san-fernando-de-henares-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-filadelfia-del-centro-cielos-abiertos-madrid",
@@ -3126,10 +3232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-filadelfia-del-centro-cielos-abiertos-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-filadelfia-del-centro-cielos-abiertos-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-fraternidad-cristiana-vida-nueva-madrid",
@@ -3155,10 +3262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fraternidad-cristiana-vida-nueva-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fraternidad-cristiana-vida-nueva-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-internacional-alianza-de-amor-madrid",
@@ -3184,10 +3292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-internacional-alianza-de-amor-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-internacional-alianza-de-amor-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-vid-madrid",
@@ -3213,10 +3322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-vid-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-vid-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-misionera-asamblea-cristiana-madrid",
@@ -3242,10 +3352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-misionera-asamblea-cristiana-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-misionera-asamblea-cristiana-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-hermon-de-asamblea-de-iglesias-cristianas-madrid",
@@ -3271,10 +3382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-hermon-de-asamblea-de-iglesias-cristianas-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-hermon-de-asamblea-de-iglesias-cristianas-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-biserica-maranata-getafe-getafe",
@@ -3300,10 +3412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30571,
+"lon": -3.73295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-biserica-maranata-getafe-getafe-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-biserica-maranata-getafe-getafe-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-resurreccion-iee-madrid",
@@ -3329,10 +3442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-resurreccion-iee-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-resurreccion-iee-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-saturnino-alcorcon",
@@ -3358,10 +3472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.34582,
+"lon": -3.82487,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-saturnino-alcorcon-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-saturnino-alcorcon-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-de-nazaret-madrid",
@@ -3387,10 +3502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-de-nazaret-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-de-nazaret-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-teresa-getafe",
@@ -3416,10 +3532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30571,
+"lon": -3.73295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-teresa-getafe-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-teresa-getafe-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-domingo-de-la-calzada-algete",
@@ -3445,10 +3562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.59711,
+"lon": -3.49743,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-domingo-de-la-calzada-algete-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-domingo-de-la-calzada-algete-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-servidores-de-vida-madrid",
@@ -3474,10 +3592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-servidores-de-vida-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-servidores-de-vida-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-tabernaculo-de-alabanza-madrid",
@@ -3503,10 +3622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tabernaculo-de-alabanza-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tabernaculo-de-alabanza-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-templo-de-dios-madrid",
@@ -3532,10 +3652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-templo-de-dios-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-templo-de-dios-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "international-church-madrid",
@@ -3561,10 +3682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/international-church-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/international-church-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "itamar-madrid",
@@ -3590,10 +3712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/itamar-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/itamar-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jemabon-torrejon-de-ardoz",
@@ -3619,10 +3742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.45535,
+"lon": -3.46973,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jemabon-torrejon-de-ardoz-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jemabon-torrejon-de-ardoz-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesus-reigns-ministries-madrid",
@@ -3648,10 +3772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-reigns-ministries-madrid-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-reigns-ministries-madrid-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "luz-y-vida-rivas-vaciamadrid",
@@ -3677,10 +3802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32605,
+"lon": -3.51089,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/luz-y-vida-rivas-vaciamadrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/luz-y-vida-rivas-vaciamadrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nueva-vida-pozuelo-de-alarcon",
@@ -3706,10 +3832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.43293,
+"lon": -3.81338,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-vida-pozuelo-de-alarcon-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-vida-pozuelo-de-alarcon-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oblatas-del-santisimo-redentor-madrid",
@@ -3735,10 +3862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oblatas-del-santisimo-redentor-madrid-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oblatas-del-santisimo-redentor-madrid-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-de-asambleas-de-los-testigos-de-jehova-ajalvir",
@@ -3764,10 +3892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.53205,
+"lon": -3.47841,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-de-asambleas-de-los-testigos-de-jehova-ajalvir-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-de-asambleas-de-los-testigos-de-jehova-ajalvir-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-los-testigos-de-jehova-getafe",
@@ -3793,10 +3922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30571,
+"lon": -3.73295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jehova-getafe-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jehova-getafe-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-aurelio-madrid",
@@ -3822,10 +3952,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-aurelio-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-aurelio-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-bernardo-alcala-de-henares",
@@ -3851,10 +3982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48205,
+"lon": -3.35996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-bernardo-alcala-de-henares-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-bernardo-alcala-de-henares-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-de-avila-alcala-de-henares",
@@ -3880,10 +4012,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48205,
+"lon": -3.35996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-de-avila-alcala-de-henares-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-de-avila-alcala-de-henares-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-de-los-angeles-getafe",
@@ -3909,10 +4042,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30571,
+"lon": -3.73295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-los-angeles-getafe-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-los-angeles-getafe-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tanatorio-de-leganes-leganes",
@@ -3938,10 +4072,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32718,
+"lon": -3.7635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tanatorio-de-leganes-leganes-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tanatorio-de-leganes-leganes-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "verbo-divino-leganes",
@@ -3967,10 +4102,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32718,
+"lon": -3.7635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/verbo-divino-leganes-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/verbo-divino-leganes-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-nueva-galapagar",
@@ -3996,10 +4132,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5783,
+"lon": -4.00426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-nueva-galapagar-community-of-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-nueva-galapagar-community-of-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-nueva-madrid",
@@ -4025,10 +4162,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": -3.70256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-nueva-madrid-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-nueva-madrid-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-nueva-mostoles-mostoles",
@@ -4054,10 +4192,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32234,
+"lon": -3.86496,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-nueva-mostoles-mostoles-comunidad-de-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-nueva-mostoles-mostoles-comunidad-de-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-y-familia-fuenlabrada",
@@ -4083,9 +4222,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.28419,
+"lon": -3.79415,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-y-familia-fuenlabrada-madrid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-y-familia-fuenlabrada-madrid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

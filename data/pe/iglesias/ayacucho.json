@@ -284,10 +284,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.7,
+"lon": -74.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ccayao-puquio-ayacucho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ccayao-puquio-ayacucho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-llauta-llauta",
@@ -313,10 +314,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.24374,
+"lon": -74.91996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-llauta-llauta-ayacucho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-llauta-llauta-ayacucho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-monte-alto-jesus-nazareno",

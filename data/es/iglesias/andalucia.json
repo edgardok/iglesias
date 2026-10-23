@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.58273,
+"lon": -4.94956,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aldea-del-daidin-istan-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aldea-del-daidin-istan-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "altar-san-jose-maria-rubio-dalias",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82179,
+"lon": -2.87138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/altar-san-jose-maria-rubio-dalias-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/altar-san-jose-maria-rubio-dalias-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antiguo-asilo-cabra",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47249,
+"lon": -4.44206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antiguo-asilo-cabra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antiguo-asilo-cabra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "asamblea-cristiana-en-elche-motril",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75066,
+"lon": -3.5179,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-cristiana-en-elche-motril-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-cristiana-en-elche-motril-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bapthist-church-rota",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.62364,
+"lon": -6.35997,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bapthist-church-rota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bapthist-church-rota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "biserica-pentecostala-eben-ezer-almeria-almeria",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/biserica-pentecostala-eben-ezer-almeria-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/biserica-pentecostala-eben-ezer-almeria-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cabana-del-santo-manuel-huetor-de-santillan",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.59575,
+"lon": -4.63728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calahonda-baptist-church-mijas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calahonda-baptist-church-mijas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-beato-diego-jose-de-cadiz-cadiz",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-beato-diego-jose-de-cadiz-cadiz-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-beato-diego-jose-de-cadiz-cadiz-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-castrense-rota",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.62364,
+"lon": -6.35997,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-castrense-rota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-castrense-rota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cristo-del-mar-lepe",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.25482,
+"lon": -7.20433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-del-mar-lepe-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-del-mar-lepe-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-el-alquian-cristo-redentor-almeria",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-el-alquian-cristo-redentor-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-el-alquian-cristo-redentor-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-jesus-caido-cadiz",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-jesus-caido-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-jesus-caido-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-hermandad-de-la-divina-pastora-de-padre-pio-seville",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-piedad-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-piedad-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-santa-cruz-rota",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.62364,
+"lon": -6.35997,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santa-cruz-rota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santa-cruz-rota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-santisima-trinidad-utrera",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18516,
+"lon": -5.78093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santisima-trinidad-utrera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santisima-trinidad-utrera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-vera-cruz-el-coronil",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.07955,
+"lon": -5.6341,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-vera-cruz-el-coronil-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-vera-cruz-el-coronil-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-virgen-madre-almunecar",
@@ -545,10 +561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.73246,
+"lon": -3.69173,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-virgen-madre-almunecar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-virgen-madre-almunecar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-las-esclavas-del-divino-corazon-seville",
@@ -603,10 +620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.25482,
+"lon": -7.20433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-las-monjas-lepe-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-las-monjas-lepe-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-padre-jesus-canete-la-real",
@@ -632,10 +650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.95154,
+"lon": -5.0244,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-padre-jesus-canete-la-real-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-padre-jesus-canete-la-real-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-antonio-ayamonte",
@@ -661,10 +680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.21329,
+"lon": -7.40807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-antonio-ayamonte-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-antonio-ayamonte-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-hermenegildo-dos-hermanas",
@@ -690,10 +710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28287,
+"lon": -5.92088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-hermenegildo-dos-hermanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-hermenegildo-dos-hermanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-isidro-de-los-partidores-almeria",
@@ -719,10 +740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-isidro-de-los-partidores-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-isidro-de-los-partidores-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-juan-de-letran-zahara",
@@ -748,10 +770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.84055,
+"lon": -5.39128,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-juan-de-letran-zahara-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-juan-de-letran-zahara-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-miguel-espejo",
@@ -777,10 +800,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.6798,
+"lon": -4.55355,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-miguel-espejo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-miguel-espejo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-roque-las-cabezas-de-san-juan",
@@ -806,10 +830,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.9838,
+"lon": -5.93933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-roque-las-cabezas-de-san-juan-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-roque-las-cabezas-de-san-juan-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-sebastian-veracruz-dos-hermanas",
@@ -835,10 +860,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28287,
+"lon": -5.92088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-sebastian-veracruz-dos-hermanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-sebastian-veracruz-dos-hermanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-santa-ana-valverde-del-camino",
@@ -864,10 +890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57511,
+"lon": -6.75432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-santa-ana-valverde-del-camino-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-santa-ana-valverde-del-camino-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-solagitas-chiclana-de-la-frontera",
@@ -893,10 +920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-solagitas-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-solagitas-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-cristo-de-la-agonia-andujar",
@@ -922,10 +950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-cristo-de-la-agonia-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-cristo-de-la-agonia-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-dique-puerto-real",
@@ -951,10 +980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52819,
+"lon": -6.19011,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-dique-puerto-real-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-dique-puerto-real-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-dulce-nombre-de-jesus-seville",
@@ -1009,10 +1039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28114,
+"lon": -7.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-stmo-cristo-de-la-misericordia-cartaya-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-stmo-cristo-de-la-misericordia-cartaya-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-maria-auxiliadora-calanas",
@@ -1038,10 +1069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65568,
+"lon": -6.8805,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-maria-auxiliadora-calanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-maria-auxiliadora-calanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-presbiteriana-de-bellavista-minas-de-riotinto",
@@ -1096,10 +1128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.25482,
+"lon": -7.20433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-cristobal-lepe-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-cristobal-lepe-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-francisco-canete-la-real",
@@ -1125,10 +1158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.95154,
+"lon": -5.0244,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-francisco-canete-la-real-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-francisco-canete-la-real-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santa-maria-magdalena-quesada",
@@ -1154,10 +1188,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84338,
+"lon": -3.06561,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-maria-magdalena-quesada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-maria-magdalena-quesada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-stmo-cristo-de-la-buena-muerte-benameji",
@@ -1183,10 +1218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.26833,
+"lon": -4.54123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-stmo-cristo-de-la-buena-muerte-benameji-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-stmo-cristo-de-la-buena-muerte-benameji-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-retiro-espiritual-el-ronquillo",
@@ -1212,10 +1248,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.72628,
+"lon": -6.1762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiro-espiritual-el-ronquillo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiro-espiritual-el-ronquillo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-ejercicios-espirituales-san-pablo-dos-hermanas",
@@ -1241,10 +1278,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28287,
+"lon": -5.92088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-ejercicios-espirituales-san-pablo-dos-hermanas-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-ejercicios-espirituales-san-pablo-dos-hermanas-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hdad-de-la-vera-cruz-alcala-del-valle",
@@ -1270,10 +1308,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.90448,
+"lon": -5.1724,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hdad-de-la-vera-cruz-alcala-del-valle-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hdad-de-la-vera-cruz-alcala-del-valle-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hdad-stmo-cristo-de-la-veracruz-la-campana",
@@ -1299,10 +1338,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56891,
+"lon": -5.4267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hdad-stmo-cristo-de-la-veracruz-la-campana-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hdad-stmo-cristo-de-la-veracruz-la-campana-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermadad-de-jesus-nazareno-espera",
@@ -1328,10 +1368,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.87446,
+"lon": -5.806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermadad-de-jesus-nazareno-espera-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermadad-de-jesus-nazareno-espera-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermanda-de-la-candelaria-guillena",
@@ -1357,10 +1398,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.54262,
+"lon": -6.05626,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermanda-de-la-candelaria-guillena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermanda-de-la-candelaria-guillena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-de-la-bella-lepe",
@@ -1386,10 +1428,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.25482,
+"lon": -7.20433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-de-la-bella-lepe-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-de-la-bella-lepe-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-de-los-dolores-la-rinconada",
@@ -1415,10 +1458,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.48613,
+"lon": -5.98091,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-de-los-dolores-la-rinconada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-de-los-dolores-la-rinconada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-de-padre-jesus-lepe",
@@ -1444,10 +1488,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.25482,
+"lon": -7.20433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-de-padre-jesus-lepe-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-de-padre-jesus-lepe-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-mijas",
@@ -1473,10 +1518,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.59575,
+"lon": -4.63728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-mijas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-mijas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-nuestro-padre-jesus-nazareno-la-campana",
@@ -1502,10 +1548,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56891,
+"lon": -5.4267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-nuestro-padre-jesus-nazareno-la-campana-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-nuestro-padre-jesus-nazareno-la-campana-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-padre-jesus-olvera",
@@ -1531,10 +1578,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.93418,
+"lon": -5.26678,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-padre-jesus-olvera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-padre-jesus-olvera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hermandad-santo-entierro-la-campana",
@@ -1560,10 +1608,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56891,
+"lon": -5.4267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-santo-entierro-la-campana-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hermandad-santo-entierro-la-campana-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-palacio-de-corbos-valle-de-abdalajis",
@@ -1618,10 +1667,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47249,
+"lon": -4.44206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-de-cabra-cabra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-de-cabra-cabra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-getsemani-seville",
@@ -1676,10 +1726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89396,
+"lon": -6.56116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-sierra-de-aracena-aracena-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-sierra-de-aracena-aracena-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-evangelico-shalom-cadiz",
@@ -1705,10 +1756,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelico-shalom-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelico-shalom-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cofradia-jesus-nazareno-albox",
@@ -1734,10 +1786,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38856,
+"lon": -2.14949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cofradia-jesus-nazareno-albox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cofradia-jesus-nazareno-albox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cofradia-san-juan-evangelista-albox",
@@ -1763,10 +1816,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38856,
+"lon": -2.14949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cofradia-san-juan-evangelista-albox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cofradia-san-juan-evangelista-albox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-agustinas-recoletas-nazarenas-motril",
@@ -1792,10 +1846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75066,
+"lon": -3.5179,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-agustinas-recoletas-nazarenas-motril-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-agustinas-recoletas-nazarenas-motril-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-de-amor-cristiano-cac-cordoba",
@@ -1821,10 +1876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-amor-cristiano-cac-cordoba-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-amor-cristiano-cac-cordoba-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-de-fe-churriana-de-la-vega",
@@ -1850,10 +1906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.14499,
+"lon": -3.64617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-fe-churriana-de-la-vega-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-fe-churriana-de-la-vega-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "conventro-carmelitas-descalzas-cumbres-mayores",
@@ -1879,10 +1936,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06194,
+"lon": -6.64565,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/conventro-carmelitas-descalzas-cumbres-mayores-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/conventro-carmelitas-descalzas-cumbres-mayores-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-de-la-misericordia-la-rinconada",
@@ -1908,10 +1966,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.48613,
+"lon": -5.98091,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-de-la-misericordia-la-rinconada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-de-la-misericordia-la-rinconada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-para-todos-puente-genil",
@@ -1937,10 +1996,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38943,
+"lon": -4.76686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-para-todos-puente-genil-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-para-todos-puente-genil-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cuesta-de-las-ovejas-marmolejo",
@@ -1966,10 +2026,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.04549,
+"lon": -4.17029,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cuesta-de-las-ovejas-marmolejo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cuesta-de-las-ovejas-marmolejo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "domus-dei-porta-coeli-el-gastor",
@@ -1995,10 +2056,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85478,
+"lon": -5.32334,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/domus-dei-porta-coeli-el-gastor-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/domus-dei-porta-coeli-el-gastor-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-cautivo-villanueva-del-rio-y-minas",
@@ -2024,10 +2086,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65502,
+"lon": -5.71369,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-cautivo-villanueva-del-rio-y-minas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-cautivo-villanueva-del-rio-y-minas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-nicho-huelma",
@@ -2053,10 +2116,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.64784,
+"lon": -3.45985,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-nicho-huelma-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-nicho-huelma-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elite-ilats-adra",
@@ -2082,10 +2146,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.74831,
+"lon": -3.02076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elite-ilats-adra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elite-ilats-adra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eremita-de-las-animas-benditas-adra",
@@ -2111,10 +2176,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.74831,
+"lon": -3.02076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eremita-de-las-animas-benditas-adra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eremita-de-las-animas-benditas-adra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-aljizar-dalias",
@@ -2140,10 +2206,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82179,
+"lon": -2.87138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-aljizar-dalias-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-aljizar-dalias-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-belen-priego-de-cordoba",
@@ -2169,10 +2236,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.43807,
+"lon": -4.19523,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-belen-priego-de-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-belen-priego-de-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-cambil-cambil",
@@ -2198,10 +2266,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67934,
+"lon": -3.56537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-cambil-cambil-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-cambil-cambil-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-don-miguel-el-viso",
@@ -2227,10 +2296,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.48333,
+"lon": -4.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-don-miguel-el-viso-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-don-miguel-el-viso-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-el-carmen-canete-la-real",
@@ -2256,10 +2326,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.95154,
+"lon": -5.0244,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-el-carmen-canete-la-real-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-el-carmen-canete-la-real-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-jesus-lopera",
@@ -2285,10 +2356,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.94542,
+"lon": -4.21463,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-jesus-lopera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-jesus-lopera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-jesus-nazareno-cortegana",
@@ -2314,10 +2386,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.91116,
+"lon": -6.82045,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-jesus-nazareno-cortegana-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-jesus-nazareno-cortegana-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-concepcion-de-penallana-andujar",
@@ -2343,10 +2416,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-concepcion-de-penallana-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-concepcion-de-penallana-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-cruz-del-puerto-guaro",
@@ -2372,10 +2446,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.6563,
+"lon": -4.83433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-cruz-del-puerto-guaro-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-cruz-del-puerto-guaro-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-cruz-terque",
@@ -2401,10 +2476,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.98393,
+"lon": -2.59679,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-cruz-terque-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-cruz-terque-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-limpia-y-pura-bailen",
@@ -2430,10 +2506,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.09639,
+"lon": -3.77786,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-limpia-y-pura-bailen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-limpia-y-pura-bailen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-presentacion-hueneja",
@@ -2459,10 +2536,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.1766,
+"lon": -2.95024,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-presentacion-hueneja-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-presentacion-hueneja-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-torre-vieja-lanteira",
@@ -2488,10 +2566,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.16871,
+"lon": -3.13823,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-torre-vieja-lanteira-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-torre-vieja-lanteira-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-trinidad-valverde-del-camino",
@@ -2517,10 +2596,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57511,
+"lon": -6.75432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-trinidad-valverde-del-camino-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-trinidad-valverde-del-camino-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-veracruz-antequera",
@@ -2546,10 +2626,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-veracruz-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-veracruz-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-vinuela-almedinilla",
@@ -2575,10 +2656,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.43902,
+"lon": -4.09052,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vinuela-almedinilla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vinuela-almedinilla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-animas-alpujarra-de-la-sierra",
@@ -2633,10 +2715,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99003,
+"lon": -2.58655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-animas-benditas-alhabia-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-animas-benditas-alhabia-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-imagenes-rescatadas-berja",
@@ -2662,10 +2745,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.84693,
+"lon": -2.94966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-imagenes-rescatadas-berja-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-imagenes-rescatadas-berja-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-las-virtudes-la-nava",
@@ -2720,10 +2804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.14245,
+"lon": -2.77808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-maravillas-abla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-maravillas-abla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-santas-martires-del-monte-puebla-de-don-fadrique",
@@ -2749,10 +2834,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.96156,
+"lon": -2.43961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-santas-martires-del-monte-puebla-de-don-fadrique-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-santas-martires-del-monte-puebla-de-don-fadrique-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-tres-cruces-alora",
@@ -2778,10 +2864,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82358,
+"lon": -4.70575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-tres-cruces-alora-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-tres-cruces-alora-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-angeles-alhama-de-granada",
@@ -2807,10 +2894,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.00689,
+"lon": -3.98963,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-angeles-alhama-de-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-angeles-alhama-de-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-angeles-baena",
@@ -2836,10 +2924,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.6167,
+"lon": -4.32245,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-angeles-baena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-angeles-baena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-antos-medicos-cortes-de-baza",
@@ -2865,10 +2954,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65514,
+"lon": -2.77167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-antos-medicos-cortes-de-baza-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-antos-medicos-cortes-de-baza-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-campos-benahadux",
@@ -2894,10 +2984,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.92493,
+"lon": -2.45941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-campos-benahadux-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-campos-benahadux-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-santos-matires-abla",
@@ -2923,10 +3014,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.14245,
+"lon": -2.77808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-santos-matires-abla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-santos-matires-abla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-nra-sra-de-la-fuensanta-coin",
@@ -2952,10 +3044,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.65947,
+"lon": -4.75639,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nra-sra-de-la-fuensanta-coin-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nra-sra-de-la-fuensanta-coin-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-nuestro-padre-jesus-lora-del-rio",
@@ -2981,10 +3074,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65896,
+"lon": -5.52751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nuestro-padre-jesus-lora-del-rio-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nuestro-padre-jesus-lora-del-rio-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-nuestro-padre-jesus-nazareno-teba",
@@ -3010,10 +3104,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.98358,
+"lon": -4.91913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nuestro-padre-jesus-nazareno-teba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nuestro-padre-jesus-nazareno-teba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-porticate-yunquera",
@@ -3039,10 +3134,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.73252,
+"lon": -4.92122,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-porticate-yunquera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-porticate-yunquera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-anton-abla",
@@ -3068,10 +3164,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.14245,
+"lon": -2.77808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-abla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-abla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-antonio-albunan",
@@ -3097,10 +3194,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22708,
+"lon": -3.13321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-albunan-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-albunan-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-buenaventura-valle-del-zalabi",
@@ -3155,10 +3253,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.74467,
+"lon": -3.39079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cayetano-gualchos-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cayetano-gualchos-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-cayetano-y-san-anton-cantoria",
@@ -3184,10 +3283,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.35146,
+"lon": -2.19209,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cayetano-y-san-anton-cantoria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cayetano-y-san-anton-cantoria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-francisco-andujar",
@@ -3213,10 +3313,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-francisco-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-francisco-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-juan-alanis",
@@ -3242,10 +3343,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03333,
+"lon": -5.71667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-alanis-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-alanis-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-miguel-alto-granada",
@@ -3271,10 +3373,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-miguel-alto-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-miguel-alto-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pascual-bailon-mojacar",
@@ -3300,10 +3403,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.1402,
+"lon": -1.85102,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pascual-bailon-mojacar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pascual-bailon-mojacar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-roquillo-sorbas",
@@ -3329,10 +3433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.09761,
+"lon": -2.12349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-roquillo-sorbas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-roquillo-sorbas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-sebastian-adra",
@@ -3358,10 +3463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.74831,
+"lon": -3.02076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-sebastian-adra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-sebastian-adra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-sebastian-algarrobo",
@@ -3387,10 +3493,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77388,
+"lon": -4.03952,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-sebastian-algarrobo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-sebastian-algarrobo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-torcuato-fonelas",
@@ -3416,10 +3523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.41042,
+"lon": -3.17158,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-torcuato-fonelas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-torcuato-fonelas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-clara-el-puerto-de-santa-maria",
@@ -3445,10 +3553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.59389,
+"lon": -6.23298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-clara-el-puerto-de-santa-maria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-clara-el-puerto-de-santa-maria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-lucia-martos",
@@ -3474,10 +3583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.72107,
+"lon": -3.97264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-lucia-martos-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-lucia-martos-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-rita-baza",
@@ -3503,10 +3613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.49073,
+"lon": -2.77259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-rita-baza-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-rita-baza-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-zita-zufre",
@@ -3532,10 +3643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83333,
+"lon": -6.33333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-zita-zufre-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-zita-zufre-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santo-comingo-hinojosa-del-duque",
@@ -3561,10 +3673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.50057,
+"lon": -5.14651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-comingo-hinojosa-del-duque-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-comingo-hinojosa-del-duque-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santo-domingo-cordoba",
@@ -3590,10 +3703,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-domingo-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-domingo-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santo-domingo-de-guzman-castillejar",
@@ -3619,10 +3733,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.71697,
+"lon": -2.6406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-domingo-de-guzman-castillejar-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-domingo-de-guzman-castillejar-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-andarax-almeria",
@@ -3648,10 +3763,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-andarax-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-andarax-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-calvario-alcaudete",
@@ -3677,10 +3793,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.59091,
+"lon": -4.08237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvario-alcaudete-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvario-alcaudete-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-calvario-fernan-nunez",
@@ -3706,10 +3823,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67044,
+"lon": -4.7264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvario-fernan-nunez-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvario-fernan-nunez-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-castanuelo-jubrique",
@@ -3735,10 +3853,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.56475,
+"lon": -5.2156,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-castanuelo-jubrique-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-castanuelo-jubrique-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cerro-de-la-cruz-almedinilla",
@@ -3764,10 +3883,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.43902,
+"lon": -4.09052,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cerro-de-la-cruz-almedinilla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cerro-de-la-cruz-almedinilla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cerro-de-los-martires-san-fernando",
@@ -3793,10 +3913,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.4759,
+"lon": -6.19817,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cerro-de-los-martires-san-fernando-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cerro-de-los-martires-san-fernando-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-veracruz-chiclana-de-la-frontera",
@@ -3822,10 +3943,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-veracruz-chiclana-de-la-frontera-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-veracruz-chiclana-de-la-frontera-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-del-perdon-de-la-asomada-jaen",
@@ -3851,10 +3973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.76922,
+"lon": -3.79028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-del-perdon-de-la-asomada-jaen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-del-perdon-de-la-asomada-jaen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-dulce-nombre-canete-la-real",
@@ -3880,10 +4003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.95154,
+"lon": -5.0244,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-dulce-nombre-canete-la-real-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-dulce-nombre-canete-la-real-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santico-montilla",
@@ -3909,10 +4033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58627,
+"lon": -4.63805,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santico-montilla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santico-montilla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santisimo-cristo-del-rosario-higuera-de-la-sierra",
@@ -3938,10 +4063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83333,
+"lon": -6.45,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-del-rosario-higuera-de-la-sierra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-del-rosario-higuera-de-la-sierra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-bailen",
@@ -3967,10 +4093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.09639,
+"lon": -3.77786,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-bailen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-bailen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-de-la-cana-o-ecce-homo-frigiliana",
@@ -3996,10 +4123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.78747,
+"lon": -3.89441,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-cana-o-ecce-homo-frigiliana-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-cana-o-ecce-homo-frigiliana-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-de-talara-lecrin",
@@ -4054,10 +4182,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.87804,
+"lon": -4.84694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-chorro-ardales-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-chorro-ardales-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-el-senor-de-la-columna-alosno",
@@ -4083,10 +4212,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.54861,
+"lon": -7.1147,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-senor-de-la-columna-alosno-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-senor-de-la-columna-alosno-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-la-coronada-calanas",
@@ -4112,10 +4242,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65568,
+"lon": -6.8805,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-coronada-calanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-coronada-calanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-la-divina-pastora-almaden-de-la-plata",
@@ -4141,10 +4272,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.87221,
+"lon": -6.08085,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-divina-pastora-almaden-de-la-plata-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-divina-pastora-almaden-de-la-plata-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-la-soledad-bailen",
@@ -4170,10 +4302,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.09639,
+"lon": -3.77786,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-soledad-bailen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-soledad-bailen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-nuestro-senor-de-la-humildad-y-la-paciencia-almonaster-la-real",
@@ -4228,10 +4361,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.07282,
+"lon": -3.60134,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-nueva-dilar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-nueva-dilar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-anton-competa",
@@ -4257,10 +4391,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83352,
+"lon": -3.9743,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-anton-competa-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-anton-competa-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-cristobal-cabra-del-santo-cristo",
@@ -4286,10 +4421,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.70379,
+"lon": -3.28765,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-cristobal-cabra-del-santo-cristo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-cristobal-cabra-del-santo-cristo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-gregorio-de-ostia-hinojosa-del-duque",
@@ -4315,10 +4451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.50057,
+"lon": -5.14651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-gregorio-de-ostia-hinojosa-del-duque-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-gregorio-de-ostia-hinojosa-del-duque-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-isidro-labrador-estepona",
@@ -4344,10 +4481,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.42764,
+"lon": -5.14589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-isidro-labrador-estepona-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-isidro-labrador-estepona-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-cruz-almanzora",
@@ -4402,10 +4540,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99003,
+"lon": -2.58655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-de-los-caminantes-alhabia-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-de-los-caminantes-alhabia-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-stmo-cristo-de-la-sierra-valle-de-abdalajis",
@@ -4460,10 +4599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermitilla-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermitilla-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esperanza-para-el-corazon-tomares",
@@ -4489,10 +4629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.37281,
+"lon": -6.04589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esperanza-para-el-corazon-tomares-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esperanza-para-el-corazon-tomares-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evangelica-espagnola-rincon-de-la-victoria",
@@ -4518,10 +4659,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.71715,
+"lon": -4.27583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelica-espagnola-rincon-de-la-victoria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelica-espagnola-rincon-de-la-victoria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fraternidad-cristiana-de-enfermos-y-minusvalidos-sevilla",
@@ -4547,10 +4689,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38283,
+"lon": -5.97317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fraternidad-cristiana-de-enfermos-y-minusvalidos-sevilla-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fraternidad-cristiana-de-enfermos-y-minusvalidos-sevilla-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fuensanta-montoro",
@@ -4576,10 +4719,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.02409,
+"lon": -4.3834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fuensanta-montoro-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fuensanta-montoro-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hacienda-de-los-rituales-carmona",
@@ -4605,10 +4749,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47125,
+"lon": -5.64608,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hacienda-de-los-rituales-carmona-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hacienda-de-los-rituales-carmona-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermanas-de-la-cruz-huelva",
@@ -4634,10 +4779,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.26638,
+"lon": -6.94004,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermanas-de-la-cruz-huelva-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermanas-de-la-cruz-huelva-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermandad-de-la-salud-cazorla",
@@ -4663,10 +4809,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.91495,
+"lon": -3.00342,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermandad-de-la-salud-cazorla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermandad-de-la-salud-cazorla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermita-cordoba",
@@ -4692,10 +4839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglasia-de-santa-ana-alfarnate",
@@ -4721,10 +4869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99426,
+"lon": -4.25929,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglasia-de-santa-ana-alfarnate-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglasia-de-santa-ana-alfarnate-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-jaen",
@@ -4750,10 +4899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.76922,
+"lon": -3.79028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-jaen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-jaen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-septimo-dia-la-linea-de-la-concepcion",
@@ -4779,10 +4929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.16809,
+"lon": -5.34777,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-septimo-dia-la-linea-de-la-concepcion-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-septimo-dia-la-linea-de-la-concepcion-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-episcopala-de-san-jorge-malaga",
@@ -4808,10 +4959,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopala-de-san-jorge-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopala-de-san-jorge-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-pentecostal-malaga",
@@ -4837,10 +4989,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-pentecostal-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-pentecostal-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-jesus-huercal-de-almeria",
@@ -4866,10 +5019,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.88507,
+"lon": -2.4376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-jesus-huercal-de-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-jesus-huercal-de-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-malaga-malaga",
@@ -4895,10 +5049,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-malaga-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-malaga-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-evangelica-fe-almeria",
@@ -4924,10 +5079,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-evangelica-fe-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-evangelica-fe-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-capitulo-29-granada",
@@ -4953,10 +5109,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-capitulo-29-granada-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-capitulo-29-granada-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-castillo-santa-maria-magdalena-paymogo",
@@ -4982,10 +5139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73999,
+"lon": -7.34499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-castillo-santa-maria-magdalena-paymogo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-castillo-santa-maria-magdalena-paymogo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-centro-de-vida-cristiana-malaga-malaga",
@@ -5011,10 +5169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-de-vida-cristiana-malaga-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-de-vida-cristiana-malaga-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-el-laurel-cordoba",
@@ -5040,10 +5199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-el-laurel-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-el-laurel-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-renacer-dos-hermanas",
@@ -5069,10 +5229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28287,
+"lon": -5.92088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-renacer-dos-hermanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-renacer-dos-hermanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-ugijar-ugijar",
@@ -5098,10 +5259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.96087,
+"lon": -3.05523,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-ugijar-ugijar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-ugijar-ugijar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-vida-algeciras",
@@ -5127,10 +5289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.13326,
+"lon": -5.45051,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-vida-algeciras-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-vida-algeciras-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-belen-antequera",
@@ -5156,10 +5319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-belen-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-belen-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-capuchinos-antequera",
@@ -5185,10 +5349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-capuchinos-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-capuchinos-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-buen-pastor-san-fernando",
@@ -5214,10 +5379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.4759,
+"lon": -6.19817,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-buen-pastor-san-fernando-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-buen-pastor-san-fernando-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-huercal-de-almeria-huercal-de-almeria",
@@ -5243,10 +5409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.88507,
+"lon": -2.4376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-huercal-de-almeria-huercal-de-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-huercal-de-almeria-huercal-de-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-alcala-de-guadaira",
@@ -5272,10 +5439,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.33791,
+"lon": -5.83951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-alcala-de-guadaira-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-alcala-de-guadaira-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-redentor-almeria",
@@ -5301,10 +5469,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-redentor-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-redentor-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesus-nazareno-castro-del-rio",
@@ -5330,10 +5499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69125,
+"lon": -4.48058,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesus-nazareno-castro-del-rio-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesus-nazareno-castro-del-rio-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesus-nazareno-chiclana-de-la-frontera",
@@ -5359,10 +5529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesus-nazareno-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesus-nazareno-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-anunciacion-albunan",
@@ -5388,10 +5559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22708,
+"lon": -3.13321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-anunciacion-albunan-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-anunciacion-albunan-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-beata-madre-ana-maria-de-javohuey-y-san-jose-de-cluny-seville",
@@ -5446,10 +5618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.62364,
+"lon": -6.35997,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-caridad-rota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-caridad-rota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-concepcion-albox",
@@ -5475,10 +5648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38856,
+"lon": -2.14949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-concepcion-albox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-concepcion-albox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-conversion-de-san-pablo-cadiz",
@@ -5504,10 +5678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-conversion-de-san-pablo-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-conversion-de-san-pablo-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-encarnacion-albolote",
@@ -5533,10 +5708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.23088,
+"lon": -3.6551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-encarnacion-albolote-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-encarnacion-albolote-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-encarnacion-bailen",
@@ -5562,10 +5738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.09639,
+"lon": -3.77786,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-encarnacion-bailen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-encarnacion-bailen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-encarnacion-illora",
@@ -5591,10 +5768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28771,
+"lon": -3.88109,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-encarnacion-illora-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-encarnacion-illora-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-engarnacion-alminar-mudejar-archez",
@@ -5620,10 +5798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83992,
+"lon": -3.99208,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-engarnacion-alminar-mudejar-archez-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-engarnacion-alminar-mudejar-archez-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-inmacualada-concepcion-y-san-alberto-magno-cordoba",
@@ -5649,10 +5828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-inmacualada-concepcion-y-san-alberto-magno-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-inmacualada-concepcion-y-san-alberto-magno-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-magdalena-cordoba",
@@ -5678,10 +5858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-magdalena-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-magdalena-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-merced-baza",
@@ -5707,10 +5888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.49073,
+"lon": -2.77259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-merced-baza-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-merced-baza-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-milagrosa-huelva",
@@ -5736,10 +5918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.26638,
+"lon": -6.94004,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-milagrosa-huelva-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-milagrosa-huelva-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-palma-el-puerto-de-santa-maria",
@@ -5765,10 +5948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.59389,
+"lon": -6.23298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-palma-el-puerto-de-santa-maria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-palma-el-puerto-de-santa-maria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-paz-antequera",
@@ -5794,10 +5978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-paz-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-paz-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-realeza-de-maria-puente-genil",
@@ -5823,10 +6008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38943,
+"lon": -4.76686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-realeza-de-maria-puente-genil-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-realeza-de-maria-puente-genil-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-resurreccion-bornos",
@@ -5852,10 +6038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.81677,
+"lon": -5.74448,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-resurreccion-bornos-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-resurreccion-bornos-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-sagrada-familia-el-valle-lucena",
@@ -5881,10 +6068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.40881,
+"lon": -4.48522,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-sagrada-familia-el-valle-lucena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-sagrada-familia-el-valle-lucena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-santisima-trinidad-san-telmo-chiclana-de-la-frontera",
@@ -5910,10 +6098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-san-telmo-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-san-telmo-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-soledad-chiclana-de-la-frontera",
@@ -5939,10 +6128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-soledad-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-soledad-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-vera-cruz-marchena",
@@ -5968,10 +6158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.329,
+"lon": -5.41681,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-vera-cruz-marchena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-vera-cruz-marchena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-victoria-arahal",
@@ -6055,10 +6246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-esclavas-del-santisimo-sacramento-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-esclavas-del-santisimo-sacramento-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-dolores-baza",
@@ -6084,10 +6276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.49073,
+"lon": -2.77259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-dolores-baza-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-dolores-baza-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-remedios-antequera",
@@ -6113,10 +6306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-remedios-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-remedios-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-salesianos-alcala-de-guadaira",
@@ -6142,10 +6336,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.33791,
+"lon": -5.83951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-salesianos-alcala-de-guadaira-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-salesianos-alcala-de-guadaira-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-de-los-ultimos-dias-sanlucar-de-barrameda",
@@ -6171,10 +6366,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77808,
+"lon": -6.3515,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-de-los-ultimos-dias-sanlucar-de-barrameda-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-de-los-ultimos-dias-sanlucar-de-barrameda-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-dragonites-rincon-de-la-victoria",
@@ -6200,10 +6396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.71715,
+"lon": -4.27583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-dragonites-rincon-de-la-victoria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-dragonites-rincon-de-la-victoria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-martires-san-sebastian-y-santa-eufemia-tomares",
@@ -6229,10 +6426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.37281,
+"lon": -6.04589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-martires-san-sebastian-y-santa-eufemia-tomares-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-martires-san-sebastian-y-santa-eufemia-tomares-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-ultimos-dias-dos-hermanas",
@@ -6258,10 +6456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28287,
+"lon": -5.92088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-ultimos-dias-dos-hermanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-ultimos-dias-dos-hermanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-maracena-maracena",
@@ -6287,10 +6486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.20764,
+"lon": -3.63493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maracena-maracena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maracena-maracena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-maria-auxiliadora-la-carlota",
@@ -6316,10 +6516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67359,
+"lon": -4.93122,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-auxiliadora-la-carlota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-auxiliadora-la-carlota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ntra-sra-de-la-granada-guillena",
@@ -6345,10 +6546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.54262,
+"lon": -6.05626,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-de-la-granada-guillena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-de-la-granada-guillena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nuestro-padre-jesus-nazareno-1592-conil-de-la-frontera",
@@ -6374,10 +6576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.27719,
+"lon": -6.0885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestro-padre-jesus-nazareno-1592-conil-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestro-padre-jesus-nazareno-1592-conil-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nuestro-padre-jesus-nazareno-la-algaba",
@@ -6403,10 +6606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46325,
+"lon": -6.01113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestro-padre-jesus-nazareno-la-algaba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestro-padre-jesus-nazareno-la-algaba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-portaceli-seville",
@@ -6461,10 +6665,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.96655,
+"lon": -2.20595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pujaire-nijar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pujaire-nijar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-anton-valor",
@@ -6490,10 +6695,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99618,
+"lon": -3.08287,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-anton-valor-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-anton-valor-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-benito-cazalla-de-la-sierra",
@@ -6519,10 +6725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.93333,
+"lon": -5.75,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-benito-cazalla-de-la-sierra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-benito-cazalla-de-la-sierra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-bernardo-ocana-las-tres-villas",
@@ -6577,10 +6784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77808,
+"lon": -6.3515,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-diego-de-alcala-sanlucar-de-barrameda-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-diego-de-alcala-sanlucar-de-barrameda-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-eufrasio-jaen",
@@ -6606,10 +6814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.76922,
+"lon": -3.79028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-eufrasio-jaen-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-eufrasio-jaen-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-de-asis-arcos-de-la-frontera",
@@ -6635,10 +6844,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75075,
+"lon": -5.81056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-arcos-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-arcos-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-javier-palomares",
@@ -6693,10 +6903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47249,
+"lon": -4.44206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-y-san-rodrigo-cabra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-y-san-rodrigo-cabra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gil-y-santa-ana-granada",
@@ -6722,10 +6933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gil-y-santa-ana-granada-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gil-y-santa-ana-granada-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gregorio-betico-granada",
@@ -6751,10 +6963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gregorio-betico-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gregorio-betico-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gregorio-granada",
@@ -6780,10 +6993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gregorio-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gregorio-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-ignacio-de-loyola-almeria",
@@ -6809,10 +7023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-ignacio-de-loyola-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-ignacio-de-loyola-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-indalecio-pechina",
@@ -6838,10 +7053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.91619,
+"lon": -2.43689,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-indalecio-pechina-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-indalecio-pechina-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-isidro-el-ejido",
@@ -6867,10 +7083,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77629,
+"lon": -2.81456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-isidro-el-ejido-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-isidro-el-ejido-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-isidro-labrador-los-barrios",
@@ -6896,10 +7113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.18482,
+"lon": -5.49213,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-isidro-labrador-los-barrios-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-isidro-labrador-los-barrios-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jose-almeria",
@@ -6925,10 +7143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jose-de-la-nava-fuente-obejuna",
@@ -6954,10 +7173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.26667,
+"lon": -5.41667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-de-la-nava-fuente-obejuna-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-de-la-nava-fuente-obejuna-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jose-obrero-bailen",
@@ -6983,10 +7203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.09639,
+"lon": -3.77786,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-obrero-bailen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-obrero-bailen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-evangelista-alcala-de-guadaira",
@@ -7012,10 +7233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.33791,
+"lon": -5.83951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-evangelista-alcala-de-guadaira-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-evangelista-alcala-de-guadaira-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-grazalema",
@@ -7041,10 +7263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.76018,
+"lon": -5.36839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-grazalema-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-grazalema-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-luis-gonzaga-almeria",
@@ -7070,10 +7293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-luis-gonzaga-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-luis-gonzaga-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-luis-la-zubia",
@@ -7128,10 +7352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.87408,
+"lon": -6.66536,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-marcos-alajar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-marcos-alajar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-bajo-granada",
@@ -7157,10 +7382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-bajo-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-bajo-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pablo-almeria",
@@ -7186,10 +7412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pablo-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pablo-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pablo-apostol-la-carlota",
@@ -7215,10 +7442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67359,
+"lon": -4.93122,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pablo-apostol-la-carlota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pablo-apostol-la-carlota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-pascual-jaen",
@@ -7244,10 +7472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.76922,
+"lon": -3.79028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-pascual-jaen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-pascual-jaen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-y-san-francisco-javier-algeciras",
@@ -7273,10 +7502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.13326,
+"lon": -5.45051,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-y-san-francisco-javier-algeciras-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-y-san-francisco-javier-algeciras-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pio-x-almeria",
@@ -7302,10 +7532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pio-x-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pio-x-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-rafael-cordoba",
@@ -7331,10 +7562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-rafael-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-rafael-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-sebastian-alcala-de-guadaira",
@@ -7360,10 +7592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.33791,
+"lon": -5.83951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-sebastian-alcala-de-guadaira-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-sebastian-alcala-de-guadaira-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-silvestre-papa-i-san-silvestre-de-guzman",
@@ -7389,10 +7622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3877,
+"lon": -7.34908,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-silvestre-papa-i-san-silvestre-de-guzman-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-silvestre-papa-i-san-silvestre-de-guzman-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-torcuato-guadix",
@@ -7418,10 +7652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.29932,
+"lon": -3.13922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-torcuato-guadix-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-torcuato-guadix-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-adela-motril",
@@ -7447,10 +7682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75066,
+"lon": -3.5179,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-adela-motril-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-adela-motril-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-josefina-bakhita-motril",
@@ -7476,10 +7712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75066,
+"lon": -3.5179,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-josefina-bakhita-motril-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-josefina-bakhita-motril-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-albox",
@@ -7505,10 +7742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38856,
+"lon": -2.14949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-albox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-albox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-gracia-el-cerro-de-andevalo",
@@ -7534,10 +7772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73537,
+"lon": -6.93692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-gracia-el-cerro-de-andevalo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-gracia-el-cerro-de-andevalo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-jesus-antequera",
@@ -7563,10 +7802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-jesus-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-jesus-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-la-anunciacion-orce",
@@ -7592,10 +7832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7212,
+"lon": -2.47752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-anunciacion-orce-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-anunciacion-orce-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-la-mesa-zahara",
@@ -7621,10 +7862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.84055,
+"lon": -5.39128,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-mesa-zahara-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-mesa-zahara-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-reina-y-madre-malaga",
@@ -7650,10 +7892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-reina-y-madre-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-reina-y-madre-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-marina-andujar",
@@ -7679,10 +7922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-marina-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-marina-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-rosalia-seville",
@@ -7737,10 +7981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-apostol-de-guardias-viejas-el-ejido",
@@ -7766,10 +8011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77629,
+"lon": -2.81456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-de-guardias-viejas-el-ejido-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-de-guardias-viejas-el-ejido-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-el-mayor-medina-sidonia",
@@ -7795,10 +8041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.45695,
+"lon": -5.92717,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-el-mayor-medina-sidonia-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-el-mayor-medina-sidonia-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-calvario-priego-de-cordoba",
@@ -7824,10 +8071,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.43807,
+"lon": -4.19523,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-calvario-priego-de-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-calvario-priego-de-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-carmen-antequera",
@@ -7853,10 +8101,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-carmen-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-carmen-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-divino-salvador-cortegana",
@@ -7882,10 +8131,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.91116,
+"lon": -6.82045,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-divino-salvador-cortegana-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-divino-salvador-cortegana-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-jesus-ubrique",
@@ -7911,10 +8161,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.67777,
+"lon": -5.446,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-jesus-ubrique-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-jesus-ubrique-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-archidona",
@@ -7940,10 +8191,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.09654,
+"lon": -4.38869,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-archidona-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-archidona-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-rocio-huelva",
@@ -7969,10 +8221,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.26638,
+"lon": -6.94004,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-rocio-huelva-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-rocio-huelva-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-rosario-cenes-de-la-vega",
@@ -7998,10 +8251,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.16006,
+"lon": -3.53548,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-rosario-cenes-de-la-vega-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-rosario-cenes-de-la-vega-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-sagrario-granada",
@@ -8027,10 +8281,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-sagrario-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-sagrario-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santo-cristo-de-la-misericordia-jodar",
@@ -8056,10 +8311,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84064,
+"lon": -3.35262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santo-cristo-de-la-misericordia-jodar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santo-cristo-de-la-misericordia-jodar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santo-cristo-de-las-animas-cordoba",
@@ -8085,10 +8341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89155,
+"lon": -4.77275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santo-cristo-de-las-animas-cordoba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santo-cristo-de-las-animas-cordoba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-dulce-nombre-sevilla",
@@ -8114,10 +8371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38283,
+"lon": -5.97317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dulce-nombre-sevilla-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dulce-nombre-sevilla-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-ecumenica-nuesta-senora-del-valle-vera",
@@ -8143,10 +8401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.24345,
+"lon": -1.85905,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ecumenica-nuesta-senora-del-valle-vera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ecumenica-nuesta-senora-del-valle-vera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-buen-pastor-los-palacios-y-villafranca",
@@ -8172,10 +8431,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.16181,
+"lon": -5.92433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-pastor-los-palacios-y-villafranca-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-pastor-los-palacios-y-villafranca-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-salvador-jaen",
@@ -8201,10 +8461,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.76922,
+"lon": -3.79028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-salvador-jaen-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-salvador-jaen-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-albox",
@@ -8230,10 +8491,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38856,
+"lon": -2.14949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-albox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-albox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-almeria",
@@ -8259,10 +8521,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-armonia-de-almeria-almeria",
@@ -8288,10 +8551,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-armonia-de-almeria-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-armonia-de-almeria-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-seville",
@@ -8346,10 +8610,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-belen-jaen",
@@ -8375,10 +8640,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.76922,
+"lon": -3.79028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-jaen-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-jaen-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-betel-almeria",
@@ -8404,10 +8670,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-betel-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-betel-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-casa-de-dios-chipiona",
@@ -8433,10 +8700,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.73663,
+"lon": -6.43703,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-dios-chipiona-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-dios-chipiona-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-chauchina-chauchina",
@@ -8462,10 +8730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.19977,
+"lon": -3.77157,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-chauchina-chauchina-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-chauchina-chauchina-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-filadelfia-atarfe",
@@ -8491,10 +8760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22479,
+"lon": -3.68686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-filadelfia-atarfe-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-filadelfia-atarfe-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-guadix-guadix",
@@ -8520,10 +8790,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.29932,
+"lon": -3.13922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-guadix-guadix-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-guadix-guadix-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-jesucristo-de-los-ultimos-dias-chiclana-de-la-frontera",
@@ -8549,10 +8820,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-jesucristo-de-los-ultimos-dias-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-jesucristo-de-los-ultimos-dias-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-san-pablo-granada",
@@ -8578,10 +8850,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-san-pablo-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-san-pablo-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-la-zarzuela-linares",
@@ -8607,10 +8880,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.09519,
+"lon": -3.63602,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-la-zarzuela-linares-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-la-zarzuela-linares-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-manantial-de-vida-la-algaba",
@@ -8636,10 +8910,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46325,
+"lon": -6.01113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-manantial-de-vida-la-algaba-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-manantial-de-vida-la-algaba-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-nueva-canaan-ii-dos-hermanas",
@@ -8665,10 +8940,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.28287,
+"lon": -5.92088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-nueva-canaan-ii-dos-hermanas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-nueva-canaan-ii-dos-hermanas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-nueva-vida-almeria",
@@ -8694,10 +8970,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-nueva-vida-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-nueva-vida-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-shalom-los-barrios",
@@ -8723,10 +9000,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.18482,
+"lon": -5.49213,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-shalom-los-barrios-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-shalom-los-barrios-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-tabernaculo-malaga",
@@ -8752,10 +9030,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-tabernaculo-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-tabernaculo-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-tharsis-sanlucar-de-barrameda",
@@ -8781,10 +9060,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77808,
+"lon": -6.3515,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-tharsis-sanlucar-de-barrameda-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-tharsis-sanlucar-de-barrameda-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelista-cabra",
@@ -8810,10 +9090,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47249,
+"lon": -4.44206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelista-cabra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelista-cabra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-familiar-cristiana-cadiz",
@@ -8839,10 +9120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-familiar-cristiana-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-familiar-cristiana-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesus-te-ama-malaga",
@@ -8868,10 +9150,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-te-ama-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-te-ama-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-chica-carlota-la-carlota",
@@ -8897,10 +9180,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67359,
+"lon": -4.93122,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-chica-carlota-la-carlota-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-chica-carlota-la-carlota-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-luz-del-mundo-sevilla-seville",
@@ -8955,10 +9239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38283,
+"lon": -5.97317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-manantial-de-vida-sevilla-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-manantial-de-vida-sevilla-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mayor-abacial-alcala-la-real",
@@ -8984,10 +9269,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4614,
+"lon": -3.92301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mayor-abacial-alcala-la-real-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mayor-abacial-alcala-la-real-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mayor-baza",
@@ -9013,10 +9299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.49073,
+"lon": -2.77259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mayor-baza-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mayor-baza-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mayor-san-juan-bautista-chiclana-de-la-frontera",
@@ -9042,10 +9329,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mayor-san-juan-bautista-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mayor-san-juan-bautista-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-parroquieal-de-la-purisima-concepcion-zufre",
@@ -9071,10 +9359,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83333,
+"lon": -6.33333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-parroquieal-de-la-purisima-concepcion-zufre-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-parroquieal-de-la-purisima-concepcion-zufre-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-parrroquial-de-san-isidro-labrador-pinos-puente",
@@ -9100,10 +9389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.25109,
+"lon": -3.74967,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-parrroquial-de-san-isidro-labrador-pinos-puente-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-parrroquial-de-san-isidro-labrador-pinos-puente-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pastora-andujar",
@@ -9129,10 +9419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pastora-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pastora-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-prioral-del-castillo-de-aracena-aracena",
@@ -9158,10 +9449,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89396,
+"lon": -6.56116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-prioral-del-castillo-de-aracena-aracena-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-prioral-del-castillo-de-aracena-aracena-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-regina-mundi-aljaraque",
@@ -9187,10 +9479,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.26989,
+"lon": -7.02313,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-regina-mundi-aljaraque-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-regina-mundi-aljaraque-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-roche-conil-de-la-frontera",
@@ -9216,10 +9509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.27719,
+"lon": -6.0885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roche-conil-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roche-conil-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-s-cristo-de-cabrilla-alfarnatejo",
@@ -9245,10 +9539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.9957,
+"lon": -4.26064,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-s-cristo-de-cabrilla-alfarnatejo-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-s-cristo-de-cabrilla-alfarnatejo-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-carlos-borromeo-arcos-de-la-frontera",
@@ -9274,10 +9569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75075,
+"lon": -5.81056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-carlos-borromeo-arcos-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-carlos-borromeo-arcos-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-felipe-neri-cadiz",
@@ -9303,10 +9599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-felipe-neri-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-felipe-neri-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-francisco-de-asis-almonte",
@@ -9332,10 +9629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.2647,
+"lon": -6.51667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-de-asis-almonte-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-de-asis-almonte-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-evangelista-alhabia",
@@ -9361,10 +9659,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99003,
+"lon": -2.58655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-evangelista-alhabia-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-evangelista-alhabia-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-lazaro-malaga",
@@ -9390,10 +9689,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-lazaro-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-lazaro-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-marcos-evangelista-cuevas-de-san-marcos",
@@ -9419,10 +9719,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.26666,
+"lon": -4.41432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-marcos-evangelista-cuevas-de-san-marcos-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-marcos-evangelista-cuevas-de-san-marcos-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-ramon-sorbas",
@@ -9448,10 +9749,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.09761,
+"lon": -2.12349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-ramon-sorbas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-ramon-sorbas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-sebastian-chiclana-de-la-frontera",
@@ -9477,10 +9779,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.41976,
+"lon": -6.14367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-chiclana-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-chiclana-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-servando-y-san-german-cadiz",
@@ -9506,10 +9809,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-servando-y-san-german-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-servando-y-san-german-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-vicente-de-paul-cadiz",
@@ -9535,10 +9839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-vicente-de-paul-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-vicente-de-paul-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-de-la-anunciacion-nijar",
@@ -9564,10 +9869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.96655,
+"lon": -2.20595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-de-la-anunciacion-nijar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-de-la-anunciacion-nijar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-de-la-granada-niebla",
@@ -9593,10 +9899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.36213,
+"lon": -6.67894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-de-la-granada-niebla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-de-la-granada-niebla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-marina-canaveral-de-leon",
@@ -9622,10 +9929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.01667,
+"lon": -6.51667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-marina-canaveral-de-leon-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-marina-canaveral-de-leon-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-cristo-de-la-salud-arenas",
@@ -9651,10 +9959,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.81625,
+"lon": -4.04411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-cristo-de-la-salud-arenas-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-cristo-de-la-salud-arenas-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-tubista-rincon-de-la-victoria",
@@ -9680,10 +9989,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.71715,
+"lon": -4.27583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tubista-rincon-de-la-victoria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tubista-rincon-de-la-victoria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-ucraniana-evangelica-salvacion-de-dios-malaga",
@@ -9709,10 +10019,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ucraniana-evangelica-salvacion-de-dios-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ucraniana-evangelica-salvacion-de-dios-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-valdecazorla-cazorla",
@@ -9738,10 +10049,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.91495,
+"lon": -3.00342,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-valdecazorla-cazorla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-valdecazorla-cazorla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-y-consultorio-medico-nijar",
@@ -9767,10 +10079,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.96655,
+"lon": -2.20595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-y-consultorio-medico-nijar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-y-consultorio-medico-nijar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesus-liberador-el-puerto-de-santa-maria",
@@ -9796,10 +10109,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.59389,
+"lon": -6.23298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-liberador-el-puerto-de-santa-maria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-liberador-el-puerto-de-santa-maria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-cruz-del-atajadero-cabra",
@@ -9825,10 +10139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47249,
+"lon": -4.44206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-cruz-del-atajadero-cabra-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-cruz-del-atajadero-cabra-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-cruz-tolox",
@@ -9854,10 +10169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.68721,
+"lon": -4.90511,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-cruz-tolox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-cruz-tolox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-ermita-cortes-de-baza",
@@ -9883,10 +10199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65514,
+"lon": -2.77167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-ermita-cortes-de-baza-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-ermita-cortes-de-baza-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-en-malaga-malaga",
@@ -9912,10 +10229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72016,
+"lon": -4.42034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-en-malaga-malaga-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-en-malaga-malaga-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-sra-de-benamara-estepona",
@@ -9941,10 +10259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.42764,
+"lon": -5.14589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-sra-de-benamara-estepona-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-sra-de-benamara-estepona-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "las-esclavas-cadiz",
@@ -9970,10 +10289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-esclavas-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-esclavas-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "los-gazquez-velez-rubio",
@@ -9999,10 +10319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.64844,
+"lon": -2.07686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/los-gazquez-velez-rubio-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/los-gazquez-velez-rubio-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nuestra-sra-de-las-angustias-benizalon",
@@ -10028,10 +10349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.21213,
+"lon": -2.2418,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nuestra-sra-de-las-angustias-benizalon-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nuestra-sra-de-las-angustias-benizalon-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nueva-sion-sevilla",
@@ -10057,10 +10379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38283,
+"lon": -5.97317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-sion-sevilla-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-sion-sevilla-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pacosin-majakka-turistikirkko-fuengirola",
@@ -10086,10 +10409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.53998,
+"lon": -4.62473,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pacosin-majakka-turistikirkko-fuengirola-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pacosin-majakka-turistikirkko-fuengirola-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pozo-de-la-nieve-dos-torres",
@@ -10115,10 +10439,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45,
+"lon": -4.9,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pozo-de-la-nieve-dos-torres-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pozo-de-la-nieve-dos-torres-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "principe-de-paz-almeria",
@@ -10144,10 +10469,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83814,
+"lon": -2.45974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/principe-de-paz-almeria-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/principe-de-paz-almeria-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pro-ecclesia-jimena-de-la-frontera",
@@ -10173,10 +10499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.43517,
+"lon": -5.45387,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pro-ecclesia-jimena-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pro-ecclesia-jimena-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "real-colegiata-de-santa-maria-la-mayor-antequera",
@@ -10202,10 +10529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.01938,
+"lon": -4.56123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/real-colegiata-de-santa-maria-la-mayor-antequera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/real-colegiata-de-santa-maria-la-mayor-antequera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reino-de-los-christianos-testigos-de-jehova-algodonales",
@@ -10231,10 +10559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.88044,
+"lon": -5.40536,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reino-de-los-christianos-testigos-de-jehova-algodonales-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reino-de-los-christianos-testigos-de-jehova-algodonales-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "residencia-hermanas-trinitarias-sevilla",
@@ -10260,10 +10589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38283,
+"lon": -5.97317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/residencia-hermanas-trinitarias-sevilla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/residencia-hermanas-trinitarias-sevilla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-of-live-church-albox",
@@ -10289,10 +10619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.38856,
+"lon": -2.14949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-live-church-albox-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-live-church-albox-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-los-los-testigos-crsitianos-de-jehova-roquetas-de-mar",
@@ -10318,10 +10649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.76419,
+"lon": -2.61475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-los-testigos-crsitianos-de-jehova-roquetas-de-mar-andalucia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-los-testigos-crsitianos-de-jehova-roquetas-de-mar-andalucia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-quesada",
@@ -10347,10 +10679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84338,
+"lon": -3.06561,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-quesada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-quesada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-benito-campillos",
@@ -10376,10 +10709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.04826,
+"lon": -4.86308,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-benito-campillos-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-benito-campillos-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-francisco-javier-cadiz",
@@ -10405,10 +10739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.52672,
+"lon": -6.2891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-francisco-javier-cadiz-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-francisco-javier-cadiz-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-francisco-solano-montilla",
@@ -10434,10 +10769,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58627,
+"lon": -4.63805,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-francisco-solano-montilla-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-francisco-solano-montilla-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-gines-andujar",
@@ -10463,10 +10799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-gines-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-gines-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-isidro-canete-de-las-torres",
@@ -10492,10 +10829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.86717,
+"lon": -4.31835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-isidro-canete-de-las-torres-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-isidro-canete-de-las-torres-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-de-letran-ubrique",
@@ -10521,10 +10859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.67777,
+"lon": -5.446,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-de-letran-ubrique-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-de-letran-ubrique-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-miguel-andujar",
@@ -10550,10 +10889,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.03922,
+"lon": -4.05077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-andujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-andujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-de-ambrox-dalias",
@@ -10579,10 +10919,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82179,
+"lon": -2.87138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-ambrox-dalias-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-ambrox-dalias-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-teresa-jornet-arcos-de-la-frontera",
@@ -10608,10 +10949,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.75075,
+"lon": -5.81056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-teresa-jornet-arcos-de-la-frontera-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-teresa-jornet-arcos-de-la-frontera-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-christo-de-penarrubia-campillos",
@@ -10637,10 +10979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.04826,
+"lon": -4.86308,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-christo-de-penarrubia-campillos-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-christo-de-penarrubia-campillos-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-cristo-de-cabrilla-lujar",
@@ -10666,10 +11009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.78831,
+"lon": -3.404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-cristo-de-cabrilla-lujar-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-cristo-de-cabrilla-lujar-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-tomas-de-villanueva-granada",
@@ -10695,10 +11039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18817,
+"lon": -3.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-tomas-de-villanueva-granada-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-tomas-de-villanueva-granada-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "svenska-kyrkan-fuengirola",
@@ -10724,10 +11069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.53998,
+"lon": -4.62473,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/svenska-kyrkan-fuengirola-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/svenska-kyrkan-fuengirola-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tumba-antropomorfica-tarifa",
@@ -10753,10 +11099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.01393,
+"lon": -5.60695,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tumba-antropomorfica-tarifa-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tumba-antropomorfica-tarifa-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-abundante-mairena-del-aljarafe",
@@ -10782,9 +11129,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.34461,
+"lon": -6.06391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-abundante-mairena-del-aljarafe-andalusia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-abundante-mairena-del-aljarafe-andalusia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

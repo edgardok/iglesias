@@ -12,8 +12,11 @@ Astro.response.headers.set('Cache-Control', CACHE);
 const cercanas = await otrasEnLocalidad(db(Astro.locals), i);
 const url = new URL(Astro.url.pathname, Astro.site).href;
 const dirCompleta = [i.direccion, i.localidad, i.provincia, i.pais].filter(Boolean).join(', ');
-const mapsUrl = i.google_maps ?? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(i.lat ? `${i.lat},${i.lon}` : `${i.nombre}, ${dirCompleta}`)}`;
-const osmUrl = i.lat ? `https://www.openstreetmap.org/?mlat=${i.lat}&mlon=${i.lon}#map=18/${i.lat}/${i.lon}` : null;
+// Coordenadas de GeoNames = centro de la localidad, no del templo: sirven para "cerca de mí" pero no para el mapa ni para el JSON-LD.
+const aprox = !!i.geo_fuente?.startsWith('GeoNames');
+const exacta = !!i.lat && !aprox;
+const mapsUrl = i.google_maps ?? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(exacta ? `${i.lat},${i.lon}` : `${i.nombre}, ${dirCompleta}`)}`;
+const osmUrl = exacta ? `https://www.openstreetmap.org/?mlat=${i.lat}&mlon=${i.lon}#map=18/${i.lat}/${i.lon}` : null;
 const desc = descripcion(i);
 const jsonld = {
   '@context': 'https://schema.org',
@@ -23,7 +26,7 @@ const jsonld = {
       alternateName: i.filial ? `${i.entidad} filial ${i.filial}` : undefined,
       keywords: [i.denominacion, i.religion, 'iglesia', 'templo', i.localidad, i.provincia, i.pais].filter(Boolean).join(', '),
       address: { '@type': 'PostalAddress', streetAddress: i.direccion || undefined, addressLocality: i.localidad, addressRegion: i.provincia, addressCountry: i.pais_slug.toUpperCase() },
-      geo: i.lat ? { '@type': 'GeoCoordinates', latitude: i.lat, longitude: i.lon } : undefined,
+      geo: exacta ? { '@type': 'GeoCoordinates', latitude: i.lat, longitude: i.lon } : undefined,
       hasMap: mapsUrl,
       parentOrganization: i.filial ? { '@type': 'Organization', name: i.entidad } : undefined,
       identifier: i.registro_ci ? { '@type': 'PropertyValue', propertyID: `Registro de cultos (${i.pais})`, value: i.registro_ci } : undefined,
@@ -58,7 +61,7 @@ const jsonld = {
       {i.web && <><dt>Sitio web</dt><dd><a href={i.web} rel="nofollow noopener">{i.web}</a></dd></>}
       {i.facebook && <><dt>Facebook</dt><dd><a href={i.facebook} rel="nofollow noopener">{i.facebook}</a></dd></>}
       {i.instagram && <><dt>Instagram</dt><dd><a href={i.instagram} rel="nofollow noopener">{i.instagram}</a></dd></>}
-      <dt>Mapa</dt><dd><a href={mapsUrl} rel="nofollow noopener">{i.google_maps ? 'Ver en Google Maps' : 'Buscar en Google Maps'}</a>{osmUrl && <> · <a href={osmUrl} rel="nofollow noopener">OpenStreetMap</a></>}{i.lat && <small> · {i.lat}, {i.lon}{i.geo_fuente ? ' (aprox.)' : ''}</small>}</dd>
+      <dt>Mapa</dt><dd><a href={mapsUrl} rel="nofollow noopener">{i.google_maps ? 'Ver en Google Maps' : 'Buscar en Google Maps'}</a>{osmUrl && <> · <a href={osmUrl} rel="nofollow noopener">OpenStreetMap</a></>}{exacta && <small> · {i.lat}, {i.lon}{i.geo_fuente ? ' (aprox.)' : ''}</small>}{aprox && <small> · ubicación aproximada de la localidad</small>}</dd>
       <dt>Fuente</dt><dd><a href={`${urlPais(i.pais_slug)}fuentes/`}>{i.fuente}</a>{i.registro_ci ? ` · inscripción N° ${i.registro_ci}` : ''}</dd>
     </dl>
     <section class="acciones-ficha">

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06667,
+"lon": -75.28333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-callamaquishay-chupaca-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-callamaquishay-chupaca-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-chimpamarca-matahuasi",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.89377,
+"lon": -75.34394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chimpamarca-matahuasi-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chimpamarca-matahuasi-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cruz-de-espinas-matahuasi",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.89377,
+"lon": -75.34394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cruz-de-espinas-matahuasi-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cruz-de-espinas-matahuasi-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-ferrocarril-matahuasi",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.89377,
+"lon": -75.34394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-ferrocarril-matahuasi-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-ferrocarril-matahuasi-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-salvador-paccha-tarma",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.41899,
+"lon": -75.68992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-salvador-paccha-tarma-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-salvador-paccha-tarma-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-unas-huancayo",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-unas-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-unas-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-el-carmen-jauja",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.77584,
+"lon": -75.49656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-el-carmen-jauja-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-el-carmen-jauja-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-muruhuay-matahuasi",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.89377,
+"lon": -75.34394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-muruhuay-matahuasi-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-muruhuay-matahuasi-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-martin-de-porras-tarma",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.41899,
+"lon": -75.68992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-martin-de-porras-tarma-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-martin-de-porras-tarma-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-vicentina-tarma",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.41899,
+"lon": -75.68992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-vicentina-tarma-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-vicentina-tarma-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-villa-paccha-tarma",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.41899,
+"lon": -75.68992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-villa-paccha-tarma-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-villa-paccha-tarma-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-senor-del-caminante-junin",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-la-ribera-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-la-ribera-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-el-alfarero-huancayo",
@@ -400,10 +412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-alfarero-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-alfarero-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-fundamental-chilca",
@@ -429,10 +442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08628,
+"lon": -75.20827,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-fundamental-chilca-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-fundamental-chilca-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-christiana-pentecostes-del-peru-huancayo",
@@ -458,10 +472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-christiana-pentecostes-del-peru-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-christiana-pentecostes-del-peru-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-de-peru-moviemiento-misionero-mundial-ciudad-universitaria-el-tambo",
@@ -487,10 +502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06667,
+"lon": -75.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-de-peru-moviemiento-misionero-mundial-ciudad-universitaria-el-tambo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-de-peru-moviemiento-misionero-mundial-ciudad-universitaria-el-tambo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-del-peru-huancayo",
@@ -516,10 +532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristo-pobre-jauja",
@@ -545,10 +562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.77584,
+"lon": -75.49656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-pobre-jauja-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-pobre-jauja-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-3-de-diciembre-tres-de-diciembre",
@@ -574,10 +592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.10975,
+"lon": -75.24567,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-3-de-diciembre-tres-de-diciembre-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-3-de-diciembre-tres-de-diciembre-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-el-tambo",
@@ -603,10 +622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06667,
+"lon": -75.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-el-tambo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-el-tambo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pomaocha-yauli",
@@ -632,10 +652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71334,
+"lon": -75.47449,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pomaocha-yauli-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pomaocha-yauli-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-kairos-huancayo",
@@ -661,10 +682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-kairos-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-kairos-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-huancayo",
@@ -690,10 +712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-cajas-chico-huancayo",
@@ -719,10 +742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-cajas-chico-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-cajas-chico-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-huayucachi-huayucachi",
@@ -748,10 +772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13822,
+"lon": -75.22317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-huayucachi-huayucachi-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-huayucachi-huayucachi-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-la-union-la-union",
@@ -806,10 +831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.25222,
+"lon": -74.63861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-templo-amaus-satipo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-templo-amaus-satipo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-tres-esquinas-el-tambo",
@@ -835,10 +861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06667,
+"lon": -75.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-tres-esquinas-el-tambo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-tres-esquinas-el-tambo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-filadelfia-satipo",
@@ -864,10 +891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.25222,
+"lon": -74.63861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-filadelfia-satipo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-filadelfia-satipo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-satipo-satipo",
@@ -893,10 +921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.25222,
+"lon": -74.63861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-satipo-satipo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-satipo-satipo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-puerto-ocopa-rio-tambo",
@@ -951,10 +980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.89377,
+"lon": -75.34394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-matahuasi-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-matahuasi-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-cura-de-ars-el-tambo",
@@ -980,10 +1010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06667,
+"lon": -75.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-cura-de-ars-el-tambo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-cura-de-ars-el-tambo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-cristiana-el-reino-huancayo-el-tambo",
@@ -1009,10 +1040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06667,
+"lon": -75.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-cristiana-el-reino-huancayo-el-tambo-junin-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-cristiana-el-reino-huancayo-el-tambo-junin-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-jose-de-pichcus-huancayo",
@@ -1038,10 +1070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06866,
+"lon": -75.21027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-jose-de-pichcus-huancayo-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-jose-de-pichcus-huancayo-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-nolberto-tarma",
@@ -1067,10 +1100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.41899,
+"lon": -75.68992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-nolberto-tarma-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-nolberto-tarma-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santisima-cruz-de-la-mision-tarma",
@@ -1096,10 +1130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.41899,
+"lon": -75.68992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-de-la-mision-tarma-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-de-la-mision-tarma-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santisima-cruz-de-mayo-san-jeronimo-de-tunan",
@@ -1125,9 +1160,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.95591,
+"lon": -75.28411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-de-mayo-san-jeronimo-de-tunan-junin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-de-mayo-san-jeronimo-de-tunan-junin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

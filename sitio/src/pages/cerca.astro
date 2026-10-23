@@ -20,8 +20,8 @@ import Base from '../layouts/Base.astro';
       const r = await fetch(`/api/cerca?lat=${lat}&lon=${lon}`); const j = await r.json();
       if (!r.ok) { estado.textContent = j.error || 'No pudimos buscar. Probá de nuevo.'; return; }
       if (!j.resultados.length) { estado.textContent = 'No encontramos iglesias con ubicación en el mapa a menos de 25 km. Probá en el directorio por localidad.'; manual.hidden = false; return; }
-      estado.textContent = `${j.resultados.length} iglesias a menos de ${fmtKm(j.radio_m)} de tu ubicación. Las distancias son en línea recta.`;
-      res.innerHTML = '<ul class="lista">' + j.resultados.map(i => `<li><a href="${i.url}">${i.nombre}</a><small>${fmtKm(i.distancia_m)} · ${i.denominacion || 'Sin clasificar'} · ${i.direccion || ''}${i.direccion ? ', ' : ''}${i.localidad}${i.horarios ? ' · ' + i.horarios : ''}</small></li>`).join('') + '</ul>' +
+      const hayAprox = j.resultados.some(i => i.aprox); estado.textContent = `${j.resultados.length} iglesias a menos de ${fmtKm(j.radio_m)} de tu ubicación. Las distancias son en línea recta${hayAprox ? ' y, donde no tenemos la dirección, se miden hasta el centro de la localidad' : ''}.`;
+      res.innerHTML = '<ul class="lista">' + j.resultados.map(i => `<li><a href="${i.url}">${i.nombre}</a><small>${i.aprox ? 'en ' + i.localidad + ' · ' : fmtKm(i.distancia_m) + ' · '}${i.denominacion || 'Sin clasificar'} · ${i.direccion || ''}${i.direccion ? ', ' : ''}${i.localidad}${i.horarios ? ' · ' + i.horarios : ''}</small></li>`).join('') + '</ul>' +
         `<p><a class="boton secundario" href="https://www.google.com/maps/search/iglesia/@${lat},${lon},14z" rel="noopener">Ver la zona en Google Maps</a></p>`;
       history.replaceState(null, '', `/cerca/?lat=${lat.toFixed(5)}&lon=${lon.toFixed(5)}`);
     }

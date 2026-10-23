@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.84942,
+"lon": -99.90891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/andador-del-templo-acapulco-de-juarez-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/andador-del-templo-acapulco-de-juarez-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atrio-del-templo-evangelico-peniel-miepi-lerma",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atrio-del-templo-evangelico-peniel-miepi-lerma-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atrio-del-templo-evangelico-peniel-miepi-lerma-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-el-leon-de-juda-comitan-de-dominguez",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.73006,
+"lon": -92.63825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-luz-y-vida-san-cristobal-de-las-casas-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-luz-y-vida-san-cristobal-de-las-casas-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-un-nuevo-amanecer-navojoa",
@@ -171,7 +174,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-un-nuevo-amanecer-navojoa-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-un-nuevo-amanecer-navojoa-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "centro-familiar-roca-fuerte-balancan",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.80903,
+"lon": -91.53682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-roca-fuerte-balancan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-roca-fuerte-balancan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colina-del-templo-region",
@@ -432,7 +437,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/francisco-p-de-ramos-linares-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/francisco-p-de-ramos-linares-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-adventista-del-7-dia-central-tenosique-chiapas",
@@ -606,7 +612,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-rayon-guadalajara-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-rayon-guadalajara-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-shanka-chiapas",
@@ -664,7 +671,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-jesucristo-tabasco-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-jesucristo-tabasco-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-bautista-emanuel-crucero-nacional",
@@ -719,10 +727,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-betel-ciudad-valles-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-betel-ciudad-valles-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-caos-villa-comaltitlan",
@@ -748,10 +757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.21292,
+"lon": -92.57606,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-caos-villa-comaltitlan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-caos-villa-comaltitlan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-central-berriozabal",
@@ -806,10 +816,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.73006,
+"lon": -92.63825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-casa-de-misericordia-san-cristobal-de-las-casas-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-casa-de-misericordia-san-cristobal-de-las-casas-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-avenida-sur-cacahoatan-chiapas",
@@ -893,10 +904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.47851,
+"lon": -99.23963,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-colina-del-silencio-lomas-verdes-naucalpan-de-juarez-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-colina-del-silencio-lomas-verdes-naucalpan-de-juarez-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-david-gallardo-faja-de-oro-maxcanu",
@@ -922,10 +934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.58567,
+"lon": -90.002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-david-gallardo-faja-de-oro-maxcanu-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-david-gallardo-faja-de-oro-maxcanu-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-francisco-i-madero-huajuapan-huajuapan-de-leon",
@@ -1125,10 +1138,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.43358,
+"lon": -92.90039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-vigesima-cuarta-poniente-mapastepec-mapastepec-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-vigesima-cuarta-poniente-mapastepec-mapastepec-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-getsemani-lerma",
@@ -1154,10 +1168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-getsemani-lerma-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-getsemani-lerma-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-interdenominacional-manuel-lazos",
@@ -1183,10 +1198,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 14.97173,
+"lon": -92.18716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-interdenominacional-manuel-lazos-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-interdenominacional-manuel-lazos-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-rey-de-reyes-comitan-de-dominguez",
@@ -1273,7 +1289,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-la-roca-colima-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-la-roca-colima-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-de-esquipulas-tapachula",
@@ -1328,10 +1345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.21292,
+"lon": -92.57606,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-mi-el-agua-viva-villa-comaltitlan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-mi-el-agua-viva-villa-comaltitlan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-peregrinos-ciudad-valles",
@@ -1357,10 +1375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-peregrinos-ciudad-valles-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-peregrinos-ciudad-valles-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nuestro-senor-de-acapetahua-chiapas",
@@ -1473,10 +1492,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-ciudad-valles-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-ciudad-valles-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-linda-vista-shanka-tuxtla-gutierrez",
@@ -1589,10 +1609,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.80903,
+"lon": -91.53682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-tila-balancan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-tila-balancan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-del-pozo-venustiano-carranza",
@@ -1647,10 +1668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-ixtaczoquitlan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-ixtaczoquitlan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-monte-sinai-chiapas",
@@ -1705,10 +1727,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.43358,
+"lon": -92.90039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-guadalupana-mapastepec-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-guadalupana-mapastepec-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-sinai-tuxtla-chico",
@@ -1734,10 +1757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 14.93953,
+"lon": -92.16658,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-sinai-tuxtla-chico-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-sinai-tuxtla-chico-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-salto-de-agua",
@@ -1763,10 +1787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.55442,
+"lon": -92.34034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-salto-de-agua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-salto-de-agua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-peniel-aldama",
@@ -1821,10 +1846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.5561,
+"lon": -92.80772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-acala-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-acala-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostes-aldama",
@@ -1908,10 +1934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.06557,
+"lon": -93.17302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-cunduacan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-cunduacan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-roca-eterna-tabasco",
@@ -1940,7 +1967,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roca-eterna-tabasco-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roca-eterna-tabasco-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-torre-fuerte-emiliano-zapata",
@@ -1995,10 +2023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 14.99422,
+"lon": -92.16588,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesias-cacahoatan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesias-cacahoatan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-joya-congregacion-paraiso-reforma-veracruz",
@@ -2053,10 +2082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.90634,
+"lon": -92.09349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbiteriana-damasco-ocosingo-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbiteriana-damasco-ocosingo-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "principe-de-paz-san-felipe",
@@ -2227,10 +2257,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.5561,
+"lon": -92.80772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sann-pablo-apostol-acala-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sann-pablo-apostol-acala-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "segunda-iglesia-bautista-sinai-cacahoatan",
@@ -2256,10 +2287,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 14.99422,
+"lon": -92.16588,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/segunda-iglesia-bautista-sinai-cacahoatan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/segunda-iglesia-bautista-sinai-cacahoatan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sr-de-tila-iglesia-emiliano-zapata",
@@ -2343,10 +2375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.13024,
+"lon": -93.15876,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-adventista-coapilla-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-adventista-coapilla-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-agape-ciudad-juarez",
@@ -2375,7 +2408,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-agape-ciudad-juarez-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-agape-ciudad-juarez-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "templo-cristiano-casa-de-dios-ciudad-juarez",
@@ -2404,7 +2438,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-casa-de-dios-ciudad-juarez-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-casa-de-dios-ciudad-juarez-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "templo-de-la-candelaria-ameca",
@@ -2433,7 +2468,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-candelaria-ameca-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-candelaria-ameca-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "templo-de-la-cruz-foliada-palenque",
@@ -2459,10 +2495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.50914,
+"lon": -91.98125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-cruz-foliada-palenque-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-cruz-foliada-palenque-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-cruz-palenque",
@@ -2488,10 +2525,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.50914,
+"lon": -91.98125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-cruz-palenque-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-cruz-palenque-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-guerra-cosmica-altamirano",
@@ -2604,10 +2642,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.50914,
+"lon": -91.98125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-guerreros-xvii-palenque-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-guerreros-xvii-palenque-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-quechula-tecpatan",
@@ -2633,10 +2672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.1354,
+"lon": -93.31039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-quechula-tecpatan-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-quechula-tecpatan-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-nicolas-altamirano",
@@ -2778,10 +2818,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.37608,
+"lon": -98.09014,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-templo-de-jesus-tzompantepec-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-templo-de-jesus-tzompantepec-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-monte-carmelo-ciudad-juarez",
@@ -2810,7 +2851,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-carmelo-ciudad-juarez-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-carmelo-ciudad-juarez-chiapas",
+"geo_fuente": null
 },
 {
 "slug": "templo-olvidado-palenque",
@@ -2836,10 +2878,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.50914,
+"lon": -91.98125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-olvidado-palenque-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-olvidado-palenque-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-rosa-de-saron-acapulco",
@@ -2923,10 +2966,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.34198,
+"lon": -92.67478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-x-acacoyagua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-x-acacoyagua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-xiii-acacoyagua",
@@ -2952,10 +2996,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.34198,
+"lon": -92.67478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xiii-acacoyagua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xiii-acacoyagua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-xiv-acacoyagua",
@@ -2981,10 +3026,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.34198,
+"lon": -92.67478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xiv-acacoyagua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xiv-acacoyagua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-xix-acacoyagua",
@@ -3010,10 +3056,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.34198,
+"lon": -92.67478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xix-acacoyagua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xix-acacoyagua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-xx-acacoyagua",
@@ -3039,10 +3086,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.34198,
+"lon": -92.67478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xx-acacoyagua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xx-acacoyagua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-xxi-acacoyagua",
@@ -3068,10 +3116,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.34198,
+"lon": -92.67478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xxi-acacoyagua-chiapas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xxi-acacoyagua-chiapas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "transportes-congregacion-hidalgo-matamoros",

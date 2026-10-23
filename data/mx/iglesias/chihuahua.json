@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.53611,
+"lon": -103.52485,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atmosfera-iglesia-campus-lerdo-lerdo-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atmosfera-iglesia-campus-lerdo-lerdo-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-cristo-rey-bocoyna",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-cristo-rey-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-cristo-rey-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-santa-cruz-la-cruz",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.8634,
+"lon": -105.1971,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santa-cruz-la-cruz-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santa-cruz-la-cruz-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-lorenzo-madera",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.19269,
+"lon": -108.14334,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-lorenzo-madera-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-lorenzo-madera-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-avivamiento-emanuel-lerdo",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.53611,
+"lon": -103.52485,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-avivamiento-emanuel-lerdo-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-avivamiento-emanuel-lerdo-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-amigos-en-cristo-juarez",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.13239,
+"lon": -109.44021,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-ortiz-rosales-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-ortiz-rosales-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-cordero-bocoyna",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-cordero-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-cordero-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-sembrador-asamblea-de-dios-del-real",
@@ -371,10 +378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.52183,
+"lon": -107.40056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-basuchil-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-basuchil-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-berea-juarez",
@@ -458,10 +466,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.72024,
+"lon": -106.46084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-buen-pastor-ciudad-juarez-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-buen-pastor-ciudad-juarez-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-principe-de-paz-lerdo",
@@ -487,10 +496,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.53611,
+"lon": -103.52485,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-principe-de-paz-lerdo-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-principe-de-paz-lerdo-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-sion-juarez",
@@ -603,10 +613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.54389,
+"lon": -103.41898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-casa-de-oracion-laguna-torreon-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-casa-de-oracion-laguna-torreon-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cuarta-el-molino-rosales",
@@ -632,10 +643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.13239,
+"lon": -109.44021,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cuarta-el-molino-rosales-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cuarta-el-molino-rosales-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristo-verbo-ciudad-juarez",
@@ -661,10 +673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.72024,
+"lon": -106.46084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-verbo-ciudad-juarez-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-verbo-ciudad-juarez-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-huicorachi-aldama",
@@ -719,10 +732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.38886,
+"lon": -106.10511,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-evangelio-torre-fuerte-guadalupe-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-evangelio-torre-fuerte-guadalupe-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-de-roca-firme-municipio-de-chihuahua",
@@ -980,10 +994,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.72024,
+"lon": -106.46084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-palabra-miel-ciudad-juarez-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-palabra-miel-ciudad-juarez-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-roca-de-salvacion-lerdo",
@@ -1009,10 +1024,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.53611,
+"lon": -103.52485,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-roca-de-salvacion-lerdo-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-roca-de-salvacion-lerdo-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-jose-maria-de-yermo-y-parres-delicias",
@@ -1125,10 +1141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-de-nazareth-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-de-nazareth-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "km-5-mennonitengemeinde-bocoyna",
@@ -1154,10 +1171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/km-5-mennonitengemeinde-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/km-5-mennonitengemeinde-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-cruz-guanajuato",
@@ -1215,7 +1233,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-chapa-de-mota-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-chapa-de-mota-chihuahua",
+"geo_fuente": null
 },
 {
 "slug": "la-raiz-la-iglesia-juarez",
@@ -1299,10 +1318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/menoniten-gemeinde-51t-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/menoniten-gemeinde-51t-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-de-cusarare-guachochi",
@@ -1328,10 +1348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.82037,
+"lon": -107.0713,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-de-cusarare-guachochi-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-de-cusarare-guachochi-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "palabra-viva-bocoyna",
@@ -1357,10 +1378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-viva-bocoyna-chihuahua-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-viva-bocoyna-chihuahua-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "palabra-viva-bocoyna-2",
@@ -1386,10 +1408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-viva-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-viva-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "patio-iglesia-oaxaca",
@@ -1418,7 +1441,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/patio-iglesia-oaxaca-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/patio-iglesia-oaxaca-chihuahua",
+"geo_fuente": null
 },
 {
 "slug": "primera-iglesia-bautista-de-cd-juarez-juarez",
@@ -1502,10 +1526,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-ignacio-de-loyola-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-ignacio-de-loyola-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-isidro-labrador-bocoyna",
@@ -1531,10 +1556,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-isidro-labrador-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-isidro-labrador-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-bautista-providencia",
@@ -1589,10 +1615,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-lorenzo-bocoyna-chihuahua-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-lorenzo-bocoyna-chihuahua-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pedro-madera",
@@ -1618,10 +1645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.19269,
+"lon": -108.14334,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-madera-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-madera-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pio-x-namiquipa",
@@ -1647,10 +1675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.25064,
+"lon": -107.41282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pio-x-namiquipa-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pio-x-namiquipa-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-rafael-arcangel-bocoyna",
@@ -1676,10 +1705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-rafael-arcangel-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-rafael-arcangel-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-teresita-del-nino-jesus-bocoyna",
@@ -1705,10 +1735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-teresita-del-nino-jesus-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-teresita-del-nino-jesus-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-vera-cruz-bocoyna",
@@ -1734,10 +1765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.84097,
+"lon": -107.5889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-vera-cruz-bocoyna-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-vera-cruz-bocoyna-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-nino-de-atocha-namiquipa",
@@ -1763,10 +1795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.25064,
+"lon": -107.41282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-nino-de-atocha-namiquipa-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-nino-de-atocha-namiquipa-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "segundo-templo-de-la-cruz-region-valles",
@@ -1882,7 +1915,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-pentecostal-la-pena-de-horeb-ocotlan-de-morelos-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-pentecostal-la-pena-de-horeb-ocotlan-de-morelos-chihuahua",
+"geo_fuente": null
 },
 {
 "slug": "templo-cristiano-shalom-ahumada",
@@ -1937,10 +1971,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.56871,
+"lon": -103.4996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-sinai-gomez-palacio-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-sinai-gomez-palacio-chihuahua",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-gracia-juarez",
@@ -2027,7 +2062,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pena-de-horeb-lerma-chihuahua"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pena-de-horeb-lerma-chihuahua",
+"geo_fuente": null
 },
 {
 "slug": "templo-religioso-vision-nueva-culiacan-rosales",

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 23.294,
+"lon": -102.34665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-villa-de-cos-zacatecas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-villa-de-cos-zacatecas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-caris-zacatecas",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.27194,
+"lon": -101.98602,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-de-padua-loreto-zacatecas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-de-padua-loreto-zacatecas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-gregorio-magno-mazapil",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 24.63826,
+"lon": -101.55461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-gregorio-magno-mazapil-zacatecas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-gregorio-magno-mazapil-zacatecas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-jesus-municipio-de-zacatecas",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 23.47729,
+"lon": -103.88376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-craneos-chalchihuites-zacatecas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-craneos-chalchihuites-zacatecas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-mexicapan-municipio-de-zacatecas",
@@ -226,10 +230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.41091,
+"lon": -103.11686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-de-la-esperanza-juchipila-zacatecas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-de-la-esperanza-juchipila-zacatecas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-san-cosme-y-damian-calakmul",

@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/agape-christian-center-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/agape-christian-center-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albany-first-assembly-of-god-albany",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/albany-first-assembly-of-god-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/albany-first-assembly-of-god-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albany-seventh-day-adventist-church-albany",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/albany-seventh-day-adventist-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/albany-seventh-day-adventist-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alison-park-christian-church-blachly",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63678,
+"lon": -124.05345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-nations-lutheran-church-newport-or-estados-unidos-28828"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-nations-lutheran-church-newport-or-estados-unidos-28828",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alliance-bible-chapel-ashland",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19458,
+"lon": -122.70948,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-bible-chapel-ashland-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-bible-chapel-ashland-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aloha-united-methodist-church-cascadia",
@@ -313,10 +318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ananda-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ananda-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antelope-community-church-antelope",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-lutheran-church-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-lutheran-church-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-of-portland-beaverton",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-of-portland-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-of-portland-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-worship-center-fairview",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.53845,
+"lon": -122.43398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-worship-center-fairview-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-worship-center-fairview-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "astoria-christian-church-astoria",
@@ -458,10 +467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/astoria-christian-church-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/astoria-christian-church-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "astoria-church-of-christ-astoria",
@@ -487,10 +497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/astoria-church-of-christ-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/astoria-church-of-christ-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "astoria-seventh-day-adventists-astoria",
@@ -516,10 +527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/astoria-seventh-day-adventists-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/astoria-seventh-day-adventists-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "athena-christian-church-athena",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.8118,
+"lon": -118.49053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/athena-christian-church-athena-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/athena-christian-church-athena-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baker-city-christian-church-baker-city",
@@ -574,10 +587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baker-city-christian-church-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baker-city-christian-church-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baker-city-church-of-the-nazarene-baker-city",
@@ -603,10 +617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baker-city-church-of-the-nazarene-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baker-city-church-of-the-nazarene-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baker-city-united-methodist-church-baker-city",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baker-city-united-methodist-church-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baker-city-united-methodist-church-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bandon-christian-fellowship-bandon",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.119,
+"lon": -124.40845,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bandon-christian-fellowship-bandon-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bandon-christian-fellowship-bandon-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baptist-church-on-homedale-klamath-falls",
@@ -690,10 +707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.22487,
+"lon": -121.78167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-on-homedale-klamath-falls-or-estados-unidos-19066"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-on-homedale-klamath-falls-or-estados-unidos-19066",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bay-area-church-of-the-nazarene-bay-city",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.5226,
+"lon": -123.8893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bay-area-church-of-the-nazarene-bay-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bay-area-church-of-the-nazarene-bay-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bayview-baptist-church-astoria",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bayview-baptist-church-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bayview-baptist-church-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beautiful-savior-evangelical-lutheran-church-ashwood",
@@ -806,10 +826,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beaverton-christian-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beaverton-christian-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beaverton-foursquare-church-beaverton",
@@ -835,10 +856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beaverton-foursquare-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beaverton-foursquare-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beaverton-seventh-day-adventist-church-beaverton",
@@ -864,10 +886,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beaverton-seventh-day-adventist-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beaverton-seventh-day-adventist-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bend-bible-fellowship-bend",
@@ -893,10 +916,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bend-bible-fellowship-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bend-bible-fellowship-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bend-first-presbyterian-church-bend",
@@ -922,10 +946,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bend-first-presbyterian-church-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bend-first-presbyterian-church-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berean-assembly-of-god-thurston",
@@ -954,7 +979,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berean-assembly-of-god-thurston-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berean-assembly-of-god-thurston-oregon",
+"geo_fuente": null
 },
 {
 "slug": "betel-romanian-apostolic-church-fairview",
@@ -980,10 +1006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.53845,
+"lon": -122.43398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/betel-romanian-apostolic-church-fairview-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/betel-romanian-apostolic-church-fairview-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-congregational-united-church-of-christ-beaverton",
@@ -1009,10 +1036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-congregational-united-church-of-christ-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-congregational-united-church-of-christ-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bible-missionary-baptist-church-joseph",
@@ -1038,10 +1066,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bible-missionary-baptist-church-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bible-missionary-baptist-church-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-mountain-baptist-church-baker-city",
@@ -1067,10 +1096,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-mountain-baptist-church-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-mountain-baptist-church-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boones-ferry-community-church-bridgeport",
@@ -1125,10 +1155,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bright-way-zen-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bright-way-zen-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brigittine-monastery",
@@ -1212,10 +1243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05261,
+"lon": -124.28398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brookings-presbyterian-church-brookings-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brookings-presbyterian-church-brookings-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brownsville-mennonite-church-brownsville",
@@ -1241,10 +1273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.39346,
+"lon": -122.98481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brownsville-mennonite-church-brownsville-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brownsville-mennonite-church-brownsville-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burns-sda-church-burns",
@@ -1270,10 +1303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.58626,
+"lon": -119.0541,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burns-sda-church-burns-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burns-sda-church-burns-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-oregon-city-beavercreek",
@@ -1299,10 +1333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2879,
+"lon": -122.53564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-oregon-city-beavercreek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-oregon-city-beavercreek-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-corvallis-ashwood",
@@ -1357,10 +1392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.23095,
+"lon": -122.75593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-mennonite-church-aurora-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-mennonite-church-aurora-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canby-foursquare-church-canby",
@@ -1386,10 +1422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2629,
+"lon": -122.69259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canby-foursquare-church-canby-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canby-foursquare-church-canby-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canby-united-methodist-church-canby",
@@ -1415,10 +1452,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2629,
+"lon": -122.69259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canby-united-methodist-church-canby-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canby-united-methodist-church-canby-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cedar-hills-baptist-church-beaverton",
@@ -1444,10 +1482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-hills-baptist-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-hills-baptist-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cedar-hills-united-church-of-christ-beaverton",
@@ -1473,10 +1512,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-hills-united-church-of-christ-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-hills-united-church-of-christ-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cedar-mill-bible-church-beaverton",
@@ -1502,10 +1542,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-mill-bible-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-mill-bible-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-of-mercy-cascadia",
@@ -1676,10 +1717,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.864,
+"lon": -122.80649,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-church-episcopal-saint-helens-saint-helens-or-estados-unidos-24919"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-church-episcopal-saint-helens-saint-helens-or-estados-unidos-24919",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-evangelical-lutheran-elmira",
@@ -1708,7 +1750,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-evangelical-lutheran-elmira-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-evangelical-lutheran-elmira-oregon",
+"geo_fuente": null
 },
 {
 "slug": "christ-memorial-church-of-god-in-christ-bridgeport",
@@ -1763,10 +1806,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.5226,
+"lon": -123.8893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-reformation-church-bay-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-reformation-church-bay-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-the-vine-lutheran-church-damascus",
@@ -1792,10 +1836,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.41762,
+"lon": -122.45898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-the-vine-lutheran-church-damascus-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-the-vine-lutheran-church-damascus-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-united-methodist-church-of-cedar-mill-beaverton",
@@ -1821,10 +1866,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-united-methodist-church-of-cedar-mill-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-united-methodist-church-of-cedar-mill-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-life-center-bend",
@@ -1850,10 +1896,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-life-center-bend-or-estados-unidos-21604"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-life-center-bend-or-estados-unidos-21604",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-meeting-place-beaverton",
@@ -1879,10 +1926,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-meeting-place-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-meeting-place-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christmas-valley-seventh-day-adventist-christmas-valley",
@@ -1995,10 +2043,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.04624,
+"lon": -123.02203,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/city-of-destiny-springfield-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/city-of-destiny-springfield-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clackamas-valley-baptist-church-estacada",
@@ -2024,10 +2073,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.28957,
+"lon": -122.3337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clackamas-valley-baptist-church-estacada-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clackamas-valley-baptist-church-estacada-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clarkes-united-methodist-church",
@@ -2082,10 +2132,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.10122,
+"lon": -123.20679,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clatskanie-presbyterian-church-clatskanie-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clatskanie-presbyterian-church-clatskanie-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clatskanie-united-methodist-church",
@@ -2140,10 +2191,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.5226,
+"lon": -123.8893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/college-park-community-church-bay-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/college-park-community-church-bay-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colton-lutheran-church-colton",
@@ -2198,10 +2250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.89011,
+"lon": -122.80705,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-river-baptist-church-columbia-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-river-baptist-church-columbia-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-missionary-church-of-camas-valley-camas-valley",
@@ -2256,10 +2309,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-faith-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-faith-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-of-hope-wilsonville",
@@ -2285,10 +2339,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.29984,
+"lon": -122.77371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-hope-wilsonville-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-hope-wilsonville-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "compass-bend",
@@ -2314,10 +2369,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/compass-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/compass-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "condon-baptist-church-condon",
@@ -2343,10 +2399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2343,
+"lon": -120.18503,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/condon-baptist-church-condon-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/condon-baptist-church-condon-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "coos-bay-foursquare-church-bay-city",
@@ -2372,10 +2429,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.5226,
+"lon": -123.8893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/coos-bay-foursquare-church-bay-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/coos-bay-foursquare-church-bay-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornelius-baptist-church-cornelius",
@@ -2401,10 +2459,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.51984,
+"lon": -123.05983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornelius-baptist-church-cornelius-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornelius-baptist-church-cornelius-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornelius-united-methodist-church-cornelius",
@@ -2430,10 +2489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.51984,
+"lon": -123.05983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornelius-united-methodist-church-cornelius-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornelius-united-methodist-church-cornelius-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corridor-baptist-church-hillsboro",
@@ -2459,10 +2519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52289,
+"lon": -122.98983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corridor-baptist-church-hillsboro-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corridor-baptist-church-hillsboro-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corvallis-foursquare-church-ashwood",
@@ -2575,10 +2636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79762,
+"lon": -123.05952,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cottage-grove-seventh-day-adventist-church-cottage-grove-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cottage-grove-seventh-day-adventist-church-cottage-grove-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "countryside-nazarene-church-beaver",
@@ -2633,10 +2695,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.44679,
+"lon": -122.53037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/creator-lutheran-church-happy-valley-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/creator-lutheran-church-happy-valley-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "creswell-presbyterian-church-creswell",
@@ -2662,10 +2725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.9179,
+"lon": -123.02453,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/creswell-presbyterian-church-creswell-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/creswell-presbyterian-church-creswell-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crospoint-sda-church-cascadia",
@@ -2749,10 +2813,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.91928,
+"lon": -123.31705,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dallas-seventh-day-adventist-church-dallas-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dallas-seventh-day-adventist-church-dallas-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dayspring-christian-fellowship-banks",
@@ -2778,10 +2843,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dayspring-christian-fellowship-banks-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dayspring-christian-fellowship-banks-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-streams-bend",
@@ -2807,10 +2873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-streams-bend-or-estados-unidos-20870"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-streams-bend-or-estados-unidos-20870",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "discovery-christian-bend",
@@ -2836,10 +2903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/discovery-christian-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/discovery-christian-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eagle-creek-presbyterian-church-eagle-creek",
@@ -2923,10 +2991,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.53845,
+"lon": -122.43398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-hill-church-fairview-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-hill-church-fairview-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-side-christian-church-albany",
@@ -2952,10 +3021,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-side-christian-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-side-christian-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastside-free-methodist-church-midland",
@@ -3010,10 +3080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.04624,
+"lon": -123.02203,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ebbert-memorial-united-methodist-church-springfield-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ebbert-memorial-united-methodist-church-springfield-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eden-presbyterian-church-cascadia",
@@ -3068,10 +3139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.56486,
+"lon": -117.91743,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elgin-seventh-day-adventist-church-elgin-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elgin-seventh-day-adventist-church-elgin-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elkhorn-baptist-church-baker-city",
@@ -3097,10 +3169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elkhorn-baptist-church-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elkhorn-baptist-church-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elkhorn-community-church-baker-city",
@@ -3126,10 +3199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elkhorn-community-church-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elkhorn-community-church-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emerald-baptist-church-eugene",
@@ -3155,10 +3229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emerald-baptist-church-eugene-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emerald-baptist-church-eugene-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-baptist-church-of-coquille-oregon-coquille",
@@ -3184,10 +3259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.17705,
+"lon": -124.18761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-baptist-church-of-coquille-oregon-coquille-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-baptist-church-of-coquille-oregon-coquille-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-hope-of-glory-portland",
@@ -3213,10 +3289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-hope-of-glory-portland-or-estados-unidos-22511"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-hope-of-glory-portland-or-estados-unidos-22511",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "estacada-assembly-of-god-church-estacada",
@@ -3242,10 +3319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.28957,
+"lon": -122.3337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/estacada-assembly-of-god-church-estacada-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/estacada-assembly-of-god-church-estacada-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "estacada-seventh-day-adventist-church-estacada",
@@ -3271,10 +3349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.28957,
+"lon": -122.3337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/estacada-seventh-day-adventist-church-estacada-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/estacada-seventh-day-adventist-church-estacada-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evergreen-church-keizer",
@@ -3300,10 +3379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.99012,
+"lon": -123.02621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-church-keizer-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-church-keizer-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evergreen-presbyterian-church-beaverton",
@@ -3329,10 +3409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-presbyterian-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-presbyterian-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-center-cascadia",
@@ -3387,10 +3468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-chapel-assembly-of-god-church-portland-or-estados-unidos-24246"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-chapel-assembly-of-god-church-portland-or-estados-unidos-24246",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-christian-center-bend",
@@ -3416,10 +3498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-christian-center-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-christian-center-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "family-worship-center-albany",
@@ -3445,10 +3528,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-worship-center-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-worship-center-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fifth-street-church-of-christ-beaverton",
@@ -3474,10 +3558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fifth-street-church-of-christ-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fifth-street-church-of-christ-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fir-lawn-lutheran-church-sweet-home",
@@ -3503,10 +3588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.39762,
+"lon": -122.7362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fir-lawn-lutheran-church-sweet-home-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fir-lawn-lutheran-church-sweet-home-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-canby-canby",
@@ -3532,10 +3618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2629,
+"lon": -122.69259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-canby-canby-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-canby-canby-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-drain-drain",
@@ -3561,10 +3648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.65873,
+"lon": -123.3187,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-drain-drain-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-drain-drain-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-gresham-fairview",
@@ -3590,10 +3678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.53845,
+"lon": -122.43398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-gresham-fairview-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-gresham-fairview-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-community-church-brookings",
@@ -3619,10 +3708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05261,
+"lon": -124.28398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-community-church-brookings-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-community-church-brookings-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-evangelical-presbyterian-church-central-point",
@@ -3648,10 +3738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.37596,
+"lon": -122.91643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-evangelical-presbyterian-church-central-point-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-evangelical-presbyterian-church-central-point-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-free-methodist-church-of-carlton-carlton",
@@ -3677,10 +3768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.29428,
+"lon": -123.17649,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-free-methodist-church-of-carlton-carlton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-free-methodist-church-of-carlton-carlton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-immanuel-lutheran-church-bridgeport",
@@ -3735,10 +3827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.18877,
+"lon": -120.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbytarian-church-lakeview-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbytarian-church-lakeview-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-ashland",
@@ -3764,10 +3857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19458,
+"lon": -122.70948,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-ashland-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-ashland-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-beaverton-beaverton",
@@ -3793,10 +3887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-beaverton-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-beaverton-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-churchgrace-and-mercy-lutheran-church-hermiston",
@@ -3822,10 +3917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.84041,
+"lon": -119.28946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-churchgrace-and-mercy-lutheran-church-hermiston-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-churchgrace-and-mercy-lutheran-church-hermiston-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-of-ashland-ashland",
@@ -3851,10 +3947,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19458,
+"lon": -122.70948,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-of-ashland-ashland-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-of-ashland-ashland-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "for-his-glory-ministry-worship-center-butte-falls",
@@ -3909,10 +4006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.51984,
+"lon": -123.11066,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/forest-grove-united-methodist-church-forest-grove-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/forest-grove-united-methodist-church-forest-grove-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "foundry-church-bend",
@@ -3938,10 +4036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/foundry-church-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/foundry-church-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "full-gospel-temple-of-prayer-church-bridgeport",
@@ -3996,10 +4095,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.10122,
+"lon": -123.20679,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-worship-center-clatskanie-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-worship-center-clatskanie-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glad-tidings-worship-centre-butte-falls",
@@ -4054,10 +4154,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38068,
+"lon": -122.59481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gladstone-park-seventh-day-adventist-church-gladstone-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gladstone-park-seventh-day-adventist-church-gladstone-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glide-baptist-church-glide",
@@ -4083,10 +4184,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.30151,
+"lon": -123.10118,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glide-baptist-church-glide-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glide-baptist-church-glide-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glisan-street-baptist-church-joseph",
@@ -4112,10 +4214,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glisan-street-baptist-church-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glisan-street-baptist-church-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gods-lighthouse-bay-city",
@@ -4141,10 +4244,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.5226,
+"lon": -123.8893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gods-lighthouse-bay-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gods-lighthouse-bay-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "golgotha-romanian-pentecostal-church-fairview",
@@ -4170,10 +4274,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.53845,
+"lon": -122.43398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/golgotha-romanian-pentecostal-church-fairview-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/golgotha-romanian-pentecostal-church-fairview-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-community-church-boring",
@@ -4257,10 +4362,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-first-lutheran-church-bend",
@@ -4286,10 +4392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-first-lutheran-church-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-first-lutheran-church-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-united-reformed-church-gladstone",
@@ -4315,10 +4422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38068,
+"lon": -122.59481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-united-reformed-church-gladstone-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-united-reformed-church-gladstone-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-wesleyan-church-crater-lake",
@@ -4373,10 +4481,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2879,
+"lon": -122.53564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grand-view-baptist-church-beavercreek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grand-view-baptist-church-beavercreek-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grant-avenue-baptist-church-ashwood",
@@ -4431,10 +4540,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.43933,
+"lon": -123.33067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grants-pass-seventh-day-adventist-church-grants-pass-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grants-pass-seventh-day-adventist-church-grants-pass-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-gresham-baptist-church-buxton",
@@ -4518,10 +4628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.49818,
+"lon": -122.43148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-portland-baptist-church-gresham-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-portland-baptist-church-gresham-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-saint-stephen-missionary-baptist-church-bridgeport",
@@ -4579,7 +4690,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/halfway-presbyterian-church-halfway-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/halfway-presbyterian-church-halfway-oregon",
+"geo_fuente": null
 },
 {
 "slug": "hall-boulevard-baptist-church-bridgeport",
@@ -4663,10 +4775,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.89011,
+"lon": -122.80705,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/haven-church-columbia-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/haven-church-columbia-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heppner-united-methodist-church-heppner",
@@ -4692,10 +4805,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35318,
+"lon": -119.5578,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heppner-united-methodist-church-heppner-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heppner-united-methodist-church-heppner-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highlands-baptist-church-gardiner",
@@ -4750,10 +4864,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.37596,
+"lon": -122.91643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillcrest-missionary-baptist-church-central-point-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillcrest-missionary-baptist-church-central-point-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hillsboro-presbyterian-church-hillsboro",
@@ -4779,10 +4894,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52289,
+"lon": -122.98983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillsboro-presbyterian-church-hillsboro-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillsboro-presbyterian-church-hillsboro-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hinson-baptist-church-corbett",
@@ -4866,10 +4982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-communion-church-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-communion-church-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hood-river-seventh-day-adventist-church-hood-river",
@@ -4895,10 +5012,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.7054,
+"lon": -121.52146,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hood-river-seventh-day-adventist-church-hood-river-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hood-river-seventh-day-adventist-church-hood-river-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hood-view-sda-church-boring",
@@ -4982,10 +5100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79762,
+"lon": -123.05952,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-fellowship-united-pentecostal-church-cottage-grove-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-fellowship-united-pentecostal-church-cottage-grove-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hope-international-baptist-church-falls-city",
@@ -5011,10 +5130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-international-baptist-church-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-international-baptist-church-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hope-korean-presbyterian-church-corbett",
@@ -5069,10 +5189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-lutheran-church-of-the-deaf-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-lutheran-church-of-the-deaf-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "horizon-community-church-bridgeport",
@@ -5127,10 +5248,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hub-city-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hub-city-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hughes-memorial-united-methodist-church-bridgeport",
@@ -5185,10 +5307,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.10818,
+"lon": -122.8976,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-casa-de-sion-gervais-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-casa-de-sion-gervais-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-de-profesia-conociendo-la-verdad-milwaukie",
@@ -5214,10 +5337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.44623,
+"lon": -122.63926,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-de-profesia-conociendo-la-verdad-milwaukie-or-estados-unidos-12505"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-de-profesia-conociendo-la-verdad-milwaukie-or-estados-unidos-12505",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-vida-buxton",
@@ -5272,10 +5396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-cristo-te-llama-portland-or-estados-unidos-13559"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-cristo-te-llama-portland-or-estados-unidos-13559",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "imam-mahdi-center-beaverton",
@@ -5301,10 +5426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/imam-mahdi-center-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/imam-mahdi-center-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-united-methodist-cave-junction",
@@ -5330,10 +5456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.16289,
+"lon": -123.64812,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-united-methodist-cave-junction-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-united-methodist-cave-junction-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "intown-church-portland",
@@ -5359,10 +5486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/intown-church-portland-or-estados-unidos-11798"
+"fuente_url": "https://encuentraiglesias.com/iglesia/intown-church-portland-or-estados-unidos-11798",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "japanese-fellowship-church-kimberly",
@@ -5446,10 +5574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.3896,
+"lon": -118.95023,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/john-day-church-canyon-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/john-day-church-canyon-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "journey-bend",
@@ -5475,10 +5604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/journey-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/journey-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "joyful-servant-lutheran-church-newberg",
@@ -5504,10 +5634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.30012,
+"lon": -122.97316,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/joyful-servant-lutheran-church-newberg-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/joyful-servant-lutheran-church-newberg-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jubilee-fellowship-butte-falls",
@@ -5591,10 +5722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kenton-united-presbyterian-church-portland-or-estados-unidos-21105"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kenton-united-presbyterian-church-portland-or-estados-unidos-21105",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "klamath-falls-gospel-mission-butte-falls",
@@ -5707,10 +5839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.32458,
+"lon": -118.08772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lagrande-seventh-day-adventist-la-grande-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lagrande-seventh-day-adventist-la-grande-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-grove-presbyterian-church-lake-oswego",
@@ -5736,10 +5869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.42067,
+"lon": -122.67065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-grove-presbyterian-church-lake-oswego-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-grove-presbyterian-church-lake-oswego-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-oswego-united-methodist-church-lake-oswego",
@@ -5765,10 +5899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.42067,
+"lon": -122.67065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-oswego-united-methodist-church-lake-oswego-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-oswego-united-methodist-church-lake-oswego-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lane-county-youth-for-christ-eugene",
@@ -5794,10 +5929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lane-county-youth-for-christ-eugene-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lane-county-youth-for-christ-eugene-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "liberation-street-church-bridgeport",
@@ -5852,10 +5988,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.59456,
+"lon": -121.17868,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-in-christ-church-the-dalles-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-in-christ-church-the-dalles-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lilies-of-the-field-elmira",
@@ -5884,7 +6021,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lilies-of-the-field-elmira-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lilies-of-the-field-elmira-oregon",
+"geo_fuente": null
 },
 {
 "slug": "lincoln-street-methodist-church-dairy",
@@ -5939,10 +6077,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.40733,
+"lon": -124.42177,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/little-church-by-the-sea-presbyterian-gold-beach-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/little-church-by-the-sea-presbyterian-gold-beach-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-praise-church-central-point",
@@ -5968,10 +6107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.37596,
+"lon": -122.91643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-praise-church-central-point-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-praise-church-central-point-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-savior-lutheran-church-bridgeport",
@@ -6026,10 +6166,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.42971,
+"lon": -106.04391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-family-fellowship-blue-river-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-family-fellowship-blue-river-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-way-fellowship-sandy",
@@ -6055,10 +6196,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.39734,
+"lon": -122.26148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-way-fellowship-sandy-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-way-fellowship-sandy-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "longview-foursquare-church-rainier",
@@ -6084,10 +6226,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.089,
+"lon": -122.93594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/longview-foursquare-church-rainier-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/longview-foursquare-church-rainier-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "luther-house-ashwood",
@@ -6142,10 +6285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/luther-memorial-church-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/luther-memorial-church-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-of-the-good-shepherd-and-st-marks-episcopal-church-madras",
@@ -6171,10 +6315,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63345,
+"lon": -121.12949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-the-good-shepherd-and-st-marks-episcopal-church-madras-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-the-good-shepherd-and-st-marks-episcopal-church-madras-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-united-elca-eugene",
@@ -6200,10 +6345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-united-elca-eugene-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-united-elca-eugene-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "m-ountt-vernon-presbyterian-community-church-fall-creek",
@@ -6232,7 +6378,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/m-ountt-vernon-presbyterian-community-church-fall-creek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/m-ountt-vernon-presbyterian-community-church-fall-creek-oregon",
+"geo_fuente": null
 },
 {
 "slug": "macksburg-lutheran-church-canby",
@@ -6258,10 +6405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2629,
+"lon": -122.69259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/macksburg-lutheran-church-canby-or-estados-unidos-13556"
+"fuente_url": "https://encuentraiglesias.com/iglesia/macksburg-lutheran-church-canby-or-estados-unidos-13556",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mallory-church-of-christ-bridgeport",
@@ -6461,10 +6609,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.21012,
+"lon": -123.19872,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mcminnville-united-methodist-church-mcminnville-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mcminnville-united-methodist-church-mcminnville-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "medford-seventh-day-adventist-church-medford",
@@ -6490,10 +6639,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.32652,
+"lon": -122.87559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/medford-seventh-day-adventist-church-medford-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/medford-seventh-day-adventist-church-medford-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mien-fellowship-baptist-church-joseph",
@@ -6519,10 +6669,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mien-fellowship-baptist-church-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mien-fellowship-baptist-church-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "milwaukie-lutheran-church-lake-oswego",
@@ -6548,10 +6699,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.42067,
+"lon": -122.67065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/milwaukie-lutheran-church-lake-oswego-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/milwaukie-lutheran-church-lake-oswego-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "milwaukie-presbyterian-church-lake-oswego",
@@ -6577,10 +6729,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.42067,
+"lon": -122.67065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/milwaukie-presbyterian-church-lake-oswego-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/milwaukie-presbyterian-church-lake-oswego-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerios-el-amor-verdadero-warren",
@@ -6606,10 +6759,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.819,
+"lon": -122.84899,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerios-el-amor-verdadero-warren-or-estados-unidos-12049"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerios-el-amor-verdadero-warren-or-estados-unidos-12049",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "molalla-united-methodist-church-molalla",
@@ -6635,10 +6789,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.14734,
+"lon": -122.57703,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/molalla-united-methodist-church-molalla-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/molalla-united-methodist-church-molalla-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "montavilla-united-methodist-church-dairy",
@@ -6838,10 +6993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/murray-hills-christian-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/murray-hills-christian-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "myrtle-point-baptist-church-broadbent",
@@ -6925,10 +7081,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.20233,
+"lon": -123.96289,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nestucca-valley-presbyterian-church-pacific-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nestucca-valley-presbyterian-church-pacific-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginnings-fellowship-baker-city",
@@ -6954,10 +7111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-fellowship-baker-city-or-estados-unidos-20861"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-fellowship-baker-city-or-estados-unidos-20861",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-creation-chinese-church-portland-beaverton",
@@ -6983,10 +7141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-creation-chinese-church-portland-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-creation-chinese-church-portland-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-freedom-assembly-church-of-god-in-christ-bridgeport",
@@ -7041,10 +7200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.9179,
+"lon": -123.02453,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-bapist-church-creswell-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-bapist-church-creswell-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-hope-foursquare-church-salem",
@@ -7070,10 +7230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9429,
+"lon": -123.0351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-foursquare-church-salem-or-estados-unidos-12772"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-foursquare-church-salem-or-estados-unidos-12772",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-life-foursquare-church-neotsu",
@@ -7128,10 +7289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.30012,
+"lon": -122.97316,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newburg-first-united-methodist-church-newberg-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newburg-first-united-methodist-church-newberg-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "newport-avenue-church-of-christ-bend",
@@ -7157,10 +7319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newport-avenue-church-of-christ-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newport-avenue-church-of-christ-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nexus-church-beaverton",
@@ -7186,10 +7349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nexus-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nexus-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-albany-community-church-albany",
@@ -7215,10 +7379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-albany-community-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-albany-community-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northeast-community-fellowship-foursquare-church-bridgeport",
@@ -7302,10 +7467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2629,
+"lon": -122.69259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ohana-christian-fellowship-of-seventh-day-adventists-canby-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ohana-christian-fellowship-of-seventh-day-adventists-canby-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-scotch-church-manning",
@@ -7360,10 +7526,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73623,
+"lon": -123.4234,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olivet-community-church-glendale-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olivet-community-church-glendale-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oregon-city-bible-chapel-beavercreek",
@@ -7389,10 +7556,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2879,
+"lon": -122.53564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-city-bible-chapel-beavercreek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-city-bible-chapel-beavercreek-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oregon-city-united-methodist-church-central-point",
@@ -7418,10 +7586,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.37596,
+"lon": -122.91643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-city-united-methodist-church-central-point-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-city-united-methodist-church-central-point-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oregon-trail-free-will-baptist-church-beavercreek",
@@ -7447,10 +7616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2879,
+"lon": -122.53564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-trail-free-will-baptist-church-beavercreek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-trail-free-will-baptist-church-beavercreek-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oregon-yedam-presbyterian-church-cloverdale",
@@ -7534,10 +7704,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.02655,
+"lon": -116.96294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/origins-faith-community-ontario-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/origins-faith-community-ontario-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "outreach-gospel-brookings",
@@ -7563,10 +7734,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05261,
+"lon": -124.28398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/outreach-gospel-brookings-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/outreach-gospel-brookings-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pacific-baptist-gleneden-beach",
@@ -7621,10 +7793,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.7054,
+"lon": -121.52146,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkdale-baptist-church-hood-river-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkdale-baptist-church-hood-river-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parkdale-community-church-mount-hood-parkdale",
@@ -7679,10 +7852,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkrose-united-methodist-church-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkrose-united-methodist-church-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pendleton-free-methodist-church-glendale",
@@ -7708,10 +7882,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73623,
+"lon": -123.4234,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pendleton-free-methodist-church-glendale-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pendleton-free-methodist-church-glendale-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pendleton-seventh-day-adventist-church-glendale",
@@ -7737,10 +7912,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73623,
+"lon": -123.4234,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pendleton-seventh-day-adventist-church-glendale-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pendleton-seventh-day-adventist-church-glendale-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peninsula-church-of-the-nazarene-portland",
@@ -7766,10 +7942,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peninsula-church-of-the-nazarene-portland-or-estados-unidos-21109"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peninsula-church-of-the-nazarene-portland-or-estados-unidos-21109",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peoples-church-keizer",
@@ -7795,10 +7972,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.99012,
+"lon": -123.02621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-church-keizer-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-church-keizer-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phat-quang-temple-beaverton",
@@ -7824,10 +8002,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phat-quang-temple-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phat-quang-temple-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "philadelphia-romanian-pentecostal-church-powell-butte",
@@ -7882,10 +8061,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-lutheran-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-lutheran-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pine-grove-odell-united-methodist-church-odell",
@@ -7911,10 +8091,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.62706,
+"lon": -121.54313,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pine-grove-odell-united-methodist-church-odell-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pine-grove-odell-united-methodist-church-odell-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pleasant-hill-lutheran-church-pleasant-hill",
@@ -7998,10 +8179,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.44679,
+"lon": -122.53037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pleasant-valley-community-baptist-church-happy-valley-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pleasant-valley-community-baptist-church-happy-valley-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "plymouth-presbyterian-church-columbia-city",
@@ -8027,10 +8209,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.89011,
+"lon": -122.80705,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/plymouth-presbyterian-church-columbia-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/plymouth-presbyterian-church-columbia-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portland-central-church-assembly-of-god-beaverton",
@@ -8056,10 +8239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portland-central-church-assembly-of-god-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portland-central-church-assembly-of-god-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portland-christadelphians-beaverton",
@@ -8085,10 +8269,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portland-christadelphians-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portland-christadelphians-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portland-christian-center-portland",
@@ -8114,10 +8299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portland-christian-center-portland-or-estados-unidos-13983"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portland-christian-center-portland-or-estados-unidos-13983",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portland-community-church-beaverton",
@@ -8143,10 +8329,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portland-community-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portland-community-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portland-covenant-church-bridgeport",
@@ -8346,10 +8533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.98262,
+"lon": -124.09984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-community-church-of-the-siuslaw-florence-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-community-church-of-the-siuslaw-florence-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prince-of-life-lutheran-church-falls-city",
@@ -8375,10 +8563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prince-of-life-lutheran-church-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prince-of-life-lutheran-church-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rainier-united-methodist-church-rainier",
@@ -8404,10 +8593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.089,
+"lon": -122.93594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rainier-united-methodist-church-rainier-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rainier-united-methodist-church-rainier-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redeemer-fellowship-eugene",
@@ -8433,10 +8623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-fellowship-eugene-or-estados-unidos-19018"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-fellowship-eugene-or-estados-unidos-19018",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reedville-presbyterian-church-cascadia",
@@ -8491,10 +8682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.47263,
+"lon": -122.80282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reese-creek-assembly-of-god-eagle-point-or-estados-unidos-28668"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reese-creek-assembly-of-god-eagle-point-or-estados-unidos-28668",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rev-john-frenchs-street-ministry-aumsville",
@@ -8520,10 +8712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.84095,
+"lon": -122.87092,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rev-john-frenchs-street-ministry-aumsville-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rev-john-frenchs-street-ministry-aumsville-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rise-church-tualatin",
@@ -8549,10 +8742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38401,
+"lon": -122.76399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rise-church-tualatin-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rise-church-tualatin-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-west-church-lake-oswego",
@@ -8578,10 +8772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.42067,
+"lon": -122.67065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-west-church-lake-oswego-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-west-church-lake-oswego-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rockwood-united-methodist-church-powell-butte",
@@ -8636,10 +8831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.43595,
+"lon": -123.172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rogue-river-seventh-day-adventist-rogue-river-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rogue-river-seventh-day-adventist-rogue-river-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rogue-united-methodist-cove",
@@ -8665,10 +8861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.29653,
+"lon": -117.80799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rogue-united-methodist-cove-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rogue-united-methodist-cove-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rose-city-park-presbyterian-church-portland",
@@ -8694,10 +8891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rose-city-park-presbyterian-church-portland-or-estados-unidos-13528"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rose-city-park-presbyterian-church-portland-or-estados-unidos-13528",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rose-city-park-united-methodist-church-portland",
@@ -8723,10 +8921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rose-city-park-united-methodist-church-portland-or-estados-unidos-18941"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rose-city-park-united-methodist-church-portland-or-estados-unidos-18941",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rose-of-sharon-lutheran-brethren-church-powell-butte",
@@ -8781,10 +8980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05261,
+"lon": -124.28398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/safe-harbor-christian-brookings-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/safe-harbor-christian-brookings-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-andrew-lutheran-church-beaverton",
@@ -8810,10 +9010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrew-lutheran-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrew-lutheran-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-anselm-of-canterbury-episcopal-campus-ministry-ashwood",
@@ -8868,10 +9069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-bartholomews-episcopal-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-bartholomews-episcopal-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-michael-holy-angels-anglican-church-beaverton",
@@ -8897,10 +9099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-michael-holy-angels-anglican-church-beaverton-or-estados-unidos-11691"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-michael-holy-angels-anglican-church-beaverton-or-estados-unidos-11691",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-of-damascus-lutheran-church-boring",
@@ -8955,10 +9158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.99012,
+"lon": -123.02621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salem-central-seventh-day-adventist-keizer-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salem-central-seventh-day-adventist-keizer-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salem-first-presbyterian-church-salem",
@@ -8984,10 +9188,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9429,
+"lon": -123.0351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salem-first-presbyterian-church-salem-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salem-first-presbyterian-church-salem-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salem-first-united-methodist-church-salem",
@@ -9013,10 +9218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9429,
+"lon": -123.0351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salem-first-united-methodist-church-salem-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salem-first-united-methodist-church-salem-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "samoan-seventh-day-independent-church-falls-city",
@@ -9042,10 +9248,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/samoan-seventh-day-independent-church-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/samoan-seventh-day-independent-church-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sanctuary-church-boring",
@@ -9158,10 +9365,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.75428,
+"lon": -122.8776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/scappoose-foursquare-church-scappoose-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/scappoose-foursquare-church-scappoose-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sellwood-faith-community-lake-oswego",
@@ -9187,10 +9395,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.42067,
+"lon": -122.67065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sellwood-faith-community-lake-oswego-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sellwood-faith-community-lake-oswego-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sequoia-sanctuary-blodgett",
@@ -9245,10 +9454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.47263,
+"lon": -122.80282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shady-point-seventh-day-adventist-church-eagle-point-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shady-point-seventh-day-adventist-church-eagle-point-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepards-house-ministries-bend",
@@ -9274,10 +9484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05817,
+"lon": -121.31531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepards-house-ministries-bend-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepards-house-ministries-bend-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "siletz-gospel-tabernacle-siletz",
@@ -9303,10 +9514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.72178,
+"lon": -123.92011,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/siletz-gospel-tabernacle-siletz-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/siletz-gospel-tabernacle-siletz-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "silverton-community-seventh-day-adventist-church-mount-angel",
@@ -9332,10 +9544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.0679,
+"lon": -122.80009,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/silverton-community-seventh-day-adventist-church-mount-angel-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/silverton-community-seventh-day-adventist-church-mount-angel-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sisters-of-saint-mary-of-oregon-church-beaverton",
@@ -9361,10 +9574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sisters-of-saint-mary-of-oregon-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sisters-of-saint-mary-of-oregon-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "skyline-assembly-of-god-scio",
@@ -9390,10 +9604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.70484,
+"lon": -122.84926,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skyline-assembly-of-god-scio-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skyline-assembly-of-god-scio-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "smith-memorial-presbyterian-church-buxton",
@@ -9535,10 +9750,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-albany-community-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-albany-community-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southeast-community-church-of-the-nazarene-portland",
@@ -9564,10 +9780,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southeast-community-church-of-the-nazarene-portland-or-estados-unidos-21100"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southeast-community-church-of-the-nazarene-portland-or-estados-unidos-21100",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southside-community-church-ashwood",
@@ -9622,10 +9839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southwest-bible-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southwest-bible-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southwest-hills-baptist-church-beaverton",
@@ -9651,10 +9869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southwest-hills-baptist-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southwest-hills-baptist-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-of-grace-beaverton",
@@ -9680,10 +9899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-grace-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-grace-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-of-life-lutheran-church-gladstone-campus-falls-city",
@@ -9709,10 +9929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-life-lutheran-church-gladstone-campus-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-life-lutheran-church-gladstone-campus-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-of-life-lutheran-church-milwaukie-campus-gladstone",
@@ -9738,10 +9959,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38068,
+"lon": -122.59481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-life-lutheran-church-milwaukie-campus-gladstone-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-life-lutheran-church-milwaukie-campus-gladstone-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springfield-lutheran-church-springfield",
@@ -9767,10 +9989,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.04624,
+"lon": -123.02203,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/springfield-lutheran-church-springfield-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/springfield-lutheran-church-springfield-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springwater-baptist-church-joseph",
@@ -9796,10 +10019,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.35432,
+"lon": -117.22961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/springwater-baptist-church-joseph-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/springwater-baptist-church-joseph-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springwater-presbyterian-church-estacada",
@@ -9825,10 +10049,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.28957,
+"lon": -122.3337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/springwater-presbyterian-church-estacada-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/springwater-presbyterian-church-estacada-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-albans-albany",
@@ -9854,10 +10079,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-albans-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-albans-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-brendan-the-navigator-orthodox-church-astoria",
@@ -9883,10 +10109,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18788,
+"lon": -123.83125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-brendan-the-navigator-orthodox-church-astoria-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-brendan-the-navigator-orthodox-church-astoria-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peter-the-fisherman-lutheran-church-lincoln-city",
@@ -9912,10 +10139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.95816,
+"lon": -124.01789,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-peter-the-fisherman-lutheran-church-lincoln-city-or-estados-unidos-18592"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-peter-the-fisherman-lutheran-church-lincoln-city-or-estados-unidos-18592",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-philip-the-deacon-episcopal-church-bridgeport",
@@ -9970,10 +10198,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.77487,
+"lon": -117.83438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-stephens-episcopal-church-baker-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-stephens-episcopal-church-baker-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stevenson-seventh-day-adventist-church-cascade-locks",
@@ -9999,10 +10228,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.66984,
+"lon": -121.89064,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stevenson-seventh-day-adventist-church-cascade-locks-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stevenson-seventh-day-adventist-church-cascade-locks-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stone-creek-christian-church-beavercreek",
@@ -10028,10 +10258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2879,
+"lon": -122.53564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stone-creek-christian-church-beavercreek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stone-creek-christian-church-beavercreek-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stone-tower-seventh-day-adventist-church-dairy",
@@ -10086,10 +10317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.44623,
+"lon": -122.63926,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/storyline-community-milwaukie-or-estados-unidos-12568"
+"fuente_url": "https://encuentraiglesias.com/iglesia/storyline-community-milwaukie-or-estados-unidos-12568",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunnyside-church-of-the-nazarene-happy-valley",
@@ -10115,10 +10347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.44679,
+"lon": -122.53037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sunnyside-church-of-the-nazarene-happy-valley-or-estados-unidos-24890"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sunnyside-church-of-the-nazarene-happy-valley-or-estados-unidos-24890",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunnyside-seventh-day-adventist-church-midland",
@@ -10173,10 +10406,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9429,
+"lon": -123.0351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sunnyslope-christian-reformed-church-salem-or-estados-unidos-11985"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sunnyslope-christian-reformed-church-salem-or-estados-unidos-11985",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunset-park-community-church-columbia-city",
@@ -10202,10 +10436,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.89011,
+"lon": -122.80705,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sunset-park-community-church-columbia-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sunset-park-community-church-columbia-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunset-presbyterian-church-harper",
@@ -10260,10 +10495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2879,
+"lon": -122.53564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ten-oclock-church-beavercreek-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ten-oclock-church-beavercreek-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "terrebonne-assembly-of-god-brogan",
@@ -10318,10 +10554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.41762,
+"lon": -122.45898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-journey-church-damascus-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-journey-church-damascus-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-peoples-church-albany",
@@ -10347,10 +10584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-peoples-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-peoples-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-river-center-ashwood",
@@ -10405,10 +10643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-venetian-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-venetian-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-village-seventh-day-adventist-church-gresham",
@@ -10434,10 +10673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.49818,
+"lon": -122.43148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-village-seventh-day-adventist-church-gresham-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-village-seventh-day-adventist-church-gresham-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tigard-foursquare-church-tualatin",
@@ -10463,10 +10703,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38401,
+"lon": -122.76399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tigard-foursquare-church-tualatin-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tigard-foursquare-church-tualatin-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tigard-friends-community-church-bridgeport",
@@ -10521,10 +10762,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.44679,
+"lon": -122.53037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/town-center-baptist-church-happy-valley-or-estados-unidos-672"
+"fuente_url": "https://encuentraiglesias.com/iglesia/town-center-baptist-church-happy-valley-or-estados-unidos-672",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tri-city-baptist-temple-of-milwaukie-gladstone",
@@ -10550,10 +10792,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38068,
+"lon": -122.59481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tri-city-baptist-temple-of-milwaukie-gladstone-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tri-city-baptist-temple-of-milwaukie-gladstone-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-episcopal-cathedral-bridgeport",
@@ -10608,10 +10851,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-full-gospel-pentecostal-church-portland-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-full-gospel-pentecostal-church-portland-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-lutheran-church-of-sheridan-sheridan",
@@ -10637,10 +10881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.09928,
+"lon": -123.39483,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-of-sheridan-sheridan-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-of-sheridan-sheridan-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "triumphant-king-lutheran-church-bridgeport",
@@ -10724,10 +10969,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38401,
+"lon": -122.76399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tualatin-seventh-day-adventist-church-tualatin-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tualatin-seventh-day-adventist-church-tualatin-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tualatin-spanish-church-tualatin",
@@ -10753,10 +10999,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.38401,
+"lon": -122.76399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tualatin-spanish-church-tualatin-or-estados-unidos-11309"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tualatin-spanish-church-tualatin-or-estados-unidos-11309",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tualatin-united-methodist-church-bridgeport",
@@ -10811,10 +11058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tualatin-valley-community-church-beaverton-or-estados-unidos-13083"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tualatin-valley-community-church-beaverton-or-estados-unidos-13083",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tucker-road-baptist-church-hood-river",
@@ -10840,10 +11088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.7054,
+"lon": -121.52146,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tucker-road-baptist-church-hood-river-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tucker-road-baptist-church-hood-river-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ukiah-presbyterian-church-ukiah",
@@ -10869,10 +11118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15017,
+"lon": -123.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ukiah-presbyterian-church-ukiah-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ukiah-presbyterian-church-ukiah-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ukrainian-bible-church-buxton",
@@ -10985,10 +11235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.52345,
+"lon": -122.67621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-tabor-heights-portland-or-estados-unidos-24184"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-tabor-heights-portland-or-estados-unidos-24184",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-pentecostal-church-of-springfield-springfield",
@@ -11014,10 +11265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.04624,
+"lon": -123.02203,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-pentecostal-church-of-springfield-springfield-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-pentecostal-church-of-springfield-springfield-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unity-church-of-beaverton-beaverton",
@@ -11043,10 +11295,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unity-church-of-beaverton-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unity-church-of-beaverton-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-river-life-eugene",
@@ -11072,10 +11325,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-river-life-eugene-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-river-life-eugene-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-springs-church-ashwood",
@@ -11159,10 +11413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63651,
+"lon": -123.10593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/verbatim-church-albany-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/verbatim-church-albany-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vietnamese-baptist-church-of-aloha-cascadia",
@@ -11275,10 +11530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.42679,
+"lon": -124.06873,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/waldport-foursquare-church-waldport-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/waldport-foursquare-church-waldport-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "waldport-seventh-day-adventist-church-waldport",
@@ -11304,10 +11560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.42679,
+"lon": -124.06873,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/waldport-seventh-day-adventist-church-waldport-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/waldport-seventh-day-adventist-church-waldport-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesley-foundation-campus-ministry-eugene",
@@ -11333,10 +11590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesley-foundation-campus-ministry-eugene-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesley-foundation-campus-ministry-eugene-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesley-foundation-center-eugene",
@@ -11362,10 +11620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.05207,
+"lon": -123.08675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesley-foundation-center-eugene-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesley-foundation-center-eugene-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-linn-lutheran-church-falls-city",
@@ -11391,10 +11650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-linn-lutheran-church-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-linn-lutheran-church-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-portland-united-methodist-church-kimberly",
@@ -11449,10 +11709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9429,
+"lon": -123.0351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-salem-united-methodist-church-salem-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-salem-united-methodist-church-salem-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westgate-baptist-church-beaverton",
@@ -11478,10 +11739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westgate-baptist-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westgate-baptist-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westside-community-church-cascadia",
@@ -11536,10 +11798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.48706,
+"lon": -122.80371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westside-united-methodist-church-beaverton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westside-united-methodist-church-beaverton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westside-vineyard-church-bridgeport",
@@ -11594,10 +11857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.7054,
+"lon": -121.52146,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-salmon-seventh-day-adventist-church-hood-river-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-salmon-seventh-day-adventist-church-hood-river-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willamette-united-methodist-church-falls-city",
@@ -11623,10 +11887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.86623,
+"lon": -123.43594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/willamette-united-methodist-church-falls-city-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/willamette-united-methodist-church-falls-city-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willamette-valley-baptist-church-aumsville",
@@ -11652,10 +11917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.84095,
+"lon": -122.87092,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/willamette-valley-baptist-church-aumsville-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/willamette-valley-baptist-church-aumsville-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "williams-seventh-day-adventist-church-blodgett",
@@ -11710,10 +11976,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.29984,
+"lon": -122.77371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wilsonville-united-methodist-church-wilsonville-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wilsonville-united-methodist-church-wilsonville-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "yachats-community-presbyterian-church-yachats",
@@ -11739,10 +12006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31123,
+"lon": -124.10484,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/yachats-community-presbyterian-church-yachats-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/yachats-community-presbyterian-church-yachats-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "yamhill-united-methodist-church-carlton",
@@ -11768,10 +12036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.29428,
+"lon": -123.17649,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/yamhill-united-methodist-church-carlton-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/yamhill-united-methodist-church-carlton-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "youngnak-presbyterian-church-of-portland-cascadia",
@@ -11826,10 +12095,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.59456,
+"lon": -121.17868,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheren-church-the-dalles-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheren-church-the-dalles-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zoar-lutheran-church-canby",
@@ -11855,9 +12125,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.2629,
+"lon": -122.69259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zoar-lutheran-church-canby-oregon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zoar-lutheran-church-canby-oregon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

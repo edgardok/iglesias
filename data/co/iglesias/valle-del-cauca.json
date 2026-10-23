@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 4.08484,
+"lon": -76.19548,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-adoracion-shekinah-tulua-colombia-1325"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-adoracion-shekinah-tulua-colombia-1325",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "es-tiempo-de-bendicion-cali",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.43054,
+"lon": -76.5199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/es-tiempo-de-bendicion-cali-colombia-1462"
+"fuente_url": "https://encuentraiglesias.com/iglesia/es-tiempo-de-bendicion-cali-colombia-1462",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-yumbo",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.58236,
+"lon": -76.49147,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-yumbo-colombia-176"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-yumbo-colombia-176",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pueblo-nuevo-buenaventura",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.58333,
+"lon": -77.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pueblo-nuevo-buenaventura-colombia-3993"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pueblo-nuevo-buenaventura-colombia-3993",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vino-nuevo-cali",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.43054,
+"lon": -76.5199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vino-nuevo-cali-colombia-249"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vino-nuevo-cali-colombia-249",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-casa-del-rey-jesus-de-palmira-palmira",
@@ -168,9 +173,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.53479,
+"lon": -76.29774,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-casa-del-rey-jesus-de-palmira-palmira-colombia-3234"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-casa-del-rey-jesus-de-palmira-palmira-colombia-3234",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

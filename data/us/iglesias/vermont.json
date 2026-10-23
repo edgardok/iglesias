@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/agape-christian-fellowship-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/agape-christian-fellowship-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albany-united-methodist-church-albany-2",
@@ -139,10 +140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alls-souls-church-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alls-souls-church-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "amadeus-church-alburgh",
@@ -197,10 +199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40702,
+"lon": -72.40703,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ascutney-union-church-ascutney-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ascutney-union-church-ascutney-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assemblies-of-god-new-life-assembly-barre",
@@ -226,10 +229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assemblies-of-god-new-life-assembly-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assemblies-of-god-new-life-assembly-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beth-el-congregation-bennington",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87813,
+"lon": -73.19677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beth-el-congregation-bennington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beth-el-congregation-bennington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-chapel-assembly-of-god-church-brattleboro",
@@ -284,10 +289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-chapel-assembly-of-god-church-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-chapel-assembly-of-god-church-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bradon-united-methodist-church-brandon",
@@ -313,10 +319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79812,
+"lon": -73.08761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bradon-united-methodist-church-brandon-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bradon-united-methodist-church-brandon-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brandon-baptist-church-brandon",
@@ -342,10 +349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79812,
+"lon": -73.08761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-baptist-church-brandon-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-baptist-church-brandon-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brandon-congregational-church-brandon",
@@ -371,10 +379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79812,
+"lon": -73.08761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-congregational-church-brandon-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-congregational-church-brandon-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bridgewater-center-oak-chapel-bridgewater",
@@ -429,10 +438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.98506,
+"lon": -73.31262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bridport-congregational-church-bridport-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bridport-congregational-church-bridport-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brigton-baptist-church-island-pond",
@@ -458,10 +468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.81477,
+"lon": -71.88037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brigton-baptist-church-island-pond-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brigton-baptist-church-island-pond-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bristol-federated-church-bristol",
@@ -487,10 +498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.13339,
+"lon": -73.07901,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bristol-federated-church-bristol-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bristol-federated-church-bristol-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brownsville-community-church-brownsville",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/buoyant-heart-art-collective-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/buoyant-heart-art-collective-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burlington-friends-meeting-house-burlington",
@@ -574,10 +587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-friends-meeting-house-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-friends-meeting-house-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cambridge-congregational-church-cambridge",
@@ -661,10 +675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.20561,
+"lon": -73.24623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/champlain-valley-christian-reformed-church-ferrisburgh-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/champlain-valley-christian-reformed-church-ferrisburgh-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "charterhouse-of-the-transfiguration-arlington",
@@ -690,10 +705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.0748,
+"lon": -73.154,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/charterhouse-of-the-transfiguration-arlington-vt-estados-unidos-12577"
+"fuente_url": "https://encuentraiglesias.com/iglesia/charterhouse-of-the-transfiguration-arlington-vt-estados-unidos-12577",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-and-missionary-alliance-church-bennington",
@@ -719,10 +735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87813,
+"lon": -73.19677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-and-missionary-alliance-church-bennington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-and-missionary-alliance-church-bennington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-union-society-meetinghouse-east-hardwick",
@@ -777,10 +794,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/college-street-congregational-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/college-street-congregational-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-bible-chapel-brattleboro",
@@ -806,10 +824,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-bible-chapel-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-bible-chapel-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregation-of-temple-sinai-burlington",
@@ -835,10 +854,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-of-temple-sinai-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-of-temple-sinai-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregational-church-of-east-barre-barre",
@@ -864,10 +884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-of-east-barre-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-of-east-barre-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-church-bethel",
@@ -893,10 +914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8334,
+"lon": -72.63399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-church-bethel-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-church-bethel-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-arlington-federated-church-arlington",
@@ -922,10 +944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.0748,
+"lon": -73.154,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-arlington-federated-church-arlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-arlington-federated-church-arlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-craftsbury-presbyterian-church-brown-church-craftsbury",
@@ -980,10 +1003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.17284,
+"lon": -78.94782,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-randolph-baptist-church-east-randolph-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-randolph-baptist-church-east-randolph-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-wallingford-baptist-church-cuttingsville",
@@ -1038,10 +1062,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/episcopal-church-good-shepherd-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/episcopal-church-good-shepherd-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "episcopal-church-of-the-good-shepherd-barre",
@@ -1067,10 +1092,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/episcopal-church-of-the-good-shepherd-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/episcopal-church-of-the-good-shepherd-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ferrisburgh-center-united-methodist-church-ferrisburgh",
@@ -1096,10 +1122,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.20561,
+"lon": -73.24623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ferrisburgh-center-united-methodist-church-ferrisburgh-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ferrisburgh-center-united-methodist-church-ferrisburgh-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-congregational-church-of-bennington-bennington",
@@ -1125,10 +1152,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87813,
+"lon": -73.19677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-bennington-bennington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-bennington-bennington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-unitarian-universalist-society-of-burlington-burlington",
@@ -1154,10 +1182,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-unitarian-universalist-society-of-burlington-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-unitarian-universalist-society-of-burlington-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "franciscan-sisters-of-atonement-church-burlington",
@@ -1183,10 +1212,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/franciscan-sisters-of-atonement-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/franciscan-sisters-of-atonement-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "french-baptist-church-burlington",
@@ -1212,10 +1242,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/french-baptist-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/french-baptist-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-christian-church-williamstown",
@@ -1241,10 +1272,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.12173,
+"lon": -72.54149,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-christian-church-williamstown-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-christian-church-williamstown-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-mountain-chapel-brattleboro",
@@ -1270,10 +1302,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/green-mountain-chapel-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/green-mountain-chapel-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-mountain-christian-center-bennington",
@@ -1299,10 +1332,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87813,
+"lon": -73.19677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/green-mountain-christian-center-bennington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/green-mountain-christian-center-bennington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "guilford-community-church-brattleboro",
@@ -1328,10 +1362,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/guilford-community-church-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/guilford-community-church-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hearts-of-fire-ministries-burlington",
@@ -1357,10 +1392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hearts-of-fire-ministries-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hearts-of-fire-ministries-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hedding-united-methodist-church-barre",
@@ -1386,10 +1422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hedding-united-methodist-church-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hedding-united-methodist-church-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "howard-mortuary-chapel-burlington",
@@ -1415,10 +1452,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/howard-mortuary-chapel-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/howard-mortuary-chapel-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ira-allen-chapel-burlington",
@@ -1444,10 +1482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ira-allen-chapel-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ira-allen-chapel-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "islamic-society-of-vermont-burlington",
@@ -1473,10 +1512,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/islamic-society-of-vermont-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/islamic-society-of-vermont-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "italian-baptist-church-barre",
@@ -1502,10 +1542,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/italian-baptist-church-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/italian-baptist-church-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jcc-sunday-school-building-jericho",
@@ -1531,10 +1572,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.50394,
+"lon": -72.99763,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jcc-sunday-school-building-jericho-vt-estados-unidos-18643"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jcc-sunday-school-building-jericho-vt-estados-unidos-18643",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-water-assembly-of-god-brandon",
@@ -1560,10 +1602,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79812,
+"lon": -73.08761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-assembly-of-god-brandon-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-assembly-of-god-brandon-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lyndonville-united-methodist-church-lyndon",
@@ -1589,10 +1632,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.51422,
+"lon": -72.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lyndonville-united-methodist-church-lyndon-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lyndonville-united-methodist-church-lyndon-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "memorial-baptist-church-american-baptist-east-haven",
@@ -1618,10 +1662,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.27621,
+"lon": -72.86843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/memorial-baptist-church-american-baptist-east-haven-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/memorial-baptist-church-american-baptist-east-haven-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "methodist-episcopal-church-of-winooski-burlington",
@@ -1647,10 +1692,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-of-winooski-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-of-winooski-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mission-city-church-bennington",
@@ -1676,10 +1722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87813,
+"lon": -73.19677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mission-city-church-bennington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mission-city-church-bennington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monkton-friends-methodist-church-monkton",
@@ -1734,10 +1781,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.25089,
+"lon": -72.76095,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/moretown-united-methodist-church-moretown-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/moretown-united-methodist-church-moretown-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-view-seventh-day-adventist-church-vernon",
@@ -1821,10 +1869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/neumann-studios-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/neumann-studios-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-haven-united-reformed-church-east-haven",
@@ -1850,10 +1899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.27621,
+"lon": -72.86843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-haven-united-reformed-church-east-haven-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-haven-united-reformed-church-east-haven-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-king-church-burlington",
@@ -1879,10 +1929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-king-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-king-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-avenue-alliance-church-burlington",
@@ -1908,10 +1959,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-avenue-alliance-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-avenue-alliance-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-ferrisburgh-united-methodist-church-north-ferrisburgh",
@@ -1966,10 +2018,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-hinsdale-community-church-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-hinsdale-community-church-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-monroe-church-barnet",
@@ -2024,10 +2077,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.15117,
+"lon": -72.6565,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northfield-united-methodist-parish-northfield-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northfield-united-methodist-parish-northfield-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-church-bethel",
@@ -2053,10 +2107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8334,
+"lon": -72.63399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-church-bethel-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-church-bethel-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-parish-church-weston",
@@ -2082,10 +2137,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.29119,
+"lon": -72.79315,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-parish-church-weston-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-parish-church-weston-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-west-church-adamant",
@@ -2169,10 +2225,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rivertown-church-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rivertown-church-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rock-point-outdoor-chapel-burlington",
@@ -2198,10 +2255,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rock-point-outdoor-chapel-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rock-point-outdoor-chapel-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-bernadette-church-bridport",
@@ -2227,10 +2285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.98506,
+"lon": -73.31262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-bernadette-church-bridport-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-bernadette-church-bridport-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-jean-baptist-church-burlington",
@@ -2256,10 +2315,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-jean-baptist-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-jean-baptist-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-pauls-cathedral-episcopal-church-burlington",
@@ -2285,10 +2345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-cathedral-episcopal-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-cathedral-episcopal-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-stephen-church-burlington",
@@ -2314,10 +2375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-stephen-church-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-stephen-church-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sandgate-methodist-church-sandgate",
@@ -2401,10 +2463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.38061,
+"lon": -73.22763,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shelburne-methodist-church-shelburne-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shelburne-methodist-church-shelburne-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "solid-rock-assembly-of-god-church-barton",
@@ -2430,10 +2493,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.7481,
+"lon": -72.17621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/solid-rock-assembly-of-god-church-barton-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/solid-rock-assembly-of-god-church-barton-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-bradford-church-bradford",
@@ -2459,10 +2523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.99257,
+"lon": -72.12898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-bradford-church-bradford-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-bradford-church-bradford-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-burlington-church-of-christ-burlington",
@@ -2488,10 +2553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47588,
+"lon": -73.21207,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-burlington-church-of-christ-burlington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-burlington-church-of-christ-burlington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-james-united-methodist-cavendish",
@@ -2546,10 +2612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.79812,
+"lon": -73.08761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marys-brandon-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marys-brandon-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stannard-greensboro-bend-methodist-church-stannard",
@@ -2607,7 +2674,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tri-church-parish-church-bakersfield-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tri-church-parish-church-bakersfield-vermont",
+"geo_fuente": null
 },
 {
 "slug": "union-village-united-methodist-church-thetford",
@@ -2694,7 +2762,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-cabot-cabot-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-cabot-cabot-vermont",
+"geo_fuente": null
 },
 {
 "slug": "united-church-of-colchester-colchester",
@@ -2720,10 +2789,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.54394,
+"lon": -73.14791,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-colchester-colchester-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-colchester-colchester-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-northfield-northfield",
@@ -2749,10 +2819,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.15117,
+"lon": -72.6565,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-northfield-northfield-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-northfield-northfield-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-methodist-church-of-isle-la-motte-isle-la-motte",
@@ -2807,10 +2878,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.20561,
+"lon": -73.24623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vergennes-united-methodist-church-ferrisburgh-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vergennes-united-methodist-church-ferrisburgh-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "websterville-baptist-church-barre",
@@ -2836,10 +2908,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/websterville-baptist-church-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/websterville-baptist-church-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-brattleboro-baptist-church-brattleboro",
@@ -2865,10 +2938,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.85092,
+"lon": -72.55787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-brattleboro-baptist-church-brattleboro-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-brattleboro-baptist-church-brattleboro-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "white-chapel-bennington",
@@ -2894,10 +2968,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87813,
+"lon": -73.19677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-chapel-bennington-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-chapel-bennington-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "williamstown-lutheran-church-barre",
@@ -2923,9 +2998,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.19701,
+"lon": -72.50205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/williamstown-lutheran-church-barre-vermont"
+"fuente_url": "https://encuentraiglesias.com/iglesia/williamstown-lutheran-church-barre-vermont",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

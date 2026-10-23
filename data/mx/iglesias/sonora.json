@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/10ma-iafcj-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/10ma-iafcj-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-oracion-caborca-sonora",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-cristiano-ebenezer-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-cristiano-ebenezer-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-centro-ciudad-obregon",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.48642,
+"lon": -109.94079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-centro-ciudad-obregon-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-centro-ciudad-obregon-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-de-la-fe-en-cristo-jesus-ar-hermosillo",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-ar-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-ar-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-betel-de-asambleas-de-dios-sonora",
@@ -226,10 +230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bugambilias-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bugambilias-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cocorit-cajeme",
@@ -371,10 +376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-vida-abundante-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-vida-abundante-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-7mo-dia-emmanuel-hermosillo",
@@ -400,10 +406,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-7mo-dia-emmanuel-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-7mo-dia-emmanuel-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-de-la-profecia-sonora",
@@ -458,10 +465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-el-buen-samaritano-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-el-buen-samaritano-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-hermosillo",
@@ -487,10 +495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-hermosillo",
@@ -516,10 +525,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-vida-abundante-hermosillo",
@@ -545,10 +555,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-vida-abundante-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-vida-abundante-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-espiritu-santo-hermosillo",
@@ -574,10 +585,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-espiritu-santo-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-espiritu-santo-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-libre-arbol-de-vida-sonora",
@@ -661,10 +673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-medalla-milagrosa-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-medalla-milagrosa-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-emanuel-miramar",
@@ -748,10 +761,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sonacer-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sonacer-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "las-iglesias-cananea",
@@ -777,10 +791,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 30.98352,
+"lon": -110.29758,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-iglesias-cananea-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-iglesias-cananea-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-bautista-bisbee",
@@ -864,10 +879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.8262,
+"lon": -110.22479,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-calvario-bahia-kino-aconchi-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-calvario-bahia-kino-aconchi-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-los-santos-de-los-ultimos-dias-cajeme",
@@ -922,10 +938,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-tepoztlan-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-tepoztlan-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-mayor-hermosillo",
@@ -951,9 +968,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.08874,
+"lon": -110.96677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-mayor-hermosillo-sonora"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-mayor-hermosillo-sonora",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

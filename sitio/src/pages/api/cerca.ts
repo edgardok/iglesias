@@ -19,7 +19,7 @@ export const GET: APIRoute = async ({ url, locals }) => {
       .bind(lat - dLat, lat + dLat, lon - dLon, lon + dLon).all<{ datos: string; lat: number; lon: number }>();
     const cercanas = results.map(r => ({ i: JSON.parse(r.datos), d: dist(lat, lon, r.lat, r.lon) })).filter(x => x.d <= radio).sort((a, b) => a.d - b.d).slice(0, 40);
     if (cercanas.length >= 5 || radio === RADIOS_M[RADIOS_M.length - 1]) {
-      return json({ radio_m: radio, resultados: cercanas.map(({ i, d }) => ({ nombre: i.nombre, url: urlIglesiaDe(i.pais_slug, i.slug), distancia_m: Math.round(d), denominacion: i.denominacion, direccion: i.direccion, localidad: i.localidad, provincia: i.provincia, horarios: i.horarios, lat: i.lat, lon: i.lon })) });
+      return json({ radio_m: radio, resultados: cercanas.map(({ i, d }) => ({ nombre: i.nombre, url: urlIglesiaDe(i.pais_slug, i.slug), distancia_m: Math.round(d), denominacion: i.denominacion, direccion: i.direccion, localidad: i.localidad, provincia: i.provincia, horarios: i.horarios, lat: i.lat, lon: i.lon, aprox: !!i.geo_fuente?.startsWith('GeoNames') })) });
     }
   }
   return json({ radio_m: RADIOS_M.at(-1), resultados: [] });

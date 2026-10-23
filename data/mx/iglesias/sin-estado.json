@@ -632,10 +632,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antesala-templo-evangelico-cristo-rey-zapopan-mexico-7549"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antesala-templo-evangelico-cristo-rey-zapopan-mexico-7549",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antigua-cruz-roja",
@@ -1357,10 +1358,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.12897,
+"lon": -99.19925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/betesda-munitepec-de-madero-mexico-4082"
+"fuente_url": "https://encuentraiglesias.com/iglesia/betesda-munitepec-de-madero-mexico-4082",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel",
@@ -3213,10 +3215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-dios-tiempo-de-jesucristo-reynosa-mexico-2704"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-dios-tiempo-de-jesucristo-reynosa-mexico-2704",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-dios-y-puerta-del-cielo",
@@ -3416,10 +3419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72778,
+"lon": -101.95303,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-la-cultura-ciudad-manuel-doblado-mexico-6097"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-la-cultura-ciudad-manuel-doblado-mexico-6097",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-los-amigos-ciudad-de",
@@ -3735,10 +3739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-restarancion-el-buen-smaritano-tulum-mexico-4208"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-restarancion-el-buen-smaritano-tulum-mexico-4208",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-retiro-san-pedro-de-jesus-maldonado-lucero",
@@ -4083,10 +4088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.06557,
+"lon": -93.17302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-adoracion-critiano-cunduacan-mexico-6920"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-adoracion-critiano-cunduacan-mexico-6920",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-de-adoracion-juan-3-16",
@@ -4431,10 +4437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-estudios-biblicos-de-ciudad-nezahualcoyotl-nezahualcoyotl-mexico-3520"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-estudios-biblicos-de-ciudad-nezahualcoyotl-nezahualcoyotl-mexico-3520",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-de-estudios-teologicos-y-ministeriales",
@@ -4663,10 +4670,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.671,
+"lon": -101.35577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-juvenil-diocesano-juan-pablo-ii-irapuato-mexico-6567"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-juvenil-diocesano-juan-pablo-ii-irapuato-mexico-6567",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-mormon",
@@ -6171,10 +6179,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.22365,
+"lon": -99.67068,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-santiago-tlacotepec-mexico-1090"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-santiago-tlacotepec-mexico-1090",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-camino-de-la-verdad",
@@ -6432,10 +6441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.64121,
+"lon": -103.29342,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-padre-eterno-tlaquepaque-mexico-7433"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-padre-eterno-tlaquepaque-mexico-7433",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-poder-de-dios",
@@ -7070,10 +7080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70078,
+"lon": -101.18443,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esmirna-morelia-mexico-943"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esmirna-morelia-mexico-943",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "espiritu-santo",
@@ -7737,10 +7748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.07082,
+"lon": -97.06078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/homenaje-al-viajero-martinez-de-la-torre-mexico-2681"
+"fuente_url": "https://encuentraiglesias.com/iglesia/homenaje-al-viajero-martinez-de-la-torre-mexico-2681",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "horizonte-queretaro",
@@ -9564,10 +9576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.77189,
+"lon": -104.36644,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-profecia-autlan-de-navarro-mexico-8001"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-profecia-autlan-de-navarro-mexico-8001",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-rios-de-misericordia",
@@ -10695,10 +10708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.11697,
+"lon": -98.73329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-judas-tadeo-pachuca-de-soto-mexico-3602"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-judas-tadeo-pachuca-de-soto-mexico-3602",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-obispo-de-tours",
@@ -11623,10 +11637,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-el-buen-pastor-comalcalco-mexico-3886"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-el-buen-pastor-comalcalco-mexico-3886",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jilotepec-jilotepec",
@@ -14117,10 +14132,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-fuente-zapopan-zapopan-mexico-5157"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-fuente-zapopan-zapopan-mexico-5157",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-gran-madre-de-dios",
@@ -16234,10 +16250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-jerusalen-cuernavaca-mexico-7974"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-jerusalen-cuernavaca-mexico-7974",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nueva-jeruzalen",
@@ -16321,10 +16338,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.79097,
+"lon": -108.99825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oasis-de-gracia-los-mochis-mexico-425"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oasis-de-gracia-los-mochis-mexico-425",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-colony",
@@ -17336,10 +17354,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81925,
+"lon": -97.9139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rosa-se-saron-atoyatempan-mexico-8390"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rosa-se-saron-atoyatempan-mexico-8390",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "s-r-de-los-testigos-de-jehova-j-m-g",
@@ -18815,10 +18834,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-nicolas-de-bari-zapopan-mexico-4881"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-nicolas-de-bari-zapopan-mexico-4881",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pablo",
@@ -20033,10 +20053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.58244,
+"lon": -98.81566,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cordero-de-dios-marquelia-mexico-8176"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cordero-de-dios-marquelia-mexico-8176",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-arrollo-grande",
@@ -20584,10 +20605,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.58244,
+"lon": -98.81566,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-golgota-marquelia-mexico-8164"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-golgota-marquelia-mexico-8164",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-esmirna",
@@ -22005,10 +22027,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.42759,
+"lon": -97.97668,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/testigos-de-jehova-pinotepa-de-don-luis-mexico-7589"
+"fuente_url": "https://encuentraiglesias.com/iglesia/testigos-de-jehova-pinotepa-de-don-luis-mexico-7589",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "teutli",
@@ -22121,10 +22144,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.31212,
+"lon": -100.91722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tres-cruces-rio-bravo-mexico-2347"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tres-cruces-rio-bravo-mexico-2347",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tres-reyes-magos",
@@ -22295,10 +22319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.42847,
+"lon": -99.12766,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-nacional-de-avicultores-mexico-city-mexico-1895"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-nacional-de-avicultores-mexico-city-mexico-1895",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valle-alto-virgin-mary-shrine-monterrey",
@@ -22556,9 +22581,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.05144,
+"lon": -98.29526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zona-cholula-san-andres-cholula-mexico-3969"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zona-cholula-san-andres-cholula-mexico-3969",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

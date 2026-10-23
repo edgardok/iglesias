@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/360-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/360-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "83rd-street-baptist-church-kansas-city",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/83rd-street-baptist-church-kansas-city-ks-estados-unidos-47758"
+"fuente_url": "https://encuentraiglesias.com/iglesia/83rd-street-baptist-church-kansas-city-ks-estados-unidos-47758",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "abilene-brethren-in-christ-church-abilene",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abilene-brethren-in-christ-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abilene-brethren-in-christ-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "allen-chapel-ame-church-kansas-city",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/allen-chapel-ame-church-kansas-city-ks-estados-unidos-47759"
+"fuente_url": "https://encuentraiglesias.com/iglesia/allen-chapel-ame-church-kansas-city-ks-estados-unidos-47759",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "almena-methodist-church-almena",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4169,
+"lon": -92.03296,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/almena-methodist-church-almena-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/almena-methodist-church-almena-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "amish-church-arlington",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/amourdale-baptist-church-kansas-city-ks-estados-unidos-47380"
+"fuente_url": "https://encuentraiglesias.com/iglesia/amourdale-baptist-church-kansas-city-ks-estados-unidos-47380",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anthony-church-of-christ-anthony",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.15336,
+"lon": -98.03117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anthony-church-of-christ-anthony-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anthony-church-of-christ-anthony-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-church-of-god-athol",
@@ -371,10 +378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ark-city-christian-mission-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ark-city-christian-mission-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ashland-methodist-church-ashland",
@@ -400,10 +408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18864,
+"lon": -99.76568,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ashland-methodist-church-ashland-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ashland-methodist-church-ashland-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembly-full-gospel-church-arkansas-city",
@@ -429,10 +438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-full-gospel-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-full-gospel-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembly-of-god-full-gospel-overbrook",
@@ -458,10 +468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78056,
+"lon": -95.5572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-of-god-full-gospel-overbrook-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-of-god-full-gospel-overbrook-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atchison-united-methodist-church-atchison",
@@ -487,10 +498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atchison-united-methodist-church-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atchison-united-methodist-church-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atonement-lutheran-church-of-overland-park-dover",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.90611,
+"lon": -95.8161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/auburn-christian-church-auburn-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/auburn-christian-church-auburn-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bannister-road-baptist-church-crestline",
@@ -632,10 +645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.39391,
+"lon": -97.28115,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belle-plaine-global-methodist-church-belle-plaine-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belle-plaine-global-methodist-church-belle-plaine-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belleville-wesleyan-church-belleville",
@@ -661,10 +675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.82445,
+"lon": -97.63254,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belleville-wesleyan-church-belleville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belleville-wesleyan-church-belleville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bentley-united-methodist-church-bentley",
@@ -690,10 +705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.88612,
+"lon": -97.51699,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bentley-united-methodist-church-bentley-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bentley-united-methodist-church-bentley-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berryton-baptist-church-berryton",
@@ -806,10 +822,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-lutheran-church-of-overland-park-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-lutheran-church-of-overland-park-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethany-missionary-baptist-church-arkansas-city",
@@ -835,10 +852,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-missionary-baptist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-missionary-baptist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethany-place-topeka",
@@ -864,10 +882,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-place-topeka-ks-estados-unidos-31089"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-place-topeka-ks-estados-unidos-31089",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-african-methodist-episcopal-church-ame-hill-city",
@@ -893,10 +912,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36473,
+"lon": -99.84206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-african-methodist-episcopal-church-ame-hill-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-african-methodist-episcopal-church-ame-hill-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-center-baptist-church-garland",
@@ -980,10 +1000,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-seventh-day-adventist-kansas-city-ks-estados-unidos-47770"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-seventh-day-adventist-kansas-city-ks-estados-unidos-47770",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-tabernacle-assembly-of-god-church-athol",
@@ -1070,7 +1091,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bibleway-pentecostal-assembly-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bibleway-pentecostal-assembly-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "blue-mound-church-blue-mound",
@@ -1212,10 +1234,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57057,
+"lon": -101.751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-valley-baptist-church-ridgeview-campus-johnson-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-valley-baptist-church-ridgeview-campus-johnson-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-valley-memorial-united-methodist-church-manhattan",
@@ -1241,10 +1264,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.18361,
+"lon": -96.57167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-valley-memorial-united-methodist-church-manhattan-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-valley-memorial-united-methodist-church-manhattan-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bonner-springs-church-of-christ-bonner-springs",
@@ -1270,10 +1294,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bonner-springs-church-of-christ-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bonner-springs-church-of-christ-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bonner-springs-united-methodist-church-bonner-springs",
@@ -1299,10 +1324,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bonner-springs-united-methodist-church-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bonner-springs-united-methodist-church-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bread-of-life-community-baptist-church-athol",
@@ -1357,10 +1383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bridgepointe-community-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bridgepointe-community-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bristol-hill-united-methodist-church-overbrook",
@@ -1386,10 +1413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78056,
+"lon": -95.5572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bristol-hill-united-methodist-church-overbrook-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bristol-hill-united-methodist-church-overbrook-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brotherhood-presbyterian-church-murdock",
@@ -1444,10 +1472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.54724,
+"lon": -99.63429,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bucklin-free-methodist-church-bucklin-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bucklin-free-methodist-church-bucklin-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "budd-park-christian-church-athol",
@@ -1531,10 +1560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.75389,
+"lon": -95.83499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlingame-federated-church-burlingame-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlingame-federated-church-burlingame-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-lawrence-dodge-city",
@@ -1560,10 +1590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-lawrence-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-lawrence-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-tabernacle-first-united-pentecostal-church-el-dorado",
@@ -1589,10 +1620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.81724,
+"lon": -96.86225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-tabernacle-first-united-pentecostal-church-el-dorado-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-tabernacle-first-united-pentecostal-church-el-dorado-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-temple-assembly-of-god-church-athol",
@@ -1676,10 +1708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campbell-chapel-ame-church-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campbell-chapel-ame-church-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canterbury-house-lawrence",
@@ -1705,10 +1738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canterbury-house-lawrence-ks-estados-unidos-32470"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canterbury-house-lawrence-ks-estados-unidos-32470",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "captain-creek-church-bluff-city",
@@ -1734,10 +1768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.47427,
+"lon": -82.26097,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/captain-creek-church-bluff-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/captain-creek-church-bluff-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carol-baptist-church-atchison",
@@ -1763,10 +1798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carol-baptist-church-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carol-baptist-church-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cedar-pointe-baptist-church-gypsum",
@@ -1792,10 +1828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64693,
+"lon": -106.95171,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-pointe-baptist-church-gypsum-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-pointe-baptist-church-gypsum-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "center-of-grace-johnson",
@@ -1821,10 +1858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57057,
+"lon": -101.751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/center-of-grace-johnson-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/center-of-grace-johnson-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-assembly-of-god-church-of-saint-joseph-elwood",
@@ -1850,10 +1888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-assembly-of-god-church-of-saint-joseph-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-assembly-of-god-church-of-saint-joseph-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-christian-church-arkansas-city",
@@ -1879,10 +1918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-christian-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-christian-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-korean-global-methodist-church-of-kansas-leawood",
@@ -1908,10 +1948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-korean-global-methodist-church-of-kansas-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-korean-global-methodist-church-of-kansas-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-united-presbyterian-church-potwin",
@@ -1966,10 +2007,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69224,
+"lon": -97.33754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-wichita-ks-estados-unidos-48603"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-wichita-ks-estados-unidos-48603",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cheney-baptist-church-cheney",
@@ -1995,10 +2037,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.63001,
+"lon": -97.78255,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cheney-baptist-church-cheney-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cheney-baptist-church-cheney-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cheney-methodist-church-cheney",
@@ -2024,10 +2067,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.63001,
+"lon": -97.78255,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cheney-methodist-church-cheney-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cheney-methodist-church-cheney-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "childrens-memorial-lutheran-church-athol",
@@ -2082,10 +2126,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-covenant-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-covenant-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-our-redeemer-african-methodist-episcopal-church-crestline",
@@ -2169,10 +2214,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-god-seventh-day-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-god-seventh-day-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-cross-home",
@@ -2201,7 +2247,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-cross-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-cross-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "church-of-the-savior-arkansas-city",
@@ -2227,10 +2274,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-savior-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-savior-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "city-life-church-arkansas-city",
@@ -2256,10 +2304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/city-life-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/city-life-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clarience-l-osbourne-memorial-chapel-baldwin-city",
@@ -2285,10 +2334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77501,
+"lon": -95.18636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clarience-l-osbourne-memorial-chapel-baldwin-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clarience-l-osbourne-memorial-chapel-baldwin-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clear-creek-baptist-church-edwardsville",
@@ -2314,10 +2364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06112,
+"lon": -94.81968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clear-creek-baptist-church-edwardsville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clear-creek-baptist-church-edwardsville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clearview-baptist-church-de-soto",
@@ -2343,10 +2394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97917,
+"lon": -94.96858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clearview-baptist-church-de-soto-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clearview-baptist-church-de-soto-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clearwater-united-methodist-church-clearwater",
@@ -2372,10 +2424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.5028,
+"lon": -97.50449,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clearwater-united-methodist-church-clearwater-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clearwater-united-methodist-church-clearwater-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "coal-creek-church-baldwin-city",
@@ -2401,10 +2454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77501,
+"lon": -95.18636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/coal-creek-church-baldwin-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/coal-creek-church-baldwin-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "coats-grace-united-methodist-church-coats",
@@ -2430,10 +2484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.40794,
+"lon": -78.67196,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/coats-grace-united-methodist-church-coats-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/coats-grace-united-methodist-church-coats-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colby-lutheran-church-colby",
@@ -2459,10 +2514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39584,
+"lon": -101.05238,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colby-lutheran-church-colby-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colby-lutheran-church-colby-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colby-united-methodist-church-colby",
@@ -2488,10 +2544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39584,
+"lon": -101.05238,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colby-united-methodist-church-colby-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colby-united-methodist-church-colby-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colonial-heights-assembly-of-god-church-haysville",
@@ -2517,10 +2574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56446,
+"lon": -97.35227,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colonial-heights-assembly-of-god-church-haysville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colonial-heights-assembly-of-god-church-haysville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colonial-presbyterian-church-leawood",
@@ -2546,10 +2604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colonial-presbyterian-church-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colonial-presbyterian-church-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-hope-church-kansas-city",
@@ -2575,10 +2634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-hope-church-kansas-city-ks-estados-unidos-38976"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-hope-church-kansas-city-ks-estados-unidos-38976",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "connect-church-dodge-city",
@@ -2604,10 +2664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/connect-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/connect-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-seventh-day-adventist-church-atchison",
@@ -2633,10 +2694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-seventh-day-adventist-church-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-seventh-day-adventist-church-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-southern-baptist-church-ellis",
@@ -2662,10 +2724,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93807,
+"lon": -99.56067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-southern-baptist-church-ellis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-southern-baptist-church-ellis-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-wesleyan-church-garden-city",
@@ -2691,10 +2754,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97169,
+"lon": -100.87266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-wesleyan-church-garden-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-wesleyan-church-garden-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cottonwood-valley-baptist-church-hillsboro",
@@ -2720,10 +2784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.35196,
+"lon": -97.20447,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cottonwood-valley-baptist-church-hillsboro-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cottonwood-valley-baptist-church-hillsboro-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "council-grove-united-methodist-church-council-grove",
@@ -2749,10 +2814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.66112,
+"lon": -96.49195,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/council-grove-united-methodist-church-council-grove-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/council-grove-united-methodist-church-council-grove-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "courts-of-praise-atwood",
@@ -2778,10 +2844,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80667,
+"lon": -101.0421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/courts-of-praise-atwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/courts-of-praise-atwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "covenant-chapel-evangelical-presbyterian-church-dover",
@@ -2952,10 +3019,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69224,
+"lon": -97.33754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-evangelical-free-church-wichita-ks-estados-unidos-22784"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-evangelical-free-church-wichita-ks-estados-unidos-22784",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-side-united-methodist-church-newton",
@@ -2981,10 +3049,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.04668,
+"lon": -97.34504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-side-united-methodist-church-newton-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-side-united-methodist-church-newton-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-topeka-united-methodist-church-topeka",
@@ -3010,10 +3079,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-topeka-united-methodist-church-topeka-ks-estados-unidos-31478"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-topeka-united-methodist-church-topeka-ks-estados-unidos-31478",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "easton-united-methodist-church-easton",
@@ -3097,10 +3167,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76473,
+"lon": -95.00802,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/edgerton-united-methodist-church-edgerton-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/edgerton-united-methodist-church-edgerton-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "edwardsville-temple-church-of-god-in-christ-edwardsville",
@@ -3126,10 +3197,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06112,
+"lon": -94.81968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/edwardsville-temple-church-of-god-in-christ-edwardsville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/edwardsville-temple-church-of-god-in-christ-edwardsville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "edwardsville-united-methodist-church-edwardsville",
@@ -3155,10 +3227,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06112,
+"lon": -94.81968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/edwardsville-united-methodist-church-edwardsville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/edwardsville-united-methodist-church-edwardsville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elwood-baptist-church-elwood",
@@ -3184,10 +3257,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elwood-baptist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elwood-baptist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-baptist-church-of-overland-park-dover",
@@ -3242,10 +3316,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-church-of-god-in-christ-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-church-of-god-in-christ-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-evangelical-church-abilene",
@@ -3271,10 +3346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-evangelical-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-evangelical-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-temple-gospel-assembly-pentecostal-church-kansas-city",
@@ -3300,10 +3376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-temple-gospel-assembly-pentecostal-church-kansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-temple-gospel-assembly-pentecostal-church-kansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "englewood-church-athol",
@@ -3358,10 +3435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.94334,
+"lon": -95.09858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eudora-assembly-of-god-eudora-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eudora-assembly-of-god-eudora-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eudora-united-methodist-church-eudora",
@@ -3387,10 +3465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.94334,
+"lon": -95.09858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eudora-united-methodist-church-eudora-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eudora-united-methodist-church-eudora-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evangelical-assembly-of-god-wichita",
@@ -3416,10 +3495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69224,
+"lon": -97.33754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-assembly-of-god-wichita-ks-estados-unidos-22739"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-assembly-of-god-wichita-ks-estados-unidos-22739",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-chapel-assembly-god-maple-city",
@@ -3474,10 +3554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lutheran-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lutheran-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-temple-church-arkansas-city",
@@ -3503,10 +3584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-temple-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-temple-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-united-presbyterian-clifton",
@@ -3532,10 +3614,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56722,
+"lon": -97.27864,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-presbyterian-clifton-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-presbyterian-clifton-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fellowship-temple-manhattan",
@@ -3561,10 +3644,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.18361,
+"lon": -96.57167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fellowship-temple-manhattan-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fellowship-temple-manhattan-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-assembly-of-god-church-of-overland-park-mission",
@@ -3590,10 +3674,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02778,
+"lon": -94.65579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-assembly-of-god-church-of-overland-park-mission-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-assembly-of-god-church-of-overland-park-mission-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-chuch-of-hiawatha-hiawatha",
@@ -3619,10 +3704,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8525,
+"lon": -95.53582,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-chuch-of-hiawatha-hiawatha-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-chuch-of-hiawatha-hiawatha-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-auburn-auburn",
@@ -3648,10 +3734,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.90611,
+"lon": -95.8161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-auburn-auburn-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-auburn-auburn-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-gardner-gardner",
@@ -3677,10 +3764,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.81084,
+"lon": -94.92719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-gardner-gardner-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-gardner-gardner-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-goodland-goodland",
@@ -3706,10 +3794,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.35083,
+"lon": -101.71017,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-goodland-goodland-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-goodland-goodland-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-grandview-crestline",
@@ -3767,7 +3856,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-mission-dennis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-mission-dennis-kansas",
+"geo_fuente": null
 },
 {
 "slug": "first-baptist-church-of-silver-lake-ensign",
@@ -3822,10 +3912,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-bible-presbyterian-church-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-bible-presbyterian-church-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-christian-church-fort-leavenworth",
@@ -3912,7 +4003,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-hmong-baptist-church-of-kansas-city-dennis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-hmong-baptist-church-of-kansas-city-dennis-kansas",
+"geo_fuente": null
 },
 {
 "slug": "first-lutheran-church-in-paola-kansas-city",
@@ -3938,10 +4030,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-lutheran-church-in-paola-kansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-lutheran-church-in-paola-kansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-kansas-city-kansas-kensington",
@@ -3996,10 +4089,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6339,
+"lon": -95.82582,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-osage-city-osage-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-osage-city-osage-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-regular-baptist-church-athol",
@@ -4054,10 +4148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-regular-missionary-baptist-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-regular-missionary-baptist-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-southern-church-arkansas-city",
@@ -4083,10 +4178,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-southern-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-southern-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-umc-holton",
@@ -4112,10 +4208,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.46527,
+"lon": -95.73637,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-umc-holton-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-umc-holton-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-hiawatha-hiawatha",
@@ -4141,10 +4238,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8525,
+"lon": -95.53582,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-hiawatha-hiawatha-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-hiawatha-hiawatha-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-hoisington-hoisington",
@@ -4170,10 +4268,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.51807,
+"lon": -98.77814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-hoisington-hoisington-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-hoisington-hoisington-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-harris-activity-center-fort-riley",
@@ -4228,10 +4327,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4556,
+"lon": -94.68913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/flag-church-frontenac-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/flag-church-frontenac-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "francis-street-first-united-methodist-church-elwood",
@@ -4257,10 +4357,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/francis-street-first-united-methodist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/francis-street-first-united-methodist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fredonia-baptist-church-athol",
@@ -4344,10 +4445,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22424,
+"lon": -95.70831,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/friendly-assembly-of-god-church-independence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/friendly-assembly-of-god-church-independence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gage-park-baptist-church-hillsdale",
@@ -4431,10 +4533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.8814,
+"lon": -94.81913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gathering-place-pentecostal-holiness-church-olathe-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gathering-place-pentecostal-holiness-church-olathe-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "generations-church-andover",
@@ -4460,10 +4563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7139,
+"lon": -97.13643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/generations-church-andover-ks-estados-unidos-40156"
+"fuente_url": "https://encuentraiglesias.com/iglesia/generations-church-andover-ks-estados-unidos-40156",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glad-tidings-assembley-of-god-church-arkansas-city",
@@ -4489,10 +4593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glad-tidings-assembley-of-god-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glad-tidings-assembley-of-god-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glenville-bible-baptist-church-haysville",
@@ -4518,10 +4623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56446,
+"lon": -97.35227,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glenville-bible-baptist-church-haysville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glenville-bible-baptist-church-haysville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "goddard-methodist-church-goddard",
@@ -4547,10 +4653,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.65974,
+"lon": -97.57533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/goddard-methodist-church-goddard-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/goddard-methodist-church-goddard-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-news-church-mound-city",
@@ -4576,10 +4683,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.14281,
+"lon": -94.81357,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-news-church-mound-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-news-church-mound-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gospel-chapel-of-baldwin-city-baldwin-city",
@@ -4605,10 +4713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77501,
+"lon": -95.18636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-chapel-of-baldwin-city-baldwin-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-chapel-of-baldwin-city-baldwin-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gospel-lighthouse-pentecostal-church-arkansas-city",
@@ -4634,10 +4743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-lighthouse-pentecostal-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-lighthouse-pentecostal-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gospel-tabernacle-abilene",
@@ -4663,10 +4773,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-tabernacle-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-tabernacle-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-christian-assembly-church-athol",
@@ -4750,10 +4861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.61557,
+"lon": -95.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-fellowship-ottawa-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-fellowship-ottawa-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-lutheran-church-and-parsonage-osage-city",
@@ -4779,10 +4891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6339,
+"lon": -95.82582,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-church-and-parsonage-osage-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-church-and-parsonage-osage-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-temple-church-of-god-bonner-springs",
@@ -4808,10 +4921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-temple-church-of-god-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-temple-church-of-god-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-united-church-of-christ-abilene",
@@ -4837,10 +4951,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-united-church-of-christ-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-united-church-of-christ-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grandview-baptist-church-of-kansas-city-garland",
@@ -4924,10 +5039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67921,
+"lon": -95.4572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grant-avenue-baptist-church-chanute-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grant-avenue-baptist-church-chanute-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grant-chapel-african-methodist-episcopal-church-chanute",
@@ -4953,10 +5069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67921,
+"lon": -95.4572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grant-chapel-african-methodist-episcopal-church-chanute-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grant-chapel-african-methodist-episcopal-church-chanute-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grantville-united-methodist-church-grantville",
@@ -4982,10 +5099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.23484,
+"lon": -84.83577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grantville-united-methodist-church-grantville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grantville-united-methodist-church-grantville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-brown-chapel-african-methodist-episcopal-church-potwin",
@@ -5040,10 +5158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-pentecostal-church-of-god-in-christ-kansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-pentecostal-church-of-god-in-christ-kansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-works-christian-methodist-episcopal-church-crestline",
@@ -5127,10 +5246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.0014,
+"lon": -97.50865,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/halstead-baptist-church-halstead-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/halstead-baptist-church-halstead-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "halstead-united-methodist-church-halstead",
@@ -5156,10 +5276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.0014,
+"lon": -97.50865,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/halstead-united-methodist-church-halstead-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/halstead-united-methodist-church-halstead-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-family-fellowship-topeka",
@@ -5185,10 +5306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-family-fellowship-topeka-ks-estados-unidos-31555"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-family-fellowship-topeka-ks-estados-unidos-31555",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "haskell-light-lawrence",
@@ -5214,10 +5336,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/haskell-light-lawrence-ks-estados-unidos-32486"
+"fuente_url": "https://encuentraiglesias.com/iglesia/haskell-light-lawrence-ks-estados-unidos-32486",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "haviland-united-methodist-church-haviland",
@@ -5243,10 +5366,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.61946,
+"lon": -99.1065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/haviland-united-methodist-church-haviland-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/haviland-united-methodist-church-haviland-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "haysville-united-methodist-church-haysville",
@@ -5272,10 +5396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56446,
+"lon": -97.35227,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/haysville-united-methodist-church-haysville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/haysville-united-methodist-church-haysville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hebron-reformed-presbyterian-church-clay-center",
@@ -5301,10 +5426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.51946,
+"lon": -96.77114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-reformed-presbyterian-church-clay-center-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-reformed-presbyterian-church-clay-center-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heritage-baptist-temple-great-bend",
@@ -5330,10 +5456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.36446,
+"lon": -98.76481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heritage-baptist-temple-great-bend-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heritage-baptist-temple-great-bend-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hesper-friends-church-bluff-city",
@@ -5359,10 +5486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.47427,
+"lon": -82.26097,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hesper-friends-church-bluff-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hesper-friends-church-bluff-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hesston-united-methodist-church-hesston",
@@ -5388,10 +5516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.13834,
+"lon": -97.43143,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hesston-united-methodist-church-hesston-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hesston-united-methodist-church-hesston-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "higher-ground-church-of-god-athol",
@@ -5446,10 +5575,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highland-park-christian-church-topeka-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highland-park-christian-church-topeka-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hillcrest-bible-baptist-church-arkansas-city",
@@ -5475,10 +5605,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillcrest-bible-baptist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillcrest-bible-baptist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hillsdale-presbyterian-church-hillsdale",
@@ -5533,10 +5664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holsey-chapel-independent-christian-methodist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holsey-chapel-independent-christian-methodist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-cross-evangelical-lutheran-church-overland-park",
@@ -5562,10 +5694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-cross-evangelical-lutheran-church-overland-park-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-cross-evangelical-lutheran-church-overland-park-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-everlasting-baptist-church-arkansas-city",
@@ -5591,10 +5724,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-everlasting-baptist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-everlasting-baptist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "house-of-refuge-pentecostal-church-hill-city",
@@ -5620,10 +5754,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36473,
+"lon": -99.84206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-refuge-pentecostal-church-hill-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-refuge-pentecostal-church-hill-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hoxie-united-methodist-church-hoxie",
@@ -5649,10 +5784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.3575,
+"lon": -100.44181,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hoxie-united-methodist-church-hoxie-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hoxie-united-methodist-church-hoxie-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hyde-valley-united-methodist-church-elwood",
@@ -5678,10 +5814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hyde-valley-united-methodist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hyde-valley-united-methodist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-getsemani-pentecostal-church-athol",
@@ -5736,10 +5873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/imago-dei-topeka-ks-estados-unidos-31403"
+"fuente_url": "https://encuentraiglesias.com/iglesia/imago-dei-topeka-ks-estados-unidos-31403",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "in-his-image-church-arkansas-city",
@@ -5765,10 +5903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/in-his-image-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/in-his-image-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "incarnation-anglican-church-wichita",
@@ -5794,10 +5933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69224,
+"lon": -97.33754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/incarnation-anglican-church-wichita-ks-estados-unidos-28065"
+"fuente_url": "https://encuentraiglesias.com/iglesia/incarnation-anglican-church-wichita-ks-estados-unidos-28065",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "independent-bibe-baptist-church-frontenac",
@@ -5823,10 +5963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4556,
+"lon": -94.68913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/independent-bibe-baptist-church-frontenac-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/independent-bibe-baptist-church-frontenac-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "indian-avenue-baptist-church-dodge-city",
@@ -5852,10 +5993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/indian-avenue-baptist-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/indian-avenue-baptist-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "indian-heights-united-methodist-church-dover",
@@ -5913,7 +6055,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/indian-southern-baptist-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/indian-southern-baptist-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "iola-seventh-day-adventist-church-iola",
@@ -5939,10 +6082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.92448,
+"lon": -95.39998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iola-seventh-day-adventist-church-iola-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iola-seventh-day-adventist-church-iola-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ives-chapel-united-methodist-church-baldwin-city",
@@ -5968,10 +6112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77501,
+"lon": -95.18636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ives-chapel-united-methodist-church-baldwin-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ives-chapel-united-methodist-church-baldwin-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "johnson-tabernacle-christian-methodist-episcopal-church-murdock",
@@ -6026,10 +6171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/journey-baptist-church-of-saint-joseph-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/journey-baptist-church-of-saint-joseph-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "junction-city-first-unided-methodist-church-junction-city",
@@ -6055,10 +6201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02861,
+"lon": -96.8314,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/junction-city-first-unided-methodist-church-junction-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/junction-city-first-unided-methodist-church-junction-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kansas-avenue-united-methodist-church-potwin",
@@ -6113,10 +6260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kansas-avenue-united-methodist-topeka-ks-estados-unidos-31215"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kansas-avenue-united-methodist-topeka-ks-estados-unidos-31215",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kansas-chin-baptist-church-kansas-city",
@@ -6142,10 +6290,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kansas-chin-baptist-church-kansas-city-ks-estados-unidos-47769"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kansas-chin-baptist-church-kansas-city-ks-estados-unidos-47769",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kansas-city-restoration-church-athol",
@@ -6200,10 +6349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.18361,
+"lon": -96.57167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/keats-united-methodist-church-manhattan-ks-estados-unidos-46952"
+"fuente_url": "https://encuentraiglesias.com/iglesia/keats-united-methodist-church-manhattan-ks-estados-unidos-46952",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kechi-united-methodist-church-kechi",
@@ -6229,10 +6379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.79585,
+"lon": -97.27949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kechi-united-methodist-church-kechi-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kechi-united-methodist-church-kechi-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "keelville-pentecostal-church-keelville",
@@ -6287,10 +6438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.36446,
+"lon": -98.76481,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/king-memorial-united-methodist-church-great-bend-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/king-memorial-united-methodist-church-great-bend-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "knox-united-presbyterian-church-overland-park",
@@ -6316,10 +6468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/knox-united-presbyterian-church-overland-park-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/knox-united-presbyterian-church-overland-park-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-baptist-church-of-topeka-hillsdale",
@@ -6374,10 +6527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-lawrence-lawrence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-lawrence-lawrence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-united-presbyterian-church-of-kansas-overbrook",
@@ -6403,10 +6557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78056,
+"lon": -95.5572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-united-presbyterian-church-of-kansas-overbrook-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-united-presbyterian-church-of-kansas-overbrook-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-young-nak-presbyterian-church-of-kansas-city-overbrook",
@@ -6432,10 +6587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78056,
+"lon": -95.5572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-young-nak-presbyterian-church-of-kansas-city-overbrook-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-young-nak-presbyterian-church-of-kansas-city-overbrook-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-avenue-baptist-church-elwood",
@@ -6461,10 +6617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-avenue-baptist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-avenue-baptist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lakeside-southern-baptist-church-ensign",
@@ -6519,10 +6676,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39584,
+"lon": -101.05238,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/landmark-united-pentecostal-church-colby-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/landmark-united-pentecostal-church-colby-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "latin-american-seventh-day-adventist-church-athol",
@@ -6577,10 +6735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lawrence-indian-united-methodist-church-lawrence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lawrence-indian-united-methodist-church-lawrence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "leavenworth-baptist-church-fort-leavenworth",
@@ -6635,10 +6794,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/leawood-presbyterian-church-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/leawood-presbyterian-church-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "leawood-united-methodist-church-leawood",
@@ -6664,10 +6824,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/leawood-united-methodist-church-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/leawood-united-methodist-church-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lecompton-united-methodist-church-lecompton",
@@ -6693,10 +6854,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04444,
+"lon": -95.3947,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lecompton-united-methodist-church-lecompton-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lecompton-united-methodist-church-lecompton-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lenexa-united-methodist-church-lenexa",
@@ -6722,10 +6884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95362,
+"lon": -94.73357,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lenexa-united-methodist-church-lenexa-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lenexa-united-methodist-church-lenexa-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "leonardville-united-methodist-church-leonardville",
@@ -6780,10 +6943,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22424,
+"lon": -95.70831,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-connection-church-independence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-connection-church-independence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lighthouse-baptist-church-baldwin-city",
@@ -6809,10 +6973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77501,
+"lon": -95.18636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-baptist-church-baldwin-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-baptist-church-baldwin-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "linwood-united-church-hope",
@@ -6896,10 +7061,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.84727,
+"lon": -85.31859,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-evangelical-free-church-burr-oak-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-evangelical-free-church-burr-oak-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-water-fellowship-bird-city",
@@ -6954,10 +7120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67921,
+"lon": -95.4572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-assembly-of-god-church-chanute-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-assembly-of-god-church-chanute-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "longview-united-methodist-church-crestline",
@@ -7070,10 +7237,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.54557,
+"lon": -97.26893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/madison-avenue-united-methodist-church-derby-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/madison-avenue-united-methodist-church-derby-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "madison-united-methodist-church-madison",
@@ -7099,10 +7267,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.13558,
+"lon": -96.13583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/madison-united-methodist-church-madison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/madison-united-methodist-church-madison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "manhattan-baptist-church-home",
@@ -7131,7 +7300,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/manhattan-baptist-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/manhattan-baptist-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "manhattan-reformed-presbyterian-church-fort-riley",
@@ -7186,10 +7356,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.04308,
+"lon": -100.921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/manning-memorial-pentecostal-holiness-church-liberal-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/manning-memorial-pentecostal-holiness-church-liberal-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maranatha-worship-center-wichita",
@@ -7215,10 +7386,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69224,
+"lon": -97.33754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maranatha-worship-center-wichita-ks-estados-unidos-25154"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maranatha-worship-center-wichita-ks-estados-unidos-25154",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mcpherson-free-methodist-church-mcpherson",
@@ -7244,10 +7416,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.37084,
+"lon": -97.66421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mcpherson-free-methodist-church-mcpherson-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mcpherson-free-methodist-church-mcpherson-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "messiah-church-of-the-brethern-athol",
@@ -7302,10 +7475,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4039,
+"lon": -96.18166,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-evangelical-lutheran-church-emporia-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-evangelical-lutheran-church-emporia-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "methodist-education-center-fort-riley",
@@ -7360,10 +7534,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7139,
+"lon": -97.13643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/metro-east-baptist-church-andover-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/metro-east-baptist-church-andover-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "metropolitan-baptist-temple-garland",
@@ -7418,10 +7593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mid-continent-baptist-church-kansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mid-continent-baptist-church-kansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "minneola-reformed-presbyterian-church-minneola",
@@ -7447,10 +7623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.44336,
+"lon": -100.01514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/minneola-reformed-presbyterian-church-minneola-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/minneola-reformed-presbyterian-church-minneola-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "moment-of-truth-bible-church-athol",
@@ -7505,10 +7682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monticello-bible-church-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monticello-bible-church-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "morning-chapel-baptist-church-arkansas-city",
@@ -7534,10 +7712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/morning-chapel-baptist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/morning-chapel-baptist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "morningstar-pentecostal-church-hope",
@@ -7592,10 +7771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-olive-church-of-god-in-christ-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-olive-church-of-god-in-christ-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-washington-baptist-church-athol",
@@ -7708,10 +7888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-zion-baptist-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-zion-baptist-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mt-calvary-marysville",
@@ -7737,10 +7918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.84111,
+"lon": -96.64724,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-calvary-marysville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-calvary-marysville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mt-olive-evangelical-lutheran-church-school-overland-park",
@@ -7766,10 +7948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-olive-evangelical-lutheran-church-school-overland-park-ks-estados-unidos-36429"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-olive-evangelical-lutheran-church-school-overland-park-ks-estados-unidos-36429",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mt-olive-evangelical-lutheran-church-school-overland-park-2",
@@ -7795,10 +7978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-olive-evangelical-lutheran-church-school-overland-park-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-olive-evangelical-lutheran-church-school-overland-park-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mulvane-united-methodist-church-mulvane",
@@ -7824,10 +8008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47446,
+"lon": -97.24393,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mulvane-united-methodist-church-mulvane-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mulvane-united-methodist-church-mulvane-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nall-avenue-baptist-church-dennis",
@@ -7856,7 +8041,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nall-avenue-baptist-church-dennis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nall-avenue-baptist-church-dennis-kansas",
+"geo_fuente": null
 },
 {
 "slug": "new-beginning-apostolic-church-independence",
@@ -7882,10 +8068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22424,
+"lon": -95.70831,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginning-apostolic-church-independence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginning-apostolic-church-independence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginning-missionary-baptist-church-lansing",
@@ -7911,10 +8098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.24861,
+"lon": -94.90024,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginning-missionary-baptist-church-lansing-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginning-missionary-baptist-church-lansing-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginnings-seventh-day-adventist-church-arkansas-city",
@@ -7940,10 +8128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-seventh-day-adventist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-seventh-day-adventist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-hope-church-of-the-christ-athol",
@@ -8027,10 +8216,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-assembly-of-god-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-assembly-of-god-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-life-center-assembly-of-god-ellis",
@@ -8056,10 +8246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93807,
+"lon": -99.56067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-center-assembly-of-god-ellis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-center-assembly-of-god-ellis-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-solid-rock-missionary-baptist-church-athol",
@@ -8143,10 +8334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northside-church-of-christ-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northside-church-of-christ-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oak-hills-presbyterian-church-dover",
@@ -8204,7 +8396,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oaklawn-place-baptist-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oaklawn-place-baptist-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "ocheltree-baptist-church-hill-city",
@@ -8230,10 +8423,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36473,
+"lon": -99.84206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ocheltree-baptist-church-hill-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ocheltree-baptist-church-hill-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ogden-friendship-house-of-hope-ogden",
@@ -8259,10 +8453,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11111,
+"lon": -96.70612,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ogden-friendship-house-of-hope-ogden-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ogden-friendship-house-of-hope-ogden-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olathe-view-baptist-church-johnson",
@@ -8288,10 +8483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57057,
+"lon": -101.751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olathe-view-baptist-church-johnson-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olathe-view-baptist-church-johnson-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-mission-united-methodist-church-dennis",
@@ -8320,7 +8516,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-mission-united-methodist-church-dennis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-mission-united-methodist-church-dennis-kansas",
+"geo_fuente": null
 },
 {
 "slug": "olivet-church-of-god-in-christ-bonner-springs",
@@ -8346,10 +8543,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olivet-church-of-god-in-christ-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olivet-church-of-god-in-christ-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olsburg-lutheran-church-olsburg",
@@ -8433,10 +8631,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oread-center-lawrence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oread-center-lawrence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-first-baptist-church-burr-oak",
@@ -8462,10 +8661,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.84727,
+"lon": -85.31859,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-first-baptist-church-burr-oak-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-first-baptist-church-burr-oak-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-first-presbyterian-church-burr-oak",
@@ -8491,10 +8691,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.84727,
+"lon": -85.31859,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-first-presbyterian-church-burr-oak-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-first-presbyterian-church-burr-oak-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-first-united-methodist-church-burr-oak",
@@ -8520,10 +8721,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.84727,
+"lon": -85.31859,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-first-united-methodist-church-burr-oak-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-first-united-methodist-church-burr-oak-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "otis-united-methodist-church-otis",
@@ -8578,10 +8780,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.61557,
+"lon": -95.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ottawa-first-united-methodist-church-ottawa-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ottawa-first-united-methodist-church-ottawa-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ottawa-foursquare-church-ottawa",
@@ -8607,10 +8810,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.61557,
+"lon": -95.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ottawa-foursquare-church-ottawa-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ottawa-foursquare-church-ottawa-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-redeemer-lutheran-church-and-preschool-herington",
@@ -8636,10 +8840,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.67112,
+"lon": -96.94251,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemer-lutheran-church-and-preschool-herington-ks-estados-unidos-52524"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemer-lutheran-church-and-preschool-herington-ks-estados-unidos-52524",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "overland-park-baptist-temple-dover",
@@ -8694,10 +8899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/overland-park-breakpointe-community-church-overland-park-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/overland-park-breakpointe-community-church-overland-park-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "overland-park-lutheran-church-overland-park",
@@ -8723,10 +8929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/overland-park-lutheran-church-overland-park-ks-estados-unidos-50897"
+"fuente_url": "https://encuentraiglesias.com/iglesia/overland-park-lutheran-church-overland-park-ks-estados-unidos-50897",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "palestine-missionary-baptist-church-of-jesus-christ-hope",
@@ -8781,10 +8988,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.57224,
+"lon": -94.87913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/paola-united-methodist-church-paola-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/paola-united-methodist-church-paola-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "park-woods-presbyterian-church-overland-park",
@@ -8810,10 +9018,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.98223,
+"lon": -94.67079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/park-woods-presbyterian-church-overland-park-ks-estados-unidos-50314"
+"fuente_url": "https://encuentraiglesias.com/iglesia/park-woods-presbyterian-church-overland-park-ks-estados-unidos-50314",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "paseo-baptist-church-hill-city",
@@ -8839,10 +9048,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36473,
+"lon": -99.84206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/paseo-baptist-church-hill-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/paseo-baptist-church-hill-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-lighthouse-church-el-dorado",
@@ -8868,10 +9078,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.81724,
+"lon": -96.86225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-lighthouse-church-el-dorado-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-lighthouse-church-el-dorado-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "place-of-meditation-abilene",
@@ -8897,10 +9108,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/place-of-meditation-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/place-of-meditation-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pleasant-plain-church-byers",
@@ -8926,10 +9138,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.71137,
+"lon": -104.22774,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pleasant-plain-church-byers-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pleasant-plain-church-byers-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pomona-assembly-of-god-pomona",
@@ -8955,10 +9168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59584,
+"lon": -95.45359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pomona-assembly-of-god-pomona-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pomona-assembly-of-god-pomona-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "potwin-presbyterian-church-potwin",
@@ -9042,10 +9256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06945,
+"lon": -100.23236,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/quinter-reformed-presbyterian-church-quinter-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/quinter-reformed-presbyterian-church-quinter-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rainbow-tabernacle-pentecostal-holiness-church-arkansas-city",
@@ -9071,10 +9286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rainbow-tabernacle-pentecostal-holiness-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rainbow-tabernacle-pentecostal-holiness-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "randolph-united-methodist-church-randolph",
@@ -9129,10 +9345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reach-out-ministries-baptist-church-kansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reach-out-ministries-baptist-church-kansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reading-united-methodist-church-reading",
@@ -9245,10 +9462,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rehms-park-southern-baptist-church-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rehms-park-southern-baptist-church-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rescue-baptist-church-hope",
@@ -9332,10 +9550,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84028,
+"lon": -97.61142,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/revolution-church-salina-ks-estados-unidos-25937"
+"fuente_url": "https://encuentraiglesias.com/iglesia/revolution-church-salina-ks-estados-unidos-25937",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "revolution-united-methodist-church-dennis",
@@ -9364,7 +9583,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/revolution-united-methodist-church-dennis-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/revolution-united-methodist-church-dennis-kansas",
+"geo_fuente": null
 },
 {
 "slug": "river-city-church-dodge-city",
@@ -9390,10 +9610,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7528,
+"lon": -100.01708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-church-dodge-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-church-dodge-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverbend-bible-church-atchison",
@@ -9419,10 +9640,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverbend-bible-church-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverbend-bible-church-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rivercrest-community-church-little-river",
@@ -9448,10 +9670,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.39807,
+"lon": -98.012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rivercrest-community-church-little-river-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rivercrest-community-church-little-river-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverside-christian-church-arkansas-city",
@@ -9477,10 +9700,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-christian-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-christian-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverside-free-methodist-church-arkansas-city",
@@ -9506,10 +9730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-free-methodist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-free-methodist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverwalk-church-of-christ-arkansas-city",
@@ -9535,10 +9760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverwalk-church-of-christ-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverwalk-church-of-christ-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rock-of-ages-lutheran-church-prairie-view",
@@ -9564,10 +9790,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 30.09327,
+"lon": -95.98773,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rock-of-ages-lutheran-church-prairie-view-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rock-of-ages-lutheran-church-prairie-view-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rolling-hills-presbyterian-church-leawood",
@@ -9593,10 +9820,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rolling-hills-presbyterian-church-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rolling-hills-presbyterian-church-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "roots-church-roeland-park",
@@ -9622,10 +9850,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.03751,
+"lon": -94.63218,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/roots-church-roeland-park-ks-estados-unidos-28697"
+"fuente_url": "https://encuentraiglesias.com/iglesia/roots-church-roeland-park-ks-estados-unidos-28697",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rose-hill-united-methodist-church-hill-city",
@@ -9651,10 +9880,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36473,
+"lon": -99.84206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rose-hill-united-methodist-church-hill-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rose-hill-united-methodist-church-hill-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rossville-united-methodist-church-ensign",
@@ -9709,10 +9939,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-francis-baptist-temple-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-francis-baptist-temple-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-anglican-church-athol",
@@ -9767,10 +9998,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-joseph-chin-baptist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-joseph-chin-baptist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-luke-church-of-god-in-christ-arkansas-city",
@@ -9796,10 +10028,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-church-of-god-in-christ-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-church-of-god-in-christ-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-luke-presbyterian-church-garden-city",
@@ -9825,10 +10058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97169,
+"lon": -100.87266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-presbyterian-church-garden-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-presbyterian-church-garden-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-marys-grand-holy-tabernacle-church-athol",
@@ -9883,10 +10117,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.15336,
+"lon": -98.03117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathew-african-methodist-episcopal-church-anthony-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathew-african-methodist-episcopal-church-anthony-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-mathew-christian-methodist-episcopal-church-arkansas-city",
@@ -9912,10 +10147,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathew-christian-methodist-episcopal-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathew-christian-methodist-episcopal-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-mathew-missionary-baptist-church-hope",
@@ -9970,10 +10206,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-matthew-african-methodist-episcopal-church-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-matthew-african-methodist-episcopal-church-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-matthew-baptist-church-of-spruce-crestline",
@@ -10028,10 +10265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-united-methodist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-united-methodist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-united-presbyterian-church-hope",
@@ -10118,7 +10356,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salina-baptist-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salina-baptist-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "savannah-avenue-baptist-church-elwood",
@@ -10144,10 +10383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/savannah-avenue-baptist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/savannah-avenue-baptist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "savonburg-baptist-church-elsmore",
@@ -10202,10 +10442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8525,
+"lon": -95.53582,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-baptist-church-of-hiawatha-hiawatha-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-baptist-church-of-hiawatha-hiawatha-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "second-baptist-church-of-olathe-johnson",
@@ -10231,10 +10472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57057,
+"lon": -101.751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-baptist-church-of-olathe-johnson-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-baptist-church-of-olathe-johnson-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "second-christian-church-atchison-atchison",
@@ -10260,10 +10502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56305,
+"lon": -95.12164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-christian-church-atchison-atchison-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-christian-church-atchison-atchison-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sharons-mexican-mission-arkansas-city",
@@ -10289,10 +10532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sharons-mexican-mission-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sharons-mexican-mission-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shawnee-heights-united-methodist-church-tecumseh",
@@ -10376,10 +10620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherds-grace-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherds-grace-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "silver-lake-united-methodist-church-ensign",
@@ -10466,7 +10711,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-city-baptist-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-city-baptist-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "south-haven-united-methodist-church-south-haven",
@@ -10582,7 +10828,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-riverside-baptist-church-home-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-riverside-baptist-church-home-kansas",
+"geo_fuente": null
 },
 {
 "slug": "spearville-federated-church-spearville",
@@ -10608,10 +10855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.85002,
+"lon": -99.75679,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spearville-federated-church-spearville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spearville-federated-church-spearville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spring-hill-united-methodist-church-hill-city",
@@ -10637,10 +10885,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36473,
+"lon": -99.84206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spring-hill-united-methodist-church-hill-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spring-hill-united-methodist-church-hill-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-john-missionary-baptist-church-garland",
@@ -10724,10 +10973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.85972,
+"lon": -95.2697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marthas-ame-church-highland-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marthas-ame-church-highland-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-martin-evangelical-lutheran-church-basehor",
@@ -10753,10 +11003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.14167,
+"lon": -94.93858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-martin-evangelical-lutheran-church-basehor-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-martin-evangelical-lutheran-church-basehor-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "starlight-missionary-baptist-church-hope",
@@ -10811,10 +11062,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.21001,
+"lon": -98.20701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sterling-reformed-presbyterian-church-sterling-ks-estados-unidos-44650"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sterling-reformed-presbyterian-church-sterling-ks-estados-unidos-44650",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stony-point-baptist-church-kansas-city",
@@ -10840,10 +11092,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stony-point-baptist-church-kansas-city-ks-estados-unidos-49976"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stony-point-baptist-church-kansas-city-ks-estados-unidos-49976",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "strangers-rest-baptist-church-garland",
@@ -10898,10 +11151,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75555,
+"lon": -94.87247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/strong-tower-baptist-church-elwood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/strong-tower-baptist-church-elwood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunflower-missionary-baptist-fort-leavenworth",
@@ -10985,10 +11239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.23484,
+"lon": -84.83577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tecumseh-united-methodist-church-grantville-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tecumseh-united-methodist-church-grantville-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "terrace-lake-united-methodist-church-crestline",
@@ -11043,10 +11298,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69224,
+"lon": -97.33754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-dwelling-church-wichita-ks-estados-unidos-22088"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-dwelling-church-wichita-ks-estados-unidos-22088",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-presbyterian-church-at-garden-city-garden-city",
@@ -11072,10 +11328,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97169,
+"lon": -100.87266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-presbyterian-church-at-garden-city-garden-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-presbyterian-church-at-garden-city-garden-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-rock-at-stony-point-kansas-city",
@@ -11101,10 +11358,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11417,
+"lon": -94.62746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-at-stony-point-kansas-city-ks-estados-unidos-47795"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-at-stony-point-kansas-city-ks-estados-unidos-47795",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "topeka-baptist-church-hillsdale",
@@ -11159,10 +11417,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/topeka-first-assembly-of-god-boulevard-campus-topeka-ks-estados-unidos-31196"
+"fuente_url": "https://encuentraiglesias.com/iglesia/topeka-first-assembly-of-god-boulevard-campus-topeka-ks-estados-unidos-31196",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "topeka-first-united-methodist-church-potwin",
@@ -11246,10 +11505,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97169,
+"lon": -100.87266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tower-view-baptist-church-garden-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tower-view-baptist-church-garden-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-community-church-kensington",
@@ -11304,10 +11564,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tru-church-saint-george",
@@ -11333,10 +11594,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.19111,
+"lon": -96.42028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tru-church-saint-george-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tru-church-saint-george-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "truth-church-olathe-johnson",
@@ -11362,10 +11624,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57057,
+"lon": -101.751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/truth-church-olathe-johnson-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/truth-church-olathe-johnson-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "twelfth-avenue-baptist-church-emporia",
@@ -11391,10 +11654,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4039,
+"lon": -96.18166,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/twelfth-avenue-baptist-church-emporia-ks-estados-unidos-26037"
+"fuente_url": "https://encuentraiglesias.com/iglesia/twelfth-avenue-baptist-church-emporia-ks-estados-unidos-26037",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-believers-community-church-athol",
@@ -11449,10 +11713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-brethren-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-brethren-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-bennington-bennington",
@@ -11478,10 +11743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.03056,
+"lon": -97.5942,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-bennington-bennington-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-bennington-bennington-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-desoto-methodist-church-cedar",
@@ -11536,10 +11802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.02368,
+"lon": -94.7355,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-baxter-springs-baxter-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-baxter-springs-baxter-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "victory-assembly-church-bonner-springs",
@@ -11565,10 +11832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05973,
+"lon": -94.88358,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/victory-assembly-church-bonner-springs-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/victory-assembly-church-bonner-springs-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-ministries-topeka",
@@ -11594,10 +11862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04833,
+"lon": -95.67804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-ministries-topeka-ks-estados-unidos-31446"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-ministries-topeka-ks-estados-unidos-31446",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "village-united-presbyterian-church-dover",
@@ -11710,10 +11979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.81084,
+"lon": -94.92719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vista-baptist-church-gardner-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vista-baptist-church-gardner-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wamego-family-worship-center-wamego",
@@ -11739,10 +12009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.20194,
+"lon": -96.305,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wamego-family-worship-center-wamego-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wamego-family-worship-center-wamego-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wamego-united-methodist-church-wamego",
@@ -11768,10 +12039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.20194,
+"lon": -96.305,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wamego-united-methodist-church-wamego-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wamego-united-methodist-church-wamego-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wanamaker-road-baptist-church-hillsdale",
@@ -11855,10 +12127,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -94.6169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ward-parkway-presbyterian-church-leawood-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ward-parkway-presbyterian-church-leawood-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wellington-place-baptist-church-arkansas-city",
@@ -11884,10 +12157,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06197,
+"lon": -97.03837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wellington-place-baptist-church-arkansas-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wellington-place-baptist-church-arkansas-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesely-united-methodist-church-parsons",
@@ -11913,10 +12187,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.34034,
+"lon": -95.26108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesely-united-methodist-church-parsons-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesely-united-methodist-church-parsons-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesley-heights-united-methodist-church-athol",
@@ -11971,10 +12246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91722,
+"lon": -97.21391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesleyan-methodist-church-abilene-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesleyan-methodist-church-abilene-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-ridge-church-southern-baptist-hunter",
@@ -12029,10 +12305,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-side-presbyterian-church-lawrence-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-side-presbyterian-church-lawrence-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westboro-baptist-church-hillsdale",
@@ -12087,10 +12364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39389,
+"lon": -96.41361,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westmoreland-united-methodist-church-westmoreland-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westmoreland-united-methodist-church-westmoreland-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westview-community-church-fort-riley",
@@ -12145,10 +12423,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97167,
+"lon": -95.23525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westwood-house-lawrence-ks-estados-unidos-33415"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westwood-house-lawrence-ks-estados-unidos-33415",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wetmore-methodist-church-wetmore",
@@ -12203,10 +12482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.79585,
+"lon": -97.27949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wichita-heights-baptist-church-kechi-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wichita-heights-baptist-church-kechi-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willard-avenue-baptist-church-kensington",
@@ -12261,10 +12541,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.32222,
+"lon": -95.26692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winchester-reformed-presbyterian-church-winchester-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winchester-reformed-presbyterian-church-winchester-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "winnwood-baptist-church-garden-city",
@@ -12290,10 +12571,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97169,
+"lon": -100.87266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winnwood-baptist-church-garden-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winnwood-baptist-church-garden-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "winnwood-united-methodist-church-garden-city",
@@ -12319,10 +12601,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97169,
+"lon": -100.87266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winnwood-united-methodist-church-garden-city-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winnwood-united-methodist-church-garden-city-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "woodlawn-united-methodist-church-derby",
@@ -12348,10 +12631,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.54557,
+"lon": -97.26893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/woodlawn-united-methodist-church-derby-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/woodlawn-united-methodist-church-derby-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wyandotte-church-basehor",
@@ -12377,10 +12661,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.14167,
+"lon": -94.93858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wyandotte-church-basehor-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wyandotte-church-basehor-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wyandotte-county-christian-church-basehor",
@@ -12406,10 +12691,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.14167,
+"lon": -94.93858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wyandotte-county-christian-church-basehor-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wyandotte-county-christian-church-basehor-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-luteran-church-hillsboro",
@@ -12435,9 +12721,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.35196,
+"lon": -97.20447,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-luteran-church-hillsboro-kansas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-luteran-church-hillsboro-kansas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

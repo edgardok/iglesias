@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3434,
+"lon": -85.34191,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/3trees-church-campbellsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/3trees-church-campbellsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "abundant-life-church-radcliff",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84035,
+"lon": -85.94913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-church-radcliff-ky-estados-unidos-85930"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-church-radcliff-ky-estados-unidos-85930",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "allensville-church-of-christ-allensville",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.53591,
+"lon": -77.81694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/allensville-church-of-christ-allensville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/allensville-church-of-christ-allensville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "almo-church-almo",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83615,
+"lon": -87.59001,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anchor-baptist-chruch-henderson-ky-estados-unidos-94640"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anchor-baptist-chruch-henderson-ky-estados-unidos-94640",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anchorage-presbyterian-church-westport",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.5173,
+"lon": -82.69766,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asbury-chapel-african-methodist-episcopal-church-russell-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asbury-chapel-african-methodist-episcopal-church-russell-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ashby-lane-church-bethany",
@@ -313,10 +318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ashland-avenue-baptist-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ashland-avenue-baptist-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ashland-church-arlington",
@@ -400,10 +406,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10507,
+"lon": -85.75885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/auburndale-baptist-church-fairdale-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/auburndale-baptist-church-fairdale-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "audubon-baptist-church-audubon-park",
@@ -429,10 +436,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20396,
+"lon": -85.72524,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/audubon-baptist-church-audubon-park-ky-estados-unidos-68800"
+"fuente_url": "https://encuentraiglesias.com/iglesia/audubon-baptist-church-audubon-park-ky-estados-unidos-68800",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "audubon-park-united-methodist-church-regina",
@@ -487,10 +495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73704,
+"lon": -82.75821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/auxier-united-methodist-church-auxier-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/auxier-united-methodist-church-auxier-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bagby-united-methodist-beech-grove",
@@ -516,10 +525,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bagby-united-methodist-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bagby-united-methodist-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bagdad-baptist-church-bagdad",
@@ -574,10 +584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.79034,
+"lon": -85.37052,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baise-chapel-burkesville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baise-chapel-burkesville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "balls-fork-old-regular-baptist-church-garner",
@@ -632,10 +643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.80923,
+"lon": -85.4669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bardstown-baptist-church-bardstown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bardstown-baptist-church-bardstown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bardstown-road-presbyterian-church-masonic-home",
@@ -690,10 +702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.80923,
+"lon": -85.4669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bardstown-united-methodist-church-bardstown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bardstown-united-methodist-church-bardstown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baxter-avenue-baptist-church-cave-city",
@@ -719,10 +732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.13672,
+"lon": -85.95692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baxter-avenue-baptist-church-cave-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baxter-avenue-baptist-church-cave-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beacon-hill-baptist-church-bronston",
@@ -777,10 +791,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73425,
+"lon": -83.54741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bear-pen-mission-campton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bear-pen-mission-campton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beattyville-christian-church-beattyville",
@@ -806,10 +821,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57175,
+"lon": -83.70686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beattyville-christian-church-beattyville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beattyville-christian-church-beattyville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bedford-baptist-church-bedford",
@@ -835,10 +851,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59256,
+"lon": -85.31773,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-baptist-church-bedford-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-baptist-church-bedford-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bedford-christian-chuch-bedford",
@@ -864,10 +881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59256,
+"lon": -85.31773,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-christian-chuch-bedford-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-christian-chuch-bedford-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beech-fork-united-methodist-church-bledsoe",
@@ -922,10 +940,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beech-grove-chapel-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beech-grove-chapel-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beech-spring-church-bimble",
@@ -980,10 +999,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.94312,
+"lon": -84.54411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beechgrove-baptist-church-independence-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beechgrove-baptist-church-independence-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beechmont-presbyterian-church-beechmont",
@@ -1009,10 +1029,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beechmont-presbyterian-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beechmont-presbyterian-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beechwood-baptist-church-beechwood-village",
@@ -1038,10 +1059,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25479,
+"lon": -85.63135,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beechwood-baptist-church-beechwood-village-ky-estados-unidos-68829"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beechwood-baptist-church-beechwood-village-ky-estados-unidos-68829",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bellepoint-baptist-church-frankfort",
@@ -1067,10 +1089,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20091,
+"lon": -84.87328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bellepoint-baptist-church-frankfort-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bellepoint-baptist-church-frankfort-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belmont-church-aberdeen",
@@ -1154,10 +1177,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85728,
+"lon": -88.35031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/benton-church-of-christ-benton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/benton-church-of-christ-benton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "benton-first-united-methodist-church-benton",
@@ -1183,10 +1207,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85728,
+"lon": -88.35031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/benton-first-united-methodist-church-benton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/benton-first-united-methodist-church-benton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berea-methodist-church-berea",
@@ -1212,10 +1237,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56869,
+"lon": -84.29632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berea-methodist-church-berea-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berea-methodist-church-berea-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berean-baptist-chapel-elizabethtown",
@@ -1241,10 +1267,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69395,
+"lon": -85.85913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berean-baptist-chapel-elizabethtown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berean-baptist-chapel-elizabethtown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethal-baptist-church-berea",
@@ -1270,10 +1297,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56869,
+"lon": -84.29632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethal-baptist-church-berea-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethal-baptist-church-berea-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethesda-mission-campton",
@@ -1299,10 +1327,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73425,
+"lon": -83.54741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-mission-campton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-mission-campton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "betsy-layne-church-of-christ-betsy-layne",
@@ -1328,10 +1357,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/betsy-layne-church-of-christ-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/betsy-layne-church-of-christ-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "betsy-layne-freewill-baptist-betsy-layne",
@@ -1357,10 +1387,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/betsy-layne-freewill-baptist-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/betsy-layne-freewill-baptist-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bible-pathway-baptist-church-arlington",
@@ -1444,10 +1475,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.91034,
+"lon": -85.31662,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/big-springs-church-bloomfield-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/big-springs-church-bloomfield-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "black-grove-church-blackford",
@@ -1502,10 +1534,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57175,
+"lon": -83.70686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blaines-branch-church-beattyville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blaines-branch-church-beattyville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blooming-grove-church-annville",
@@ -1531,10 +1564,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.31925,
+"lon": -83.97048,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blooming-grove-church-annville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blooming-grove-church-annville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bluelick-church-brooks",
@@ -1560,10 +1594,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bluelick-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bluelick-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bogletown-pentecostal-church-of-god-ferguson",
@@ -1589,10 +1624,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bogletown-pentecostal-church-of-god-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bogletown-pentecostal-church-of-god-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boldman-freewill-baptist-church-betsy-layne",
@@ -1618,10 +1654,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boldman-freewill-baptist-church-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boldman-freewill-baptist-church-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "booneville-united-methodist-church-booneville",
@@ -1647,10 +1684,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4762,
+"lon": -83.67491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/booneville-united-methodist-church-booneville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/booneville-united-methodist-church-booneville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bowman-memorial-methodist-church-combs",
@@ -1705,10 +1743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.65983,
+"lon": -87.60001,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boyer-church-berry-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boyer-church-berry-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bradshaw-hill-baptist-gray-hawk",
@@ -1792,10 +1831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/briargate-presbyterian-church-louisville-ky-estados-unidos-69087"
+"fuente_url": "https://encuentraiglesias.com/iglesia/briargate-presbyterian-church-louisville-ky-estados-unidos-69087",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "broadway-church-bowling-green",
@@ -1821,10 +1861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/broadway-church-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/broadway-church-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "broadway-temple-african-methodist-episcopal-zion-church-premium",
@@ -1908,10 +1949,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brooks-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brooks-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brookview-baptist-church-beechmont",
@@ -1937,10 +1979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brookview-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brookview-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brown-temple-african-methodist-episcopal-zion-church-louisville",
@@ -1966,10 +2009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brown-temple-african-methodist-episcopal-zion-church-louisville-ky-estados-unidos-69051"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brown-temple-african-methodist-episcopal-zion-church-louisville-ky-estados-unidos-69051",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brownsboro-baptist-church-crestwood",
@@ -1995,10 +2039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.32424,
+"lon": -85.47246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brownsboro-baptist-church-crestwood-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brownsboro-baptist-church-crestwood-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brushy-fork-united-baptist-church-cannel-city",
@@ -2053,10 +2098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06922,
+"lon": -84.86828,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/buechel-presbyterian-church-petersburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/buechel-presbyterian-church-petersburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "buechel-united-methodist-church-petersburg",
@@ -2082,10 +2128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06922,
+"lon": -84.86828,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/buechel-united-methodist-church-petersburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/buechel-united-methodist-church-petersburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "buffalo-baptist-curch-buffalo",
@@ -2227,10 +2274,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.75341,
+"lon": -84.76661,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burgin-christian-church-burgin-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burgin-christian-church-burgin-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burlington-baptist-family-center-burlington",
@@ -2256,10 +2304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-baptist-family-center-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-baptist-family-center-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burlington-church-of-christ-burlington",
@@ -2285,10 +2334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-church-of-christ-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-church-of-christ-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burnside-united-methodist-church-bronston",
@@ -2401,10 +2451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07506,
+"lon": -84.44716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/california-methodist-church-fort-thomas-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/california-methodist-church-fort-thomas-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-baptist-church-of-betsy-layne-betsy-layne",
@@ -2430,10 +2481,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-baptist-church-of-betsy-layne-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-baptist-church-of-betsy-layne-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvert-city-church-of-christ-calvert-city",
@@ -2459,10 +2511,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.03339,
+"lon": -88.35004,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvert-city-church-of-christ-calvert-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvert-city-church-of-christ-calvert-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvery-baptist-church-baxter",
@@ -2546,10 +2599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.52368,
+"lon": -85.20273,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsburg-baptist-church-campbellsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsburg-baptist-church-campbellsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campbellsville-baptist-church-campbellsville",
@@ -2575,10 +2629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3434,
+"lon": -85.34191,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsville-baptist-church-campbellsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsville-baptist-church-campbellsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campbellsville-christian-church-campbellsville",
@@ -2604,10 +2659,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3434,
+"lon": -85.34191,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsville-christian-church-campbellsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsville-christian-church-campbellsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campbellsville-first-united-methodist-church-campbellsville",
@@ -2633,10 +2689,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3434,
+"lon": -85.34191,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsville-first-united-methodist-church-campbellsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campbellsville-first-united-methodist-church-campbellsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "caney-creek-old-regular-baptist-church-jonancy",
@@ -2749,10 +2806,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carlisle-avenue-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carlisle-avenue-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carmichael-community-pentecostal-church-east-bernstadt",
@@ -2778,10 +2836,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18953,
+"lon": -84.11771,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carmichael-community-pentecostal-church-east-bernstadt-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carmichael-community-pentecostal-church-east-bernstadt-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carrollton-methodist-church-carrollton",
@@ -2807,10 +2866,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6809,
+"lon": -85.1794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carrollton-methodist-church-carrollton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carrollton-methodist-church-carrollton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carrollton-wesleyan-church-carrollton",
@@ -2836,10 +2896,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6809,
+"lon": -85.1794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carrollton-wesleyan-church-carrollton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carrollton-wesleyan-church-carrollton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carter-church-adolphus",
@@ -2952,10 +3013,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4048,
+"lon": -82.60044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/catlettsburg-united-methodist-church-catlettsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/catlettsburg-united-methodist-church-catlettsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cawood-pentecostal-holiness-church-cawood",
@@ -2981,10 +3043,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.78398,
+"lon": -83.22823,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cawood-pentecostal-holiness-church-cawood-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cawood-pentecostal-holiness-church-cawood-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cedar-chapel-big-laurel",
@@ -3039,10 +3102,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.70064,
+"lon": -83.97381,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-grove-united-methodist-irvine-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-grove-united-methodist-irvine-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centenary-methodist-church-lexington",
@@ -3068,10 +3132,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.98869,
+"lon": -84.47772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centenary-methodist-church-lexington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centenary-methodist-church-lexington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centerpointe-church-bowling-green",
@@ -3097,10 +3162,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centerpointe-church-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centerpointe-church-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-union-church-alpha",
@@ -3155,10 +3221,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4048,
+"lon": -82.60044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ceredo-christian-baptist-catlettsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ceredo-christian-baptist-catlettsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ceredo-united-methodist-church-catlettsburg",
@@ -3184,10 +3251,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4048,
+"lon": -82.60044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ceredo-united-methodist-church-catlettsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ceredo-united-methodist-church-catlettsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chandler-memorial-chapel-bowling-green",
@@ -3213,10 +3281,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chandler-memorial-chapel-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chandler-memorial-chapel-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-hill-presbyterian-church-mount-vernon",
@@ -3242,10 +3311,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.02563,
+"lon": -84.49522,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-presbyterian-church-mount-vernon-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-presbyterian-church-mount-vernon-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-of-praise-assembly-of-god-falmouth",
@@ -3271,10 +3341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.67674,
+"lon": -84.33021,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-praise-assembly-of-god-falmouth-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-praise-assembly-of-god-falmouth-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-student-fellowship-bowling-green",
@@ -3300,10 +3371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-student-fellowship-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-student-fellowship-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-tabernacle-church-bellevue",
@@ -3329,10 +3401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-tabernacle-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-tabernacle-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-union-enterprise-baptist-church-keaton",
@@ -3387,10 +3460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christs-chapel-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christs-chapel-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christs-church-eastside-park-boston",
@@ -3445,10 +3519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85728,
+"lon": -88.35031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-grove-church-benton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-grove-church-benton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-christ-at-galveston-beaver",
@@ -3503,10 +3578,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20091,
+"lon": -84.87328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-ascension-frankfort-ky-estados-unidos-82552"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-ascension-frankfort-ky-estados-unidos-82552",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-living-god-temple-number-30-beechmont",
@@ -3532,10 +3608,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-living-god-temple-number-30-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-living-god-temple-number-30-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "city-road-chapel-united-methodist-church-bethany",
@@ -3648,10 +3725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.6909,
+"lon": -85.13468,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clear-fork-church-albany-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clear-fork-church-albany-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clear-fork-regular-baptist-church-of-jesus-christ-bulan",
@@ -3706,10 +3784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.13672,
+"lon": -85.95692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clifton-baptist-church-cave-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clifton-baptist-church-cave-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clifty-church-booneville",
@@ -3735,10 +3814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4762,
+"lon": -83.67491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clifty-church-booneville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clifty-church-booneville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cloverleaf-church-beechmont",
@@ -3764,10 +3844,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cloverleaf-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cloverleaf-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cold-springs-church-blue-river",
@@ -3796,7 +3877,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cold-springs-church-blue-river-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cold-springs-church-blue-river-kentucky",
+"geo_fuente": null
 },
 {
 "slug": "columbia-united-methodist-church-columbia",
@@ -3822,10 +3904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.10284,
+"lon": -85.30635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-united-methodist-church-columbia-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-united-methodist-church-columbia-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-harvest-tabernacle-calvin",
@@ -3880,10 +3963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-faith-presbyterian-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-faith-presbyterian-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "concord-united-baptist-church-hagerhill",
@@ -3938,10 +4022,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57175,
+"lon": -83.70686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congleton-church-beattyville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congleton-church-beattyville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "consolidated-baptist-church-combs",
@@ -4025,10 +4110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83615,
+"lon": -87.59001,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/country-view-general-baptist-church-henderson-ky-estados-unidos-94294"
+"fuente_url": "https://encuentraiglesias.com/iglesia/country-view-general-baptist-church-henderson-ky-estados-unidos-94294",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "covenant-first-presbyterian-church-bellevue",
@@ -4054,10 +4140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-first-presbyterian-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-first-presbyterian-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cow-creek-baptist-church-irvine",
@@ -4083,10 +4170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.70064,
+"lon": -83.97381,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cow-creek-baptist-church-irvine-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cow-creek-baptist-church-irvine-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cow-fork-church-beverly",
@@ -4257,10 +4345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crescent-springs-baptist-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crescent-springs-baptist-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crescent-springs-presbyterian-church-erlanger",
@@ -4286,10 +4375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crescent-springs-presbyterian-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crescent-springs-presbyterian-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cross-connection-church-ferguson",
@@ -4315,10 +4405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cross-connection-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cross-connection-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "culp-creek-chapel-argillite",
@@ -4431,10 +4522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cynthiann-church-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cynthiann-church-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "day-ridge-church-big-creek",
@@ -4489,10 +4581,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dayton-church-of-god-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dayton-church-of-god-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dicken-chapel-albany",
@@ -4518,10 +4611,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.6909,
+"lon": -85.13468,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dicken-chapel-albany-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dicken-chapel-albany-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dix-fork-church-canada",
@@ -4576,10 +4670,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dixie-park-freewill-baptist-church-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dixie-park-freewill-baptist-church-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dixon-memorial-church-blackey",
@@ -4692,10 +4787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/duke-memorial-baptist-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/duke-memorial-baptist-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dyer-hill-church-burna",
@@ -4750,10 +4846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.86505,
+"lon": -87.8353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-cadiz-baptist-church-cadiz-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-cadiz-baptist-church-cadiz-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-jellico-baptist-church-flat-lick",
@@ -4779,10 +4876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82898,
+"lon": -83.7702,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-jellico-baptist-church-flat-lick-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-jellico-baptist-church-flat-lick-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-pineville-baptist-church-calvin",
@@ -4866,10 +4964,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eastern-gate-baptist-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eastern-gate-baptist-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastside-church-of-christ-aberdeen",
@@ -4953,10 +5052,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eastwood-church-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eastwood-church-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elizabethtown-church-of-the-nazarene-elizabethtown",
@@ -4982,10 +5082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69395,
+"lon": -85.85913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elizabethtown-church-of-the-nazarene-elizabethtown-ky-estados-unidos-94564"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elizabethtown-church-of-the-nazarene-elizabethtown-ky-estados-unidos-94564",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elkhorn-church-burdine",
@@ -5156,10 +5257,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.304,
+"lon": -82.35098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/embrace-church-elkhorn-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/embrace-church-elkhorn-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-assembly-of-god-church-bethany",
@@ -5214,10 +5316,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/enterprise-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/enterprise-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "epiphany-united-methodist-church-beechmont",
@@ -5243,10 +5346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/epiphany-united-methodist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/epiphany-united-methodist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "episcopal-church-our-savior-arlington",
@@ -5301,10 +5405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/erlanger-baptist-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/erlanger-baptist-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "erlanger-united-methodist-church-erlanger",
@@ -5330,10 +5435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/erlanger-united-methodist-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/erlanger-united-methodist-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evarts-baptist-church-ages-brookside",
@@ -5417,10 +5523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/expressway-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/expressway-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fall-rock-church-brownsville",
@@ -5446,10 +5553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.19255,
+"lon": -86.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fall-rock-church-brownsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fall-rock-church-brownsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "falmouth-united-methodist-church-falmouth",
@@ -5475,10 +5583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.67674,
+"lon": -84.33021,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/falmouth-united-methodist-church-falmouth-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/falmouth-united-methodist-church-falmouth-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "falmouth-wesleyan-church-falmouth",
@@ -5504,10 +5613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.67674,
+"lon": -84.33021,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/falmouth-wesleyan-church-falmouth-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/falmouth-wesleyan-church-falmouth-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fatih-baptist-church-boston",
@@ -5562,10 +5672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.9487,
+"lon": -84.09688,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/felts-chapel-methodist-church-corbin-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/felts-chapel-methodist-church-corbin-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ferguson-baptist-church-ferguson",
@@ -5591,10 +5702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ferguson-baptist-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ferguson-baptist-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fern-creek-united-methodist-church-louisville",
@@ -5620,10 +5732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fern-creek-united-methodist-church-louisville-ky-estados-unidos-69001"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fern-creek-united-methodist-church-louisville-ky-estados-unidos-69001",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ferrell-creek-church-belcher",
@@ -5678,10 +5791,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.80923,
+"lon": -85.4669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-bardstown-bardstown-ky-estados-unidos-89856"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-bardstown-bardstown-ky-estados-unidos-89856",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-ceredo-catlettsburg",
@@ -5707,10 +5821,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4048,
+"lon": -82.60044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ceredo-catlettsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ceredo-catlettsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-delhi-hebron",
@@ -5736,10 +5851,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06589,
+"lon": -84.70106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-delhi-hebron-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-delhi-hebron-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-eastwood-boston",
@@ -5794,10 +5910,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.52258,
+"lon": -82.71711,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-flatwoods-flatwoods-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-flatwoods-flatwoods-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-ironton-flatwoods",
@@ -5823,10 +5940,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.52258,
+"lon": -82.71711,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ironton-flatwoods-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ironton-flatwoods-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-kenova-catlettsburg",
@@ -5852,10 +5970,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4048,
+"lon": -82.60044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-kenova-catlettsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-kenova-catlettsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-new-richmond-california",
@@ -5910,10 +6029,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-newport-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-newport-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-paintsville-hagerhill",
@@ -5968,10 +6088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-bible-methodist-church-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-bible-methodist-church-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-church-of-christ-burlington-campus-burlington",
@@ -5997,10 +6118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-christ-burlington-campus-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-christ-burlington-campus-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-korean-baptist-church-of-radcliff-fort-knox",
@@ -6026,10 +6148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.89113,
+"lon": -85.96363,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-korean-baptist-church-of-radcliff-fort-knox-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-korean-baptist-church-of-radcliff-fort-knox-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-missionary-baptist-church-benton",
@@ -6055,10 +6178,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85728,
+"lon": -88.35031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-missionary-baptist-church-benton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-missionary-baptist-church-benton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-mount-zion-baptist-church-belfry",
@@ -6113,10 +6237,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06589,
+"lon": -84.70106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-delhi-hebron-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-delhi-hebron-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-stanton-stanton",
@@ -6142,10 +6267,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84564,
+"lon": -83.85825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-stanton-stanton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-stanton-stanton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-andover-activity-center-columbus",
@@ -6200,10 +6326,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4762,
+"lon": -83.67491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fish-creek-church-booneville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fish-creek-church-booneville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flagg-springs-baptist-church-california",
@@ -6374,10 +6501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99895,
+"lon": -84.62661,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/florence-baptist-church-at-mount-zion-florence-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/florence-baptist-church-at-mount-zion-florence-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "florence-baptist-temple-burlington",
@@ -6403,10 +6531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/florence-baptist-temple-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/florence-baptist-temple-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "florence-united-methodist-church-florence",
@@ -6432,10 +6561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99895,
+"lon": -84.62661,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/florence-united-methodist-church-florence-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/florence-united-methodist-church-florence-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "florence-wesleyan-church-florence",
@@ -6461,10 +6591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99895,
+"lon": -84.62661,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/florence-wesleyan-church-florence-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/florence-wesleyan-church-florence-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flour-creek-christian-church-boston",
@@ -6519,10 +6650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/forest-grove-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/forest-grove-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "forks-dix-river-church-bryantsville",
@@ -6577,10 +6709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.0595,
+"lon": -84.54744,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fort-mitchell-baptist-church-fort-mitchell-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fort-mitchell-baptist-church-fort-mitchell-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "foster-avenue-baptist-church-beechmont",
@@ -6606,10 +6739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/foster-avenue-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/foster-avenue-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fountain-of-life-church-allen",
@@ -6722,10 +6856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.6659,
+"lon": -85.95663,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/franklin-crossroads-baptist-church-cecilia-ky-estados-unidos-63060"
+"fuente_url": "https://encuentraiglesias.com/iglesia/franklin-crossroads-baptist-church-cecilia-ky-estados-unidos-63060",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fredonia-cumberland-presbyterian-fredonia",
@@ -6780,10 +6915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.05618,
+"lon": -85.08857,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/french-valley-methodist-church-russell-springs-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/french-valley-methodist-church-russell-springs-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "frenchman-knob-church-bonnieville",
@@ -6896,10 +7032,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gethsemane-lutheran-church-beaumont",
@@ -6983,10 +7120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56869,
+"lon": -84.29632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glades-christian-church-berea-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glades-christian-church-berea-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glendale-united-methodist-church-glendale",
@@ -7041,10 +7179,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/goebel-church-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/goebel-church-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-spring-baptist-church-mammoth-cave",
@@ -7099,10 +7238,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.40199,
+"lon": -86.87583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/goshen-church-beaver-dam-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/goshen-church-beaver-dam-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gospel-light-church-beauty",
@@ -7157,10 +7297,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-and-peace-presbyterian-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-and-peace-presbyterian-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-christian-church-boston",
@@ -7273,10 +7414,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-kids-a-church-for-children-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-kids-a-church-for-children-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-kids-a-church-for-children-louisville",
@@ -7302,10 +7444,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-kids-a-church-for-children-louisville-ky-estados-unidos-68547"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-kids-a-church-for-children-louisville-ky-estados-unidos-68547",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-on-the-hill-corbin",
@@ -7331,10 +7474,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.9487,
+"lon": -84.09688,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-on-the-hill-corbin-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-on-the-hill-corbin-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-way-united-methodist-church-eastern",
@@ -7389,10 +7533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.29393,
+"lon": -87.12333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grand-rivers-missionary-baptist-church-central-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grand-rivers-missionary-baptist-church-central-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grant-memorial-church-california",
@@ -7476,10 +7621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grayson-freewill-baptist-church-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grayson-freewill-baptist-church-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-faith-apostolic-church-beaumont",
@@ -7534,10 +7680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.1537,
+"lon": -83.76186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greenbriar-presbyterian-church-manchester-ky-estados-unidos-95317"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greenbriar-presbyterian-church-manchester-ky-estados-unidos-95317",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hampton-methodist-church-burna",
@@ -7592,10 +7739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.74367,
+"lon": -101.85463,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/happy-freewill-baptist-church-happy-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/happy-freewill-baptist-church-happy-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harlan-baptist-church-baxter",
@@ -7824,10 +7972,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.7623,
+"lon": -84.84329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harrodsburg-baptist-church-harrodsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harrodsburg-baptist-church-harrodsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-worship-center-baxter",
@@ -7911,10 +8060,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.0759,
+"lon": -77.5886,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hazel-creek-church-beech-creek-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hazel-creek-church-beech-creek-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hazelwood-baptist-church-beechmont",
@@ -7940,10 +8090,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hazelwood-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hazelwood-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hebron-church-of-christ-burlington",
@@ -7969,10 +8120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-church-of-christ-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-church-of-christ-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hebron-gospel-fellowship-church-burlington",
@@ -7998,10 +8150,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-gospel-fellowship-church-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-gospel-fellowship-church-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hebron-lutheran-church-burlington",
@@ -8027,10 +8180,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-lutheran-church-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-lutheran-church-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "henderson-chapel-barbourville",
@@ -8056,10 +8210,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.86648,
+"lon": -83.88881,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/henderson-chapel-barbourville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/henderson-chapel-barbourville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hendersons-first-baptist-church-henderson",
@@ -8085,10 +8240,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83615,
+"lon": -87.59001,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hendersons-first-baptist-church-henderson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hendersons-first-baptist-church-henderson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hickory-gap-church-busy",
@@ -8143,10 +8299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77174,
+"lon": -84.00576,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/higginsport-christian-church-augusta-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/higginsport-christian-church-augusta-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highland-avenue-presbyterian-church-covington",
@@ -8172,10 +8329,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highland-avenue-presbyterian-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highland-avenue-presbyterian-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highland-hills-baptist-church-dayton",
@@ -8201,10 +8359,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11284,
+"lon": -84.47272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highland-hills-baptist-church-dayton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highland-hills-baptist-church-dayton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highview-baptist-church-boston",
@@ -8346,10 +8505,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillview-assembly-of-god-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillview-assembly-of-god-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hilton-presbyterian-church-bonnyman",
@@ -8462,10 +8622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.33593,
+"lon": -82.98044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hindman-united-baptist-church-hindman-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hindman-united-baptist-church-hindman-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hodgenville-united-methodist-church-hodgenville",
@@ -8491,10 +8652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.57395,
+"lon": -85.73996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hodgenville-united-methodist-church-hodgenville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hodgenville-united-methodist-church-hodgenville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holbrooks-church-bays",
@@ -8607,10 +8769,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99895,
+"lon": -84.62661,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hopeful-lutheran-church-florence-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hopeful-lutheran-church-florence-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "horn-chapel-auxier",
@@ -8636,10 +8799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73704,
+"lon": -82.75821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/horn-chapel-auxier-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/horn-chapel-auxier-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hour-of-harvest-church-bethany",
@@ -8694,10 +8858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-god-hebrew-pentecostal-church-louisville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-god-hebrew-pentecostal-church-louisville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hudgins-hill-baptist-church-carter",
@@ -8810,10 +8975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.5173,
+"lon": -82.69766,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hughlett-temple-african-methodist-episcopal-zion-church-russell-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hughlett-temple-african-methodist-episcopal-zion-church-russell-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hunsinger-lane-baptist-church-forest-hills",
@@ -8897,10 +9063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.23813,
+"lon": -85.58829,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hurstbourne-baptist-church-hurstbourne-ky-estados-unidos-68849"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hurstbourne-baptist-church-hurstbourne-ky-estados-unidos-68849",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hustonville-baptist-church-hustonville",
@@ -8955,10 +9122,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ida-spence-mission-united-methodist-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ida-spence-mission-united-methodist-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-baptist-church-of-florence-burlington",
@@ -8984,10 +9152,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-baptist-church-of-florence-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-baptist-church-of-florence-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "indian-bottom-church-blackey",
@@ -9071,10 +9240,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iroquois-presbyterian-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iroquois-presbyterian-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "irvine-first-baptist-church-irvine",
@@ -9100,10 +9270,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.70064,
+"lon": -83.97381,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/irvine-first-baptist-church-irvine-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/irvine-first-baptist-church-irvine-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "isaac-m-wise-temple-bellevue",
@@ -9129,10 +9300,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/isaac-m-wise-temple-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/isaac-m-wise-temple-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ivy-point-old-regular-baptist-church-garner",
@@ -9216,10 +9388,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.13672,
+"lon": -85.95692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/james-lees-memorial-presbyterian-church-cave-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/james-lees-memorial-presbyterian-church-cave-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "james-memorial-church-blackey",
@@ -9274,10 +9447,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.98479,
+"lon": -85.06301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jamestown-first-baptist-jamestown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jamestown-first-baptist-jamestown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jeffersontown-baptist-church-jeffersontown",
@@ -9303,10 +9477,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.19424,
+"lon": -85.5644,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jeffersontown-baptist-church-jeffersontown-ky-estados-unidos-69269"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jeffersontown-baptist-church-jeffersontown-ky-estados-unidos-69269",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jeffersontown-presbyterian-church-jeffersontown",
@@ -9332,10 +9507,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.19424,
+"lon": -85.5644,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jeffersontown-presbyterian-church-jeffersontown-ky-estados-unidos-69271"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jeffersontown-presbyterian-church-jeffersontown-ky-estados-unidos-69271",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jeffersontown-united-methodist-church-jeffersontown",
@@ -9361,10 +9537,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.19424,
+"lon": -85.5644,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jeffersontown-united-methodist-church-jeffersontown-ky-estados-unidos-69272"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jeffersontown-united-methodist-church-jeffersontown-ky-estados-unidos-69272",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesses-creek-primative-baptist-church-coldiron",
@@ -9535,10 +9712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kentaboo-baptist-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kentaboo-baptist-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kento-boo-baptist-church-erlanger",
@@ -9564,10 +9742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kento-boo-baptist-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kento-boo-baptist-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kenwood-baptist-church-at-victory-memorial-beechmont",
@@ -9593,10 +9772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kenwood-baptist-church-at-victory-memorial-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kenwood-baptist-church-at-victory-memorial-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kenwood-baptist-church-beechmont",
@@ -9622,10 +9802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kenwood-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kenwood-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kenwood-church-of-christ-beechmont",
@@ -9651,10 +9832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kenwood-church-of-christ-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kenwood-church-of-christ-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kingdom-preparation-restoration-ministries-beaumont",
@@ -9709,10 +9891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kings-way-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kings-way-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kirby-grove-church-austin",
@@ -9912,10 +10095,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lampkins-chapel-christian-methodist-episcopal-church-louisville-ky-estados-unidos-68442"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lampkins-chapel-christian-methodist-episcopal-church-louisville-ky-estados-unidos-68442",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lampton-baptist-church-germantown",
@@ -10028,10 +10212,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lane-chapel-christian-methodist-episcopal-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lane-chapel-christian-methodist-episcopal-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "larchmont-church-of-god-of-anderson-indiana-beechmont",
@@ -10057,10 +10242,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/larchmont-church-of-god-of-anderson-indiana-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/larchmont-church-of-god-of-anderson-indiana-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "latonia-baptist-church-covington",
@@ -10086,10 +10272,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/latonia-baptist-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/latonia-baptist-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lawrenceburg-united-methodist-lawrenceburg",
@@ -10115,10 +10302,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.0373,
+"lon": -84.89662,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lawrenceburg-united-methodist-lawrenceburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lawrenceburg-united-methodist-lawrenceburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "leitchfield-united-methodist-leitchfield",
@@ -10144,10 +10332,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.48005,
+"lon": -86.29386,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/leitchfield-united-methodist-leitchfield-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/leitchfield-united-methodist-leitchfield-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "level-green-missionary-baptist-church-keavy",
@@ -10289,10 +10478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.304,
+"lon": -82.35098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lexington-lima-drive-seventh-day-adventist-church-elkhorn-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lexington-lima-drive-seventh-day-adventist-church-elkhorn-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "liberty-hope-baptist-church-belcher",
@@ -10347,10 +10537,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.86505,
+"lon": -87.8353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/liberty-point-church-cadiz-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/liberty-point-church-cadiz-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "licking-valley-baptist-church-alexandria",
@@ -10376,10 +10567,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95951,
+"lon": -84.38799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/licking-valley-baptist-church-alexandria-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/licking-valley-baptist-church-alexandria-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lifechurch-arlington",
@@ -10434,10 +10626,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58674,
+"lon": -84.79384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lifeline-assembly-of-god-junction-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lifeline-assembly-of-god-junction-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lifepoint-church-central-city",
@@ -10463,10 +10656,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.29393,
+"lon": -87.12333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lifepoint-church-central-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lifepoint-church-central-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lighthouse-freewill-baptist-erlanger",
@@ -10492,10 +10686,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-freewill-baptist-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-freewill-baptist-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lighthouse-ministries-bellevue",
@@ -10521,10 +10716,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-ministries-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-ministries-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lincoln-memorial-church-buffalo",
@@ -10608,10 +10804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/little-flock-baptist-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/little-flock-baptist-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "little-flock-missionary-baptist-church-germantown",
@@ -10724,10 +10921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73704,
+"lon": -82.75821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/little-mission-church-auxier-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/little-mission-church-auxier-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "little-muddy-church-big-clifty",
@@ -10898,10 +11096,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-christian-church-international-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-christian-church-international-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "locust-methodist-church-mc-kee",
@@ -10956,10 +11155,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18953,
+"lon": -84.11771,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/london-chapel-baptist-church-east-bernstadt-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/london-chapel-baptist-church-east-bernstadt-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lone-valley-church-calvert-city",
@@ -10985,10 +11185,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.03339,
+"lon": -88.35004,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lone-valley-church-calvert-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lone-valley-church-calvert-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lonesome-dove-church-canada",
@@ -11072,10 +11273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.40199,
+"lon": -86.87583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/longview-church-beaver-dam-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/longview-church-beaver-dam-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "loran-street-church-ashland",
@@ -11101,10 +11303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/loran-street-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/loran-street-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lost-point-pentecostal-church-wrigley",
@@ -11188,10 +11391,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10507,
+"lon": -85.75885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/louisville-baptist-temple-fairdale-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/louisville-baptist-temple-fairdale-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "louisville-korean-seventh-day-adventist-louisville",
@@ -11217,10 +11421,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/louisville-korean-seventh-day-adventist-louisville-ky-estados-unidos-68326"
+"fuente_url": "https://encuentraiglesias.com/iglesia/louisville-korean-seventh-day-adventist-louisville-ky-estados-unidos-68326",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "louisville-korean-united-methodist-church-louisville",
@@ -11246,10 +11451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/louisville-korean-united-methodist-church-louisville-ky-estados-unidos-69069"
+"fuente_url": "https://encuentraiglesias.com/iglesia/louisville-korean-united-methodist-church-louisville-ky-estados-unidos-69069",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "louisville-presbyterian-theological-seminary-masonic-home",
@@ -11304,10 +11510,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3434,
+"lon": -85.34191,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lowell-avenue-church-campbellsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lowell-avenue-church-campbellsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lower-beech-fork-church-asher",
@@ -11362,10 +11569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.19255,
+"lon": -86.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lower-blackwater-baptist-church-brownsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lower-blackwater-baptist-church-brownsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lower-brushy-creek-church-blaine",
@@ -11420,10 +11628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83342,
+"lon": -83.84159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lower-coalport-church-artemus-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lower-coalport-church-artemus-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "loyall-church-of-christ-baxter",
@@ -11507,10 +11716,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lynn-acres-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lynn-acres-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lynnhurst-church-beechmont",
@@ -11536,10 +11746,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lynnhurst-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lynnhurst-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "m-street-church-of-christ-beechmont",
@@ -11565,10 +11776,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/m-street-church-of-christ-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/m-street-church-of-christ-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "macdowell-chapel-brooks",
@@ -11594,10 +11806,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/macdowell-chapel-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/macdowell-chapel-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "macedonia-baptist-church-bellevue",
@@ -11623,10 +11836,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/macedonia-baptist-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/macedonia-baptist-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "madison-avenue-baptist-church-bowling-green",
@@ -11652,10 +11866,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/madison-avenue-baptist-church-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/madison-avenue-baptist-church-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maggie-memorial-church-of-old-regular-baptist-carrie",
@@ -11710,10 +11925,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47671,
+"lon": -87.82002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/manchester-seventh-day-adventist-church-clay-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/manchester-seventh-day-adventist-church-clay-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "manito-church-calvin",
@@ -11797,10 +12013,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mare-creek-church-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mare-creek-church-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "marshall-branch-church-burdine",
@@ -11913,10 +12130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.19255,
+"lon": -86.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maulden-church-brownsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maulden-church-brownsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maxwell-street-presbyterian-church-lexington",
@@ -11942,10 +12160,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.98869,
+"lon": -84.47772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maxwell-street-presbyterian-church-lexington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maxwell-street-presbyterian-church-lexington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mayking-baptist-church-ermine",
@@ -12087,10 +12306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/memorial-united-methodist-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/memorial-united-methodist-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mentor-church-california",
@@ -12145,10 +12365,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53146,
+"lon": -84.03687,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-south-mount-olivet-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-south-mount-olivet-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "middle-fork-united-baptist-church-debord",
@@ -12203,10 +12424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.56869,
+"lon": -84.29632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/middletown-baptist-church-berea-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/middletown-baptist-church-berea-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "midlane-park-presbyterian-church-petersburg",
@@ -12232,10 +12454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06922,
+"lon": -84.86828,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/midlane-park-presbyterian-church-petersburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/midlane-park-presbyterian-church-petersburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "miles-memorial-christian-methodist-episcopal-church-germantown",
@@ -12348,10 +12571,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.66754,
+"lon": -86.85194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/millwood-church-adairville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/millwood-church-adairville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monroe-chapel-cumberland-presbyterian-church-monroe",
@@ -12435,10 +12659,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.87061,
+"lon": -89.00979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/morris-valley-church-bardwell-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/morris-valley-church-bardwell-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-auburn-presbyterian-church-dayton",
@@ -12464,10 +12689,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11284,
+"lon": -84.47272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-auburn-presbyterian-church-dayton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-auburn-presbyterian-church-dayton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-elmira-church-brooks",
@@ -12493,10 +12719,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-elmira-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-elmira-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-holly-united-methodist-church-fairdale",
@@ -12522,10 +12749,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10507,
+"lon": -85.75885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-holly-united-methodist-church-fairdale-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-holly-united-methodist-church-fairdale-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-lebanon-church-alvaton",
@@ -12638,10 +12866,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.38368,
+"lon": -85.43996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-tabor-church-buckner-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-tabor-church-buckner-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-tabor-episcopal-methodist-church-fairview",
@@ -12783,10 +13012,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-olive-missionary-baptist-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-olive-missionary-baptist-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "muddy-gap-baptist-church-hima",
@@ -12841,10 +13071,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.93702,
+"lon": -85.99163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/muldraugh-united-methodist-church-muldraugh-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/muldraugh-united-methodist-church-muldraugh-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mullins-point-chapel-campton",
@@ -12870,10 +13101,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73425,
+"lon": -83.54741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mullins-point-chapel-campton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mullins-point-chapel-campton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mullins-true-baptist-church-kite",
@@ -12928,10 +13160,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.83342,
+"lon": -83.84159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/myrick-church-artemus-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/myrick-church-artemus-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "n-street-baptist-church-beechmont",
@@ -12957,10 +13190,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/n-street-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/n-street-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "naked-truth-arlington",
@@ -13044,10 +13278,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nast-trinity-united-methodist-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nast-trinity-united-methodist-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nauvoo-united-methodist-church-south-portsmouth",
@@ -13131,10 +13366,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10507,
+"lon": -85.75885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-cut-road-baptist-church-fairdale-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-cut-road-baptist-church-fairdale-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-friendship-church-auburn",
@@ -13160,10 +13396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.86421,
+"lon": -86.71027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-friendship-church-auburn-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-friendship-church-auburn-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-home-regular-baptist-church-garner",
@@ -13218,10 +13455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69395,
+"lon": -85.85913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-community-church-elizabethtown-ky-estados-unidos-94637"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-community-church-elizabethtown-ky-estados-unidos-94637",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-jerusalem-seventh-day-adventist-church-junction-city",
@@ -13247,10 +13485,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58674,
+"lon": -84.79384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-jerusalem-seventh-day-adventist-church-junction-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-jerusalem-seventh-day-adventist-church-junction-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-jerusilum-baptist-church-henderson",
@@ -13276,10 +13515,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.83615,
+"lon": -87.59001,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-jerusilum-baptist-church-henderson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-jerusilum-baptist-church-henderson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-life-church-allen",
@@ -13334,10 +13574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95951,
+"lon": -84.38799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-macedonia-baptist-church-alexandria-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-macedonia-baptist-church-alexandria-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-richmond-church-of-christ-california",
@@ -13421,10 +13662,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newlife-church-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newlife-church-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ninth-street-baptist-church-bellevue",
@@ -13450,10 +13692,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ninth-street-baptist-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ninth-street-baptist-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ninth-street-methodist-church-bellevue",
@@ -13479,10 +13722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ninth-street-methodist-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ninth-street-methodist-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-bullitt-christian-church-brooks",
@@ -13508,10 +13752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-bullitt-christian-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-bullitt-christian-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-evarts-baptist-church-ages-brookside",
@@ -13624,10 +13869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.10922,
+"lon": -87.88196,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ogden-memorial-methodist-church-princeton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ogden-memorial-methodist-church-princeton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "okolona-presbyterian-church-louisville",
@@ -13653,10 +13899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/okolona-presbyterian-church-louisville-ky-estados-unidos-68929"
+"fuente_url": "https://encuentraiglesias.com/iglesia/okolona-presbyterian-church-louisville-ky-estados-unidos-68929",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-beaver-church-of-regular-baptist-drift",
@@ -13798,10 +14045,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.26674,
+"lon": -85.53302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-hobbs-chapel-anchorage-ky-estados-unidos-68820"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-hobbs-chapel-anchorage-ky-estados-unidos-68820",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-paint-primitive-baptist-church-crockett",
@@ -13943,10 +14191,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/overdale-united-methodist-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/overdale-united-methodist-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "paintsville-united-baptist-church-hagerhill",
@@ -14001,10 +14250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.80923,
+"lon": -85.4669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkway-baptist-church-bardstown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkway-baptist-church-bardstown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parkwood-united-methodist-church-beechmont",
@@ -14030,10 +14280,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkwood-united-methodist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkwood-united-methodist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "patmos-baptist-church-beechmont",
@@ -14059,10 +14310,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/patmos-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/patmos-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peaceful-valley-independent-baptist-church-flatgap",
@@ -14146,10 +14398,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11284,
+"lon": -84.47272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peniel-missionary-baptist-church-dayton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peniel-missionary-baptist-church-dayton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "penile-baptist-church-fairdale",
@@ -14175,10 +14428,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10507,
+"lon": -85.75885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/penile-baptist-church-fairdale-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/penile-baptist-church-fairdale-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostals-of-western-kentucky-fredonia",
@@ -14233,10 +14487,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.6909,
+"lon": -85.13468,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peolia-church-albany-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peolia-church-albany-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peoples-chapel-burnside",
@@ -14262,10 +14517,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.98897,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-chapel-burnside-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-chapel-burnside-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "persimmon-grove-baptist-church-alexandria",
@@ -14291,10 +14547,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95951,
+"lon": -84.38799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/persimmon-grove-baptist-church-alexandria-ky-estados-unidos-84731"
+"fuente_url": "https://encuentraiglesias.com/iglesia/persimmon-grove-baptist-church-alexandria-ky-estados-unidos-84731",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "philadelphia-regular-primitive-baptist-church-ary",
@@ -14349,10 +14606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-memorial-christian-methodist-episcopal-church-louisville-ky-estados-unidos-68748"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-memorial-christian-methodist-episcopal-church-louisville-ky-estados-unidos-68748",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "philpot-chapel-baptist-church-east-bernstadt",
@@ -14378,10 +14636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.18953,
+"lon": -84.11771,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/philpot-chapel-baptist-church-east-bernstadt-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/philpot-chapel-baptist-church-east-bernstadt-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phos-community-church-buckner",
@@ -14407,10 +14666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.38368,
+"lon": -85.43996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phos-community-church-buckner-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phos-community-church-buckner-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pikeville-church-albany",
@@ -14436,10 +14696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.6909,
+"lon": -85.13468,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pikeville-church-albany-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pikeville-church-albany-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilgrims-home-church-of-old-regular-baptist-grethel",
@@ -14552,10 +14813,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.31925,
+"lon": -83.97048,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pine-flat-church-annville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pine-flat-church-annville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pine-grove-regular-baptist-church-hellier",
@@ -14668,10 +14930,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59256,
+"lon": -85.31773,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/poplar-ridge-church-bedford-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/poplar-ridge-church-bedford-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portland-methodist-center-louisville",
@@ -14697,10 +14960,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portland-methodist-center-louisville-ky-estados-unidos-68372"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portland-methodist-center-louisville-ky-estados-unidos-68372",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prater-united-methodist-church-salyersville",
@@ -14726,10 +14990,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.75259,
+"lon": -83.06878,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prater-united-methodist-church-salyersville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prater-united-methodist-church-salyersville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "quinton-church-bronston",
@@ -14842,10 +15107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.3434,
+"lon": -85.34191,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reed-chapel-campbellsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reed-chapel-campbellsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reformed-baptist-church-of-louisville-fisherville",
@@ -15016,10 +15282,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.87562,
+"lon": -84.61022,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/richwood-presbyterian-church-walton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/richwood-presbyterian-church-walton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ridgewood-baptist-church-bethany",
@@ -15103,10 +15370,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rios-de-aqua-viva-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rios-de-aqua-viva-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ripley-first-presbyterian-church-dover",
@@ -15161,10 +15429,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06979,
+"lon": -85.68551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-baptist-church-of-louisville-hillview-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-baptist-church-of-louisville-hillview-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverview-church-beauty",
@@ -15364,10 +15633,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4048,
+"lon": -82.60044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rt-60-free-will-baptist-church-catlettsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rt-60-free-will-baptist-church-catlettsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "russell-springs-united-methodist-church-russell-springs",
@@ -15393,10 +15663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.05618,
+"lon": -85.08857,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/russell-springs-united-methodist-church-russell-springs-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/russell-springs-united-methodist-church-russell-springs-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-james-united-church-of-christ-beechmont",
@@ -15422,10 +15693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-james-united-church-of-christ-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-james-united-church-of-christ-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-john-neumann-church-beauty",
@@ -15480,10 +15752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-methodist-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-methodist-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-impact-life-church-bellevue",
@@ -15509,10 +15782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10645,
+"lon": -84.47883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-impact-life-church-bellevue-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-impact-life-church-bellevue-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-stephens-church-louisville",
@@ -15538,10 +15812,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-stephens-church-louisville-ky-estados-unidos-68336"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-stephens-church-louisville-ky-estados-unidos-68336",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-stephens-missionary-baptist-church-dayton",
@@ -15567,10 +15842,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11284,
+"lon": -84.47272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-stephens-missionary-baptist-church-dayton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-stephens-missionary-baptist-church-dayton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-thomas-episcopal-church-louisville",
@@ -15596,10 +15872,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-thomas-episcopal-church-louisville-ky-estados-unidos-68819"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-thomas-episcopal-church-louisville-ky-estados-unidos-68819",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-thomas-lutheran-church-arlington",
@@ -15683,10 +15960,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.55149,
+"lon": -82.63349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sammy-branch-church-betsy-layne-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sammy-branch-church-betsy-layne-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sand-run-baptist-church-hebron",
@@ -15712,10 +15990,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06589,
+"lon": -84.70106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sand-run-baptist-church-hebron-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sand-run-baptist-church-hebron-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "savage-memorial-church-beech-grove",
@@ -15741,10 +16020,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/savage-memorial-church-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/savage-memorial-church-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "scottsville-baptist-church-allen",
@@ -15857,10 +16137,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78646,
+"lon": -84.36966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-twelve-mile-baptist-church-butler-ky-estados-unidos-78696"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-twelve-mile-baptist-church-butler-ky-estados-unidos-78696",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "seventh-day-adventist-church-of-south-louisville-beechmont",
@@ -15886,10 +16167,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-church-of-south-louisville-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-church-of-south-louisville-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "severns-valley-baptist-church-elizabethtown",
@@ -15915,10 +16197,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69395,
+"lon": -85.85913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/severns-valley-baptist-church-elizabethtown-ky-estados-unidos-66619"
+"fuente_url": "https://encuentraiglesias.com/iglesia/severns-valley-baptist-church-elizabethtown-ky-estados-unidos-66619",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shavers-chapel-bremen",
@@ -15973,10 +16256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.75341,
+"lon": -84.76661,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shawnee-run-church-burgin-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shawnee-run-church-burgin-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shelbyville-wesleyan-church-shelbyville",
@@ -16002,10 +16286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.21201,
+"lon": -85.22357,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shelbyville-wesleyan-church-shelbyville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shelbyville-wesleyan-church-shelbyville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shelton-chapel-boaz",
@@ -16060,10 +16345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77174,
+"lon": -84.00576,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shinkles-ridge-church-augusta-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shinkles-ridge-church-augusta-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sinking-valley-baptist-church-cannon",
@@ -16147,10 +16433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.6909,
+"lon": -85.13468,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/smith-chapel-albany-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/smith-chapel-albany-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "somerset-seventh-day-adventist-church-ferguson",
@@ -16176,10 +16463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/somerset-seventh-day-adventist-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/somerset-seventh-day-adventist-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-carrollton-united-methodist-church-south-carrollton",
@@ -16263,10 +16551,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-end-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-end-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-frankfort-presbyterian-church-frankfort",
@@ -16292,10 +16581,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20091,
+"lon": -84.87328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-frankfort-presbyterian-church-frankfort-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-frankfort-presbyterian-church-frankfort-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-jefferson-baptist-church-bethany",
@@ -16379,10 +16669,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-maple-street-first-baptist-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-maple-street-first-baptist-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-pleasant-grove-church-hazel",
@@ -16437,10 +16728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southeast-christian-church-south-louisville-campus-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southeast-christian-church-south-louisville-campus-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southern-heights-baptist-church-beaumont",
@@ -16582,10 +16874,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.4762,
+"lon": -83.67491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spencer-church-booneville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spencer-church-booneville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spring-bayou-church-kevil",
@@ -16611,10 +16904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.08505,
+"lon": -88.88673,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spring-bayou-church-kevil-ky-estados-unidos-37826"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spring-bayou-church-kevil-ky-estados-unidos-37826",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-john-ame-zion-church-bardstown",
@@ -16640,10 +16934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.80923,
+"lon": -85.4669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-john-ame-zion-church-bardstown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-john-ame-zion-church-bardstown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-baptist-chirch-goshen",
@@ -16669,10 +16964,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.40312,
+"lon": -85.57413,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-baptist-chirch-goshen-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-baptist-chirch-goshen-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-anglican-church-benton",
@@ -16698,10 +16994,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85728,
+"lon": -88.35031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-anglican-church-benton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-anglican-church-benton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-raphael-episcopal-church-beaumont",
@@ -16756,10 +17053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58674,
+"lon": -84.79384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-stephen-church-junction-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-stephen-church-junction-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "staffordsburg-united-methodist-church-kenton",
@@ -16814,10 +17112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84564,
+"lon": -83.85825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stanton-bible-methodist-mission-stanton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stanton-bible-methodist-mission-stanton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stanton-first-church-of-god-stanton",
@@ -16843,10 +17142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.84564,
+"lon": -83.85825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stanton-first-church-of-god-stanton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stanton-first-church-of-god-stanton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "star-of-bethlehem-church-elkhorn-city",
@@ -16872,10 +17172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.304,
+"lon": -82.35098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/star-of-bethlehem-church-elkhorn-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/star-of-bethlehem-church-elkhorn-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "state-street-united-methodist-church-bowling-green",
@@ -16901,10 +17202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/state-street-united-methodist-church-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/state-street-united-methodist-church-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "steel-creek-regular-baptist-church-dema",
@@ -16959,10 +17261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72199,
+"lon": -86.08998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stinson-church-beech-grove-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stinson-church-beech-grove-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stithton-baptist-church-junction-city",
@@ -16988,10 +17291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58674,
+"lon": -84.79384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stithton-baptist-church-junction-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stithton-baptist-church-junction-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stoner-memorial-african-methodist-episcopal-zion-church-louisville",
@@ -17017,10 +17321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stoner-memorial-african-methodist-episcopal-zion-church-louisville-ky-estados-unidos-68850"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stoner-memorial-african-methodist-episcopal-zion-church-louisville-ky-estados-unidos-68850",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stonewall-church-beaumont",
@@ -17162,10 +17467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4223,
+"lon": -83.73381,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/strawberry-united-methodist-church-flemingsburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/strawberry-united-methodist-church-flemingsburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-church-of-christ-alexandria",
@@ -17191,10 +17497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95951,
+"lon": -84.38799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-church-of-christ-alexandria-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-church-of-christ-alexandria-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-hills-baptist-church-brooks",
@@ -17220,10 +17527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06118,
+"lon": -85.70968,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-hills-baptist-church-brooks-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-hills-baptist-church-brooks-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sweeden-church-bee-spring",
@@ -17278,10 +17586,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sydenstricker-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sydenstricker-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "taylor-church-belfry",
@@ -17336,10 +17645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.40199,
+"lon": -86.87583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/taylor-mines-church-beaver-dam-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/taylor-mines-church-beaver-dam-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "temple-hill-church-almo",
@@ -17394,10 +17704,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/temple-of-faith-baptist-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/temple-of-faith-baptist-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-bethany-lutheran-church-erlanger",
@@ -17423,10 +17734,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01673,
+"lon": -84.60078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-bethany-lutheran-church-erlanger-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-bethany-lutheran-church-erlanger-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-bridge-church-alexandria",
@@ -17452,10 +17764,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95951,
+"lon": -84.38799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-bridge-church-alexandria-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-bridge-church-alexandria-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-little-rachel-church-of-jesus-christ-of-old-regular-baptist-beaver",
@@ -17510,10 +17823,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.98869,
+"lon": -84.47772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-star-of-bethlehem-baptized-pentecostal-church-of-holiness-lexington-ky-estados-unidos-70830"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-star-of-bethlehem-baptized-pentecostal-church-of-holiness-lexington-ky-estados-unidos-70830",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thornton-regular-baptist-church-ermine",
@@ -17597,10 +17911,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73704,
+"lon": -82.75821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tom-moore-memorial-baptist-church-auxier-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tom-moore-memorial-baptist-church-auxier-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "topmost-baptist-church-dema",
@@ -17655,10 +17970,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11284,
+"lon": -84.47272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tower-united-methodist-church-dayton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tower-united-methodist-church-dayton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trace-branch-united-methodist-church-barbourville",
@@ -17684,10 +18000,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.86648,
+"lon": -83.88881,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trace-branch-united-methodist-church-barbourville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trace-branch-united-methodist-church-barbourville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tri-city-pentecostal-church-benham",
@@ -17742,10 +18059,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.06674,
+"lon": -84.59994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-fellowship-church-ferguson-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-fellowship-church-ferguson-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-hill-united-methodist-church-mount-vernon",
@@ -17771,10 +18089,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.02563,
+"lon": -84.49522,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-hill-united-methodist-church-mount-vernon-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-hill-united-methodist-church-mount-vernon-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "true-church-of-god-california",
@@ -17829,10 +18148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07506,
+"lon": -84.44716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/truelight-missionary-baptist-church-fort-thomas-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/truelight-missionary-baptist-church-fort-thomas-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "truth-baptist-church-elizabethtown-kentucky-junction-city",
@@ -17858,10 +18178,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.58674,
+"lon": -84.79384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/truth-baptist-church-elizabethtown-kentucky-junction-city-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/truth-baptist-church-elizabethtown-kentucky-junction-city-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "turkey-creek-mission-bimble",
@@ -17945,10 +18266,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59256,
+"lon": -85.31773,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitedn-methodish-church-bedford-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitedn-methodish-church-bedford-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "university-heights-church-of-christ-bowling-green",
@@ -17974,10 +18296,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/university-heights-church-of-christ-bowling-green-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/university-heights-church-of-christ-bowling-green-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "upper-blackwater-church-brownsville",
@@ -18003,10 +18326,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.19255,
+"lon": -86.26775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/upper-blackwater-church-brownsville-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/upper-blackwater-church-brownsville-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-community-church-bethany",
@@ -18061,10 +18385,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.69395,
+"lon": -85.85913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-creek-baptist-church-elizabethtown-ky-estados-unidos-94408"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-creek-baptist-church-elizabethtown-ky-estados-unidos-94408",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-station-baptist-church-bethany",
@@ -18264,10 +18589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/voice-of-hope-deliverance-center-louisville-ky-estados-unidos-68738"
+"fuente_url": "https://encuentraiglesias.com/iglesia/voice-of-hope-deliverance-center-louisville-ky-estados-unidos-68738",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "walnut-hills-baptist-church-dayton",
@@ -18293,10 +18619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11284,
+"lon": -84.47272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-hills-baptist-church-dayton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-hills-baptist-church-dayton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "walnut-street-baptist-church-benton",
@@ -18322,10 +18649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.85728,
+"lon": -88.35031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-street-baptist-church-benton-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-street-baptist-church-benton-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "walters-clement-african-methodist-episcopal-zion-church-petersburg",
@@ -18351,10 +18679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06922,
+"lon": -84.86828,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/walters-clement-african-methodist-episcopal-zion-church-petersburg-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/walters-clement-african-methodist-episcopal-zion-church-petersburg-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "walton-united-methodist-church-green-road",
@@ -18496,10 +18825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.17449,
+"lon": -87.0325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wellman-memorial-wesleyan-church-beechmont-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wellman-memorial-wesleyan-church-beechmont-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wells-chapel-boons-camp",
@@ -18612,10 +18942,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.77422,
+"lon": -87.11333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesleyan-heights-united-methodist-church-owensboro-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesleyan-heights-united-methodist-church-owensboro-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-broadway-united-methodist-church-louisville",
@@ -18641,10 +18972,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-broadway-united-methodist-church-louisville-ky-estados-unidos-68737"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-broadway-united-methodist-church-louisville-ky-estados-unidos-68737",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-covington-baptist-church-covington",
@@ -18670,10 +19002,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08367,
+"lon": -84.50855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-covington-baptist-church-covington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-covington-baptist-church-covington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westwood-enterprise-baptist-church-ashland",
@@ -18699,10 +19032,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westwood-enterprise-baptist-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westwood-enterprise-baptist-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "white-hill-church-breeding",
@@ -18786,10 +19120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.80923,
+"lon": -85.4669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wickland-church-bardstown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wickland-church-bardstown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "williamstown-methodist-church-williamstown",
@@ -18815,10 +19150,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.63812,
+"lon": -84.5605,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/williamstown-methodist-church-williamstown-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/williamstown-methodist-church-williamstown-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willow-fern-church-bulan",
@@ -18873,10 +19209,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.86202,
+"lon": -84.66161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wilmore-free-methodist-church-wilmore-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wilmore-free-methodist-church-wilmore-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wilmore-presbyterian-church-wilmore",
@@ -18902,10 +19239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.86202,
+"lon": -84.66161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wilmore-presbyterian-church-wilmore-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wilmore-presbyterian-church-wilmore-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wilmore-united-methodist-church-wilmore",
@@ -18931,10 +19269,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.86202,
+"lon": -84.66161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wilmore-united-methodist-church-wilmore-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wilmore-united-methodist-church-wilmore-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wku-wesley-foundation-bowling-green",
@@ -18960,10 +19299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99032,
+"lon": -86.4436,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wku-wesley-foundation-bowling-green-ky-estados-unidos-62516"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wku-wesley-foundation-bowling-green-ky-estados-unidos-62516",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "woodhaven-baptist-church-burlington",
@@ -18989,10 +19329,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02756,
+"lon": -84.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/woodhaven-baptist-church-burlington-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/woodhaven-baptist-church-burlington-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wooton-presbyterian-church-wooton",
@@ -19047,10 +19388,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10507,
+"lon": -85.75885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/yorktown-baptist-church-fairdale-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/yorktown-baptist-church-fairdale-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "youngs-chapel-african-methodist-episcopal-church-louisville",
@@ -19076,10 +19418,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.25424,
+"lon": -85.75941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/youngs-chapel-african-methodist-episcopal-church-louisville-ky-estados-unidos-68868"
+"fuente_url": "https://encuentraiglesias.com/iglesia/youngs-chapel-african-methodist-episcopal-church-louisville-ky-estados-unidos-68868",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "your-little-country-church-boston",
@@ -19134,9 +19477,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47841,
+"lon": -82.63794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zoar-baptist-church-ashland-kentucky"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zoar-baptist-church-ashland-kentucky",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

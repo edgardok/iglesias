@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.55,
+"lon": -72.7,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-diospi-suyana-curahuasi-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-diospi-suyana-curahuasi-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-andahuaylas",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.65556,
+"lon": -73.38722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-andahuaylas-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-andahuaylas-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-vida-abundante-andahuaylas",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.65556,
+"lon": -73.38722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-vida-abundante-andahuaylas-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-vida-abundante-andahuaylas-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-curahuasi-ayaurco",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.41578,
+"lon": -73.20516,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cotaruse-cotaruse-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cotaruse-cotaruse-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-virgen-cocharcas-cotaruse",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.41578,
+"lon": -73.20516,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-virgen-cocharcas-cotaruse-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-virgen-cocharcas-cotaruse-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-paccaypata-san-pedro-de-cachora",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.63333,
+"lon": -72.88333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-paccaypata-san-pedro-de-cachora-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-paccaypata-san-pedro-de-cachora-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tamburco-tamburco",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.61667,
+"lon": -72.87139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tamburco-tamburco-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tamburco-tamburco-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-iepj-san-miguel-de-chaccrapampa",
@@ -284,10 +291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.63333,
+"lon": -72.88333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pedro-de-cachora-san-pedro-de-cachora-apurimac"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pedro-de-cachora-san-pedro-de-cachora-apurimac",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-pedro-de-uripa-anco-huallo",

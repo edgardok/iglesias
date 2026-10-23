@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00955,
+"lon": -4.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/al-limite-palencia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/al-limite-palencia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antigua-ermita-de-san-roque-quintanilla-de-la-mata",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.98855,
+"lon": -3.76756,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-ermita-de-san-roque-quintanilla-de-la-mata-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-ermita-de-san-roque-quintanilla-de-la-mata-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "asamblea-cristiana-biblica-avila",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.65724,
+"lon": -4.69951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-cristiana-biblica-avila-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-cristiana-biblica-avila-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "asambleas-de-dios-miranda-de-ebro",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.6865,
+"lon": -2.94695,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asambleas-de-dios-miranda-de-ebro-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asambleas-de-dios-miranda-de-ebro-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-a-santa-brigida-hontanas",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.31312,
+"lon": -4.04529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-a-santa-brigida-hontanas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-a-santa-brigida-hontanas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-residencia",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96882,
+"lon": -5.66388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-vot-capuchinos-salamanca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-vot-capuchinos-salamanca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-cristobal-cervera-de-pisuerga",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86676,
+"lon": -4.49796,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-cristobal-cervera-de-pisuerga-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-cristobal-cervera-de-pisuerga-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-olav-covarrubias",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05927,
+"lon": -3.51956,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-olav-covarrubias-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-olav-covarrubias-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-santo-cristo-de-la-piedad-castrocontrigo",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.18363,
+"lon": -6.19022,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-santo-cristo-de-la-piedad-castrocontrigo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-santo-cristo-de-la-piedad-castrocontrigo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carmelitas-descalzas-palencia-palencia",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00955,
+"lon": -4.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carmelitas-descalzas-palencia-palencia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carmelitas-descalzas-palencia-palencia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-carmelitana-centro-de-espiritualidad-santa-teresa-de-avila-avila",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.65724,
+"lon": -4.69951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-carmelitana-centro-de-espiritualidad-santa-teresa-de-avila-avila-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-carmelitana-centro-de-espiritualidad-santa-teresa-de-avila-avila-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-provincial-de-las-siervas-de-jesus-soria",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76401,
+"lon": -2.46883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-provincial-de-las-siervas-de-jesus-soria-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-provincial-de-las-siervas-de-jesus-soria-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-del-camino-de-vida-valladolid",
@@ -400,10 +412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65541,
+"lon": -4.72353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-del-camino-de-vida-valladolid-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-del-camino-de-vida-valladolid-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-de-la-tuxa-villamanin",
@@ -429,10 +442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.93864,
+"lon": -5.65669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-la-tuxa-villamanin-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-la-tuxa-villamanin-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-cristo-de-la-victoria-penacaballera",
@@ -458,10 +472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.34353,
+"lon": -5.86121,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cristo-de-la-victoria-penacaballera-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cristo-de-la-victoria-penacaballera-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-agursino-villar-del-buey",
@@ -487,10 +502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33024,
+"lon": -6.18935,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-agursino-villar-del-buey-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-agursino-villar-del-buey-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-carrascosita-berlanga-de-duero",
@@ -516,10 +532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4656,
+"lon": -2.86147,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-carrascosita-berlanga-de-duero-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-carrascosita-berlanga-de-duero-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-castroboda-maderuelo",
@@ -545,10 +562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48644,
+"lon": -3.52218,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-castroboda-maderuelo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-castroboda-maderuelo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-gavilanes-ledesma",
@@ -574,10 +592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.08829,
+"lon": -6.00178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-gavilanes-ledesma-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-gavilanes-ledesma-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-anunciada-la-fregeneda",
@@ -632,10 +651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.75192,
+"lon": -4.66583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-asuncion-mingorria-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-asuncion-mingorria-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-casita-alaejos",
@@ -661,10 +681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.30732,
+"lon": -5.21567,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-casita-alaejos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-casita-alaejos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-concepcion-nava-del-rey",
@@ -690,10 +711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33036,
+"lon": -5.08095,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-concepcion-nava-del-rey-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-concepcion-nava-del-rey-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-fuente-santa-caballar",
@@ -719,10 +741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12159,
+"lon": -3.9642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-fuente-santa-caballar-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-fuente-santa-caballar-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-pena-de-francia-zamora",
@@ -748,10 +771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50633,
+"lon": -5.74456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-pena-de-francia-zamora-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-pena-de-francia-zamora-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-pilarcita-segovia",
@@ -777,10 +801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-pilarcita-segovia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-pilarcita-segovia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-quintanilla-montealegre-de-campos",
@@ -835,10 +860,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94397,
+"lon": -5.8741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-torre-galindo-y-perahuy-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-torre-galindo-y-perahuy-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-vera-cruz-campazas",
@@ -864,10 +890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.14219,
+"lon": -5.49349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vera-cruz-campazas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vera-cruz-campazas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-vera-cruz-ferreruela",
@@ -893,10 +920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76673,
+"lon": -6.07215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vera-cruz-ferreruela-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vera-cruz-ferreruela-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-vigen-de-matute-vegas-de-matute",
@@ -922,10 +950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.79476,
+"lon": -4.27762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vigen-de-matute-vegas-de-matute-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vigen-de-matute-vegas-de-matute-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-virgen-cevico-de-la-torre",
@@ -951,10 +980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.85113,
+"lon": -4.40973,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-virgen-cevico-de-la-torre-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-virgen-cevico-de-la-torre-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-angustias-autilla-del-pino",
@@ -980,10 +1010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.99207,
+"lon": -4.63393,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-angustias-autilla-del-pino-palencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-angustias-autilla-del-pino-palencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-espinillas-valdeavellano-de-tera",
@@ -1009,10 +1040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94229,
+"lon": -2.57634,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-espinillas-valdeavellano-de-tera-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-espinillas-valdeavellano-de-tera-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-nieves-san-adrian-de-juarros",
@@ -1038,10 +1070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27427,
+"lon": -3.47551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-nieves-san-adrian-de-juarros-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-nieves-san-adrian-de-juarros-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-manzaneda-de-torio-garrafe-de-torio",
@@ -1067,10 +1100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73285,
+"lon": -5.5236,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-manzaneda-de-torio-garrafe-de-torio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-manzaneda-de-torio-garrafe-de-torio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-mensegal-endrinal",
@@ -1096,10 +1130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.59109,
+"lon": -5.80411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-mensegal-endrinal-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-mensegal-endrinal-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-oteruelo-muda",
@@ -1125,10 +1160,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.8753,
+"lon": -4.39426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-oteruelo-muda-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-oteruelo-muda-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-pegaruas-puebla-de-lillo",
@@ -1154,10 +1190,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00691,
+"lon": -5.27387,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-pegaruas-puebla-de-lillo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-pegaruas-puebla-de-lillo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-pena-furada-iguena",
@@ -1183,10 +1220,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.72853,
+"lon": -6.27738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-pena-furada-iguena-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-pena-furada-iguena-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-rollanejo-el-cubo-de-don-sancho",
@@ -1212,10 +1250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.89089,
+"lon": -6.30536,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-rollanejo-el-cubo-de-don-sancho-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-rollanejo-el-cubo-de-don-sancho-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-roque-armador-san-felices-de-los-gallegos",
@@ -1241,10 +1280,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84954,
+"lon": -6.70804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-roque-armador-san-felices-de-los-gallegos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-roque-armador-san-felices-de-los-gallegos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-amancio-sotillo-de-la-ribera",
@@ -1270,10 +1310,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77717,
+"lon": -3.82525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-amancio-sotillo-de-la-ribera-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-amancio-sotillo-de-la-ribera-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-antolin-navas-de-riofrio",
@@ -1328,10 +1369,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-de-hontoria-segovia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-de-hontoria-segovia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-antonio-del-cerro-vegas-de-matute",
@@ -1357,10 +1399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.79476,
+"lon": -4.27762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-del-cerro-vegas-de-matute-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-del-cerro-vegas-de-matute-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-benito-de-gallegos-cuellar",
@@ -1386,10 +1429,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40155,
+"lon": -4.31474,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-benito-de-gallegos-cuellar-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-benito-de-gallegos-cuellar-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-blas-aldea-real",
@@ -1415,10 +1459,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.18553,
+"lon": -4.16559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-blas-aldea-real-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-blas-aldea-real-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-cristobal-aguilar-de-campoo",
@@ -1444,10 +1489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79452,
+"lon": -4.25892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cristobal-aguilar-de-campoo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cristobal-aguilar-de-campoo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-cristobal-aldea-de-san-miguel",
@@ -1473,10 +1519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.46098,
+"lon": -4.6158,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cristobal-aldea-de-san-miguel-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-cristobal-aldea-de-san-miguel-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-esteban-brime-de-urz",
@@ -1502,10 +1549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.03794,
+"lon": -5.87326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-esteban-brime-de-urz-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-esteban-brime-de-urz-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-guillermo-cistierna",
@@ -1531,10 +1579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.80344,
+"lon": -5.12664,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-guillermo-cistierna-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-guillermo-cistierna-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-hipolito-la-riba-de-escalote",
@@ -1589,10 +1638,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.3413,
+"lon": -4.60071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-de-cestillos-carrion-de-los-condes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-de-cestillos-carrion-de-los-condes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-juan-de-la-cruz-segovia",
@@ -1618,10 +1668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-de-la-cruz-segovia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-de-la-cruz-segovia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pedro-aranda-de-duero",
@@ -1647,10 +1698,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67041,
+"lon": -3.6892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pedro-aranda-de-duero-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pedro-aranda-de-duero-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pelayo-bocigas",
@@ -1676,10 +1728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.2307,
+"lon": -4.68128,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pelayo-bocigas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pelayo-bocigas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-ramon-orejana",
@@ -1763,10 +1816,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.39892,
+"lon": -4.04295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-brigida-fuentepinel-segovia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-brigida-fuentepinel-segovia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-casilda-villar-del-rio",
@@ -1792,10 +1846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.07574,
+"lon": -2.35082,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-casilda-villar-del-rio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-casilda-villar-del-rio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-cecilia-san-esteban-de-gormaz",
@@ -1821,10 +1876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.57436,
+"lon": -3.20418,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-cecilia-san-esteban-de-gormaz-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-cecilia-san-esteban-de-gormaz-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-coloma-maderuelo",
@@ -1850,10 +1906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48644,
+"lon": -3.52218,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-coloma-maderuelo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-coloma-maderuelo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-maria-de-la-losa-el-espinar",
@@ -1937,10 +1994,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94255,
+"lon": -4.98659,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-marina-belmonte-de-campos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-marina-belmonte-de-campos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santiago-almenar-de-soria",
@@ -1966,10 +2024,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6823,
+"lon": -2.20082,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santiago-almenar-de-soria-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santiago-almenar-de-soria-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santiago-de-almuzara-carmenes",
@@ -1995,10 +2054,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santiago-de-almuzara-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santiago-de-almuzara-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santo-cristo-de-la-buena-muerte-cidones",
@@ -2024,10 +2084,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.81444,
+"lon": -2.63991,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-cristo-de-la-buena-muerte-cidones-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-cristo-de-la-buena-muerte-cidones-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santo-ecce-homo-rodilana-medina-del-campo",
@@ -2053,10 +2114,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.31239,
+"lon": -4.91413,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-ecce-homo-rodilana-medina-del-campo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-ecce-homo-rodilana-medina-del-campo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santo-toribio-palencia",
@@ -2082,10 +2144,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00955,
+"lon": -4.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-toribio-palencia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santo-toribio-palencia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santos-nuevos-almarza",
@@ -2111,10 +2174,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94678,
+"lon": -2.469,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santos-nuevos-almarza-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santos-nuevos-almarza-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sayuz-castromonte",
@@ -2140,10 +2204,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77355,
+"lon": -5.03909,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sayuz-castromonte-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sayuz-castromonte-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-terrubias-derruida-san-pedro-de-rozados",
@@ -2169,10 +2234,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.79008,
+"lon": -5.73716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-terrubias-derruida-san-pedro-de-rozados-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-terrubias-derruida-san-pedro-de-rozados-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-tozalmoro-arancon",
@@ -2198,10 +2264,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.80017,
+"lon": -2.28141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-tozalmoro-arancon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-tozalmoro-arancon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-valdecantos-santa-cruz-de-yanguas",
@@ -2227,10 +2294,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.0625,
+"lon": -2.44894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-valdecantos-santa-cruz-de-yanguas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-valdecantos-santa-cruz-de-yanguas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-villahudor-barruelo-del-valle",
@@ -2285,10 +2353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.38379,
+"lon": -6.10538,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-bendito-cristo-santiago-millas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-bendito-cristo-santiago-millas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-carmen-cea",
@@ -2314,10 +2383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.46278,
+"lon": -5.01152,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-carmen-cea-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-carmen-cea-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-carrascal-valdefuentes-de-sangusin",
@@ -2343,10 +2413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.46578,
+"lon": -5.83286,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-carrascal-valdefuentes-de-sangusin-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-carrascal-valdefuentes-de-sangusin-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-agonia-mingorria",
@@ -2372,10 +2443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.75192,
+"lon": -4.66583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-agonia-mingorria-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-agonia-mingorria-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-buena-muerte-pina-de-esgueva",
@@ -2401,10 +2473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.72843,
+"lon": -4.42823,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-buena-muerte-pina-de-esgueva-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-buena-muerte-pina-de-esgueva-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-luz-avia",
@@ -2433,7 +2506,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-luz-avia-avila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-luz-avia-avila",
+"geo_fuente": null
 },
 {
 "slug": "ermita-del-cristo-de-las-batallas-macotera",
@@ -2459,10 +2533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.83105,
+"lon": -5.28526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-las-batallas-macotera-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-las-batallas-macotera-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-las-heras-santibanez-de-la-pena",
@@ -2488,10 +2563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.80929,
+"lon": -4.73026,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-las-heras-santibanez-de-la-pena-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-las-heras-santibanez-de-la-pena-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-las-mercedes-saucelle",
@@ -2517,10 +2593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.04769,
+"lon": -6.75328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-las-mercedes-saucelle-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-las-mercedes-saucelle-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-los-humillados-la-alberca",
@@ -2546,10 +2623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48908,
+"lon": -6.11107,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-los-humillados-la-alberca-salamanca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-los-humillados-la-alberca-salamanca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-moralejilla-rapariegos",
@@ -2575,10 +2653,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.09498,
+"lon": -4.65271,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-moralejilla-rapariegos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-moralejilla-rapariegos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-morales-morales-del-vino",
@@ -2604,10 +2683,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.44736,
+"lon": -5.7307,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-morales-morales-del-vino-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-morales-morales-del-vino-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-valvanera-sorihuela",
@@ -2633,10 +2713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.44378,
+"lon": -5.67818,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-valvanera-sorihuela-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-valvanera-sorihuela-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-del-humilladero-bercero",
@@ -2662,10 +2743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.56397,
+"lon": -5.0558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-del-humilladero-bercero-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-del-humilladero-bercero-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-del-penegral-pinarnegrillo",
@@ -2691,10 +2773,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.19098,
+"lon": -4.20967,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-del-penegral-pinarnegrillo-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-del-penegral-pinarnegrillo-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-o-del-humilladero-villanueva-de-san-mancio",
@@ -2720,10 +2803,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.92842,
+"lon": -5.012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-o-del-humilladero-villanueva-de-san-mancio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-o-del-humilladero-villanueva-de-san-mancio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-humilladero-camporredondo",
@@ -2749,10 +2833,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.47333,
+"lon": -4.50503,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-humilladero-camporredondo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-humilladero-camporredondo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-olmar-canalejas-de-penafiel",
@@ -2778,10 +2863,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52513,
+"lon": -4.11546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-olmar-canalejas-de-penafiel-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-olmar-canalejas-de-penafiel-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-salvador-autilla-del-pino",
@@ -2807,10 +2893,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.99207,
+"lon": -4.63393,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-salvador-autilla-del-pino-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-salvador-autilla-del-pino-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santisimo-cristo-de-la-vera-cruz-villanueva-del-campo",
@@ -2836,10 +2923,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.98492,
+"lon": -5.4066,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-de-la-vera-cruz-villanueva-del-campo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-de-la-vera-cruz-villanueva-del-campo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-de-la-expiracion-nava-de-la-asuncion",
@@ -2865,10 +2953,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.15586,
+"lon": -4.48751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-expiracion-nava-de-la-asuncion-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-expiracion-nava-de-la-asuncion-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-de-la-vega-tordehumos",
@@ -2894,10 +2983,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.81531,
+"lon": -5.15811,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-vega-tordehumos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-vega-tordehumos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-del-amparo-fombellida",
@@ -2923,10 +3013,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76693,
+"lon": -4.18409,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-del-amparo-fombellida-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-del-amparo-fombellida-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-del-humilladero-castrillo-de-villavega",
@@ -2952,10 +3043,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.45463,
+"lon": -4.48069,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-del-humilladero-castrillo-de-villavega-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-del-humilladero-castrillo-de-villavega-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-villar-gallegos-de-hornija",
@@ -2981,10 +3073,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6098,
+"lon": -5.09768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-villar-gallegos-de-hornija-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-villar-gallegos-de-hornija-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-sebastian-arcos-de-jalon",
@@ -3010,10 +3103,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.21592,
+"lon": -2.2747,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-sebastian-arcos-de-jalon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-sebastian-arcos-de-jalon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-vitores-huerta-de-arriba",
@@ -3039,10 +3133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.11672,
+"lon": -3.08211,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-vitores-huerta-de-arriba-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-vitores-huerta-de-arriba-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-maria-de-castro-retortillo-de-soria",
@@ -3068,10 +3163,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.31092,
+"lon": -2.98228,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-de-castro-retortillo-de-soria-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-de-castro-retortillo-de-soria-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-maria-magdalena-buberos",
@@ -3097,10 +3193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64692,
+"lon": -2.19406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-magdalena-buberos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-magdalena-buberos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santisimo-cristo-de-hornillos-arabayona-de-mogica",
@@ -3155,10 +3252,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.51552,
+"lon": -5.99439,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-del-humilladero-garcibuey-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-del-humilladero-garcibuey-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santo-cristo-del-socorro-fuenterroble-de-salvatierra",
@@ -3184,10 +3282,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.56466,
+"lon": -5.73379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-del-socorro-fuenterroble-de-salvatierra-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-del-socorro-fuenterroble-de-salvatierra-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "filadelfia-miranda-de-ebro",
@@ -3213,10 +3312,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.6865,
+"lon": -2.94695,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/filadelfia-miranda-de-ebro-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/filadelfia-miranda-de-ebro-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hechos-burgos",
@@ -3242,10 +3342,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hechos-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hechos-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermita-de-san-miguel-garrafe-de-torio",
@@ -3271,10 +3372,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73285,
+"lon": -5.5236,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-de-san-miguel-garrafe-de-torio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-de-san-miguel-garrafe-de-torio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermita-san-juan-cremenes",
@@ -3300,10 +3402,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.90357,
+"lon": -5.14374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-san-juan-cremenes-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-san-juan-cremenes-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesai-de-san-miguel-arcangel-torrubia-de-soria",
@@ -3329,10 +3432,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.63045,
+"lon": -2.09151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesai-de-san-miguel-arcangel-torrubia-de-soria-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesai-de-san-miguel-arcangel-torrubia-de-soria-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesi-de-san-andres-santervas-de-la-vega",
@@ -3358,10 +3462,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50677,
+"lon": -4.80002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesi-de-san-andres-santervas-de-la-vega-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesi-de-san-andres-santervas-de-la-vega-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-7-dia-burgos",
@@ -3387,10 +3492,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-7-dia-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-7-dia-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-ponferrada-ponferrada",
@@ -3416,10 +3522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.54664,
+"lon": -6.59619,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-ponferrada-ponferrada-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-ponferrada-ponferrada-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-segovia-segovia",
@@ -3445,10 +3552,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-segovia-segovia-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-segovia-segovia-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-colegiata-de-san-miguel-ampudia",
@@ -3474,10 +3582,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.91608,
+"lon": -4.78033,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-colegiata-de-san-miguel-ampudia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-colegiata-de-san-miguel-ampudia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-conventual-de-la-pasion-san-felices-de-los-gallegos",
@@ -3503,10 +3612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84954,
+"lon": -6.70804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-conventual-de-la-pasion-san-felices-de-los-gallegos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-conventual-de-la-pasion-san-felices-de-los-gallegos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-adventista-del-septimo-dia-leon",
@@ -3532,10 +3642,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60003,
+"lon": -5.57032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-adventista-del-septimo-dia-leon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-adventista-del-septimo-dia-leon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristina-pentecostes-de-espana-burgos",
@@ -3561,10 +3672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristina-pentecostes-de-espana-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristina-pentecostes-de-espana-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-abastas-valle-del-retortillo",
@@ -3648,10 +3760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.83034,
+"lon": -3.0688,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-arganza-san-leonardo-de-yague-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-arganza-san-leonardo-de-yague-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-camposagrado-carrocera",
@@ -3677,10 +3790,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79605,
+"lon": -5.74374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-camposagrado-carrocera-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-camposagrado-carrocera-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cobrana-congosto",
@@ -3706,10 +3820,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.61755,
+"lon": -6.52048,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cobrana-congosto-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cobrana-congosto-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cogorderos-villamejil",
@@ -3735,10 +3850,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.56205,
+"lon": -6.02514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cogorderos-villamejil-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cogorderos-villamejil-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cozuelos-de-fuentiduena-cozuelos-de-fuentiduena",
@@ -3764,10 +3880,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.39086,
+"lon": -4.09564,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cozuelos-de-fuentiduena-cozuelos-de-fuentiduena-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cozuelos-de-fuentiduena-cozuelos-de-fuentiduena-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-rey-zamora",
@@ -3793,10 +3910,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50633,
+"lon": -5.74456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-rey-zamora-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-rey-zamora-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-donadillo-manzanal-de-los-infantes",
@@ -3822,10 +3940,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05428,
+"lon": -6.38288,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-donadillo-manzanal-de-los-infantes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-donadillo-manzanal-de-los-infantes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-salvador-aguilar-de-campoo",
@@ -3851,10 +3970,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79452,
+"lon": -4.25892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-salvador-aguilar-de-campoo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-salvador-aguilar-de-campoo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-salvador-de-cabrillanes-cabrillanes",
@@ -3880,10 +4000,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95343,
+"lon": -6.14849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-salvador-de-cabrillanes-cabrillanes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-salvador-de-cabrillanes-cabrillanes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-salvador-de-riolago-san-emiliano",
@@ -3909,10 +4030,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.97164,
+"lon": -6.00075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-salvador-de-riolago-san-emiliano-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-salvador-de-riolago-san-emiliano-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-fuentes-carbonero-el-mayor",
@@ -3938,10 +4060,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12257,
+"lon": -4.26478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-fuentes-carbonero-el-mayor-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-fuentes-carbonero-el-mayor-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-burgos",
@@ -3967,10 +4090,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-burgos-burgos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-burgos-burgos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-compania-palencia",
@@ -3996,10 +4120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00955,
+"lon": -4.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-compania-palencia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-compania-palencia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-tejera-burgos",
@@ -4025,10 +4150,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-tejera-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-tejera-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-trinidad-iruelos",
@@ -4054,10 +4180,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.14135,
+"lon": -6.32808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-trinidad-iruelos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-trinidad-iruelos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-bernardas-salamanca",
@@ -4083,10 +4210,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96882,
+"lon": -5.66388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-bernardas-salamanca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-bernardas-salamanca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-canonigas-palencia",
@@ -4112,10 +4240,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00955,
+"lon": -4.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-canonigas-palencia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-canonigas-palencia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-linares-del-arroyo-maderuelo",
@@ -4141,10 +4270,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48644,
+"lon": -3.52218,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-linares-del-arroyo-maderuelo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-linares-del-arroyo-maderuelo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-lordemanos-cimanes-de-la-vega",
@@ -4170,10 +4300,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.11646,
+"lon": -5.59851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-lordemanos-cimanes-de-la-vega-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-lordemanos-cimanes-de-la-vega-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-espejos-boca-de-huergano",
@@ -4199,10 +4330,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.97287,
+"lon": -4.92419,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-espejos-boca-de-huergano-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-espejos-boca-de-huergano-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-ingleses-valladolid",
@@ -4228,10 +4360,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65541,
+"lon": -4.72353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-ingleses-valladolid-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-ingleses-valladolid-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-gervasio-y-protasio-santervas-de-la-vega",
@@ -4257,10 +4390,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50677,
+"lon": -4.80002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-gervasio-y-protasio-santervas-de-la-vega-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-gervasio-y-protasio-santervas-de-la-vega-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-justo-y-pastor-manzanillo",
@@ -4286,10 +4420,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.58617,
+"lon": -4.18826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-justo-y-pastor-manzanillo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-justo-y-pastor-manzanillo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ntra-sra-de-la-asuncion-berrocal-de-salvatierra",
@@ -4315,10 +4450,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.63331,
+"lon": -5.69005,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-de-la-asuncion-berrocal-de-salvatierra-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-de-la-asuncion-berrocal-de-salvatierra-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-piedras-vivas-alfoz-de-quintanaduenas",
@@ -4373,10 +4509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86812,
+"lon": -5.34928,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-quintanilla-del-monte-quintanilla-del-monte-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-quintanilla-del-monte-quintanilla-del-monte-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-robledo-de-la-valduerna-destriana",
@@ -4402,10 +4539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.32729,
+"lon": -6.09573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-robledo-de-la-valduerna-destriana-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-robledo-de-la-valduerna-destriana-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-roperuelos-del-paramo-roperuelos-del-paramo",
@@ -4431,10 +4569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.2378,
+"lon": -5.78235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-roperuelos-del-paramo-roperuelos-del-paramo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-roperuelos-del-paramo-roperuelos-del-paramo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-adrian-nepas",
@@ -4460,10 +4599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52639,
+"lon": -2.39866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-adrian-nepas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-adrian-nepas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-andres-apostol-carrizo",
@@ -4518,10 +4658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-andres-de-felmin-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-andres-de-felmin-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-andres-de-frontada-aguilar-de-campoo",
@@ -4547,10 +4688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79452,
+"lon": -4.25892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-andres-de-frontada-aguilar-de-campoo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-andres-de-frontada-aguilar-de-campoo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-antolin-fombellida",
@@ -4576,10 +4718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76693,
+"lon": -4.18409,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antolin-fombellida-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antolin-fombellida-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-caprasio-respenda-de-la-pena",
@@ -4605,10 +4748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.76512,
+"lon": -4.6854,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-caprasio-respenda-de-la-pena-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-caprasio-respenda-de-la-pena-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-cipriano-y-santa-justina-arenillas",
@@ -4634,10 +4778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.34706,
+"lon": -2.84618,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cipriano-y-santa-justina-arenillas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cipriano-y-santa-justina-arenillas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-cornelio-y-san-cipriano-villaverde-de-guarena",
@@ -4663,10 +4808,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.06406,
+"lon": -5.52492,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cornelio-y-san-cipriano-villaverde-de-guarena-salamanca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cornelio-y-san-cipriano-villaverde-de-guarena-salamanca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-fabian-y-san-sebastian-casafranca",
@@ -4692,10 +4838,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.59267,
+"lon": -5.76039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-fabian-y-san-sebastian-casafranca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-fabian-y-san-sebastian-casafranca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-fernando-valladolid",
@@ -4721,10 +4868,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65541,
+"lon": -4.72353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-fernando-valladolid-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-fernando-valladolid-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-frontis-zamora",
@@ -4750,10 +4898,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50633,
+"lon": -5.74456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-frontis-zamora-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-frontis-zamora-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-fructuoso-dehesa-de-montejo",
@@ -4779,10 +4928,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.81939,
+"lon": -4.51019,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-fructuoso-dehesa-de-montejo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-fructuoso-dehesa-de-montejo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gerbasio-fuentearmegil",
@@ -4808,10 +4958,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.71496,
+"lon": -3.18362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gerbasio-fuentearmegil-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gerbasio-fuentearmegil-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-hipolito-el-real-tamara-de-campos",
@@ -4866,10 +5017,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.06255,
+"lon": -4.72042,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-de-los-reyes-arevalo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-de-los-reyes-arevalo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-degollado-quintana-redonda",
@@ -4895,10 +5047,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.63905,
+"lon": -2.61449,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-degollado-quintana-redonda-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-degollado-quintana-redonda-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-justo-y-pastor-santiuste-de-pedraza",
@@ -4953,10 +5106,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00955,
+"lon": -4.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lazaro-palencia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lazaro-palencia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-mames-anaya-de-alba",
@@ -4982,10 +5136,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.72828,
+"lon": -5.49266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mames-anaya-de-alba-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mames-anaya-de-alba-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-mames-de-valverde-de-la-mediana-carmenes",
@@ -5011,10 +5166,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mames-de-valverde-de-la-mediana-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mames-de-valverde-de-la-mediana-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-aguilar-de-campoo",
@@ -5040,10 +5196,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79452,
+"lon": -4.25892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-aguilar-de-campoo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-aguilar-de-campoo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-de-tours-coscurita",
@@ -5069,10 +5226,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.43483,
+"lon": -2.47571,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-de-tours-coscurita-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-de-tours-coscurita-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-obispo-de-naveros-de-pisuerga-herrera-de-pisuerga",
@@ -5098,10 +5256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.59492,
+"lon": -4.33034,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-obispo-de-naveros-de-pisuerga-herrera-de-pisuerga-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-obispo-de-naveros-de-pisuerga-herrera-de-pisuerga-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-sena-de-luna",
@@ -5127,10 +5286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.92906,
+"lon": -5.95267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-sena-de-luna-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-sena-de-luna-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-y-san-javier-armenteros",
@@ -5156,10 +5316,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5932,
+"lon": -5.44806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-y-san-javier-armenteros-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-y-san-javier-armenteros-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-mateo-de-campo-de-la-mediana-carmenes",
@@ -5185,10 +5346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mateo-de-campo-de-la-mediana-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mateo-de-campo-de-la-mediana-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-mateo-narros-de-matalayegua",
@@ -5214,10 +5376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.6988,
+"lon": -5.92658,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mateo-narros-de-matalayegua-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-mateo-narros-de-matalayegua-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-migel-pomar-de-valdivia",
@@ -5243,10 +5406,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.77437,
+"lon": -4.16756,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-migel-pomar-de-valdivia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-migel-pomar-de-valdivia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-arcange-la-pernia",
@@ -5301,10 +5465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10841,
+"lon": -4.64152,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-becerril-de-campos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-becerril-de-campos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-s-xii-ayllon",
@@ -5330,10 +5495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.41899,
+"lon": -3.37537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-s-xii-ayllon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-s-xii-ayllon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-millan-baltanas",
@@ -5359,10 +5525,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.93775,
+"lon": -4.24656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-millan-baltanas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-millan-baltanas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-millan-de-la-cogolla-bliecos",
@@ -5388,10 +5555,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.5279,
+"lon": -2.27135,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-millan-de-la-cogolla-bliecos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-millan-de-la-cogolla-bliecos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-nicolas-castroverde-de-campos",
@@ -5417,10 +5585,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.97049,
+"lon": -5.31434,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-nicolas-castroverde-de-campos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-nicolas-castroverde-de-campos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-de-antioquia-medinaceli",
@@ -5446,10 +5615,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.17224,
+"lon": -2.43476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-de-antioquia-medinaceli-soria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-de-antioquia-medinaceli-soria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-y-san-felices-burgos",
@@ -5475,10 +5645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-y-san-felices-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-y-san-felices-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pelayo-canizo",
@@ -5504,10 +5675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76955,
+"lon": -5.50199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pelayo-canizo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pelayo-canizo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-vicente-de-canseco-carmenes",
@@ -5533,10 +5705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-de-canseco-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-de-canseco-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-vicente-de-piedrafita-de-la-mediana-carmenes",
@@ -5562,10 +5735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-de-piedrafita-de-la-mediana-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-de-piedrafita-de-la-mediana-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-vicente-martir-muga-de-sayago",
@@ -5591,10 +5765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.38779,
+"lon": -6.19777,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-martir-muga-de-sayago-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-martir-muga-de-sayago-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sancti-spiritus-salamanca",
@@ -5620,10 +5795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96882,
+"lon": -5.66388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sancti-spiritus-salamanca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sancti-spiritus-salamanca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sanfelismo-valdefresno",
@@ -5649,10 +5825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.59492,
+"lon": -5.49355,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sanfelismo-valdefresno-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sanfelismo-valdefresno-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-catalina-aranda-de-duero",
@@ -5678,10 +5855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67041,
+"lon": -3.6892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-catalina-aranda-de-duero-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-catalina-aranda-de-duero-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-cecilia-villavaquerin",
@@ -5707,10 +5885,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.66357,
+"lon": -4.46287,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-cecilia-villavaquerin-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-cecilia-villavaquerin-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-clara-de-asis-valladolid",
@@ -5736,10 +5915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65541,
+"lon": -4.72353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-clara-de-asis-valladolid-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-clara-de-asis-valladolid-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-colomba-de-puente-de-alba-la-robla",
@@ -5765,10 +5945,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.80302,
+"lon": -5.62904,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-colomba-de-puente-de-alba-la-robla-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-colomba-de-puente-de-alba-la-robla-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-colomba-los-barrios-de-luna",
@@ -5852,10 +6033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.70784,
+"lon": -4.37263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-elena-santibanez-de-ecla-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-elena-santibanez-de-ecla-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-engracia-castilruiz",
@@ -5881,10 +6063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.87678,
+"lon": -2.0593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-engracia-castilruiz-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-engracia-castilruiz-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-eugenia-bonar",
@@ -5910,10 +6093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.8668,
+"lon": -5.32386,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-eugenia-bonar-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-eugenia-bonar-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-juliana-villarmentero-de-esgueva",
@@ -5939,10 +6123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.68515,
+"lon": -4.54636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-juliana-villarmentero-de-esgueva-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-juliana-villarmentero-de-esgueva-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-lucia-almarza",
@@ -5968,10 +6153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94678,
+"lon": -2.469,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-lucia-almarza-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-lucia-almarza-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-aguilafuente",
@@ -5997,10 +6183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.22667,
+"lon": -4.11185,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-aguilafuente-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-aguilafuente-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-huerta-santa-maria-de-huerta",
@@ -6026,10 +6213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.26667,
+"lon": -2.16667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-huerta-santa-maria-de-huerta-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-huerta-santa-maria-de-huerta-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-la-asuncion-duenas",
@@ -6055,10 +6243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.87717,
+"lon": -4.54714,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-asuncion-duenas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-asuncion-duenas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-la-concepcion-castronuevo-de-esgueva",
@@ -6084,10 +6273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6818,
+"lon": -4.58866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-concepcion-castronuevo-de-esgueva-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-la-concepcion-castronuevo-de-esgueva-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-mediavilla-villanueva-de-san-mancio",
@@ -6113,10 +6303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.92842,
+"lon": -5.012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-mediavilla-villanueva-de-san-mancio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-mediavilla-villanueva-de-san-mancio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-del-rio-castroverde-de-campos",
@@ -6142,10 +6333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.97049,
+"lon": -5.31434,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-del-rio-castroverde-de-campos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-del-rio-castroverde-de-campos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-la-mayor-del-castillo-valbuena-de-duero",
@@ -6171,10 +6363,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64323,
+"lon": -4.29271,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-la-mayor-del-castillo-valbuena-de-duero-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-la-mayor-del-castillo-valbuena-de-duero-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-marina-de-lavandera-carmenes",
@@ -6200,10 +6393,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95863,
+"lon": -5.57346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-marina-de-lavandera-carmenes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-marina-de-lavandera-carmenes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-marina-de-valdeon-posada-de-valdeon",
@@ -6229,10 +6423,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15154,
+"lon": -4.92102,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-marina-de-valdeon-posada-de-valdeon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-marina-de-valdeon-posada-de-valdeon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-apostol-alcubilla-de-avellaneda",
@@ -6258,10 +6453,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.72593,
+"lon": -3.30471,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-alcubilla-de-avellaneda-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-alcubilla-de-avellaneda-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-apostol-aliud",
@@ -6287,10 +6483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65412,
+"lon": -2.25314,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-aliud-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-aliud-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santisimo-salvador-de-ragama-ragama",
@@ -6316,10 +6513,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.99768,
+"lon": -5.12724,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santisimo-salvador-de-ragama-ragama-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santisimo-salvador-de-ragama-ragama-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-domingo-de-guzman-ausejo-de-la-sierra",
@@ -6345,10 +6543,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.89462,
+"lon": -2.37394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-domingo-de-guzman-ausejo-de-la-sierra-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-domingo-de-guzman-ausejo-de-la-sierra-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-domingo-de-silos-fuentesauco-de-fuentiduena",
@@ -6374,10 +6573,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42445,
+"lon": -4.06215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-domingo-de-silos-fuentesauco-de-fuentiduena-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-domingo-de-silos-fuentesauco-de-fuentiduena-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-tomas-apostol-mozarbez",
@@ -6403,10 +6603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.85652,
+"lon": -5.65144,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-apostol-mozarbez-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-apostol-mozarbez-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-tomas-apostol-villasabariego",
@@ -6432,10 +6633,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.53288,
+"lon": -5.41322,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-apostol-villasabariego-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-apostol-villasabariego-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-tomas-de-canterbury-vegas-de-matute",
@@ -6461,10 +6663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.79476,
+"lon": -4.27762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-de-canterbury-vegas-de-matute-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-de-canterbury-vegas-de-matute-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-tomas-medina-del-campo",
@@ -6490,10 +6693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.31239,
+"lon": -4.91413,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-medina-del-campo-valladolid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tomas-medina-del-campo-valladolid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-tome-cuellar",
@@ -6519,10 +6723,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40155,
+"lon": -4.31474,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tome-cuellar-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-tome-cuellar-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-toribio-de-mogrovejo-valladolid",
@@ -6548,10 +6753,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65541,
+"lon": -4.72353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-toribio-de-mogrovejo-valladolid-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-toribio-de-mogrovejo-valladolid-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sorihuela-sorihuela",
@@ -6577,10 +6783,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.44378,
+"lon": -5.67818,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sorihuela-sorihuela-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sorihuela-sorihuela-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-carmen-de-abajo-salamanca",
@@ -6606,10 +6813,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96882,
+"lon": -5.66388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-carmen-de-abajo-salamanca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-carmen-de-abajo-salamanca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-despoblado-de-alconeza-berlanga-de-duero",
@@ -6635,10 +6843,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4656,
+"lon": -2.86147,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-despoblado-de-alconeza-berlanga-de-duero-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-despoblado-de-alconeza-berlanga-de-duero-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-salvador-boca-de-huergano",
@@ -6664,10 +6873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.97287,
+"lon": -4.92419,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-salvador-boca-de-huergano-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-salvador-boca-de-huergano-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-sepulcro-zamora",
@@ -6693,10 +6903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50633,
+"lon": -5.74456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-sepulcro-zamora-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-sepulcro-zamora-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-abrazo-de-dios-segovia",
@@ -6722,10 +6933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-abrazo-de-dios-segovia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-abrazo-de-dios-segovia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-centro-multifuncional-segovia",
@@ -6751,10 +6963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-centro-multifuncional-segovia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-centro-multifuncional-segovia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-comunidades-unidas-anabautistas-burgos",
@@ -6780,10 +6993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-comunidades-unidas-anabautistas-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-comunidades-unidas-anabautistas-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-cigales-cigales",
@@ -6809,10 +7023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.7578,
+"lon": -4.69848,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-cigales-cigales-valladolid"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-cigales-cigales-valladolid",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-hermanos-de-leon-leon",
@@ -6838,10 +7053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60003,
+"lon": -5.57032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-de-leon-leon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-de-leon-leon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-la-nueva-jerusalen-salamanca",
@@ -6867,10 +7083,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96882,
+"lon": -5.66388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-la-nueva-jerusalen-salamanca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-la-nueva-jerusalen-salamanca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-segovia-segovia",
@@ -6896,10 +7113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-segovia-segovia-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-segovia-segovia-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-dias-de-gloria-burgos",
@@ -6925,10 +7143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-dias-de-gloria-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-dias-de-gloria-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-leon",
@@ -6954,10 +7173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60003,
+"lon": -5.57032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-leon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-leon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-nuevo-pacto-burgos",
@@ -6983,10 +7203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-nuevo-pacto-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-nuevo-pacto-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-filadelfia-la-sulamita-miranda-de-ebro",
@@ -7012,10 +7233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.6865,
+"lon": -2.94695,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-filadelfia-la-sulamita-miranda-de-ebro-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-filadelfia-la-sulamita-miranda-de-ebro-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-casa-del-senor-en-segovia-segovia",
@@ -7041,10 +7263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-casa-del-senor-en-segovia-segovia-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-casa-del-senor-en-segovia-segovia-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-compasion-aguilar-de-campoo",
@@ -7070,10 +7293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79452,
+"lon": -4.25892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-compasion-aguilar-de-campoo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-compasion-aguilar-de-campoo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-madre-de-dios-valsalabroso",
@@ -7099,10 +7323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.10962,
+"lon": -6.50269,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-madre-de-dios-valsalabroso-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-madre-de-dios-valsalabroso-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-del-arrabal-salamanca",
@@ -7128,10 +7353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96882,
+"lon": -5.66388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-del-arrabal-salamanca-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-del-arrabal-salamanca-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-romanica-de-santa-maria-la-real-branosera",
@@ -7157,10 +7383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.9362,
+"lon": -4.30833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-romanica-de-santa-maria-la-real-branosera-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-romanica-de-santa-maria-la-real-branosera-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-alfonso-rodriguez-segovia",
@@ -7186,10 +7413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.94808,
+"lon": -4.11839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-alfonso-rodriguez-segovia-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-alfonso-rodriguez-segovia-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-benito-pedrosillo-de-los-aires",
@@ -7215,10 +7443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.71524,
+"lon": -5.70511,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-benito-pedrosillo-de-los-aires-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-benito-pedrosillo-de-los-aires-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-cipriano-villarmuerto",
@@ -7244,10 +7473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.0562,
+"lon": -6.36294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-cipriano-villarmuerto-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-cipriano-villarmuerto-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-gil-armenteros",
@@ -7273,10 +7503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5932,
+"lon": -5.44806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-gil-armenteros-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-gil-armenteros-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-ildefonso-valsalabroso",
@@ -7302,10 +7533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.10962,
+"lon": -6.50269,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-ildefonso-valsalabroso-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-ildefonso-valsalabroso-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-de-regla-leon",
@@ -7331,10 +7563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60003,
+"lon": -5.57032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-de-regla-leon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-de-regla-leon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-marcos-leon",
@@ -7360,10 +7593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60003,
+"lon": -5.57032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-marcos-leon-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-marcos-leon-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-miguel-arcangel-gomara",
@@ -7389,10 +7623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.62347,
+"lon": -2.22493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-miguel-arcangel-gomara-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-miguel-arcangel-gomara-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-miguel-condado-de-trevino",
@@ -7447,10 +7682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74793,
+"lon": -6.49094,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pelayo-trabazos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pelayo-trabazos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-roque-espeja-de-san-marcelino",
@@ -7476,10 +7712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.80227,
+"lon": -3.2223,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-roque-espeja-de-san-marcelino-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-roque-espeja-de-san-marcelino-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-salvador-armenteros",
@@ -7505,10 +7742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5932,
+"lon": -5.44806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-salvador-armenteros-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-salvador-armenteros-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-verisimo-alcubilla-de-nogales",
@@ -7534,10 +7772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.12787,
+"lon": -5.92184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-verisimo-alcubilla-de-nogales-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-verisimo-alcubilla-de-nogales-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-ana-barceo",
@@ -7563,10 +7802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.06108,
+"lon": -6.45175,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-ana-barceo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-ana-barceo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-clara-villalobos",
@@ -7592,10 +7832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94567,
+"lon": -5.47517,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-clara-villalobos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-clara-villalobos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-cruz-narros-de-matalayegua",
@@ -7621,10 +7862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.6988,
+"lon": -5.92658,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-cruz-narros-de-matalayegua-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-cruz-narros-de-matalayegua-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-eugenia-dehesa-de-romanos",
@@ -7650,10 +7892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.63876,
+"lon": -4.43518,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-eugenia-dehesa-de-romanos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-eugenia-dehesa-de-romanos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-eulalia-de-merida-adradas",
@@ -7679,10 +7922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35098,
+"lon": -2.47373,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-eulalia-de-merida-adradas-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-eulalia-de-merida-adradas-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-la-blanca-fuenterroble-de-salvatierra",
@@ -7708,10 +7952,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.56466,
+"lon": -5.73379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-la-blanca-fuenterroble-de-salvatierra-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-la-blanca-fuenterroble-de-salvatierra-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santiago-apostol-villalba-de-los-alcores",
@@ -7737,10 +7982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86361,
+"lon": -4.86063,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-villalba-de-los-alcores-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-villalba-de-los-alcores-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-cristo-del-amparo-matamala-de-almazan",
@@ -7766,10 +8012,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50563,
+"lon": -2.64122,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-cristo-del-amparo-matamala-de-almazan-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-cristo-del-amparo-matamala-de-almazan-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-tomas-de-aquino-benegiles",
@@ -7795,10 +8042,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.627,
+"lon": -5.63479,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-tomas-de-aquino-benegiles-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-tomas-de-aquino-benegiles-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-tomas-villares-de-yeltes",
@@ -7824,10 +8072,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86594,
+"lon": -6.413,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-tomas-villares-de-yeltes-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santo-tomas-villares-de-yeltes-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-villagaton-villagaton",
@@ -7853,10 +8102,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.63413,
+"lon": -6.16184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villagaton-villagaton-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villagaton-villagaton-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-villarino-de-sanabria-trefacio",
@@ -7882,10 +8132,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.12165,
+"lon": -6.65407,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villarino-de-sanabria-trefacio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villarino-de-sanabria-trefacio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesias-de-san-martin-de-tours-villamanin",
@@ -7911,10 +8162,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.93864,
+"lon": -5.65669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesias-de-san-martin-de-tours-villamanin-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesias-de-san-martin-de-tours-villamanin-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglsia-de-santa-agueda-medinaceli",
@@ -7940,10 +8192,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.17224,
+"lon": -2.43476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglsia-de-santa-agueda-medinaceli-soria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglsia-de-santa-agueda-medinaceli-soria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-asuncion-condado-de-trevino",
@@ -8027,10 +8280,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.98714,
+"lon": -3.2356,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/necropolis-santiuste-castrillo-de-la-reina-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/necropolis-santiuste-castrillo-de-la-reina-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nuevo-pacto-burgos",
@@ -8056,10 +8310,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34106,
+"lon": -3.70184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nuevo-pacto-burgos-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nuevo-pacto-burgos-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-andres-apostol-rebolledo-de-la-torre",
@@ -8085,10 +8340,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.68931,
+"lon": -4.22693,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-andres-apostol-rebolledo-de-la-torre-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-andres-apostol-rebolledo-de-la-torre-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-de-padua-el-tiemblo",
@@ -8114,10 +8370,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.41533,
+"lon": -4.50156,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-de-padua-el-tiemblo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-de-padua-el-tiemblo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-cipriano-obispo-y-san-cornelio-papa-puebla-de-lillo",
@@ -8143,10 +8400,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00691,
+"lon": -5.27387,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-cipriano-obispo-y-san-cornelio-papa-puebla-de-lillo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-cipriano-obispo-y-san-cornelio-papa-puebla-de-lillo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-esteban-cebrones-del-rio",
@@ -8172,10 +8430,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.25726,
+"lon": -5.82622,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-esteban-cebrones-del-rio-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-esteban-cebrones-del-rio-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-guillermo-cistierna",
@@ -8201,10 +8460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.80344,
+"lon": -5.12664,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-guillermo-cistierna-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-guillermo-cistierna-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-evangelista-guardo",
@@ -8230,10 +8490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78966,
+"lon": -4.84823,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-evangelista-guardo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-evangelista-guardo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-lorenzo-cervera-de-pisuerga",
@@ -8259,10 +8520,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86676,
+"lon": -4.49796,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-lorenzo-cervera-de-pisuerga-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-lorenzo-cervera-de-pisuerga-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-lorenzo-martir-humada",
@@ -8288,10 +8550,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.66667,
+"lon": -4.08333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-lorenzo-martir-humada-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-lorenzo-martir-humada-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-martin-villagaton",
@@ -8317,10 +8580,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.63413,
+"lon": -6.16184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-martin-villagaton-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-martin-villagaton-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-matias-apostol-bobadilla-del-campo",
@@ -8346,10 +8610,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20432,
+"lon": -5.02294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-matias-apostol-bobadilla-del-campo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-matias-apostol-bobadilla-del-campo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-miguel-arcangel-aliud",
@@ -8375,10 +8640,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65412,
+"lon": -2.25314,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-arcangel-aliud-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-arcangel-aliud-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pelayo-dehesa-de-montejo",
@@ -8404,10 +8670,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.81939,
+"lon": -4.51019,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pelayo-dehesa-de-montejo-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pelayo-dehesa-de-montejo-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-roman-martir-villaverde-del-monte",
@@ -8433,10 +8700,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.16075,
+"lon": -3.81421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-roman-martir-villaverde-del-monte-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-roman-martir-villaverde-del-monte-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-salvador-torrecilla-de-la-torre",
@@ -8462,10 +8730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.66716,
+"lon": -5.04982,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-salvador-torrecilla-de-la-torre-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-salvador-torrecilla-de-la-torre-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-saturnino-cervera-de-pisuerga",
@@ -8491,10 +8760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86676,
+"lon": -4.49796,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-saturnino-cervera-de-pisuerga-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-saturnino-cervera-de-pisuerga-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-agueda-mino-de-medinaceli",
@@ -8549,10 +8819,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.85113,
+"lon": -4.40973,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-ana-cevico-de-la-torre-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-ana-cevico-de-la-torre-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-catalina-santa-colomba-de-somoza",
@@ -8578,10 +8849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.44466,
+"lon": -6.24483,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-catalina-santa-colomba-de-somoza-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-catalina-santa-colomba-de-somoza-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-eulalia-arapiles",
@@ -8607,10 +8879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.89366,
+"lon": -5.64494,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-eulalia-arapiles-salamanca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-eulalia-arapiles-salamanca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-ines-villarrabe",
@@ -8636,10 +8909,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.4209,
+"lon": -4.78445,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-ines-villarrabe-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-ines-villarrabe-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-del-tovar-malva",
@@ -8665,10 +8939,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65467,
+"lon": -5.48657,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-del-tovar-malva-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-del-tovar-malva-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-la-blanca-villalcazar-de-sirga",
@@ -8694,10 +8969,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.31662,
+"lon": -4.54278,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-la-blanca-villalcazar-de-sirga-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-la-blanca-villalcazar-de-sirga-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-rita-cervera-de-pisuerga",
@@ -8723,10 +8999,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86676,
+"lon": -4.49796,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-rita-cervera-de-pisuerga-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-rita-cervera-de-pisuerga-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-cristo-de-la-victoria-leon",
@@ -8752,10 +9029,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60003,
+"lon": -5.57032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-cristo-de-la-victoria-leon-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-cristo-de-la-victoria-leon-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-tomas-vallelado",
@@ -8781,10 +9059,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40436,
+"lon": -4.42662,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-tomas-vallelado-castilla-y-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-tomas-vallelado-castilla-y-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santos-justo-y-pastor-otero-de-herreros",
@@ -8810,10 +9089,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.82016,
+"lon": -4.2099,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santos-justo-y-pastor-otero-de-herreros-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santos-justo-y-pastor-otero-de-herreros-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "virgen-pena-negra-candelario",
@@ -8839,9 +9119,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.36806,
+"lon": -5.74499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/virgen-pena-negra-candelario-castile-and-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/virgen-pena-negra-candelario-castile-and-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

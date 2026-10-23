@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 4.81428,
+"lon": -75.69488,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelistico-pereira-pereira-colombia-1581"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelistico-pereira-pereira-colombia-1581",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-de-fe-pereira",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 4.81428,
+"lon": -75.69488,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-de-fe-pereira-colombia-1578"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-de-fe-pereira-colombia-1578",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mies-pereira",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 4.81428,
+"lon": -75.69488,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mies-pereira-colombia-1540"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mies-pereira-colombia-1540",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-con-proposito-pereira",
@@ -110,9 +113,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 4.81428,
+"lon": -75.69488,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-con-proposito-pereira-colombia-1556"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-con-proposito-pereira-colombia-1556",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

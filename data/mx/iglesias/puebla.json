@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.98196,
+"lon": -97.78363,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barrio-de-guadalupe-acatzingo-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barrio-de-guadalupe-acatzingo-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "benito-juarez-veracruz",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90815,
+"lon": -98.43613,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-jose-atlixco-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-jose-atlixco-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-evangelico-monclova",
@@ -142,7 +144,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-evangelico-monclova-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-evangelico-monclova-puebla",
+"geo_fuente": null
 },
 {
 "slug": "centro-cristiano-filadelfia-yesed-ministerios-lourdes",
@@ -197,10 +200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-orizaba-poniente-cuernavaca-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-orizaba-poniente-cuernavaca-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-familiar-cristiano-de-mexico-aposento-alto-ixtaczoquitlan",
@@ -226,10 +230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-cristiano-de-mexico-aposento-alto-ixtaczoquitlan-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-cristiano-de-mexico-aposento-alto-ixtaczoquitlan-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-de-orizaba-las-alamedas",
@@ -313,10 +318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.05561,
+"lon": -99.34398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emiliano-zapata-tula-de-allende-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emiliano-zapata-tula-de-allende-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-balcones-municipio-de-puebla",
@@ -458,10 +464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.03032,
+"lon": -97.5753,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-independencia-jonotla-jonotla-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-independencia-jonotla-jonotla-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-boulevard-16-de-septiembre-oriental-puebla",
@@ -516,10 +523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.72468,
+"lon": -98.44633,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-callejon-jose-maria-morelos-y-tepeojuma-tepeojuma-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-callejon-jose-maria-morelos-y-tepeojuma-tepeojuma-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-federal-tlapacoyan-el-campamento-piedra-pinta",
@@ -545,10 +553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.99404,
+"lon": -97.19081,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-federal-tlapacoyan-el-campamento-piedra-pinta-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-federal-tlapacoyan-el-campamento-piedra-pinta-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-de-noviembre-ayahualco-veracruz",
@@ -603,10 +612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81428,
+"lon": -97.87702,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-guadalupana-techachalco-tepeyahualco-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-guadalupana-techachalco-tepeyahualco-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-senor-de-huaxtla-tlatlauquitepec",
@@ -719,10 +729,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.91544,
+"lon": -97.82382,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cuapiaxtla-cuapiaxtla-de-madero-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cuapiaxtla-cuapiaxtla-de-madero-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-israelita-loc-2-de-marzo-municipio-de-puebla",
@@ -922,10 +933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.2184,
+"lon": -97.82272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nopalucan-de-la-granja-nopalucan-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nopalucan-de-la-granja-nopalucan-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ocotlan-puebla-de-zaragoza",
@@ -1012,7 +1024,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedrito-san-pedro-del-gallo-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedrito-san-pedro-del-gallo-puebla",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-de-santiaguito-altotonga",
@@ -1038,10 +1051,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.76613,
+"lon": -97.24514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiaguito-altotonga-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiaguito-altotonga-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-barrio-de-santiago-apostol-santiago-del-rio",
@@ -1096,10 +1110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.20073,
+"lon": -97.06691,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-calvario-chichiquila-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-calvario-chichiquila-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-calvario-ciudad-de-libres",
@@ -1270,10 +1285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-buen-pastor-ixtaczoquitlan-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-buen-pastor-ixtaczoquitlan-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-gracia-soberana-orizaba-orizaba",
@@ -1386,10 +1402,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.98196,
+"lon": -97.78363,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-el-bethel-acatzingo-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-el-bethel-acatzingo-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-monte-horeb-xalapa",
@@ -1444,10 +1461,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.13193,
+"lon": -92.80433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-paz-san-andres-duraznal-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-paz-san-andres-duraznal-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-puerto-nacional-puerto-nacional",
@@ -1531,10 +1549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.04535,
+"lon": -98.16332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-ahuazotepec-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-ahuazotepec-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-shekina-chocaman",
@@ -1560,10 +1579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.01214,
+"lon": -97.03291,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-shekina-chocaman-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-shekina-chocaman-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "independencia-veracruz",
@@ -1908,10 +1928,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.96688,
+"lon": -97.8998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santisma-trinidad-tepeaca-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santisma-trinidad-tepeaca-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-tlapacoya-estado-de-mexico",
@@ -1995,10 +2016,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.31451,
+"lon": -97.9252,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-santo-nombre-huamantla-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-santo-nombre-huamantla-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-calvario-chocaman",
@@ -2024,10 +2046,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.01214,
+"lon": -97.03291,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-calvario-chocaman-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-calvario-chocaman-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-bethesda-veracruz",
@@ -2111,10 +2134,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-emmanuel-ixtaczoquitlan-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-emmanuel-ixtaczoquitlan-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-esmirna-ocoyucan",
@@ -2169,10 +2193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-monte-carmelo-cuautitlan-izcalli-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-monte-carmelo-cuautitlan-izcalli-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-getsemani-chocaman",
@@ -2198,10 +2223,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.01214,
+"lon": -97.03291,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-getsemani-chocaman-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-getsemani-chocaman-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-mayor-poza-rica-de-hidalgo",
@@ -2227,10 +2253,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.53315,
+"lon": -97.45946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-mayor-poza-rica-de-hidalgo-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-mayor-poza-rica-de-hidalgo-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-metodista-casa-de-dios-panotla",
@@ -2256,10 +2283,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.31619,
+"lon": -98.27013,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-casa-de-dios-panotla-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-casa-de-dios-panotla-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-metodista-el-divino-salvador-amaxac-de-guerrero",
@@ -2285,10 +2313,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.34661,
+"lon": -98.17057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-el-divino-salvador-amaxac-de-guerrero-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-el-divino-salvador-amaxac-de-guerrero-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-metodista-monte-nebo-amaxac-de-guerrero",
@@ -2314,10 +2343,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.34661,
+"lon": -98.17057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-monte-nebo-amaxac-de-guerrero-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-monte-nebo-amaxac-de-guerrero-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-presbiteriano-bethel-coyoacan",
@@ -2343,10 +2373,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.3467,
+"lon": -99.16174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-presbiteriano-bethel-coyoacan-puebla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-presbiteriano-bethel-coyoacan-puebla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-rosa-de-saron-acajete",

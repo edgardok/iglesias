@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -39.81422,
+"lon": -73.24589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-y-misionera-valdivia-region-de-los-rios-chile-794"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-y-misionera-valdivia-region-de-los-rios-chile-794",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesus-perfecto-amor-valdivia",
@@ -52,9 +53,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -39.81422,
+"lon": -73.24589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-perfecto-amor-valdivia-region-de-los-rios-chile-2965"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-perfecto-amor-valdivia-region-de-los-rios-chile-2965",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

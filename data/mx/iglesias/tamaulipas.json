@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "asamblea-de-dios-el-buen-pastor-laredo",
@@ -226,10 +227,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.28519,
+"lon": -97.87777,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/domo-cristiano-tampico-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/domo-cristiano-tampico-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-mesias-united-methodist-church-laredo",
@@ -345,7 +347,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-lazaro-cardenas-nuevo-laredo-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-lazaro-cardenas-nuevo-laredo-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-adventista-nuevo-mexico-reynosa",
@@ -371,10 +374,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-nuevo-mexico-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-nuevo-mexico-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-tampico",
@@ -400,10 +404,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.28519,
+"lon": -97.87777,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-tampico-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-tampico-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-beraca-tamaulipas",
@@ -548,7 +553,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-lagracia-nuevo-laredo-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-lagracia-nuevo-laredo-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-bautista-loma-alta-church-laredo",
@@ -606,7 +612,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-misionera-de-brownsville-vanegas-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-misionera-de-brownsville-vanegas-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-bautista-monte-hebron-nuevo-laredo",
@@ -635,7 +642,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-hebron-nuevo-laredo-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-hebron-nuevo-laredo-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-bautista-nuevo-nacimiento-church-laredo",
@@ -951,10 +959,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-educacion-colonia-vamos-tamaul-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-educacion-colonia-vamos-tamaul-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-josefa-ortiz-de-dominguez-matamoros",
@@ -1009,10 +1018,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 23.74061,
+"lon": -99.14364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-melchor-ocampo-colonia-cuauhtemoc-ciudad-victoria-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-melchor-ocampo-colonia-cuauhtemoc-ciudad-victoria-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sevilla-congregacion-1o-de-m-ampliacion-ejido-primero-de-mayo",
@@ -1157,7 +1167,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-vanegas-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-vanegas-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-de-dios-pentecostal-brownsville",
@@ -1241,10 +1252,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pentecostes-la-familia-de-dios-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pentecostes-la-familia-de-dios-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-st-thomas-brownsville",
@@ -1415,10 +1427,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-lerma-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-lerma-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cristina-altamira",
@@ -1589,10 +1602,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-gloriosa-iddec-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-gloriosa-iddec-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-vid-laredo",
@@ -1705,10 +1719,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.28519,
+"lon": -97.87777,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-auxiliadora-tampico-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-auxiliadora-tampico-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-maria-reina-tampico",
@@ -1734,10 +1749,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.28519,
+"lon": -97.87777,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-reina-tampico-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-reina-tampico-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-buen-pastor-periferico-tamaulipas",
@@ -1911,7 +1927,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-tabernaculo-de-fe-nuevo-laredo-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-tabernaculo-de-fe-nuevo-laredo-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-presbiteriana-first-brownsville",
@@ -2114,7 +2131,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-mexicana-vanegas-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-mexicana-vanegas-tamaulipas",
+"geo_fuente": null
 },
 {
 "slug": "primera-iglesia-bautista-pharr-hidalgo-county",
@@ -2314,10 +2332,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-alabanza-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-alabanza-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-eben-ezer-abasolo",
@@ -2401,10 +2420,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-filadelfia-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-filadelfia-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-monte-de-los-olivos-reynosa",
@@ -2430,10 +2450,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.08005,
+"lon": -98.28456,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-de-los-olivos-reynosa-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-de-los-olivos-reynosa-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-pentecostes-agua-de-vida-jaumave",
@@ -2459,10 +2480,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 23.40638,
+"lon": -99.37618,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-pentecostes-agua-de-vida-jaumave-tamaulipas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-pentecostes-agua-de-vida-jaumave-tamaulipas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-remanente-de-vida-altamira",

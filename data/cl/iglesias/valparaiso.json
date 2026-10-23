@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-de-dios-casa-sobre-la-roca-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asamblea-de-dios-casa-sobre-la-roca-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cristo-redentor-quilpue",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-redentor-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-redentor-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cuatro-evangelistas-quilpue",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cuatro-evangelistas-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cuatro-evangelistas-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-rafael-calle-larga",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-rafael-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-rafael-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-carmen-santa-maria",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-carmen-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-carmen-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-santisimo-quilpue",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-santisimo-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-santisimo-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-don-bosco-calle-larga",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-don-bosco-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-don-bosco-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-jesus-de-nazareth-villa-alemana",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-jesus-de-nazareth-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-jesus-de-nazareth-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-las-cabras-santa-maria",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-las-cabras-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-las-cabras-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-laurita-vicuna-santo-domingo",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.63615,
+"lon": -71.62723,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-laurita-vicuna-santo-domingo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-laurita-vicuna-santo-domingo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-los-cuatro-evangelistas-quilpue",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-los-cuatro-evangelistas-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-los-cuatro-evangelistas-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-lourdes-villa-alemana",
@@ -342,10 +353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-lourdes-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-lourdes-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-marista-villa-alemana",
@@ -371,10 +383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-marista-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-marista-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-nuestra-sra-calle-larga",
@@ -400,10 +413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nuestra-sra-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nuestra-sra-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-antonio-de-la-calera-la-calera",
@@ -429,10 +443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.78676,
+"lon": -71.19795,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-antonio-de-la-calera-la-calera-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-antonio-de-la-calera-la-calera-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-expedito-algarrobo",
@@ -458,10 +473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.36952,
+"lon": -71.67654,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-expedito-algarrobo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-expedito-algarrobo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-francisco-de-asis-villa-alemana",
@@ -487,10 +503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-francisco-de-asis-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-francisco-de-asis-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-jose-quilpue",
@@ -516,10 +533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-jose-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-jose-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-juan-de-dios-vina-del-mar",
@@ -545,10 +563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-juan-de-dios-vina-del-mar-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-juan-de-dios-vina-del-mar-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-lorenzo-calle-larga",
@@ -574,10 +593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-lorenzo-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-lorenzo-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-marcelino-quillota",
@@ -603,10 +623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-marcelino-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-marcelino-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-marcos-villa-alemana",
@@ -632,10 +653,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-marcos-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-marcos-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santa-margarita-catemu",
@@ -661,10 +683,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.63333,
+"lon": -71.03333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-margarita-catemu-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-margarita-catemu-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santa-rosa-calle-larga",
@@ -690,10 +713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-rosa-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-rosa-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santisima-trinidad-calle-larga",
@@ -719,10 +743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santisima-trinidad-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santisima-trinidad-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-torre-fuerte-calle-larga",
@@ -748,10 +773,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-torre-fuerte-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-torre-fuerte-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-villa-el-esfuerzo-juan-fernandez",
@@ -806,10 +832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-la-asamblea-de-dios-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-la-asamblea-de-dios-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-de-santa-cruz-algarrobo",
@@ -835,10 +862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.36952,
+"lon": -71.67654,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-de-santa-cruz-algarrobo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-de-santa-cruz-algarrobo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corporacion-evangelica-juan-fernandez",
@@ -893,10 +921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.78676,
+"lon": -71.19795,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-evangelica-pentecostal-filadelfia-la-calera-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-evangelica-pentecostal-filadelfia-la-calera-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-de-septimo-dia-juan-fernandez",
@@ -951,10 +980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.71667,
+"lon": -71.23333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-nogales-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-nogales-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-quillota-centro-quillota",
@@ -980,10 +1010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-quillota-centro-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-quillota-centro-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-andacollo-calle-larga",
@@ -1009,10 +1040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-andacollo-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-andacollo-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-episcopalna-emanuel-quilpue",
@@ -1038,10 +1070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopalna-emanuel-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopalna-emanuel-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-episcopalna-san-esteban-villa-alemana",
@@ -1067,10 +1100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopalna-san-esteban-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopalna-san-esteban-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-episcopalna-san-pedro-vina-del-mar",
@@ -1096,10 +1130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopalna-san-pedro-vina-del-mar-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-anglicana-episcopalna-san-pedro-vina-del-mar-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-asamblea-de-dios-cristiana-quillota",
@@ -1125,10 +1160,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-asamblea-de-dios-cristiana-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-asamblea-de-dios-cristiana-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-asamblea-de-dios-villa-alemana",
@@ -1154,10 +1190,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-asamblea-de-dios-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-asamblea-de-dios-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-mana-vina-del-mar",
@@ -1183,10 +1220,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-mana-vina-del-mar-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-mana-vina-del-mar-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-nogales",
@@ -1212,10 +1250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.71667,
+"lon": -71.23333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-nogales-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-nogales-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cabildo-cabildo",
@@ -1241,10 +1280,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.43134,
+"lon": -71.07167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cabildo-cabildo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cabildo-cabildo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-comunidad-cristiana-villa-alemana",
@@ -1270,10 +1310,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-comunidad-cristiana-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-comunidad-cristiana-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristianaa-norte-villa-alemana",
@@ -1299,10 +1340,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristianaa-norte-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristianaa-norte-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristianaa-san-felipe",
@@ -1328,10 +1370,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74976,
+"lon": -70.72584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristianaa-san-felipe-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristianaa-san-felipe-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-centro-mundial-de-cosecha-limache",
@@ -1357,10 +1400,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.01327,
+"lon": -71.26084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-centro-mundial-de-cosecha-limache-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-centro-mundial-de-cosecha-limache-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-latinoamericana-quillota",
@@ -1386,10 +1430,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-latinoamericana-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-latinoamericana-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-quilpue",
@@ -1415,10 +1460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-isla-negra-el-quisco",
@@ -1444,10 +1490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.39772,
+"lon": -71.69388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-isla-negra-el-quisco-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-isla-negra-el-quisco-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-algarrobo",
@@ -1473,10 +1520,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.36952,
+"lon": -71.67654,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-algarrobo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-algarrobo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-quilpue",
@@ -1502,10 +1550,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-ultimos-dias-valparaiso",
@@ -1589,10 +1638,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.55384,
+"lon": -71.60761,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-virgen-medianera-cartagena-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-virgen-medianera-cartagena-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-llolleo-san-antonio",
@@ -1618,10 +1668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.59473,
+"lon": -71.60746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-llolleo-san-antonio-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-llolleo-san-antonio-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-sagrados-corazones-santa-maria",
@@ -1647,10 +1698,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-sagrados-corazones-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-sagrados-corazones-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-piedra-quintero",
@@ -1676,10 +1728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.78588,
+"lon": -71.53222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-piedra-quintero-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-piedra-quintero-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-barrio-san-ramon-juan-fernandez",
@@ -1734,10 +1787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-lo-espejo-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-lo-espejo-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-don-bosco-calle-larga",
@@ -1763,10 +1817,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-don-bosco-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-don-bosco-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-arca-de-dios-juan-fernandez",
@@ -1821,10 +1876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-manzano-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-manzano-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-en-colon-quilpue",
@@ -1850,10 +1906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-colon-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-colon-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-asamblea-apostolica-primitiva-quilpue",
@@ -1879,10 +1936,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asamblea-apostolica-primitiva-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asamblea-apostolica-primitiva-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cielo-abierto-quilpue",
@@ -1908,10 +1966,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cielo-abierto-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cielo-abierto-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-dios-pentecostal-santa-maria",
@@ -1937,10 +1996,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-dios-pentecostal-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-dios-pentecostal-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-hebron-calle-larga",
@@ -1966,10 +2026,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-hebron-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-hebron-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-juan-fernandez",
@@ -2024,10 +2085,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.84043,
+"lon": -70.95623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentcostal-tempo-eliezer-estay-llaillay-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentcostal-tempo-eliezer-estay-llaillay-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-chile-para-cristo-santa-maria",
@@ -2053,10 +2115,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-chile-para-cristo-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-chile-para-cristo-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-san-esteban-los-andes",
@@ -2082,10 +2145,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.83369,
+"lon": -70.59827,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-san-esteban-los-andes-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-san-esteban-los-andes-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-san-lucas-vina-del-mar",
@@ -2111,10 +2175,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-san-lucas-vina-del-mar-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-san-lucas-vina-del-mar-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesus-el-amor-eterno-la-calera",
@@ -2140,10 +2205,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.78676,
+"lon": -71.19795,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-el-amor-eterno-la-calera-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-el-amor-eterno-la-calera-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesus-juan-fernandez",
@@ -2198,10 +2264,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-luterana-de-la-santa-trinidad-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-luterana-de-la-santa-trinidad-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-luterana-de-valparaiso-valparaiso",
@@ -2256,10 +2323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-pentecostal-de-chile-juan-fernandez",
@@ -2343,10 +2411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-pentecostal-local-la-granja-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-pentecostal-local-la-granja-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-miel-calle-larga",
@@ -2372,10 +2441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-miel-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-miel-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nazaret-juan-fernandez",
@@ -2430,10 +2500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.50799,
+"lon": -71.44362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-papudo-papudo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-papudo-papudo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-apostolica-del-nombre-de-jesus-santa-maria",
@@ -2459,10 +2530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-apostolica-del-nombre-de-jesus-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-apostolica-del-nombre-de-jesus-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-las-acacias-calle-larga",
@@ -2488,10 +2560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-las-acacias-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-las-acacias-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-los-almendros-quillota",
@@ -2517,10 +2590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-los-almendros-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-los-almendros-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-la-trinidad-de-renaca-concon",
@@ -2546,10 +2620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.92203,
+"lon": -71.51619,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-la-trinidad-de-renaca-concon-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-la-trinidad-de-renaca-concon-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-esteban-los-andes",
@@ -2575,10 +2650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.83369,
+"lon": -70.59827,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-esteban-los-andes-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-esteban-los-andes-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-francisco-y-curimon-san-felipe",
@@ -2604,10 +2680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74976,
+"lon": -70.72584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-y-curimon-san-felipe-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-y-curimon-san-felipe-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-fransisco-de-asis-quillota",
@@ -2633,10 +2710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-fransisco-de-asis-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-fransisco-de-asis-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-jose-catemu",
@@ -2662,10 +2740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.63333,
+"lon": -71.03333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-catemu-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-catemu-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-jose-de-la-calera-la-calera",
@@ -2691,10 +2770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.78676,
+"lon": -71.19795,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-de-la-calera-la-calera-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-de-la-calera-la-calera-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-santa-maria",
@@ -2720,10 +2800,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-santa-maria-valparaiso-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-santa-maria-valparaiso-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-sion-juan-fernandez",
@@ -2807,10 +2888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-unida-metodista-pentecostal-santa-maria-valparaiso-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-unida-metodista-pentecostal-santa-maria-valparaiso-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-universal-de-cristo-calle-larga",
@@ -2836,10 +2918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-universal-de-cristo-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-universal-de-cristo-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-universal-del-reino-de-dios-quillota",
@@ -2865,10 +2948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-universal-del-reino-de-dios-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-universal-del-reino-de-dios-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vision-mundial-para-la-familia-valencia-alto-quilpue",
@@ -2894,10 +2978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vision-mundial-para-la-familia-valencia-alto-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vision-mundial-para-la-familia-valencia-alto-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-quilpue",
@@ -2923,10 +3008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-apostolico-centro-mundial-de-cosecha-villa-alemana",
@@ -2952,10 +3038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-apostolico-centro-mundial-de-cosecha-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-apostolico-centro-mundial-de-cosecha-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-de-restauracion-eben-ezer-villa-alemana-villa-alemana",
@@ -2981,10 +3068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-de-restauracion-eben-ezer-villa-alemana-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-de-restauracion-eben-ezer-villa-alemana-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-la-casa-juan-fernandez",
@@ -3039,10 +3127,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-renuevo-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-renuevo-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-de-vina-iglesia-presbiteriana-de-chile-vina-del-mar",
@@ -3068,10 +3157,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-de-vina-iglesia-presbiteriana-de-chile-vina-del-mar-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-de-vina-iglesia-presbiteriana-de-chile-vina-del-mar-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-evangelica-bautista-calle-larga",
@@ -3097,10 +3187,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.85473,
+"lon": -70.62595,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-calle-larga-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-calle-larga-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-evangelica-bautista-de-vina-del-mar-vina-del-mar",
@@ -3126,10 +3217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-de-vina-del-mar-vina-del-mar-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-de-vina-del-mar-vina-del-mar-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-metodista-pentecostal-de-chile-la-calera",
@@ -3155,10 +3247,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.78676,
+"lon": -71.19795,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-metodista-pentecostal-de-chile-la-calera-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-metodista-pentecostal-de-chile-la-calera-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sociedad-misionera-mundial-iglesia-de-dios-villa-alemana",
@@ -3184,10 +3277,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sociedad-misionera-mundial-iglesia-de-dios-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sociedad-misionera-mundial-iglesia-de-dios-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-adventista-del-septimo-dia-villa-alemana",
@@ -3213,10 +3307,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-adventista-del-septimo-dia-villa-alemana-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-adventista-del-septimo-dia-villa-alemana-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-agape-iglesias-evangelicas-de-las-mas-antiguas-quilpue",
@@ -3242,10 +3337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-agape-iglesias-evangelicas-de-las-mas-antiguas-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-agape-iglesias-evangelicas-de-las-mas-antiguas-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-belen-el-tabo",
@@ -3271,10 +3367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.45548,
+"lon": -71.66683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-belen-el-tabo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-belen-el-tabo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristo-redentor-panquehue",
@@ -3300,10 +3397,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.77143,
+"lon": -70.83614,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristo-redentor-panquehue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristo-redentor-panquehue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-arca-quilpue",
@@ -3329,10 +3427,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-arca-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-arca-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-juan-fernandez",
@@ -3387,10 +3486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.43134,
+"lon": -71.07167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostal-cabildo-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostal-cabildo-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-iglesia-evangelica-pentcostal-quilpue",
@@ -3416,10 +3516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-iglesia-evangelica-pentcostal-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-iglesia-evangelica-pentcostal-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-jesus-te-llama-quillota",
@@ -3445,10 +3546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.88341,
+"lon": -71.24882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-jesus-te-llama-quillota-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-jesus-te-llama-quillota-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-troya-san-felipe",
@@ -3474,10 +3576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74976,
+"lon": -70.72584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-troya-san-felipe-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-troya-san-felipe-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-sotomayor-quilpue",
@@ -3503,10 +3606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-sotomayor-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-sotomayor-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-valencia-iglesia-adventista-del-septimo-dia-quilpue",
@@ -3532,10 +3636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-valencia-iglesia-adventista-del-septimo-dia-quilpue-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-valencia-iglesia-adventista-del-septimo-dia-quilpue-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-church-iglesia-la-vina-santa-maria",
@@ -3561,10 +3666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.74732,
+"lon": -70.65666,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-church-iglesia-la-vina-santa-maria-valparaiso"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-church-iglesia-la-vina-santa-maria-valparaiso",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vision-apostolica-valparaiso",

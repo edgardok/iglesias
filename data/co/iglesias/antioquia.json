@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-de-estudios-kardecianos-asdek-comuna-11-laureles-estadio-colombia-1352"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-de-estudios-kardecianos-asdek-comuna-11-laureles-estadio-colombia-1352",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cenfol-floresta-medellin",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cenfol-floresta-medellin-colombia-910"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cenfol-floresta-medellin-colombia-910",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-administrativo-nacional-de-la-ipuc-medellin",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-administrativo-nacional-de-la-ipuc-medellin-colombia-1841"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-administrativo-nacional-de-la-ipuc-medellin-colombia-1841",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corporacion-la-comunidad-medellin",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-la-comunidad-medellin-colombia-3615"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-la-comunidad-medellin-colombia-3615",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "divino-ecce-homo-turbo",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 8.09263,
+"lon": -76.72822,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/divino-ecce-homo-turbo-colombia-1357"
+"fuente_url": "https://encuentraiglesias.com/iglesia/divino-ecce-homo-turbo-colombia-1357",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-belen-medellin",
@@ -168,10 +173,11 @@
 "telefono": "+57 320 883 5941",
 "email": "iglesiaelredildebelen@gmail.com",
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-belen-medellin-2",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-del-poblado/"
+"fuente_url": "https://redil.org/el-redil-del-poblado/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-caldas-caldas",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.34633,
+"lon": -75.50888,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-de-copacabana/"
+"fuente_url": "https://redil.org/el-redil-de-copacabana/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-copacabana-copacabana",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.34633,
+"lon": -75.50888,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-estadio-medellin",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-estadio/"
+"fuente_url": "https://redil.org/el-redil-estadio/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-fontidueno-bello",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.33732,
+"lon": -75.55795,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-fontidueno/"
+"fuente_url": "https://redil.org/el-redil-fontidueno/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-itagui-itagui",
@@ -371,10 +382,11 @@
 "telefono": "+57 301 140 0348",
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.18461,
+"lon": -75.59913,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-itagui-itagui-2",
@@ -400,10 +412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.18461,
+"lon": -75.59913,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-itagui/"
+"fuente_url": "https://redil.org/el-redil-itagui/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-la-america-medellin",
@@ -429,10 +442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-la-america-medellin-2",
@@ -458,10 +472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-la-america/"
+"fuente_url": "https://redil.org/el-redil-la-america/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-la-ceja",
@@ -545,10 +560,11 @@
 "telefono": "+57 311 703 9082",
 "email": "conectate@redil.org.co",
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-laureles-medellin-2",
@@ -574,10 +590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-laureles/"
+"fuente_url": "https://redil.org/el-redil-laureles/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-norte-bello",
@@ -603,10 +620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.33732,
+"lon": -75.55795,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-norte/"
+"fuente_url": "https://redil.org/el-redil-norte/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-oriente-rionegro",
@@ -632,10 +650,11 @@
 "telefono": "+57 321 460 52 08",
 "email": "diegocardonaq@gmail.com",
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.15515,
+"lon": -75.37371,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-poblado-medellin",
@@ -661,10 +680,11 @@
 "telefono": "+57 (4) 557 6774 / +57 310 3645315",
 "email": "conectate@redil.org.co",
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-retiro-el-retiro",
@@ -748,10 +768,11 @@
 "telefono": "+57 305 255 6877",
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-san-cristobal-medellin-2",
@@ -777,10 +798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-de-san-cristobal/"
+"fuente_url": "https://redil.org/el-redil-de-san-cristobal/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-sur-sabaneta",
@@ -806,10 +828,11 @@
 "telefono": "+57 320 918 9625",
 "email": "info@redildelsur.org",
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.15153,
+"lon": -75.61657,
 "reclamada": false,
-"fuente_url": "https://redil.org/miembros/"
+"fuente_url": "https://redil.org/miembros/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-redil-sur-sabaneta-2",
@@ -835,10 +858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.15153,
+"lon": -75.61657,
 "reclamada": false,
-"fuente_url": "https://redil.org/el-redil-del-sur/"
+"fuente_url": "https://redil.org/el-redil-del-sur/",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "four-corners-church-sabaneta",
@@ -864,10 +888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.15153,
+"lon": -75.61657,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/four-corners-church-sabaneta-colombia-3522"
+"fuente_url": "https://encuentraiglesias.com/iglesia/four-corners-church-sabaneta-colombia-3522",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "funeraria-la-paz-medellin",
@@ -893,10 +918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/funeraria-la-paz-medellin-colombia-556"
+"fuente_url": "https://encuentraiglesias.com/iglesia/funeraria-la-paz-medellin-colombia-556",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "idmji-envigado-envigado",
@@ -922,10 +948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.17591,
+"lon": -75.59174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/idmji-envigado-envigado-colombia-3886"
+"fuente_url": "https://encuentraiglesias.com/iglesia/idmji-envigado-envigado-colombia-3886",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "idmji-itagui-itagui",
@@ -951,10 +978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.18461,
+"lon": -75.59913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/idmji-itagui-itagui-colombia-3887"
+"fuente_url": "https://encuentraiglesias.com/iglesia/idmji-itagui-itagui-colombia-3887",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-centro-agape-medellin",
@@ -980,10 +1008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-agape-medellin-colombia-3334"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-agape-medellin-colombia-3334",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-comunidad-apostolica-misionera-medellin",
@@ -1009,10 +1038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-comunidad-apostolica-misionera-comuna-5-castilla-colombia-1327"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-comunidad-apostolica-misionera-comuna-5-castilla-colombia-1327",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-avivamiento-mundial-maranatha-medellin",
@@ -1038,10 +1068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-avivamiento-mundial-maranatha-medellin-colombia-2565"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-avivamiento-mundial-maranatha-medellin-colombia-2565",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-pilar-medellin",
@@ -1067,10 +1098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-pilar-medellin-colombia-1195"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-pilar-medellin-colombia-1195",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-divino-maestro-medellin",
@@ -1096,10 +1128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-divino-maestro-medellin-colombia-2080"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-divino-maestro-medellin-colombia-2080",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-camino-medellin",
@@ -1125,10 +1158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-camino-medellin-colombia-3616"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-camino-medellin-colombia-3616",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-amalfi",
@@ -1154,10 +1188,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.91016,
+"lon": -75.07764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-amalfi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-amalfi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-colombia-manrique-central-medellin",
@@ -1183,10 +1218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-colombia-manrique-central-medellin-colombia-1803"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-colombia-manrique-central-medellin-colombia-1803",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-12-de-octubre-medellin",
@@ -1212,10 +1248,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-12-de-octubre-medellin-colombia-4366"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-12-de-octubre-medellin-colombia-4366",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-altos-de-la-cruz-medellin",
@@ -1241,10 +1278,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-altos-de-la-cruz-medellin-colombia-1835"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-altos-de-la-cruz-medellin-colombia-1835",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-aranjuez-medellin",
@@ -1270,10 +1308,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-aranjuez-medellin-colombia-1786"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-aranjuez-medellin-colombia-1786",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-aures-medellin",
@@ -1299,10 +1338,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-aures-medellin-colombia-1825"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-aures-medellin-colombia-1825",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-belen-altavista-medellin",
@@ -1328,10 +1368,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-altavista-medellin-colombia-2375"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-altavista-medellin-colombia-2375",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-belen-central-medellin",
@@ -1357,10 +1398,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-central-medellin-colombia-1776"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-central-medellin-colombia-1776",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-belen-fatima-medellin",
@@ -1386,10 +1428,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-fatima-medellin-colombia-1774"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-fatima-medellin-colombia-1774",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-belen-las-violetas-medellin",
@@ -1415,10 +1458,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-las-violetas-medellin-colombia-1335"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-las-violetas-medellin-colombia-1335",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-belen-manzanillo-medellin",
@@ -1444,10 +1488,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-manzanillo-medellin-colombia-1775"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-manzanillo-medellin-colombia-1775",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-belen-rincon-medellin",
@@ -1473,10 +1518,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-rincon-medellin-colombia-1777"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-belen-rincon-medellin-colombia-1777",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-bello-horizonte-medellin",
@@ -1502,10 +1548,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-bello-horizonte-medellin-colombia-1805"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-bello-horizonte-medellin-colombia-1805",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-berlin-medellin",
@@ -1531,10 +1578,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-berlin-medellin-colombia-1830"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-berlin-medellin-colombia-1830",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-blanquizal-medellin",
@@ -1560,10 +1608,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-blanquizal-medellin-colombia-1829"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-blanquizal-medellin-colombia-1829",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-buenos-aires-medellin",
@@ -1589,10 +1638,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-buenos-aires-medellin-colombia-1799"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-buenos-aires-medellin-colombia-1799",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-calasanz-medellin",
@@ -1618,10 +1668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-calasanz-medellin-colombia-4367"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-calasanz-medellin-colombia-4367",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-campo-valdes-medellin",
@@ -1647,10 +1698,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-campo-valdes-medellin-colombia-1787"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-campo-valdes-medellin-colombia-1787",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-carambolas-medellin",
@@ -1676,10 +1728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-carambolas-medellin-colombia-1837"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-carambolas-medellin-colombia-1837",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-castilla-medellin",
@@ -1705,10 +1758,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-castilla-medellin-colombia-1813"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-castilla-medellin-colombia-1813",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-caunces-medellin",
@@ -1734,10 +1788,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-caunces-medellin-colombia-3097"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-caunces-medellin-colombia-3097",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-central-medellin-medellin",
@@ -1763,10 +1818,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-central-medellin-medellin-colombia-1773"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-central-medellin-medellin-colombia-1773",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-cristo-rey-medellin",
@@ -1792,10 +1848,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-cristo-rey-medellin-colombia-1778"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-cristo-rey-medellin-colombia-1778",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-cuatro-esquinas-medellin",
@@ -1821,10 +1878,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-cuatro-esquinas-medellin-colombia-1839"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-cuatro-esquinas-medellin-colombia-1839",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-eduardo-santos-medellin",
@@ -1850,10 +1908,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-eduardo-santos-medellin-colombia-1800"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-eduardo-santos-medellin-colombia-1800",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-el-diamante-medellin",
@@ -1879,10 +1938,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-diamante-medellin-colombia-1806"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-diamante-medellin-colombia-1806",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-el-faro-medellin",
@@ -1908,10 +1968,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-faro-medellin-colombia-1811"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-faro-medellin-colombia-1811",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-el-plan-medellin",
@@ -1937,10 +1998,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-plan-medellin-colombia-1810"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-plan-medellin-colombia-1810",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-el-playon-medellin",
@@ -1966,10 +2028,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-playon-medellin-colombia-1832"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-playon-medellin-colombia-1832",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-el-poblado-medellin",
@@ -1995,10 +2058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-poblado-medellin-colombia-1780"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-el-poblado-medellin-colombia-1780",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-enciso-medellin",
@@ -2024,10 +2088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-enciso-medellin-colombia-1801"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-enciso-medellin-colombia-1801",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-gaitan-medellin",
@@ -2053,10 +2118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-gaitan-medellin-colombia-1840"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-gaitan-medellin-colombia-1840",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-kennedy-medellin",
@@ -2082,10 +2148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-kennedy-medellin-colombia-1821"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-kennedy-medellin-colombia-1821",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-la-america-medellin",
@@ -2111,10 +2178,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-america-medellin-colombia-1817"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-america-medellin-colombia-1817",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-la-campina-medellin",
@@ -2140,10 +2208,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-campina-medellin-colombia-1823"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-campina-medellin-colombia-1823",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-la-colinita-medellin",
@@ -2169,10 +2238,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-colinita-medellin-colombia-3176"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-colinita-medellin-colombia-3176",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-la-divisa-medellin",
@@ -2198,10 +2268,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-divisa-medellin-colombia-1831"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-divisa-medellin-colombia-1831",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-la-loma-medellin",
@@ -2227,10 +2298,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-loma-medellin-colombia-2023"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-loma-medellin-colombia-2023",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-la-milagrosa-medellin",
@@ -2256,10 +2328,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-milagrosa-medellin-colombia-1814"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-la-milagrosa-medellin-colombia-1814",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-las-esmeraldas-medellin",
@@ -2285,10 +2358,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-las-esmeraldas-medellin-colombia-1802"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-las-esmeraldas-medellin-colombia-1802",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-las-margaritas-medellin",
@@ -2314,10 +2388,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-las-margaritas-medellin-colombia-1822"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-las-margaritas-medellin-colombia-1822",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-las-palmas-medellin",
@@ -2343,10 +2418,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-las-palmas-medellin-colombia-1807"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-las-palmas-medellin-colombia-1807",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-laureles-medellin",
@@ -2372,10 +2448,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-laureles-medellin-colombia-1793"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-laureles-medellin-colombia-1793",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-llanaditas-medellin",
@@ -2401,10 +2478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-llanaditas-medellin-colombia-1809"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-llanaditas-medellin-colombia-1809",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-los-angeles-medellin",
@@ -2430,10 +2508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-los-angeles-medellin-colombia-1791"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-los-angeles-medellin-colombia-1791",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-los-balsos-medellin",
@@ -2459,10 +2538,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-los-balsos-medellin-colombia-1820"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-los-balsos-medellin-colombia-1820",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-los-puentes-medellin",
@@ -2488,10 +2568,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-los-puentes-medellin-colombia-1808"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-los-puentes-medellin-colombia-1808",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-manrique-la-cruz-medellin",
@@ -2517,10 +2598,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-manrique-la-cruz-medellin-colombia-1836"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-manrique-la-cruz-medellin-colombia-1836",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-manrique-oriental-medellin",
@@ -2546,10 +2628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-manrique-oriental-medellin-colombia-1804"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-manrique-oriental-medellin-colombia-1804",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-manrique-santa-ines-medellin",
@@ -2575,10 +2658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-manrique-santa-ines-medellin-colombia-1819"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-manrique-santa-ines-medellin-colombia-1819",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-moravia-medellin",
@@ -2604,10 +2688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-moravia-medellin-colombia-4152"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-moravia-medellin-colombia-4152",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-palermo-medellin",
@@ -2633,10 +2718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-palermo-medellin-colombia-1816"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-palermo-medellin-colombia-1816",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-penitas-medellin",
@@ -2662,10 +2748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-penitas-medellin-colombia-1824"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-penitas-medellin-colombia-1824",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-picacho-medellin",
@@ -2691,10 +2778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-picacho-medellin-colombia-1828"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-picacho-medellin-colombia-1828",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-popular-1-medellin",
@@ -2720,10 +2808,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-popular-1-medellin-colombia-1792"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-popular-1-medellin-colombia-1792",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-popular-2-medellin",
@@ -2749,10 +2838,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-popular-2-medellin-colombia-1790"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-popular-2-medellin-colombia-1790",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-san-cristobal-medellin",
@@ -2778,10 +2868,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-san-cristobal-medellin-colombia-1827"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-san-cristobal-medellin-colombia-1827",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-san-diego-medellin",
@@ -2807,10 +2898,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-san-diego-medellin-colombia-1789"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-san-diego-medellin-colombia-1789",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-santa-cruz-medellin",
@@ -2836,10 +2928,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-santa-cruz-medellin-colombia-1834"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-santa-cruz-medellin-colombia-1834",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-santander-medellin",
@@ -2865,10 +2958,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-santander-medellin-colombia-1826"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-santander-medellin-colombia-1826",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-tejelo-medellin",
@@ -2894,10 +2988,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-tejelo-medellin-colombia-1833"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-tejelo-medellin-colombia-1833",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-trinidad-medellin",
@@ -2923,10 +3018,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-trinidad-medellin-colombia-1779"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-trinidad-medellin-colombia-1779",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-villa-hermosa-medellin",
@@ -2952,10 +3048,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-villa-hermosa-medellin-colombia-1838"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-villa-hermosa-medellin-colombia-1838",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-villa-sierra-medellin",
@@ -2981,10 +3078,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-villa-sierra-medellin-colombia-1815"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-villa-sierra-medellin-colombia-1815",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-colombia-villatina-medellin",
@@ -3010,10 +3108,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-villatina-medellin-colombia-1812"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-colombia-villatina-medellin-colombia-1812",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-redil-laureles-medellin",
@@ -3039,10 +3138,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-redil-laureles-medellin-colombia-1737"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-redil-laureles-medellin-colombia-1737",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-bautista-de-envigado-calle-47a-sur-envigado",
@@ -3068,10 +3168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.17591,
+"lon": -75.59174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-de-envigado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-de-envigado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-universitario-upb-medellin",
@@ -3097,9 +3198,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.245,
+"lon": -75.57151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-universitario-upb-medellin-colombia-2613"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-universitario-upb-medellin-colombia-2613",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

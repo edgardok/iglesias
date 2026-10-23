@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.34919,
+"lon": -98.3569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/agua-iglesia-agua-blanca-de-iturbide-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/agua-iglesia-agua-blanca-de-iturbide-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "agua-iglesia-chapa-de-mota",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.81356,
+"lon": -99.526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/agua-iglesia-chapa-de-mota-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/agua-iglesia-chapa-de-mota-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canada-de-iglesia-chapa-de-mota",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.81356,
+"lon": -99.526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canada-de-iglesia-chapa-de-mota-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canada-de-iglesia-chapa-de-mota-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-de-regeneracion-cristiano-la-pena-de-horeb-san-lorenzo-cacaotepec",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.12774,
+"lon": -96.80244,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-regeneracion-cristiano-la-pena-de-horeb-san-lorenzo-cacaotepec-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-regeneracion-cristiano-la-pena-de-horeb-san-lorenzo-cacaotepec-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cerro-iglesia-santa-catarina",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.06058,
+"lon": -96.62326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-cristiana-shekinah-santo-domingo-tomaltepec-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-cristiana-shekinah-santo-domingo-tomaltepec-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-lazaro-cardenas-matamoros",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.2022,
+"lon": -96.81802,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-senor-de-las-penitas-reyes-etla-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-senor-de-las-penitas-reyes-etla-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-de-asuncion-ixtaltepec-oaxaca",
@@ -313,10 +319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 15.92574,
+"lon": -96.41931,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ave-maria-pluma-hidalgo-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ave-maria-pluma-hidalgo-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-fundamental-el-camino-ocotlan-de-morelos",
@@ -342,10 +349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.79183,
+"lon": -96.67504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-fundamental-el-camino-ocotlan-de-morelos-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-fundamental-el-camino-ocotlan-de-morelos-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-la-iglesia-de-jesucristo-ocotlan-de-morelos",
@@ -371,10 +379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.79183,
+"lon": -96.67504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-la-iglesia-de-jesucristo-ocotlan-de-morelos-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-la-iglesia-de-jesucristo-ocotlan-de-morelos-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-la-iglesia-de-jesucristo-ocotlan-de-morelos-2",
@@ -400,10 +409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.79183,
+"lon": -96.67504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-la-iglesia-de-jesucristo-ocotlan-de-morelos-oaxaca-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-la-iglesia-de-jesucristo-ocotlan-de-morelos-oaxaca-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-casa-de-dios-y-puerta-del-cielo-san-juan-bautista-tuxtepec",
@@ -487,10 +497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.24473,
+"lon": -103.7127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-centro-de-bendicion-colima-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-centro-de-bendicion-colima-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-de-miahuatlan-miahuatlan",
@@ -574,10 +585,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.83107,
+"lon": -95.81189,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mariano-arista-colonia-solidaridad-playa-vicente-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mariano-arista-colonia-solidaridad-playa-vicente-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-oaxaca-de-juarez-santiago-tenango",
@@ -603,10 +615,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.32467,
+"lon": -97.00451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-oaxaca-de-juarez-santiago-tenango-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-oaxaca-de-juarez-santiago-tenango-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-oaxaca-oaxaca",
@@ -661,10 +674,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.62742,
+"lon": -98.63697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostal-emanuel-juchitan-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostal-emanuel-juchitan-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-cuilapam",
@@ -748,10 +762,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.53881,
+"lon": -96.60514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-guadalupe-acatlan-de-perez-figueroa-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-guadalupe-acatlan-de-perez-figueroa-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-divina-providencia-oaxaca",
@@ -835,10 +850,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.86707,
+"lon": -96.78484,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-valdeflores-zimatlan-de-alvarez-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-valdeflores-zimatlan-de-alvarez-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-calvario-abejones",
@@ -864,10 +880,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.43694,
+"lon": -96.60907,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-calvario-abejones-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-calvario-abejones-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-carmen-acatlan-de-perez-figueroa",
@@ -893,10 +910,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.53881,
+"lon": -96.60514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-carmen-acatlan-de-perez-figueroa-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-carmen-acatlan-de-perez-figueroa-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-exmarquesado-oaxaca-de-juarez",
@@ -1067,10 +1085,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.35992,
+"lon": -96.24969,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-getsemani-villa-talea-de-castro-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-getsemani-villa-talea-de-castro-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-conservadora-san-pablo-minatitlan",
@@ -1183,10 +1202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.47176,
+"lon": -97.5697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-santiago-yolomecatl-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-santiago-yolomecatl-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "inglesia-del-dios-vivo-columna-y-apoyo-de-la-verdad-la-luz-del-mundo-oaxaca-de-juarez",
@@ -1328,10 +1348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.15045,
+"lon": -96.83541,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/patio-iglesia-santa-cruz-de-juarez-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/patio-iglesia-santa-cruz-de-juarez-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sagrada-familia-santiago-tapextla",
@@ -1357,10 +1378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.3412,
+"lon": -98.44735,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sagrada-familia-santiago-tapextla-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sagrada-familia-santiago-tapextla-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-cruz-san-juan-bautista-coixtlahuaca",
@@ -1386,10 +1408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.72483,
+"lon": -97.32379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-san-juan-bautista-coixtlahuaca-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-san-juan-bautista-coixtlahuaca-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "segunda-iglesia-bautista-jesus-es-mi-salvador-huajuapan-de-leon",
@@ -1589,10 +1612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.01828,
+"lon": -97.76975,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-luz-del-mundo-santa-maria-yucuhiti-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-luz-del-mundo-santa-maria-yucuhiti-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-santisima-trinidad-de-las-huertas-oaxaca-de-juarez",
@@ -1647,10 +1671,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.26868,
+"lon": -97.68032,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-bartolome-heroica-ciudad-de-tlaxiaco-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-bartolome-heroica-ciudad-de-tlaxiaco-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-juan-bautista-san-juan-bautista-coixtlahuaca",
@@ -1676,10 +1701,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.72483,
+"lon": -97.32379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-juan-bautista-san-juan-bautista-coixtlahuaca-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-juan-bautista-san-juan-bautista-coixtlahuaca-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-matias-jalatlaco-juarez-hidalgo",
@@ -1705,10 +1731,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.78558,
+"lon": -98.82852,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-matias-jalatlaco-juarez-hidalgo-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-matias-jalatlaco-juarez-hidalgo-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-carmen-de-abajo-acatlan-de-perez-figueroa",
@@ -1734,10 +1761,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.53881,
+"lon": -96.60514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-carmen-de-abajo-acatlan-de-perez-figueroa-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-carmen-de-abajo-acatlan-de-perez-figueroa-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-patrocinio-mixquiahuala-de-juarez",
@@ -1763,10 +1791,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.23,
+"lon": -99.2143,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-patrocinio-mixquiahuala-de-juarez-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-patrocinio-mixquiahuala-de-juarez-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-casa-de-adoracion-cuilapam-de-guerrero",
@@ -1792,10 +1821,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.99626,
+"lon": -96.78003,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-casa-de-adoracion-cuilapam-de-guerrero-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-casa-de-adoracion-cuilapam-de-guerrero-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-leon-de-juda-san-juan-bautista-tuxtepec",
@@ -1911,7 +1941,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-ntra-sra-de-lourdes-santiago-ixcuintla-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-ntra-sra-de-lourdes-santiago-ixcuintla-oaxaca",
+"geo_fuente": null
 },
 {
 "slug": "templo-santa-cruz-etla-guadalupe-etla",
@@ -1937,10 +1968,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.17268,
+"lon": -96.81022,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-santa-cruz-etla-guadalupe-etla-oaxaca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-santa-cruz-etla-guadalupe-etla-oaxaca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-sur-santa-barbara",

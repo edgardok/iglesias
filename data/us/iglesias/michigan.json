@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.52948,
+"lon": -83.78022,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/242-community-church-brighton-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/242-community-church-brighton-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aish-hatorah-detroit-berkley",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50309,
+"lon": -83.18354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aish-hatorah-detroit-berkley-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aish-hatorah-detroit-berkley-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alaska-baptist-church-caledonia",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.7892,
+"lon": -85.51669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alaska-baptist-church-caledonia-mi-estados-unidos-35909"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alaska-baptist-church-caledonia-mi-estados-unidos-35909",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ann-arbor-chinese-christian-church-ann-arbor",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ann-arbor-chinese-christian-church-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ann-arbor-chinese-christian-church-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bais-chabad-of-north-oak-park-berkley",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50309,
+"lon": -83.18354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bais-chabad-of-north-oak-park-berkley-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bais-chabad-of-north-oak-park-berkley-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berea-saint-pauls-united-methodist-church-of-highland-park-highland-park",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.40559,
+"lon": -83.09687,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berea-saint-pauls-united-methodist-church-of-highland-park-highland-park-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berea-saint-pauls-united-methodist-church-of-highland-park-highland-park-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beth-israel-congregation-ann-arbor",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beth-israel-congregation-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beth-israel-congregation-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blythefield-hills-baptist-church-rockford-campus-belmont",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.07558,
+"lon": -85.6092,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blythefield-hills-baptist-church-rockford-campus-belmont-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blythefield-hills-baptist-church-rockford-campus-belmont-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bnai-israel-beth-yehuda-berkley",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50309,
+"lon": -83.18354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bnai-israel-beth-yehuda-berkley-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bnai-israel-beth-yehuda-berkley-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brighton-first-whitmore-lake",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.4397,
+"lon": -83.7453,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brighton-first-whitmore-lake-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brighton-first-whitmore-lake-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-church-fraser-fraser",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.5392,
+"lon": -82.94937,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-church-fraser-fraser-mi-estados-unidos-52458"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-church-fraser-fraser-mi-estados-unidos-52458",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-community-churchcommunity-church-fairview",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.69808,
+"lon": -85.48366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christs-harvest-ministries-big-rapids-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christs-harvest-ministries-big-rapids-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christs-mission-missionary-baptist-church-detroit",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33143,
+"lon": -83.04575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christs-mission-missionary-baptist-church-detroit-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christs-mission-missionary-baptist-church-detroit-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregation-of-moses-arcadia",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50309,
+"lon": -83.18354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-or-chadash-berkley-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-or-chadash-berkley-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregation-shir-tikvah-birmingham",
@@ -545,10 +559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.5467,
+"lon": -83.21132,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-shir-tikvah-birmingham-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-shir-tikvah-birmingham-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "current-church-hillsdale-hillsdale",
@@ -574,10 +589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.92005,
+"lon": -84.63051,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/current-church-hillsdale-hillsdale-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/current-church-hillsdale-hillsdale-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "davisburg-united-methodist-church-davisburg",
@@ -632,10 +648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.25754,
+"lon": -83.21104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dearborn-congregational-church-allen-park-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dearborn-congregational-church-allen-park-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-bethel-church-berkley",
@@ -661,10 +678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50309,
+"lon": -83.18354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-bethel-church-berkley-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-bethel-church-berkley-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-united-church-beaver-island",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33698,
+"lon": -83.27326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-lutheran-church-dearborn-heights-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-lutheran-church-dearborn-heights-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evergreen-ministries-hudsonville",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87086,
+"lon": -85.86504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-ministries-hudsonville-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evergreen-ministries-hudsonville-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-christian-academy-allen-park",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.25754,
+"lon": -83.21104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-christian-academy-allen-park-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-christian-academy-allen-park-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-congregational-church-of-ann-arbor-ann-arbor",
@@ -806,10 +827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-ann-arbor-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-ann-arbor-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-ann-arbor-ann-arbor",
@@ -835,10 +857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-ann-arbor-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-ann-arbor-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-farmington-farmington",
@@ -864,10 +887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.46448,
+"lon": -83.37632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-farmington-farmington-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-farmington-farmington-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-ann-arbor-ann-arbor",
@@ -893,10 +917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-ann-arbor-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-ann-arbor-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grand-rapids-first-wyoming",
@@ -922,10 +947,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.91336,
+"lon": -85.70531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grand-rapids-first-wyoming-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grand-rapids-first-wyoming-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-saint-peters-ame-zion-church-detroit",
@@ -951,10 +977,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33143,
+"lon": -83.04575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-saint-peters-ame-zion-church-detroit-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-saint-peters-ame-zion-church-detroit-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highland-united-methodist-church-thrive-church-maple-city",
@@ -1038,10 +1065,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.05918,
+"lon": -83.90111,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillman-free-methodist-church-closed-hillman-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillman-free-methodist-church-closed-hillman-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-trinity-lutheran-church-school-wyoming",
@@ -1067,10 +1095,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.91336,
+"lon": -85.70531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-trinity-lutheran-church-school-wyoming-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-trinity-lutheran-church-school-wyoming-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kanley-chapel-arcadia",
@@ -1125,10 +1154,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.77854,
+"lon": -88.48902,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lanse-baptist-church-baraga-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lanse-baptist-church-baraga-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lanse-united-methodist-church-baraga",
@@ -1154,10 +1184,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.77854,
+"lon": -88.48902,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lanse-united-methodist-church-baraga-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lanse-united-methodist-church-baraga-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "laurel-lea-st-matthews-presbysterian-church-fort-gratiot",
@@ -1241,10 +1272,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.90223,
+"lon": -85.06088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mancelona-united-methodist-church-mancelona-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mancelona-united-methodist-church-mancelona-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "martyrs-memorial-baptist-church-alden",
@@ -1328,10 +1360,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.61558,
+"lon": -84.24721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/midland-free-methodist-church-midland-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/midland-free-methodist-church-midland-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "montague-united-methodist-church-montague",
@@ -1357,10 +1390,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.41668,
+"lon": -86.35701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/montague-united-methodist-church-montague-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/montague-united-methodist-church-montague-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-olive-evangelical-lutheran-church-iron-mountain",
@@ -1386,10 +1420,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.82023,
+"lon": -88.06596,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-olive-evangelical-lutheran-church-iron-mountain-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-olive-evangelical-lutheran-church-iron-mountain-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-zion-new-covenant-baptist-church-new-covenant-bible-institute-college-hamtramck",
@@ -1415,10 +1450,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.39282,
+"lon": -83.04964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-zion-new-covenant-baptist-church-new-covenant-bible-institute-college-hamtramck-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-zion-new-covenant-baptist-church-new-covenant-bible-institute-college-hamtramck-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "muslim-community-association-ann-arbor",
@@ -1444,10 +1480,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/muslim-community-association-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/muslim-community-association-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-life-christian-fellowship-church-alpena",
@@ -1473,10 +1510,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.06168,
+"lon": -83.43275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-christian-fellowship-church-alpena-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-christian-fellowship-church-alpena-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-st-paul-tabernacle-church-of-god-in-christ-arnold",
@@ -1531,10 +1569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.3242,
+"lon": -83.40021,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newburg-united-methodist-church-westland-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newburg-united-methodist-church-westland-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-shepherd-lutheran-church-berkley",
@@ -1560,10 +1599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50309,
+"lon": -83.18354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-shepherd-lutheran-church-berkley-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-shepherd-lutheran-church-berkley-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peace-goodwill-baptist-church-grosse-pointe",
@@ -1589,10 +1629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.38615,
+"lon": -82.91186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peace-goodwill-baptist-church-grosse-pointe-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peace-goodwill-baptist-church-grosse-pointe-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilgrim-congregational-church-of-birmingham-birmingham",
@@ -1618,10 +1659,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.5467,
+"lon": -83.21132,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-congregational-church-of-birmingham-birmingham-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-congregational-church-of-birmingham-birmingham-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prayer-temple-missionary-baptist-church-dearborn-heights",
@@ -1647,10 +1689,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33698,
+"lon": -83.27326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prayer-temple-missionary-baptist-church-dearborn-heights-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prayer-temple-missionary-baptist-church-dearborn-heights-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "resurrection-life-church-rockford-belmont",
@@ -1676,10 +1719,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.07558,
+"lon": -85.6092,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/resurrection-life-church-rockford-belmont-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/resurrection-life-church-rockford-belmont-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-terrace-church-bailey",
@@ -1734,10 +1778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.01256,
+"lon": -75.79437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-gabriels-church-black-river-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-gabriels-church-black-river-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-henrys-church-allen-park",
@@ -1763,10 +1808,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.25754,
+"lon": -83.21104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-henrys-church-allen-park-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-henrys-church-allen-park-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-michaels-lutheran-church-arnold",
@@ -1821,10 +1867,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.41947,
+"lon": -83.95081,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-evangelical-lutheran-church-wels-saginaw-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-evangelical-lutheran-church-wels-saginaw-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-peters-church-mackinaw-city",
@@ -1850,10 +1897,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.7777,
+"lon": -84.72982,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-peters-church-mackinaw-city-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-peters-church-mackinaw-city-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-phillips-missionary-baptist-church-gould-city",
@@ -1937,10 +1985,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.96336,
+"lon": -85.66809,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-reformed-church-grand-rapids-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-reformed-church-grand-rapids-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shaarey-zedek-congregaton-bailey",
@@ -1995,10 +2044,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.52226,
+"lon": -83.30604,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-king-lutheran-church-preschool-franklin-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-king-lutheran-church-preschool-franklin-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepherd-of-the-lakes-lutheran-church-lake",
@@ -2053,10 +2103,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.01256,
+"lon": -75.79437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/solomons-temple-ministries-black-river-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/solomons-temple-ministries-black-river-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spring-arbor-free-methodist-church-spring-arbor",
@@ -2082,10 +2133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20504,
+"lon": -84.55274,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spring-arbor-free-methodist-church-spring-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spring-arbor-free-methodist-church-spring-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-andrews-presbysterian-church-fort-gratiot",
@@ -2140,10 +2192,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33698,
+"lon": -83.27326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-presbyterian-church-dearborn-heights-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-presbyterian-church-dearborn-heights-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-davids-episcopal-church-allenton",
@@ -2169,10 +2222,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42055,
+"lon": -88.34093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-davids-episcopal-church-allenton-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-davids-episcopal-church-allenton-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-sda-church-saint-johns",
@@ -2198,10 +2252,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00114,
+"lon": -84.55915,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-sda-church-saint-johns-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-sda-church-saint-johns-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-luke-missionary-baptist-church-arnold",
@@ -2256,10 +2311,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.21782,
+"lon": -85.89112,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-episcopal-church-paw-paw-mi-estados-unidos-52322"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-episcopal-church-paw-paw-mi-estados-unidos-52322",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-pauls-latvian-evangelical-lutheran-church-farmington",
@@ -2285,10 +2341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.46448,
+"lon": -83.37632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-latvian-evangelical-lutheran-church-farmington-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-latvian-evangelical-lutheran-church-farmington-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peters-lutherain-church-sterling-heights",
@@ -2314,10 +2371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.58031,
+"lon": -83.0302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-lutherain-church-sterling-heights-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-lutherain-church-sterling-heights-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peters-lutheran-church-big-rapids",
@@ -2343,10 +2401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.69808,
+"lon": -85.48366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-lutheran-church-big-rapids-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-lutheran-church-big-rapids-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-stephen-lutheran-church-drayton-plains",
@@ -2430,10 +2489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.3173,
+"lon": -85.17816,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-compassion-movement-battle-creek-mi-estados-unidos-48168"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-compassion-movement-battle-creek-mi-estados-unidos-48168",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "university-lutheran-chapel-ann-arbor",
@@ -2459,10 +2519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27756,
+"lon": -83.74088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/university-lutheran-chapel-ann-arbor-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/university-lutheran-chapel-ann-arbor-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "village-seventh-day-adventist-church-berrien-springs",
@@ -2488,10 +2549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94643,
+"lon": -86.3389,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/village-seventh-day-adventist-church-berrien-springs-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/village-seventh-day-adventist-church-berrien-springs-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westminster-church-of-detroit-arnold",
@@ -2546,9 +2608,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.25754,
+"lon": -83.21104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winners-chapel-international-detroit-allen-park-michigan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winners-chapel-international-detroit-allen-park-michigan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

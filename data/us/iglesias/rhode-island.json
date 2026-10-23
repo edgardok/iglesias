@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.89066,
+"lon": -71.39228,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-blessing-church-central-falls-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-blessing-church-central-falls-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arnold-mills-united-methodist-church-cumberland",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.96677,
+"lon": -71.43284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arnold-mills-united-methodist-church-cumberland-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arnold-mills-united-methodist-church-cumberland-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ashaway-bible-chapel-ashaway",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42343,
+"lon": -71.78562,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ashaway-bible-chapel-ashaway-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ashaway-bible-chapel-ashaway-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "babcock-presbyterian-church-ashaway",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42343,
+"lon": -71.78562,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/babcock-presbyterian-church-ashaway-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/babcock-presbyterian-church-ashaway-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baptist-church-in-warren-barrington",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-in-warren-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-in-warren-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baptist-church-of-warren-barrington",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-of-warren-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-of-warren-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barrington-baptist-church-barrington",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-baptist-church-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-baptist-church-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barrington-congregational-church-barrington",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-congregational-church-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-congregational-church-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barrington-presbyterian-church-barrington",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-presbyterian-church-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-presbyterian-church-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burrillville-united-methodist-church-glendale",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapin-memorial-chapel-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapin-memorial-chapel-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chepachet-free-will-baptist-chepachet",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.9151,
+"lon": -71.67146,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chepachet-free-will-baptist-chepachet-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chepachet-free-will-baptist-chepachet-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chepachet-union-church-chepachet",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.9151,
+"lon": -71.67146,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chepachet-union-church-chepachet-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chepachet-union-church-chepachet-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-assembly-of-god-church-newport",
@@ -400,10 +412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4901,
+"lon": -71.31283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-assembly-of-god-church-newport-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-assembly-of-god-church-newport-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congdon-street-baptist-church-east-providence",
@@ -429,10 +442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.81371,
+"lon": -71.37005,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congdon-street-baptist-church-east-providence-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congdon-street-baptist-church-east-providence-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "curtis-corner-baptist-church-kingston",
@@ -458,10 +472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48038,
+"lon": -71.52256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/curtis-corner-baptist-church-kingston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/curtis-corner-baptist-church-kingston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dormition-of-the-virgin-mary-church-albion",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.66038,
+"lon": -71.45589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-greenwich-united-methodist-church-east-greenwich-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-greenwich-united-methodist-church-east-greenwich-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-seventh-day-adventist-church-north-providence",
@@ -545,10 +561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.8501,
+"lon": -71.46617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-seventh-day-adventist-church-north-providence-ri-estados-unidos-523"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-seventh-day-adventist-church-north-providence-ri-estados-unidos-523",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ephese-seventh-day-adventist-french-church-providence",
@@ -574,10 +591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.82399,
+"lon": -71.41283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ephese-seventh-day-adventist-french-church-providence-ri-estados-unidos-524"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ephese-seventh-day-adventist-french-church-providence-ri-estados-unidos-524",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-fellowship-aog-community-church-covnetry",
@@ -632,10 +650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77982,
+"lon": -71.43728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lutheran-brethren-church-cranston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lutheran-brethren-church-cranston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-in-america-east-providence",
@@ -661,10 +680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.81371,
+"lon": -71.37005,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-in-america-east-providence-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-in-america-east-providence-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-pawtucket-central-falls",
@@ -690,10 +710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.89066,
+"lon": -71.39228,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-pawtucket-central-falls-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-pawtucket-central-falls-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-hopkinton-seventh-day-adventist-church-ashaway",
@@ -719,10 +740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42343,
+"lon": -71.78562,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-hopkinton-seventh-day-adventist-church-ashaway-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-hopkinton-seventh-day-adventist-church-ashaway-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "four-corners-community-chapel-albion",
@@ -777,10 +799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67705,
+"lon": -71.26616,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/freedom-road-baptist-church-bristol-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/freedom-road-baptist-church-bristol-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "georgiaville-baptist-church-greenville",
@@ -806,10 +829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.87121,
+"lon": -71.55201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/georgiaville-baptist-church-greenville-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/georgiaville-baptist-church-greenville-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greystone-methodist-church-harmony",
@@ -835,10 +859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.88788,
+"lon": -71.59673,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greystone-methodist-church-harmony-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greystone-methodist-church-harmony-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hood-memorial-african-methodist-episcopal-church-providence",
@@ -864,10 +889,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.82399,
+"lon": -71.41283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hood-memorial-african-methodist-episcopal-church-providence-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hood-memorial-african-methodist-episcopal-church-providence-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "joy-fellowship-bradford",
@@ -893,10 +919,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.39899,
+"lon": -71.73701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/joy-fellowship-bradford-ri-estados-unidos-10339"
+"fuente_url": "https://encuentraiglesias.com/iglesia/joy-fellowship-bradford-ri-estados-unidos-10339",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "knotty-oak-baptist-church-fiskeville",
@@ -951,10 +978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.89066,
+"lon": -71.39228,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lonsdale-baptist-church-central-falls-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lonsdale-baptist-church-central-falls-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mathewson-street-united-methodist-church-providence",
@@ -980,10 +1008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.82399,
+"lon": -71.41283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mathewson-street-united-methodist-church-providence-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mathewson-street-united-methodist-church-providence-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "meshanticut-park-baptist-church-cranston",
@@ -1009,10 +1038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77982,
+"lon": -71.43728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/meshanticut-park-baptist-church-cranston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/meshanticut-park-baptist-church-cranston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-hope-community-baptist-church-central-falls",
@@ -1038,10 +1068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.89066,
+"lon": -71.39228,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-hope-community-baptist-church-central-falls-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-hope-community-baptist-church-central-falls-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "movimiento-pentecostal-monte-sinai-riverside",
@@ -1096,10 +1127,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48038,
+"lon": -71.52256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-assembly-church-kingston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-assembly-church-kingston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-foster-baptist-church-foster",
@@ -1125,10 +1157,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.85371,
+"lon": -71.75812,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-foster-baptist-church-foster-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-foster-baptist-church-foster-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-kingstown-assembly-of-god-east-greenwich",
@@ -1154,10 +1187,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.66038,
+"lon": -71.45589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-kingstown-assembly-of-god-east-greenwich-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-kingstown-assembly-of-god-east-greenwich-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-kingstown-united-methodist-church-north-kingstown",
@@ -1183,10 +1217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.5501,
+"lon": -71.46617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-kingstown-united-methodist-church-north-kingstown-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-kingstown-united-methodist-church-north-kingstown-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-stone-church-adamsville",
@@ -1241,10 +1276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.87121,
+"lon": -71.55201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemer-evangelical-lutheran-church-greenville-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemer-evangelical-lutheran-church-greenville-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pascoag-community-baptist-church-harrisville",
@@ -1270,10 +1306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.96565,
+"lon": -71.67451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pascoag-community-baptist-church-harrisville-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pascoag-community-baptist-church-harrisville-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phenix-baptist-church-fiskeville",
@@ -1328,10 +1365,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77982,
+"lon": -71.43728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-memorial-baptist-church-cranston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-memorial-baptist-church-cranston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "quidnessett-baptist-church-east-greenwich",
@@ -1357,10 +1395,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.66038,
+"lon": -71.45589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/quidnessett-baptist-church-east-greenwich-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/quidnessett-baptist-church-east-greenwich-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rice-city-baptist-church-greene",
@@ -1386,10 +1425,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.69121,
+"lon": -71.7459,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rice-city-baptist-church-greene-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rice-city-baptist-church-greene-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rockville-seventh-day-baptist-church-hope-valley",
@@ -1415,10 +1455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.5076,
+"lon": -71.71618,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rockville-seventh-day-baptist-church-hope-valley-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rockville-seventh-day-baptist-church-hope-valley-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-elizabeths-church-bristol",
@@ -1444,10 +1485,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67705,
+"lon": -71.26616,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-elizabeths-church-bristol-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-elizabeths-church-bristol-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-madeleines-church-adamsville",
@@ -1531,10 +1573,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathews-episcopal-church-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathews-episcopal-church-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-matthew-trinity-lutheran-church-central-falls",
@@ -1560,10 +1603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.89066,
+"lon": -71.39228,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-matthew-trinity-lutheran-church-central-falls-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-matthew-trinity-lutheran-church-central-falls-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-john-the-baptist-fiskeville",
@@ -1618,10 +1662,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.5776,
+"lon": -71.53756,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stony-lane-baptist-church-exeter-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stony-lane-baptist-church-exeter-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wakefield-baptist-church-kingston",
@@ -1647,10 +1692,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48038,
+"lon": -71.52256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wakefield-baptist-church-kingston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wakefield-baptist-church-kingston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "warren-united-methodist-churchfirst-united-methodist-church-of-warren-barrington",
@@ -1676,10 +1722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.74066,
+"lon": -71.30866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/warren-united-methodist-churchfirst-united-methodist-church-of-warren-barrington-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/warren-united-methodist-churchfirst-united-methodist-church-of-warren-barrington-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "warwick-central-baptist-church-east-greenwich",
@@ -1705,10 +1752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.66038,
+"lon": -71.45589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/warwick-central-baptist-church-east-greenwich-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/warwick-central-baptist-church-east-greenwich-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "washington-park-united-methodist-church-cranston",
@@ -1734,9 +1782,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77982,
+"lon": -71.43728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/washington-park-united-methodist-church-cranston-rhode-island"
+"fuente_url": "https://encuentraiglesias.com/iglesia/washington-park-united-methodist-church-cranston-rhode-island",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70408,
+"lon": -98.40368,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/agua-viva-almoloya-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/agua-viva-almoloya-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alcance-bingu-cardonal",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.06061,
+"lon": -99.23186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alcance-bingu-cardonal-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alcance-bingu-cardonal-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antigua-iglesia-de-la-cruz-actopan",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.26896,
+"lon": -98.94216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-iglesia-de-la-cruz-actopan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-iglesia-de-la-cruz-actopan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cerro-iglesia-vieja-hidalgo",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72965,
+"lon": -99.3156,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-the-rosary-francisco-i-madero-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-the-rosary-francisco-i-madero-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-casa-de-alabanza-pachuca",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.41306,
+"lon": -95.84889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-casa-de-alabanza-pachuca-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-casa-de-alabanza-pachuca-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-buen-pastor-apan",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-buen-pastor-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-buen-pastor-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-verbo-de-dios-tizayuca",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.84191,
+"lon": -98.98098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-verbo-de-dios-tizayuca-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-verbo-de-dios-tizayuca-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "filadelfia-iepmar-cardonal",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.06061,
+"lon": -99.23186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/filadelfia-iepmar-cardonal-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/filadelfia-iepmar-cardonal-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-calnali",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89752,
+"lon": -98.58371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-calnali-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-calnali-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-antigua-chilcuautla",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-antigua-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-antigua-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-atlaltipa-huejutla-de-reyes",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14,
+"lon": -98.41944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-atlaltipa-huejutla-de-reyes-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-atlaltipa-huejutla-de-reyes-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-atotomoc-hidalgo",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.26896,
+"lon": -98.94216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-bilblica-actopan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-bilblica-actopan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-cristo-viene-chapulhuacan",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.15567,
+"lon": -98.90368,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-cristo-viene-chapulhuacan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-cristo-viene-chapulhuacan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-casa-blanca-el-boxtha",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.25972,
+"lon": -98.97417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-casa-blanca-el-boxtha-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-casa-blanca-el-boxtha-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-centro-ajacuba",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.09251,
+"lon": -99.12237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-ajacuba-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-centro-ajacuba-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cochiscuautitla-tlalchiyahualica",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9723,
+"lon": -98.39885,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cochiscuautitla-tlalchiyahualica-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cochiscuautitla-tlalchiyahualica-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-dios-proveera-xilitla",
@@ -545,10 +561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.07132,
+"lon": -98.80706,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dios-proveera-xilitla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dios-proveera-xilitla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-atotonilco-de-tula-atotonilco-de-tula",
@@ -574,10 +591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.00731,
+"lon": -99.22012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-atotonilco-de-tula-atotonilco-de-tula-hidalgo-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-atotonilco-de-tula-atotonilco-de-tula-hidalgo-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-avenida-insurgentes-aguacatitla-ixcatlan-tlanchinol",
@@ -603,10 +621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9895,
+"lon": -98.65943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-insurgentes-aguacatitla-ixcatlan-tlanchinol-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-insurgentes-aguacatitla-ixcatlan-tlanchinol-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-camino-a-panacaxtlan-zapotitla-tlanchinol",
@@ -632,10 +651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9895,
+"lon": -98.65943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-camino-a-panacaxtlan-zapotitla-tlanchinol-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-camino-a-panacaxtlan-zapotitla-tlanchinol-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-pachuca-tempoal-machetla-ii-tlanchinol",
@@ -661,10 +681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9895,
+"lon": -98.65943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-pachuca-tempoal-machetla-ii-tlanchinol-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-pachuca-tempoal-machetla-ii-tlanchinol-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-tamazunchale-huejutla-huitzquilititla-tlanchinol",
@@ -690,10 +711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9895,
+"lon": -98.65943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-tamazunchale-huejutla-huitzquilititla-tlanchinol-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-tamazunchale-huejutla-huitzquilititla-tlanchinol-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-hidalgo-hidalgo",
@@ -748,10 +770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.484,
+"lon": -99.21848,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ixmiquilpan-ixmiquilpan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ixmiquilpan-ixmiquilpan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-jose-luis-lechuga-ciudad-de-pahuatlan-pahuatlan",
@@ -777,10 +800,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.06956,
+"lon": -98.47558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-jose-luis-lechuga-ciudad-de-pahuatlan-pahuatlan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-jose-luis-lechuga-ciudad-de-pahuatlan-pahuatlan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-morelos-xiquila-huejutla-de-reyes",
@@ -806,10 +830,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14,
+"lon": -98.41944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-morelos-xiquila-huejutla-de-reyes-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-morelos-xiquila-huejutla-de-reyes-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-navidad-cuatlimax-tlanchinol",
@@ -835,10 +860,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9895,
+"lon": -98.65943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-navidad-cuatlimax-tlanchinol-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-navidad-cuatlimax-tlanchinol-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-jesucristo-es-rey-el-arenal",
@@ -864,10 +890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.22369,
+"lon": -98.90918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesucristo-es-rey-el-arenal-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesucristo-es-rey-el-arenal-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-la-hermosa-hidalgo",
@@ -922,10 +949,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.11697,
+"lon": -98.73329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-nueva-esperanza-pachuca-de-soto-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-nueva-esperanza-pachuca-de-soto-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-alamos-chilcuautla",
@@ -951,10 +979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-alamos-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-alamos-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cerro-verde-cuautepec-de-hinojosa",
@@ -1009,10 +1038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-coamitla-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-coamitla-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-huixtecalco-chilcuautla",
@@ -1038,10 +1068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-huixtecalco-chilcuautla-hidalgo-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-huixtecalco-chilcuautla-hidalgo-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-ultimos-dias-ajacuba",
@@ -1067,10 +1098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.09251,
+"lon": -99.12237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-ultimos-dias-ajacuba-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-ultimos-dias-ajacuba-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-canada-cuautepec-de-hinojosa",
@@ -1154,10 +1186,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-estancia-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-estancia-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-nogalera-atotonilco-el-grande",
@@ -1183,10 +1216,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28672,
+"lon": -98.669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-nogalera-atotonilco-el-grande-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-nogalera-atotonilco-el-grande-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-santisima-trinidad-atotonilco-el-grande",
@@ -1212,10 +1246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28672,
+"lon": -98.669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-atotonilco-el-grande-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-atotonilco-el-grande-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-villita-tulancingo",
@@ -1241,10 +1276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.08055,
+"lon": -98.36831,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-villita-tulancingo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-villita-tulancingo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-animas-cuautepec-de-hinojosa",
@@ -1299,10 +1335,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.37548,
+"lon": -99.2189,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-llano-primero-tlacotlapilco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-llano-primero-tlacotlapilco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-aserraderos-cuautepec-de-hinojosa",
@@ -1357,10 +1394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89752,
+"lon": -98.58371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-papatlatla-calnali-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-papatlatla-calnali-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-paredones-atotonilco-el-grande",
@@ -1386,10 +1424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28672,
+"lon": -98.669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-paredones-atotonilco-el-grande-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-paredones-atotonilco-el-grande-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pezmatlan-atlapexco",
@@ -1415,10 +1454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pezmatlan-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pezmatlan-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-rancho-nuevo-calnali",
@@ -1444,10 +1484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89752,
+"lon": -98.58371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-rancho-nuevo-calnali-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-rancho-nuevo-calnali-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-agustin-san-agustin-tlaxiaca",
@@ -1473,10 +1514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.11683,
+"lon": -98.88549,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-agustin-san-agustin-tlaxiaca-hidalgo-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-agustin-san-agustin-tlaxiaca-hidalgo-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-bartolome-juarez-hidalgo",
@@ -1502,10 +1544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.78558,
+"lon": -98.82852,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-bartolome-juarez-hidalgo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-bartolome-juarez-hidalgo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-barbara-san-agustin-metzquititlan",
@@ -1560,10 +1603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-santiago-tlapacoya",
@@ -1589,10 +1633,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.10216,
+"lon": -98.83378,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-santiago-tlapacoya-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-santiago-tlapacoya-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sauz-xathe-atotonilco-el-grande",
@@ -1618,10 +1663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28672,
+"lon": -98.669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sauz-xathe-atotonilco-el-grande-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sauz-xathe-atotonilco-el-grande-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tecocomulco-cuautepec-de-hinojosa",
@@ -1676,10 +1722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tecueyaca-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tecueyaca-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-teneria-chapantongo",
@@ -1705,10 +1752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28544,
+"lon": -99.41226,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-teneria-chapantongo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-teneria-chapantongo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tezoquipa-cuautepec-de-hinojosa",
@@ -1763,10 +1811,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.13083,
+"lon": -99.23031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tlahuelilpan-tlahuelilpan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tlahuelilpan-tlahuelilpan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tochintlan-calnali",
@@ -1792,10 +1841,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89752,
+"lon": -98.58371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tochintlan-calnali-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tochintlan-calnali-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tostamantla-atlapexco",
@@ -1821,10 +1871,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tostamantla-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tostamantla-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tula-atlapexco",
@@ -1850,10 +1901,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tula-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tula-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-villa-de-santiago-de-chimalpa-apan",
@@ -1879,10 +1931,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-villa-de-santiago-de-chimalpa-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-villa-de-santiago-de-chimalpa-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-vista-hermosa-cuautepec-de-hinojosa",
@@ -1937,10 +1990,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-zacualoya-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-zacualoya-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-bethi-chilcuautla",
@@ -1966,10 +2020,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-bethi-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-bethi-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-boxaxni-chilcuautla",
@@ -1995,10 +2050,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-boxaxni-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-boxaxni-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cerrito-chilcuautla",
@@ -2024,10 +2080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cerrito-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cerrito-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-coyuco-cuautepec-de-hinojosa",
@@ -2082,10 +2139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-deca-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-deca-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-mirador-atlapexco",
@@ -2111,10 +2169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-mirador-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-mirador-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-tabernaculo-de-santidad-pisaflores",
@@ -2140,10 +2199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.19463,
+"lon": -99.00633,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-tabernaculo-de-santidad-pisaflores-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-tabernaculo-de-santidad-pisaflores-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-del-buen-viaje-ixmiquilpan",
@@ -2169,10 +2229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.484,
+"lon": -99.21848,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-del-buen-viaje-ixmiquilpan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-del-buen-viaje-ixmiquilpan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-tepeyac-cuautepec-de-hinojosa",
@@ -2227,10 +2288,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.10773,
+"lon": -98.96705,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-iglesia-vieja-iglesia-vieja-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-iglesia-vieja-iglesia-vieja-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-en-la-canada-la-canada",
@@ -2256,10 +2318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.99642,
+"lon": -99.24133,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-la-canada-la-canada-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-la-canada-la-canada-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-filadelfia-chilcuautla",
@@ -2285,10 +2348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-principe-de-paz-lerma",
@@ -2314,10 +2378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-principe-de-paz-lerma-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-principe-de-paz-lerma-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelista-jerusalen-apan",
@@ -2343,10 +2408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelista-jerusalen-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelista-jerusalen-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-loma-bonita-emiliano-zapata",
@@ -2372,10 +2438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.6545,
+"lon": -98.54379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-loma-bonita-emiliano-zapata-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-loma-bonita-emiliano-zapata-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-los-angelitos-tulancingo-de-bravo",
@@ -2430,10 +2497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28672,
+"lon": -98.669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-los-reyes-atotonilco-el-grande-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-los-reyes-atotonilco-el-grande-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-actopan",
@@ -2459,10 +2527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.26896,
+"lon": -98.94216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-actopan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-actopan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-de-mexico-el-divino-redentor-san-bartolo-ozocalpan",
@@ -2488,10 +2557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.22336,
+"lon": -99.48906,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mexico-el-divino-redentor-san-bartolo-ozocalpan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mexico-el-divino-redentor-san-bartolo-ozocalpan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-misionera-cuautepec-de-hinojosa",
@@ -2546,10 +2616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20389,
+"lon": -98.57601,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuestro-senor-de-los-reyes-huasca-de-ocampo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuestro-senor-de-los-reyes-huasca-de-ocampo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-del-dadho-chilcuautla",
@@ -2575,10 +2646,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-del-dadho-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-del-dadho-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-paraje-de-los-sauces-atotonilco-el-grande",
@@ -2604,10 +2676,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28672,
+"lon": -98.669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-paraje-de-los-sauces-atotonilco-el-grande-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-paraje-de-los-sauces-atotonilco-el-grande-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-el-jordan-chilcuautla",
@@ -2633,10 +2706,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-el-jordan-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-el-jordan-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostes-cuautepec-de-hinojosa",
@@ -2691,10 +2765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.26896,
+"lon": -98.94216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pozo-grande-actopan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pozo-grande-actopan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-rancho-nuevo-chapulhuacan",
@@ -2720,10 +2795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.15567,
+"lon": -98.90368,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-rancho-nuevo-chapulhuacan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-rancho-nuevo-chapulhuacan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-roca-de-salvacion-pachuca",
@@ -2749,10 +2825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.41306,
+"lon": -95.84889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roca-de-salvacion-pachuca-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roca-de-salvacion-pachuca-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santiago-apostol-santiago-maravatio",
@@ -2778,10 +2855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.17293,
+"lon": -100.99537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-santiago-maravatio-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-santiago-maravatio-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santiago-tepeji-del-rio-de-ocampo",
@@ -2807,10 +2885,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.90546,
+"lon": -99.34229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-tepeji-del-rio-de-ocampo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-tepeji-del-rio-de-ocampo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-senor-del-calvario-ixmiquilpan",
@@ -2836,10 +2915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.484,
+"lon": -99.21848,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-del-calvario-ixmiquilpan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-del-calvario-ixmiquilpan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-tlahica-atlapexco",
@@ -2865,10 +2945,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tlahica-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tlahica-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-tlaminulpa-tlalminulpa",
@@ -2894,10 +2975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.07593,
+"lon": -99.22236,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tlaminulpa-tlalminulpa-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tlaminulpa-tlalminulpa-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-tres-cruces-veracruz",
@@ -2952,10 +3034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.0314,
+"lon": -98.28725,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-unifam-huautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-unifam-huautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-velasco-omitlan-de-juarez",
@@ -2981,10 +3064,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.16937,
+"lon": -98.6487,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-velasco-omitlan-de-juarez-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-velasco-omitlan-de-juarez-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vida-victoriosa-chilcuautla",
@@ -3010,10 +3094,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vida-victoriosa-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vida-victoriosa-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "justo-juez-tasquillo",
@@ -3039,10 +3124,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54836,
+"lon": -99.31217,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/justo-juez-tasquillo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/justo-juez-tasquillo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-hermosa-francisco-i-madero",
@@ -3068,10 +3154,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72965,
+"lon": -99.3156,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-hermosa-francisco-i-madero-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-hermosa-francisco-i-madero-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "llamada-final-apan",
@@ -3097,10 +3184,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/llamada-final-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/llamada-final-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-church-jesus-christ-is-the-rock-of-salvation-cuautepec-de-hinojosa",
@@ -3155,10 +3243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restauraci0n-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restauraci0n-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ruinas-de-iglesia-hidalgo",
@@ -3213,10 +3302,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70408,
+"lon": -98.40368,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-de-los-testigos-de-jeova-almoloya-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-de-los-testigos-de-jeova-almoloya-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-cardonal",
@@ -3242,10 +3332,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.06061,
+"lon": -99.23186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-cardonal-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-cardonal-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-bartolo-chapantongo",
@@ -3271,10 +3362,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28544,
+"lon": -99.41226,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-bartolo-chapantongo-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-bartolo-chapantongo-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-cristobal-cardonal",
@@ -3300,10 +3392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.06061,
+"lon": -99.23186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-cristobal-cardonal-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-cristobal-cardonal-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-judas-tadeo-calnali",
@@ -3329,10 +3422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89752,
+"lon": -98.58371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-judas-tadeo-calnali-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-judas-tadeo-calnali-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-miguel-cardonal",
@@ -3358,10 +3452,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.06061,
+"lon": -99.23186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-cardonal-hidalgo-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-cardonal-hidalgo-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-barbara-emiliano-zapata",
@@ -3387,10 +3482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.6545,
+"lon": -98.54379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-barbara-emiliano-zapata-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-barbara-emiliano-zapata-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-cecilia-atlapexco",
@@ -3416,10 +3512,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01985,
+"lon": -98.34579,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cecilia-atlapexco-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cecilia-atlapexco-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santiago-apostol-ajacuba",
@@ -3445,10 +3542,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.09251,
+"lon": -99.12237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-apostol-ajacuba-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-apostol-ajacuba-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-de-los-olivos-el-arenal",
@@ -3474,10 +3572,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.22369,
+"lon": -98.90918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-los-olivos-el-arenal-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-los-olivos-el-arenal-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-alcance-getsemani-chilcuautla",
@@ -3503,10 +3602,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33047,
+"lon": -99.23084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-alcance-getsemani-chilcuautla-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-alcance-getsemani-chilcuautla-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-senor-de-las-maravillas-hidalgo",
@@ -3590,10 +3690,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.26896,
+"lon": -98.94216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-espiritualista-la-barca-de-noe-actopan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-espiritualista-la-barca-de-noe-actopan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-cordero-de-dios-calnali",
@@ -3619,10 +3720,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89752,
+"lon": -98.58371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-cordero-de-dios-calnali-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-cordero-de-dios-calnali-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-puerta-del-cielo-mecatlan",
@@ -3648,10 +3750,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.93601,
+"lon": -98.40296,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-puerta-del-cielo-mecatlan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-puerta-del-cielo-mecatlan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelista-casa-de-dios-apan",
@@ -3677,10 +3780,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.71052,
+"lon": -98.45108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelista-casa-de-dios-apan-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelista-casa-de-dios-apan-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-horeb-pachuca",
@@ -3706,9 +3810,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.41306,
+"lon": -95.84889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-horeb-pachuca-hidalgo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-horeb-pachuca-hidalgo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

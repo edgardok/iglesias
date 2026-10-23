@@ -81,10 +81,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ascension-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ascension-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bathgate-presbyterian-church-bathgate",
@@ -139,10 +140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.88529,
+"lon": -103.19962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belfield-baptist-church-belfield-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belfield-baptist-church-belfield-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belfield-lutheran-church-belfield",
@@ -168,10 +170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.88529,
+"lon": -103.19962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belfield-lutheran-church-belfield-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belfield-lutheran-church-belfield-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethany-church-abercrombie",
@@ -226,10 +229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87918,
+"lon": -102.78962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bible-baptist-chuch-of-dickinson-dickinson-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bible-baptist-chuch-of-dickinson-dickinson-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bismarck-baptist-church-bismarck",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-baptist-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-baptist-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bismarck-community-church-bismarck",
@@ -284,10 +289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-community-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-community-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bismarck-evangelical-church-bismarck",
@@ -313,10 +319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-evangelical-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-evangelical-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bismarck-mandan-unitarian-universalist-congregation-bismarck",
@@ -342,10 +349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-mandan-unitarian-universalist-congregation-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bismarck-mandan-unitarian-universalist-congregation-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bowman-lutheran-church-bowman",
@@ -371,10 +379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18306,
+"lon": -103.39491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bowman-lutheran-church-bowman-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bowman-lutheran-church-bowman-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bowman-seventh-day-adventist-church-bowman",
@@ -400,10 +409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.18306,
+"lon": -103.39491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bowman-seventh-day-adventist-church-bowman-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bowman-seventh-day-adventist-church-bowman-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-free-lutheran-church-bismarck",
@@ -429,10 +439,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-free-lutheran-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-free-lutheran-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-united-methodist-burlington",
@@ -458,10 +469,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.27529,
+"lon": -101.42878,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-united-methodist-burlington-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-united-methodist-burlington-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "century-baptist-church-bismarck",
@@ -487,10 +499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/century-baptist-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/century-baptist-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "charity-lutheran-church-bismarck",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/charity-lutheran-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/charity-lutheran-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-corpus-christi-bismarck",
@@ -545,10 +559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-corpus-christi-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-corpus-christi-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cleveland-seventh-day-adventist-church-cleveland",
@@ -603,10 +618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.49804,
+"lon": -97.32454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ebenezer-lutheran-brethren-mayville-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ebenezer-lutheran-brethren-mayville-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-center-church-of-god-bismarck",
@@ -632,10 +648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-center-church-of-god-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-center-church-of-god-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fargo-baptist-church-burlington",
@@ -661,10 +678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.27529,
+"lon": -101.42878,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fargo-baptist-church-burlington-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fargo-baptist-church-burlington-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "finnish-old-apostolic-church-buffalo",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.49804,
+"lon": -97.32454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-american-lutheran-mayville-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-american-lutheran-mayville-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-luthern-beach",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.91807,
+"lon": -104.00437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-luthern-beach-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-luthern-beach-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gap-teen-church-bismarck",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gap-teen-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gap-teen-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gilby-presbyterian-church-gilby",
@@ -835,10 +856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87719,
+"lon": -96.7898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/golden-ridge-lutheran-church-fargo-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/golden-ridge-lutheran-church-fargo-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-free-lutheran-church-valley-city",
@@ -864,10 +886,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.92331,
+"lon": -98.00315,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-free-lutheran-church-valley-city-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-free-lutheran-church-valley-city-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-lutheran-brethren-church-bismarck",
@@ -893,10 +916,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-brethren-church-bismarck-nd-estados-unidos-16282"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-brethren-church-bismarck-nd-estados-unidos-16282",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hettinger-luthern-church-hettinger",
@@ -922,10 +946,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.00139,
+"lon": -102.63682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hettinger-luthern-church-hettinger-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hettinger-luthern-church-hettinger-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "house-of-prayer-lutheran-church-bismarck",
@@ -951,10 +976,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-prayer-lutheran-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-prayer-lutheran-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kulm-assembly-of-god-church-kulm",
@@ -1038,10 +1064,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-church-of-the-nazarene-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-church-of-the-nazarene-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mayville-lutheran-church-mayville",
@@ -1067,10 +1094,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.49804,
+"lon": -97.32454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mayville-lutheran-church-mayville-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mayville-lutheran-church-mayville-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mccabe-united-methodist-church-bismarck",
@@ -1096,10 +1124,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mccabe-united-methodist-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mccabe-united-methodist-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "medora-lutheran-church-medora",
@@ -1125,10 +1154,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.9139,
+"lon": -103.52435,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/medora-lutheran-church-medora-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/medora-lutheran-church-medora-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "messiah-lutheran-church-elca-fargo",
@@ -1154,10 +1184,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87719,
+"lon": -96.7898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-lutheran-church-elca-fargo-nd-estados-unidos-29761"
+"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-lutheran-church-elca-fargo-nd-estados-unidos-29761",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mouse-river-church-bottineau",
@@ -1183,10 +1214,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.82723,
+"lon": -100.4457,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mouse-river-church-bottineau-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mouse-river-church-bottineau-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nordland-lutheran-church-rutland",
@@ -1270,10 +1302,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33335,
+"lon": -88.26675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/norway-lutheran-church-mchenry-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/norway-lutheran-church-mchenry-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "norwegian-church-butte",
@@ -1357,10 +1390,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.23251,
+"lon": -101.29627,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemers-church-minot-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemers-church-minot-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviors-evangelical-lutheran-church-bismarck",
@@ -1386,10 +1420,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-evangelical-lutheran-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-evangelical-lutheran-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ours-saviors-pettibone",
@@ -1444,10 +1479,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87719,
+"lon": -96.7898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/red-river-seventh-day-adventist-church-elementary-school-fargo-nd-estados-unidos-29762"
+"fuente_url": "https://encuentraiglesias.com/iglesia/red-river-seventh-day-adventist-church-elementary-school-fargo-nd-estados-unidos-29762",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "religious-society-of-friends-bismarck",
@@ -1473,10 +1509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/religious-society-of-friends-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/religious-society-of-friends-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rendahl-church-butte",
@@ -1531,10 +1568,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverwood-baptist-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverwood-baptist-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-anne-church-bismarck",
@@ -1560,10 +1598,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-anne-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-anne-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-vincent-church-butte",
@@ -1618,10 +1657,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.80833,
+"lon": -100.78374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepard-of-the-valley-lutheran-church-bismarck-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepard-of-the-valley-lutheran-church-bismarck-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-olaf-lutheran-church-grenora",
@@ -1676,10 +1716,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.91807,
+"lon": -104.00437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-luthern-beach-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-luthern-beach-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "taylor-lutheran-church-taylor",
@@ -1792,9 +1833,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.26334,
+"lon": -101.77795,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-of-beulah-beulah-north-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-of-beulah-beulah-north-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

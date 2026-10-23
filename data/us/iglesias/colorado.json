@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06387,
+"lon": -108.55065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/970-church-grand-junction-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/970-church-grand-junction-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "advent-evangelical-lutheran-church-of-westminster-twin-lakes",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.82499,
+"lon": -105.0047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/advent-evangelical-lutheran-church-of-westminster-twin-lakes-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/advent-evangelical-lutheran-church-of-westminster-twin-lakes-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "agape-korean-church-austin",
@@ -197,10 +199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alamosa-christian-church-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alamosa-christian-church-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alamosa-presbyterian-church-alamosa",
@@ -226,10 +229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alamosa-presbyterian-church-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alamosa-presbyterian-church-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aliento-de-vida-grand-junction",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06387,
+"lon": -108.55065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aliento-de-vida-grand-junction-co-estados-unidos-12176"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aliento-de-vida-grand-junction-co-estados-unidos-12176",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-gods-children-assembly-church-englewood",
@@ -284,10 +289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-gods-children-assembly-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-gods-children-assembly-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-saints-lutheran-church-aurora",
@@ -313,10 +319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-saints-lutheran-church-aurora-co-estados-unidos-22973"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-saints-lutheran-church-aurora-co-estados-unidos-22973",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anchor-way-baptist-church-austin",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06387,
+"lon": -108.55065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arise-fellowship-grand-junction-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arise-fellowship-grand-junction-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arvada-christian-church-arvada",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-christian-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-christian-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arvada-church-of-christ-arvada",
@@ -458,10 +467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-church-of-christ-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-church-of-christ-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arvada-mennonite-church-arvada",
@@ -487,10 +497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-mennonite-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-mennonite-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arvada-presbyterian-church-arvada",
@@ -516,10 +527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-presbyterian-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-presbyterian-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arvada-united-methodist-church-arvada",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-united-methodist-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-united-methodist-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aspen-chapel-aspen",
@@ -574,10 +587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.1911,
+"lon": -106.81754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aspen-chapel-aspen-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aspen-chapel-aspen-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aspen-park-seventh-day-adventist-conifer",
@@ -661,10 +675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atonement-lutheran-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atonement-lutheran-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aurora-hills-baptist-church-aurora",
@@ -690,10 +705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aurora-hills-baptist-church-aurora-co-estados-unidos-13687"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aurora-hills-baptist-church-aurora-co-estados-unidos-13687",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "austin-bluffs-community-church-austin",
@@ -748,10 +764,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.34888,
+"lon": -108.58593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-chapel-cortez-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-chapel-cortez-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bayfield-church-of-christ-bayfield",
@@ -777,10 +794,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.22556,
+"lon": -107.59811,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bayfield-church-of-christ-bayfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bayfield-church-of-christ-bayfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beautiful-savior-lutheran-broomfield",
@@ -806,10 +824,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beautiful-savior-lutheran-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beautiful-savior-lutheran-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beaver-creek-interfaith-chapel-avon",
@@ -835,10 +854,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.63137,
+"lon": -106.52225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beaver-creek-interfaith-chapel-avon-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beaver-creek-interfaith-chapel-avon-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bennett-baptist-church-bennett",
@@ -864,10 +884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75887,
+"lon": -104.42746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bennett-baptist-church-bennett-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bennett-baptist-church-bennett-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berkeley-baptist-church-arvada",
@@ -893,10 +914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berkeley-baptist-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berkeley-baptist-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berkeley-community-church-arvada",
@@ -922,10 +944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berkeley-community-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berkeley-community-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berkeley-united-methodist-church-arvada",
@@ -951,10 +974,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berkeley-united-methodist-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berkeley-united-methodist-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berthoud-family-church-berthoud",
@@ -980,10 +1004,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30832,
+"lon": -105.08109,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berthoud-family-church-berthoud-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berthoud-family-church-berthoud-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beth-eden-baptist-church-arvada",
@@ -1009,10 +1034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beth-eden-baptist-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beth-eden-baptist-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beth-el-mennonite-church-austin",
@@ -1067,10 +1093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.94529,
+"lon": -104.83526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-assembly-of-god-colorado-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-assembly-of-god-colorado-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "black-forest-lutheran-church-colorado-springs",
@@ -1096,10 +1123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/black-forest-lutheran-church-colorado-springs-co-estados-unidos-14802"
+"fuente_url": "https://encuentraiglesias.com/iglesia/black-forest-lutheran-church-colorado-springs-co-estados-unidos-14802",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "black-forest-reformed-church-colorado-springs",
@@ -1125,10 +1153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/black-forest-reformed-church-colorado-springs-co-estados-unidos-14813"
+"fuente_url": "https://encuentraiglesias.com/iglesia/black-forest-reformed-church-colorado-springs-co-estados-unidos-14813",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bonnie-brae-baptist-church-arlington",
@@ -1212,10 +1241,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.49529,
+"lon": -107.25729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-chinese-baptist-church-hayden-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-chinese-baptist-church-hayden-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boulder-mennonite-church-boulder",
@@ -1241,10 +1271,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-mennonite-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-mennonite-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boulder-seventh-day-adventist-church-boulder",
@@ -1270,10 +1301,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-seventh-day-adventist-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-seventh-day-adventist-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boulder-valley-assembly-of-god-boulder",
@@ -1299,10 +1331,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-valley-assembly-of-god-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boulder-valley-assembly-of-god-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brentwood-united-methodist-church-model",
@@ -1386,10 +1419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/broadmoor-community-church-colorado-springs-co-estados-unidos-18976"
+"fuente_url": "https://encuentraiglesias.com/iglesia/broadmoor-community-church-colorado-springs-co-estados-unidos-18976",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "broomfield-assembly-of-god-broomfield",
@@ -1415,10 +1449,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/broomfield-assembly-of-god-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/broomfield-assembly-of-god-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "broomfield-community-church-broomfield",
@@ -1444,10 +1479,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/broomfield-community-church-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/broomfield-community-church-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brush-united-methodist-church-brush",
@@ -1473,10 +1509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.25887,
+"lon": -103.62384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brush-united-methodist-church-brush-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brush-united-methodist-church-brush-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "buckhorn-presbyterian-church-masonville",
@@ -1502,10 +1539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.67505,
+"lon": -87.03472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/buckhorn-presbyterian-church-masonville-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/buckhorn-presbyterian-church-masonville-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burlington-christian-church-burlington",
@@ -1531,10 +1569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.30611,
+"lon": -102.26936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-christian-church-burlington-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-christian-church-burlington-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burlington-united-methodist-church-burlington",
@@ -1560,10 +1599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.30611,
+"lon": -102.26936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-united-methodist-church-burlington-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-united-methodist-church-burlington-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "byers-community-church-byers",
@@ -1589,10 +1629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.71137,
+"lon": -104.22774,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/byers-community-church-byers-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/byers-community-church-byers-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cahone-church-cahone",
@@ -1647,10 +1688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-bible-evangelical-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-bible-evangelical-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-aurora-aurora",
@@ -1676,10 +1718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-aurora-aurora-co-estados-unidos-13555"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-aurora-aurora-co-estados-unidos-13555",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-bennett-bennett",
@@ -1705,10 +1748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75887,
+"lon": -104.42746,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-bennett-bennett-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-bennett-bennett-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-brighton-brighton",
@@ -1734,10 +1778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.98526,
+"lon": -104.82053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-brighton-brighton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-brighton-brighton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-community-baptist-church-eastlake",
@@ -1766,7 +1811,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-community-baptist-church-eastlake-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-community-baptist-church-eastlake-colorado",
+"geo_fuente": null
 },
 {
 "slug": "calvary-united-reformed-church-berthoud",
@@ -1792,10 +1838,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30832,
+"lon": -105.08109,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-united-reformed-church-berthoud-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-united-reformed-church-berthoud-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capitol-heights-presbyterian-church-denver",
@@ -1821,10 +1868,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capitol-heights-presbyterian-church-denver-co-estados-unidos-22903"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capitol-heights-presbyterian-church-denver-co-estados-unidos-22903",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carbondale-community-united-methodist-church-carbondale",
@@ -1850,10 +1898,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.40221,
+"lon": -107.21116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carbondale-community-united-methodist-church-carbondale-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carbondale-community-united-methodist-church-carbondale-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carson-avenue-baptist-church-fort-lyon",
@@ -1908,10 +1957,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cavalry-baptist-church-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cavalry-baptist-church-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ccpc-community-life-center-greenwood-village",
@@ -1937,10 +1987,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61721,
+"lon": -104.95081,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ccpc-community-life-center-greenwood-village-co-estados-unidos-21314"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ccpc-community-life-center-greenwood-village-co-estados-unidos-21314",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centennial-lutheran-church-littleton",
@@ -1966,10 +2017,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61332,
+"lon": -105.01665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centennial-lutheran-church-littleton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centennial-lutheran-church-littleton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "center-assembly-of-god-center",
@@ -1995,10 +2047,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.75306,
+"lon": -106.10864,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/center-assembly-of-god-center-co-estados-unidos-24307"
+"fuente_url": "https://encuentraiglesias.com/iglesia/center-assembly-of-god-center-co-estados-unidos-24307",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centerpoint-community-church-arvada",
@@ -2024,10 +2077,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centerpoint-community-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centerpoint-community-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cherry-creek-presbyterian-church-englewood",
@@ -2053,10 +2107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cherry-creek-presbyterian-church-englewood-co-estados-unidos-21313"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cherry-creek-presbyterian-church-englewood-co-estados-unidos-21313",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cheyenne-mountain-presbyterian-church-colorado-springs",
@@ -2082,10 +2137,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cheyenne-mountain-presbyterian-church-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cheyenne-mountain-presbyterian-church-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-fellowship-church-timnath",
@@ -2111,10 +2167,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.52915,
+"lon": -104.98525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-fellowship-church-timnath-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-fellowship-church-timnath-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-our-redeemer-lutheran-church-aurora",
@@ -2140,10 +2197,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-our-redeemer-lutheran-church-aurora-co-estados-unidos-22972"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-our-redeemer-lutheran-church-aurora-co-estados-unidos-22972",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-the-savior-lutheran-church-aurora",
@@ -2169,10 +2227,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-the-savior-lutheran-church-aurora-co-estados-unidos-9119"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-the-savior-lutheran-church-aurora-co-estados-unidos-9119",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-united-methodist-drake",
@@ -2227,10 +2286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.1911,
+"lon": -106.81754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-science-society-aspen-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-science-society-aspen-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-at-parker-allenspark",
@@ -2256,10 +2316,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19443,
+"lon": -105.52555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-at-parker-allenspark-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-at-parker-allenspark-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-in-aurora-arapahoe",
@@ -2372,10 +2433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/city-church-boulder-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/city-church-boulder-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cleaves-memorial-cme-church-arlington",
@@ -2430,10 +2492,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.09193,
+"lon": -108.44898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clifton-assembly-of-god-clifton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clifton-assembly-of-god-clifton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "college-heights-baptist-church-alamosa",
@@ -2459,10 +2522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/college-heights-baptist-church-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/college-heights-baptist-church-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colorado-christian-fellowship-aurora",
@@ -2488,10 +2552,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colorado-christian-fellowship-aurora-co-estados-unidos-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colorado-christian-fellowship-aurora-co-estados-unidos-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colorado-oriental-mission-church-austin",
@@ -2546,10 +2611,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colorado-springs-apostolic-church-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colorado-springs-apostolic-church-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "columbine-presbyterian-church-littleton",
@@ -2575,10 +2641,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61332,
+"lon": -105.01665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/columbine-presbyterian-church-littleton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/columbine-presbyterian-church-littleton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-in-christ-lutheran-church-arvada",
@@ -2604,10 +2671,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-in-christ-lutheran-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-in-christ-lutheran-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-of-christ-church-arlington",
@@ -2662,10 +2730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-grace-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-grace-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-united-church-christ-running-river-school-boulder",
@@ -2691,10 +2760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-united-church-christ-running-river-school-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-united-church-christ-running-river-school-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregation-har-hashem-boulder",
@@ -2720,10 +2790,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-har-hashem-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-har-hashem-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corona-presbyterian-church-arlington",
@@ -2778,10 +2849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61721,
+"lon": -104.95081,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-presbyterian-dtc-greenwood-village-co-estados-unidos-21200"
+"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-presbyterian-dtc-greenwood-village-co-estados-unidos-21200",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cragmor-christian-reformed-church-austin",
@@ -2894,10 +2966,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.74666,
+"lon": -105.17831,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cripple-creek-baptist-church-cripple-creek-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cripple-creek-baptist-church-cripple-creek-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crosspoint-church-glade-park",
@@ -2952,10 +3025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.40554,
+"lon": -105.47333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crow-hill-community-church-bailey-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crow-hill-community-church-bailey-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crystal-river-baptist-church-carbondale",
@@ -2981,10 +3055,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.40221,
+"lon": -107.21116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crystal-river-baptist-church-carbondale-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crystal-river-baptist-church-carbondale-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "denver-church-of-christ-arvada",
@@ -3010,10 +3085,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/denver-church-of-christ-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/denver-church-of-christ-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "denver-church-of-religious-science-arlington",
@@ -3097,10 +3173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61332,
+"lon": -105.01665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/denver-sam-sung-presbyterian-church-littleton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/denver-sam-sung-presbyterian-church-littleton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "denver-south-seventh-day-adventist-church-englewood",
@@ -3126,10 +3203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/denver-south-seventh-day-adventist-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/denver-south-seventh-day-adventist-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "denver-united-church-arlington",
@@ -3213,10 +3291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/discovery-a-christian-church-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/discovery-a-christian-church-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dolores-southern-baptist-church-dolores",
@@ -3242,10 +3321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47388,
+"lon": -108.50454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dolores-southern-baptist-church-dolores-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dolores-southern-baptist-church-dolores-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastborough-church-of-the-nazarene-austin",
@@ -3300,10 +3380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19443,
+"lon": -105.52555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eastern-hills-community-church-allenspark-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eastern-hills-community-church-allenspark-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elevation-christian-church-aurora",
@@ -3329,10 +3410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elevation-christian-church-aurora-co-estados-unidos-13594"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elevation-christian-church-aurora-co-estados-unidos-13594",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elizabeth-presbyterian-church-cimarron",
@@ -3416,10 +3498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.98526,
+"lon": -104.82053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elmwood-baptist-church-and-academy-brighton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elmwood-baptist-church-and-academy-brighton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "estes-park-united-methodist-church-estes-park",
@@ -3445,10 +3528,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.37721,
+"lon": -105.52167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/estes-park-united-methodist-church-estes-park-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/estes-park-united-methodist-church-estes-park-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eternal-savior-lutheran-church-lafayette",
@@ -3474,10 +3558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.9936,
+"lon": -105.08971,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eternal-savior-lutheran-church-lafayette-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eternal-savior-lutheran-church-lafayette-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evanston-united-methodist-church-englewood",
@@ -3503,10 +3588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evanston-united-methodist-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evanston-united-methodist-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-bible-chapel-east-campus-arvada",
@@ -3532,10 +3618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-east-campus-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-east-campus-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-bible-chapel-prayer-chapel-arvada",
@@ -3561,10 +3648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-prayer-chapel-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-prayer-chapel-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-bible-chapel-west-campus-arvada",
@@ -3590,10 +3678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-west-campus-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-west-campus-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-evangelical-covenant-church-austin",
@@ -3648,10 +3737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30832,
+"lon": -105.08109,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lutheran-church-of-johnstown-berthoud-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lutheran-church-of-johnstown-berthoud-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-temple-church-of-god-in-christ-arapahoe",
@@ -3706,10 +3796,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-in-christ-community-church-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-in-christ-community-church-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "father-dyer-united-methodist-church-breckenridge",
@@ -3735,10 +3826,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.48165,
+"lon": -106.03835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/father-dyer-united-methodist-church-breckenridge-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/father-dyer-united-methodist-church-breckenridge-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fellowship-denver-church-arlington",
@@ -3851,10 +3943,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-colorado-springs-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-colorado-springs-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-deer-creek-deer-trail",
@@ -3880,10 +3973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61498,
+"lon": -104.0444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-deer-creek-deer-trail-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-deer-creek-deer-trail-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-denver-arlington",
@@ -3938,10 +4032,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75554,
+"lon": -105.2211,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-golden-golden-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-golden-golden-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-hotchkiss-hotchkiss",
@@ -3967,10 +4062,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.79971,
+"lon": -107.7195,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-hotchkiss-hotchkiss-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-hotchkiss-hotchkiss-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-hudson-hudson",
@@ -3996,10 +4092,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.07359,
+"lon": -104.64302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-hudson-hudson-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-hudson-hudson-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-methodist-episcopal-church-boulder",
@@ -4025,10 +4122,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-episcopal-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-episcopal-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-englewood-englewood",
@@ -4054,10 +4152,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-englewood-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-englewood-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-golden-golden",
@@ -4083,10 +4182,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75554,
+"lon": -105.2211,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-golden-golden-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-golden-golden-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-slavic-christian-church-arvada",
@@ -4112,10 +4212,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-slavic-christian-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-slavic-christian-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-salida-salida",
@@ -4141,10 +4242,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53472,
+"lon": -105.9989,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-salida-salida-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-salida-salida-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flatirons-baptist-church-cowdrey",
@@ -4257,10 +4359,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.94499,
+"lon": -105.81723,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fraser-valley-baptist-church-fraser-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fraser-valley-baptist-church-fraser-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "friends-meeting-boulder",
@@ -4286,10 +4389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/friends-meeting-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/friends-meeting-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "friendship-assembly-of-god-dolores",
@@ -4315,10 +4419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.47388,
+"lon": -108.50454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/friendship-assembly-of-god-dolores-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/friendship-assembly-of-god-dolores-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fruita-faith-baptist-fruita",
@@ -4344,10 +4449,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15887,
+"lon": -108.72899,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fruita-faith-baptist-fruita-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fruita-faith-baptist-fruita-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gloria-christi-lutheran-church-greeley",
@@ -4373,10 +4479,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.42331,
+"lon": -104.70913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gloria-christi-lutheran-church-greeley-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gloria-christi-lutheran-church-greeley-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glory-of-god-lutheran-church-pleasant-view",
@@ -4431,10 +4538,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75554,
+"lon": -105.2211,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/golden-first-united-methodist-church-golden-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/golden-first-united-methodist-church-golden-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "goode-centennial-united-methodist-commerce-city",
@@ -4460,10 +4568,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80832,
+"lon": -104.93387,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/goode-centennial-united-methodist-commerce-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/goode-centennial-united-methodist-commerce-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-church-aurora-aurora",
@@ -4489,10 +4598,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-aurora-aurora-co-estados-unidos-13553"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-aurora-aurora-co-estados-unidos-13553",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-church-of-arvada-arvada",
@@ -4518,10 +4628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-of-arvada-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-of-arvada-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-church-presbyterian-fort-collins",
@@ -4547,10 +4658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58526,
+"lon": -105.08442,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-presbyterian-fort-collins-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-presbyterian-fort-collins-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-commons-church-boulder",
@@ -4576,10 +4688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-commons-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-commons-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-covenant-church-lakewood",
@@ -4605,10 +4718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.70471,
+"lon": -105.08137,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-covenant-church-lakewood-co-estados-unidos-23767"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-covenant-church-lakewood-co-estados-unidos-23767",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-korean-baptist-church-greenwood-village",
@@ -4634,10 +4748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61721,
+"lon": -104.95081,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-korean-baptist-church-greenwood-village-co-estados-unidos-21306"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-korean-baptist-church-greenwood-village-co-estados-unidos-21306",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-luthern-church-lamar",
@@ -4663,10 +4778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.08723,
+"lon": -102.62075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-luthern-church-lamar-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-luthern-church-lamar-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-place-berthoud",
@@ -4692,10 +4808,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30832,
+"lon": -105.08109,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-place-berthoud-co-estados-unidos-23186"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-place-berthoud-co-estados-unidos-23186",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "granby-baptist-church-granby",
@@ -4721,10 +4838,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.0861,
+"lon": -105.93946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/granby-baptist-church-granby-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/granby-baptist-church-granby-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grant-avenue-church-arlington",
@@ -4779,10 +4897,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-tri-rock-baptist-church-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-tri-rock-baptist-church-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-mountain-united-methodist-church-pleasant-view",
@@ -4837,10 +4956,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.98526,
+"lon": -104.82053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-fellowship-brighton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-fellowship-brighton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heart-of-junction-grand-junction",
@@ -4866,10 +4986,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06387,
+"lon": -108.55065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heart-of-junction-grand-junction-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heart-of-junction-grand-junction-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heart-of-worship-ministries-austin",
@@ -4982,10 +5103,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.27528,
+"lon": -107.88007,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/high-country-baptist-church-durango-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/high-country-baptist-church-durango-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highlands-lutheran-church-wheat-ridge",
@@ -5011,10 +5133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7661,
+"lon": -105.07721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highlands-lutheran-church-wheat-ridge-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highlands-lutheran-church-wheat-ridge-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highpoint-church-allenspark",
@@ -5040,10 +5163,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19443,
+"lon": -105.52555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highpoint-church-allenspark-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highpoint-church-allenspark-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hillcrest-baptist-church-arvada",
@@ -5069,10 +5193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillcrest-baptist-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillcrest-baptist-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "his-love-fellowship-church-arlington",
@@ -5127,10 +5252,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80193,
+"lon": -105.51416,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-shepherd-lutheran-church-central-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-shepherd-lutheran-church-central-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-trinity-anglican-church-colorado-springs",
@@ -5156,10 +5282,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-trinity-anglican-church-colorado-springs-co-estados-unidos-12280"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-trinity-anglican-church-colorado-springs-co-estados-unidos-12280",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hope-church-co-austin",
@@ -5214,10 +5341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-fellowship-denver-co-estados-unidos-9067"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-fellowship-denver-co-estados-unidos-9067",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hotchkiss-community-united-methodist-church-hotchkiss",
@@ -5243,10 +5371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.79971,
+"lon": -107.7195,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hotchkiss-community-united-methodist-church-hotchkiss-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hotchkiss-community-united-methodist-church-hotchkiss-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "house-of-worship-united-pentecostal-church-denver",
@@ -5272,10 +5401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-worship-united-pentecostal-church-denver-co-estados-unidos-11524"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-worship-united-pentecostal-church-denver-co-estados-unidos-11524",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "household-of-faith-baptist-church-university",
@@ -5388,10 +5518,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.1361,
+"lon": -103.46994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hugo-united-methodist-church-hugo-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hugo-united-methodist-church-hugo-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-de-la-fe-en-cristo-jesus-in-the-us-colorado-city",
@@ -5417,10 +5548,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.94529,
+"lon": -104.83526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-in-the-us-colorado-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-in-the-us-colorado-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-dios-vivo-arlington",
@@ -5504,10 +5636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58526,
+"lon": -105.08442,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-christian-reformed-fort-collins-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-christian-reformed-fort-collins-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-congregational-church-brush",
@@ -5533,10 +5666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.25887,
+"lon": -103.62384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-congregational-church-brush-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-congregational-church-brush-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-lutheran-churchschool-loveland",
@@ -5562,10 +5696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39776,
+"lon": -105.07498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-lutheran-churchschool-loveland-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-lutheran-churchschool-loveland-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-lutheran-colorado-springs",
@@ -5591,10 +5726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-lutheran-colorado-springs-co-estados-unidos-14432"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-lutheran-colorado-springs-co-estados-unidos-14432",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "indian-bible-church-arlington",
@@ -5678,10 +5814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.07359,
+"lon": -104.64302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/james-memorial-united-methodist-church-hudson-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/james-memorial-united-methodist-church-hudson-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jefferson-avenue-united-methodist-church-wheat-ridge",
@@ -5707,10 +5844,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7661,
+"lon": -105.07721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jefferson-avenue-united-methodist-church-wheat-ridge-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jefferson-avenue-united-methodist-church-wheat-ridge-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "john-collins-united-methodist-church-englewood",
@@ -5736,10 +5874,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/john-collins-united-methodist-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/john-collins-united-methodist-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "joy-lutheran-church-allenspark",
@@ -5765,10 +5904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19443,
+"lon": -105.52555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/joy-lutheran-church-allenspark-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/joy-lutheran-church-allenspark-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ken-caryl-baptist-church-cimarron",
@@ -5823,10 +5963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39776,
+"lon": -105.07498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-glory-church-loveland-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-glory-church-loveland-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "king-of-glory-lutheran-church-arvada",
@@ -5852,10 +5993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-glory-lutheran-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-glory-lutheran-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kiowa-creek-comunnity-church-kiowa",
@@ -5881,10 +6023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.34721,
+"lon": -104.46441,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kiowa-creek-comunnity-church-kiowa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kiowa-creek-comunnity-church-kiowa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-emmanuel-united-methodist-church-englewood",
@@ -5910,10 +6053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-emmanuel-united-methodist-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-emmanuel-united-methodist-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-glory-full-gospel-church-austin",
@@ -5968,10 +6112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-hope-presbyterian-church-of-denver-denver-co-estados-unidos-21915"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-hope-presbyterian-church-of-denver-denver-co-estados-unidos-21915",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-new-life-church-austin",
@@ -6026,10 +6171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-antorcha-united-pentecostal-church-twin-lakes",
@@ -6055,10 +6201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.82499,
+"lon": -105.0047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-antorcha-united-pentecostal-church-twin-lakes-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-antorcha-united-pentecostal-church-twin-lakes-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lakewood-first-united-methodist-church-central-city",
@@ -6084,10 +6231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80193,
+"lon": -105.51416,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lakewood-first-united-methodist-church-central-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lakewood-first-united-methodist-church-central-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "laporte-church-of-christ-bellvue",
@@ -6171,10 +6319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.06667,
+"lon": -103.22271,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-animas-methodist-church-las-animas-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-animas-methodist-church-las-animas-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lds-boulder-institute-of-religion-boulder",
@@ -6200,10 +6349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lds-boulder-institute-of-religion-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lds-boulder-institute-of-religion-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "leadville-seventh-day-adventist-church-leadville",
@@ -6229,10 +6379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.25082,
+"lon": -106.29252,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/leadville-seventh-day-adventist-church-leadville-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/leadville-seventh-day-adventist-church-leadville-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "life-fellowship-broomfield",
@@ -6258,10 +6409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-fellowship-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-fellowship-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lifepointe-church-drake",
@@ -6345,10 +6497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61332,
+"lon": -105.01665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/littleton-united-methodist-church-littleton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/littleton-united-methodist-church-littleton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "longs-peak-united-methodist-church-hygiene",
@@ -6403,10 +6556,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.0861,
+"lon": -105.93946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lord-of-the-valley-lutheran-church-granby-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lord-of-the-valley-lutheran-church-granby-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "majestic-view-church-kiowa",
@@ -6432,10 +6586,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.34721,
+"lon": -104.46441,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/majestic-view-church-kiowa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/majestic-view-church-kiowa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mesa-memorial-baptist-church-boulder",
@@ -6461,10 +6616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mesa-memorial-baptist-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mesa-memorial-baptist-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mile-high-vineyard-arvada-arvada",
@@ -6490,10 +6646,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mile-high-vineyard-arvada-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mile-high-vineyard-arvada-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "montclair-community-united-methodist-church-denver",
@@ -6519,10 +6676,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/montclair-community-united-methodist-church-denver-co-estados-unidos-20887"
+"fuente_url": "https://encuentraiglesias.com/iglesia/montclair-community-united-methodist-church-denver-co-estados-unidos-20887",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "montezuma-valley-presbyterian-church-cortez",
@@ -6548,10 +6706,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.34888,
+"lon": -108.58593,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/montezuma-valley-presbyterian-church-cortez-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/montezuma-valley-presbyterian-church-cortez-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monument-presbyterian-church-colorado-city",
@@ -6577,10 +6736,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.94529,
+"lon": -104.83526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monument-presbyterian-church-colorado-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monument-presbyterian-church-colorado-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mosca-united-methodist-church-mosca",
@@ -6667,7 +6827,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-states-baptist-church-eastlake-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-states-baptist-church-eastlake-colorado",
+"geo_fuente": null
 },
 {
 "slug": "mountain-valley-church-alamosa",
@@ -6693,10 +6854,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-valley-church-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-valley-church-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-view-united-methodist-church-boulder",
@@ -6722,10 +6884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-view-united-methodist-church-boulder-co-estados-unidos-13347"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-view-united-methodist-church-boulder-co-estados-unidos-13347",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nederland-community-presbyterian-church-nederland",
@@ -6751,10 +6914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96138,
+"lon": -105.51083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nederland-community-presbyterian-church-nederland-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nederland-community-presbyterian-church-nederland-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-horizons-foursquare-church-arlington",
@@ -6809,10 +6973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-community-church-aurora-co-estados-unidos-22971"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-community-church-aurora-co-estados-unidos-22971",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "niwot-united-methodist-church-niwot",
@@ -6838,10 +7003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.10387,
+"lon": -105.17082,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/niwot-united-methodist-church-niwot-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/niwot-united-methodist-church-niwot-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-highland-presbyterian-church-denver",
@@ -6867,10 +7033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-highland-presbyterian-church-denver-co-estados-unidos-10184"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-highland-presbyterian-church-denver-co-estados-unidos-10184",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northeast-christian-church-arlington",
@@ -6925,10 +7092,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.98526,
+"lon": -104.82053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northern-hills-church-brighton-co-estados-unidos-24736"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northern-hills-church-brighton-co-estados-unidos-24736",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northwest-community-church-arvada",
@@ -6954,10 +7122,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northwest-community-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northwest-community-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northwest-friends-church-arvada",
@@ -6983,10 +7152,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northwest-friends-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northwest-friends-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "norwood-bible-church-austin",
@@ -7041,10 +7211,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.60499,
+"lon": -107.98229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olathe-assembly-of-god-olathe-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olathe-assembly-of-god-olathe-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olathe-united-methodist-church-olathe",
@@ -7070,10 +7241,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.60499,
+"lon": -107.98229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olathe-united-methodist-church-olathe-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olathe-united-methodist-church-olathe-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "palisade-united-methodist-church-orchard",
@@ -7128,10 +7300,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.86832,
+"lon": -107.592,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/paonia-assembly-of-god-paonia-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/paonia-assembly-of-god-paonia-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "park-hill-seventh-day-adventist-church-denver",
@@ -7157,10 +7330,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/park-hill-seventh-day-adventist-church-denver-co-estados-unidos-9051"
+"fuente_url": "https://encuentraiglesias.com/iglesia/park-hill-seventh-day-adventist-church-denver-co-estados-unidos-9051",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "park-hill-united-church-of-christ",
@@ -7215,10 +7389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19443,
+"lon": -105.52555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parker-church-of-christ-allenspark-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parker-church-of-christ-allenspark-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parker-evangelical-presbyterian-church-parker",
@@ -7244,10 +7419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.5186,
+"lon": -104.76136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parker-evangelical-presbyterian-church-parker-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parker-evangelical-presbyterian-church-parker-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parker-hills-bible-fellowship-allenspark",
@@ -7273,10 +7449,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19443,
+"lon": -105.52555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parker-hills-bible-fellowship-allenspark-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parker-hills-bible-fellowship-allenspark-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peace-with-christ-lutheran-church-aurora",
@@ -7302,10 +7479,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peace-with-christ-lutheran-church-aurora-co-estados-unidos-8925"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peace-with-christ-lutheran-church-aurora-co-estados-unidos-8925",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pear-park-baptist-church-clifton",
@@ -7331,10 +7509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.09193,
+"lon": -108.44898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pear-park-baptist-church-clifton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pear-park-baptist-church-clifton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peetz-community-church-peetz",
@@ -7447,10 +7626,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pikes-peak-united-methodist-church-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pikes-peak-united-methodist-church-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pillar-of-fire-church-arlington",
@@ -7505,10 +7685,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pine-street-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pine-street-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "poudre-canyon-chapel-bellvue",
@@ -7563,10 +7744,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ralston-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ralston-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rankin-presbyterian-church-brush",
@@ -7592,10 +7774,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.25887,
+"lon": -103.62384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rankin-presbyterian-church-brush-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rankin-presbyterian-church-brush-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redeemer-baptist-church-aurora",
@@ -7621,10 +7804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-baptist-church-aurora-co-estados-unidos-22970"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-baptist-church-aurora-co-estados-unidos-22970",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "risen-savior-lutheran-church-broomfield",
@@ -7650,10 +7834,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/risen-savior-lutheran-church-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/risen-savior-lutheran-church-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-of-life-assembly-of-god-alamosa",
@@ -7679,10 +7864,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-assembly-of-god-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-assembly-of-god-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "roca-iglesia-eterna-grand-junction",
@@ -7708,10 +7894,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06387,
+"lon": -108.55065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/roca-iglesia-eterna-grand-junction-co-estados-unidos-20665"
+"fuente_url": "https://encuentraiglesias.com/iglesia/roca-iglesia-eterna-grand-junction-co-estados-unidos-20665",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rocky-mountain-calvary-austin",
@@ -7824,10 +8011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99388,
+"lon": -105.05693,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-david-of-the-hills-episcopal-church-woodland-park-co-estados-unidos-13432"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-david-of-the-hills-episcopal-church-woodland-park-co-estados-unidos-13432",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-james-methodist-church-black-hawk",
@@ -7911,10 +8099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-christian-methodist-episcopal-church-denver-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-luke-christian-methodist-episcopal-church-denver-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-martin-in-the-fields-episcopal-church-arapahoe",
@@ -7998,10 +8187,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-presbyterian-church-aurora-co-estados-unidos-13554"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-presbyterian-church-aurora-co-estados-unidos-13554",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-pauls-united-church-arvada",
@@ -8027,10 +8217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-united-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-united-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-peter-and-saint-mary-episcopal-church-arlington",
@@ -8085,10 +8276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-luis-valley-baptist-church-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-luis-valley-baptist-church-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "scum-of-the-earth-church-arlington",
@@ -8143,10 +8335,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.62418,
+"lon": -104.78026,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-spanish-presbytarian-church-walsenburg-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-spanish-presbytarian-church-walsenburg-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "seventh-day-adventist-church-reform-movement-denver",
@@ -8172,10 +8365,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-church-reform-movement-denver-co-estados-unidos-22905"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-church-reform-movement-denver-co-estados-unidos-22905",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "seventh-day-adventist-reformed-church-englewood",
@@ -8201,10 +8395,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-reformed-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-reformed-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "seventh-day-baptist-hayden",
@@ -8230,10 +8425,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.49529,
+"lon": -107.25729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-baptist-hayden-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-baptist-hayden-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepherd-of-love-fellowship-broomfield",
@@ -8259,10 +8455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-love-fellowship-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-love-fellowship-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepherd-of-the-hills-lutheran-church-and-preschool-greeley",
@@ -8288,10 +8485,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.42331,
+"lon": -104.70913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-hills-lutheran-church-and-preschool-greeley-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-hills-lutheran-church-and-preschool-greeley-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepherd-of-the-hills-presbyterian-church-pleasant-view",
@@ -8346,10 +8544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.09193,
+"lon": -108.44898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-valley-clifton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-valley-clifton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sherwood-park-baptist-church-greeley",
@@ -8375,10 +8574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.42331,
+"lon": -104.70913,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sherwood-park-baptist-church-greeley-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sherwood-park-baptist-church-greeley-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shorter-community-ame-church-denver",
@@ -8404,10 +8604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shorter-community-ame-church-denver-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shorter-community-ame-church-denver-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "skyview-presbyterian-church-littleton",
@@ -8433,10 +8634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61332,
+"lon": -105.01665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skyview-presbyterian-church-littleton-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skyview-presbyterian-church-littleton-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sonlight-foursquare-gospel-church-glenwood-springs",
@@ -8462,10 +8664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.55054,
+"lon": -107.32478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sonlight-foursquare-gospel-church-glenwood-springs-co-estados-unidos-22974"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sonlight-foursquare-gospel-church-glenwood-springs-co-estados-unidos-22974",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "souls-harbor-community-outreach-church-of-god-in-christ-arapahoe",
@@ -8549,10 +8752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-broadway-church-of-the-nazarene-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-broadway-church-of-the-nazarene-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-holly-baptist-church-gateway",
@@ -8607,10 +8811,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-hope-united-methodist-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-hope-united-methodist-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springs-of-life-church-austin",
@@ -8665,10 +8870,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.44861,
+"lon": -105.83529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/springs-reformed-church-howard-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/springs-reformed-church-howard-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springs-tabernacle-christian-fellowship",
@@ -8723,10 +8929,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.55388,
+"lon": -104.96943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrew-united-methodist-church-highlands-ranch-co-estados-unidos-20536"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrew-united-methodist-church-highlands-ranch-co-estados-unidos-20536",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peters-evangelical-lutheran-church-fort-collins",
@@ -8752,10 +8959,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58526,
+"lon": -105.08442,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-evangelical-lutheran-church-fort-collins-co-estados-unidos-14222"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-evangelical-lutheran-church-fort-collins-co-estados-unidos-14222",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-of-peace-eastlake",
@@ -8784,7 +8992,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-of-peace-eastlake-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-of-peace-eastlake-colorado",
+"geo_fuente": null
 },
 {
 "slug": "templo-cristiano-bethel-alamosa",
@@ -8810,10 +9019,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-bethel-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-bethel-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tha-myx-grand-junction",
@@ -8839,10 +9049,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06387,
+"lon": -108.55065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tha-myx-grand-junction-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tha-myx-grand-junction-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-church-of-jesus-christ-of-latter-day-saints-greeley-institute-of-religion-arlington",
@@ -8897,10 +9108,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-of-pentecost-usa-colorado-springs-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-of-pentecost-usa-colorado-springs-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-gathering-place-brush",
@@ -8926,10 +9138,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.25887,
+"lon": -103.62384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-gathering-place-brush-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-gathering-place-brush-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-grove-church-somerset",
@@ -9013,10 +9226,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.94529,
+"lon": -104.83526,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-river-colorado-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-river-colorado-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-vail-church-avon",
@@ -9042,10 +9256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.63137,
+"lon": -106.52225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-vail-church-avon-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-vail-church-avon-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trace-church-austin",
@@ -9100,10 +9315,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.16946,
+"lon": -104.50054,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinidad-seventh-day-adventist-church-trinidad-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinidad-seventh-day-adventist-church-trinidad-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-lutheran-boulder",
@@ -9129,10 +9345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-lutheran-church-alamosa",
@@ -9158,10 +9375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.46945,
+"lon": -105.87002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-alamosa-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-alamosa-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-lutheran-church-and-school-evans",
@@ -9187,10 +9405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.37637,
+"lon": -104.69219,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-and-school-evans-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-and-school-evans-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "true-faith-church-of-god-in-christ-central-city",
@@ -9216,10 +9435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80193,
+"lon": -105.51416,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/true-faith-church-of-god-in-christ-central-city-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/true-faith-church-of-god-in-christ-central-city-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "true-faith-worship-ministries-aurora",
@@ -9245,10 +9465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72943,
+"lon": -104.83192,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/true-faith-worship-ministries-aurora-co-estados-unidos-11905"
+"fuente_url": "https://encuentraiglesias.com/iglesia/true-faith-worship-ministries-aurora-co-estados-unidos-11905",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ukrainian-orthodox-church-arlington",
@@ -9303,10 +9524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-church-of-boulder-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-church-of-boulder-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-broomfield-broomfield",
@@ -9332,10 +9554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-broomfield-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-broomfield-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-walsenburg-walsenburg",
@@ -9361,10 +9584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.62418,
+"lon": -104.78026,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-walsenburg-walsenburg-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-walsenburg-walsenburg-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-methodist-church-of-julesburg-julesburg",
@@ -9390,10 +9614,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.98833,
+"lon": -102.26435,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-julesburg-julesburg-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-julesburg-julesburg-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "university-hills-lutheran-church-denver",
@@ -9419,10 +9644,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/university-hills-lutheran-church-denver-co-estados-unidos-23302"
+"fuente_url": "https://encuentraiglesias.com/iglesia/university-hills-lutheran-church-denver-co-estados-unidos-23302",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "university-park-united-methodist-church-englewood",
@@ -9448,10 +9674,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.64777,
+"lon": -104.98776,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/university-park-united-methodist-church-englewood-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/university-park-united-methodist-church-englewood-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-vista-united-methodist-church-twin-lakes",
@@ -9477,10 +9704,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.82499,
+"lon": -105.0047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-vista-united-methodist-church-twin-lakes-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-vista-united-methodist-church-twin-lakes-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valmont-community-presbyterian-church-hayden",
@@ -9506,10 +9734,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.49529,
+"lon": -107.25729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valmont-community-presbyterian-church-hayden-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valmont-community-presbyterian-church-hayden-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vanguard-church-central-austin",
@@ -9564,10 +9793,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01499,
+"lon": -105.27055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/victory-apostolic-church-boulder-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/victory-apostolic-church-boulder-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vietnamese-community-baptist-church-denver",
@@ -9593,10 +9823,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73915,
+"lon": -104.9847,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vietnamese-community-baptist-church-denver-co-estados-unidos-22642"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vietnamese-community-baptist-church-denver-co-estados-unidos-22642",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "villiage-seven-presbytierian-church-austin",
@@ -9709,10 +9940,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.16721,
+"lon": -105.10193,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vista-seventh-day-adventists-fellowship-longmont-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vista-seventh-day-adventists-fellowship-longmont-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ward-road-baptist-church-arvada",
@@ -9738,10 +9970,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ward-road-baptist-church-arvada-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ward-road-baptist-church-arvada-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "washington-park-chapel-arlington",
@@ -9825,10 +10058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.92054,
+"lon": -105.08665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westminster-reformed-presbyterian-church-broomfield-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westminster-reformed-presbyterian-church-broomfield-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westminster-united-methodist-church-twin-lakes",
@@ -9854,10 +10088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.82499,
+"lon": -105.0047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westminster-united-methodist-church-twin-lakes-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westminster-united-methodist-church-twin-lakes-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wheat-ridge-evangelical-lutheran-church-wheat-ridge",
@@ -9883,10 +10118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7661,
+"lon": -105.07721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wheat-ridge-evangelical-lutheran-church-wheat-ridge-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wheat-ridge-evangelical-lutheran-church-wheat-ridge-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wheatridge-presbyterian-church-wheat-ridge",
@@ -9912,10 +10148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7661,
+"lon": -105.07721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wheatridge-presbyterian-church-wheat-ridge-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wheatridge-presbyterian-church-wheat-ridge-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "woodmen-road-baptist-church-colorado-springs",
@@ -9941,10 +10178,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83388,
+"lon": -104.82136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/woodmen-road-baptist-church-colorado-springs-co-estados-unidos-14378"
+"fuente_url": "https://encuentraiglesias.com/iglesia/woodmen-road-baptist-church-colorado-springs-co-estados-unidos-14378",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "word-of-life-lutheran-brethren-church-somerset",
@@ -10028,9 +10266,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.16946,
+"lon": -104.50054,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zions-lutheran-church-trinidad-colorado"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zions-lutheran-church-trinidad-colorado",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

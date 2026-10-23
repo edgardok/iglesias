@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/2911-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/2911-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "abundant-life-center-assembly-of-god-church-glendale",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.53865,
+"lon": -112.18599,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-center-assembly-of-god-church-glendale-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-center-assembly-of-god-church-glendale-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ajo-church-of-god-ajo",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.37172,
+"lon": -112.86071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ajo-church-of-god-ajo-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ajo-church-of-god-ajo-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alcance-victoria-east-phoenix-phoenix",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alcance-victoria-east-phoenix-phoenix-az-estados-unidos-24172"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alcance-victoria-east-phoenix-phoenix-az-estados-unidos-24172",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alpine-community-church-alpine",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.10143,
+"lon": -110.96374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alzona-evangelical-lutheran-church-young-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alzona-evangelical-lutheran-church-young-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "amazing-grace-fellowship-fort-mohave",
@@ -255,10 +260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ambassador-heights-baptist-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ambassador-heights-baptist-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "american-evangelical-lutheran-church-arizona-city",
@@ -284,10 +290,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/american-evangelical-lutheran-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/american-evangelical-lutheran-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antioch-church-of-god-in-christ-greer",
@@ -316,7 +323,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antioch-church-of-god-in-christ-greer-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antioch-church-of-god-in-christ-greer-arizona",
+"geo_fuente": null
 },
 {
 "slug": "apache-junction-christian-community-church-apache-junction",
@@ -342,10 +350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apache-junction-christian-community-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apache-junction-christian-community-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apache-junction-seventh-day-adventist-church-apache-junction",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apache-junction-seventh-day-adventist-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apache-junction-seventh-day-adventist-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arizona-korean-presbyterian-church-glendale",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.53865,
+"lon": -112.18599,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arizona-korean-presbyterian-church-glendale-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arizona-korean-presbyterian-church-glendale-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arizona-vedic-cultural-center-apache-junction",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arizona-vedic-cultural-center-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arizona-vedic-cultural-center-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ascension-lutheran-church-and-school-tucson",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.22174,
+"lon": -110.92648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ascension-lutheran-church-and-school-tucson-az-estados-unidos-18782"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ascension-lutheran-church-and-school-tucson-az-estados-unidos-18782",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assemblies-of-god-arizona-district-council-roosevelt",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/awaken-life-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/awaken-life-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "az-korean-united-methodist-church-kirkland",
@@ -574,10 +588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bell-gardens-assembly-of-god-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bell-gardens-assembly-of-god-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bell-road-assembly-of-god-church-paradise-valley",
@@ -603,10 +618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.53115,
+"lon": -111.94265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bell-road-assembly-of-god-church-paradise-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bell-road-assembly-of-god-church-paradise-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "benson-heights-southern-baptist-church-benson",
@@ -632,10 +648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.96786,
+"lon": -110.29452,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/benson-heights-southern-baptist-church-benson-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/benson-heights-southern-baptist-church-benson-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "betania-presbyterian-church-young",
@@ -661,10 +678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.10143,
+"lon": -110.96374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/betania-presbyterian-church-young-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/betania-presbyterian-church-young-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethesda-community-baptist-church-gray-mountain",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-messianic-congregation-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-messianic-congregation-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bisbee-first-united-methodist-church-bisbee",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.44815,
+"lon": -109.92841,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bisbee-first-united-methodist-church-bisbee-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bisbee-first-united-methodist-church-bisbee-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bisbee-seventh-day-adventist-bisbee",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.44815,
+"lon": -109.92841,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bisbee-seventh-day-adventist-bisbee-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bisbee-seventh-day-adventist-bisbee-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "black-mountain-community-church-black-canyon-city",
@@ -806,10 +827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/black-mountain-community-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/black-mountain-community-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bowie-united-methodist-church-bowie",
@@ -864,10 +886,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.95586,
+"lon": -110.33401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/camelback-seventh-day-adventist-church-joseph-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/camelback-seventh-day-adventist-church-joseph-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canyon-springs-baptist-church-gray-mountain",
@@ -951,10 +974,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/catalina-baptist-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/catalina-baptist-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "catalina-united-methodist-church-arizona-city",
@@ -980,10 +1004,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/catalina-united-methodist-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/catalina-united-methodist-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centerstage-church-apache-junction",
@@ -1009,10 +1034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centerstage-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centerstage-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chandler-presbyterian-church-chandler",
@@ -1038,10 +1064,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.30616,
+"lon": -111.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chandler-presbyterian-church-chandler-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chandler-presbyterian-church-chandler-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chandler-united-methodist-church-chandler",
@@ -1067,10 +1094,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.30616,
+"lon": -111.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chandler-united-methodist-church-chandler-az-estados-unidos-21574"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chandler-united-methodist-church-chandler-az-estados-unidos-21574",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-hill-memorial-gardens-arizona-city",
@@ -1096,10 +1124,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-memorial-gardens-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-memorial-gardens-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chino-valley-community-church-chino-valley",
@@ -1125,10 +1154,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.75752,
+"lon": -112.45378,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chino-valley-community-church-chino-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chino-valley-community-church-chino-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-church-lutheran-church-joseph-city",
@@ -1154,10 +1184,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.95586,
+"lon": -110.33401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-church-lutheran-church-joseph-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-church-lutheran-church-joseph-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-temple-church-black-canyon-city",
@@ -1183,10 +1214,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-temple-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-temple-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christs-church-black-canyon-city",
@@ -1212,10 +1244,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christs-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christs-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christs-church-of-the-valley-arlington",
@@ -1270,10 +1303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christs-greenfield-lutheran-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christs-greenfield-lutheran-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-god-in-christ-arizona-ecclesiastical-jurisdiction-phoenix",
@@ -1299,10 +1333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-god-in-christ-arizona-ecclesiastical-jurisdiction-phoenix-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-god-in-christ-arizona-ecclesiastical-jurisdiction-phoenix-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-beatitudes-phoenix",
@@ -1328,10 +1363,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-beatitudes-phoenix-az-estados-unidos-9218"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-beatitudes-phoenix-az-estados-unidos-9218",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-ressurection-flagstaff",
@@ -1357,10 +1393,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.19807,
+"lon": -111.65127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-ressurection-flagstaff-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-ressurection-flagstaff-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "city-harvest-international-glad-tidings-church-joseph-city",
@@ -1386,10 +1423,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.95586,
+"lon": -110.33401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/city-harvest-international-glad-tidings-church-joseph-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/city-harvest-international-glad-tidings-church-joseph-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-assembly-of-god-bouse",
@@ -1415,10 +1453,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.93252,
+"lon": -114.00577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-assembly-of-god-bouse-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-assembly-of-god-bouse-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-bible-baptist-church-golden-valley",
@@ -1444,10 +1483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-bible-baptist-church-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-bible-baptist-church-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-lutheran-bullhead-city",
@@ -1473,10 +1513,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.14778,
+"lon": -114.5683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-lutheran-bullhead-city-az-estados-unidos-12511"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-lutheran-bullhead-city-az-estados-unidos-12511",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-church-cameron",
@@ -1502,10 +1543,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corona-baptist-church-chandler",
@@ -1531,10 +1573,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.30616,
+"lon": -111.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corona-baptist-church-chandler-az-estados-unidos-12665"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corona-baptist-church-chandler-az-estados-unidos-12665",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "creighton-united-methodist-church-joseph-city",
@@ -1560,10 +1603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.95586,
+"lon": -110.33401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/creighton-united-methodist-church-joseph-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/creighton-united-methodist-church-joseph-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cross-in-the-desert-united-methodist-church-arizona-city",
@@ -1589,10 +1633,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cross-in-the-desert-united-methodist-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cross-in-the-desert-united-methodist-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crossroads-southern-baptist-church-apache-junction",
@@ -1618,10 +1663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crossroads-southern-baptist-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crossroads-southern-baptist-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crosswinds-presbyterian-church-black-canyon-city",
@@ -1647,10 +1693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crosswinds-presbyterian-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crosswinds-presbyterian-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "culbertson-memorial-church-bapchule",
@@ -1705,10 +1752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/deer-valley-worship-center-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/deer-valley-worship-center-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-breeze-community-church-black-canyon-city",
@@ -1734,10 +1782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-breeze-community-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-breeze-community-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-chapel-united-methodist-church-apache-junction",
@@ -1763,10 +1812,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-chapel-united-methodist-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-chapel-united-methodist-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-cross-lutheran-church-gilbert",
@@ -1792,10 +1842,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-cross-lutheran-church-gilbert-az-estados-unidos-24931"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-cross-lutheran-church-gilbert-az-estados-unidos-24931",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-hills-lutheran-church-green-valley",
@@ -1821,10 +1872,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.85425,
+"lon": -110.9937,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-hills-lutheran-church-green-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-hills-lutheran-church-green-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-hills-presbyterian-church-carefree",
@@ -1850,10 +1902,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.82226,
+"lon": -111.9182,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-hills-presbyterian-church-carefree-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-hills-presbyterian-church-carefree-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-palms-presbyterian-church-chandler",
@@ -1879,10 +1932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.30616,
+"lon": -111.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-palms-presbyterian-church-chandler-az-estados-unidos-11681"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-palms-presbyterian-church-chandler-az-estados-unidos-11681",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-rose-community-church-black-canyon-city",
@@ -1908,10 +1962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-rose-community-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-rose-community-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "desert-sky-baptist-church-casa-grande",
@@ -1937,10 +1992,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.8795,
+"lon": -111.75735,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-sky-baptist-church-casa-grande-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-sky-baptist-church-casa-grande-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dream-city-church-golden-valley",
@@ -1966,10 +2022,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dream-city-church-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dream-city-church-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-mesa-christian-church-cameron",
@@ -1995,10 +2052,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-mesa-christian-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-mesa-christian-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-valley-church-of-god-mesa",
@@ -2024,10 +2082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.42227,
+"lon": -111.82264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-valley-church-of-god-mesa-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-valley-church-of-god-mesa-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-valley-church-of-the-nazarene-apache-junction",
@@ -2053,10 +2112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-valley-church-of-the-nazarene-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-valley-church-of-the-nazarene-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-faro-spanish-baptist-church-gray-mountain",
@@ -2111,10 +2171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/epiphany-lutheran-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/epiphany-lutheran-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fairhaven-baptist-church-coolidge",
@@ -2140,10 +2201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.97784,
+"lon": -111.51762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fairhaven-baptist-church-coolidge-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fairhaven-baptist-church-coolidge-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-christian-fellowship-apache-junction",
@@ -2169,10 +2231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-christian-fellowship-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-christian-fellowship-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-lutheran-church-and-school-palo-verde",
@@ -2227,10 +2290,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-of-faith-bible-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-of-faith-bible-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "federated-community-church-flagstaff",
@@ -2256,10 +2320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.19807,
+"lon": -111.65127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/federated-community-church-flagstaff-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/federated-community-church-flagstaff-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-arabic-baptist-church-grand-canyon",
@@ -2285,10 +2350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-arabic-baptist-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-arabic-baptist-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-garden-lakes-avondale",
@@ -2314,10 +2380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.4356,
+"lon": -112.3496,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-garden-lakes-avondale-az-estados-unidos-14032"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-garden-lakes-avondale-az-estados-unidos-14032",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-in-san-manuel-arizona-city",
@@ -2343,10 +2410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-in-san-manuel-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-in-san-manuel-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-apache-junction-apache-junction",
@@ -2372,10 +2440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-apache-junction-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-apache-junction-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-fountain-hills-fountain-hills",
@@ -2401,10 +2470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.61171,
+"lon": -111.71736,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-fountain-hills-fountain-hills-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-fountain-hills-fountain-hills-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-tempe-kirkland",
@@ -2459,10 +2529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.61309,
+"lon": -112.3246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-country-baptist-church-el-mirage-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-country-baptist-church-el-mirage-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-indian-baptist-church-black-canyon-city",
@@ -2488,10 +2559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-indian-baptist-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-indian-baptist-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-methodist-episcopal-church-of-glendale-glendale",
@@ -2517,10 +2589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.53865,
+"lon": -112.18599,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-episcopal-church-of-glendale-glendale-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-episcopal-church-of-glendale-glendale-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-new-life-missionary-baptist-church-arlington",
@@ -2575,10 +2648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.8795,
+"lon": -111.75735,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-shiloh-baptist-church-casa-grande-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-shiloh-baptist-church-casa-grande-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-southern-baptist-church-arizona-city",
@@ -2604,10 +2678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-southern-baptist-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-southern-baptist-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-southern-baptist-claypool",
@@ -2633,10 +2708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41117,
+"lon": -110.84261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-southern-baptist-claypool-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-southern-baptist-claypool-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flagstaff-christian-center-flagstaff",
@@ -2662,10 +2738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.19807,
+"lon": -111.65127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/flagstaff-christian-center-flagstaff-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/flagstaff-christian-center-flagstaff-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flagstaff-christian-fellowship-flagstaff",
@@ -2691,10 +2768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.19807,
+"lon": -111.65127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/flagstaff-christian-fellowship-flagstaff-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/flagstaff-christian-fellowship-flagstaff-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flagstaff-seventh-day-adventist-church-flagstaff",
@@ -2720,10 +2798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.19807,
+"lon": -111.65127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/flagstaff-seventh-day-adventist-church-flagstaff-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/flagstaff-seventh-day-adventist-church-flagstaff-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "foothills-community-church-chandler",
@@ -2749,10 +2828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.30616,
+"lon": -111.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/foothills-community-church-chandler-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/foothills-community-church-chandler-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fort-defiance-united-presbyterian-church-fort-defiance",
@@ -2778,10 +2858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.74446,
+"lon": -109.07648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fort-defiance-united-presbyterian-church-fort-defiance-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fort-defiance-united-presbyterian-church-fort-defiance-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "foundation-foursquare-church-cameron",
@@ -2807,10 +2888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/foundation-foursquare-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/foundation-foursquare-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fountain-hills-presbyterian-church-fountain-hills",
@@ -2836,10 +2918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.61171,
+"lon": -111.71736,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-hills-presbyterian-church-fountain-hills-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-hills-presbyterian-church-fountain-hills-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fountain-of-life-cameron",
@@ -2865,10 +2948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-of-life-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-of-life-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fountain-of-life-international-assembly-of-god-church-golden-valley",
@@ -2894,10 +2978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-of-life-international-assembly-of-god-church-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-of-life-international-assembly-of-god-church-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ganado-presbyterian-church-ganado",
@@ -2923,10 +3008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.7114,
+"lon": -109.54205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ganado-presbyterian-church-ganado-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ganado-presbyterian-church-ganado-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gateway-fellowship-sbc-cameron",
@@ -2952,10 +3038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-fellowship-sbc-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-fellowship-sbc-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gideon-missionary-baptist-church-el-mirage",
@@ -2981,10 +3068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.61309,
+"lon": -112.3246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gideon-missionary-baptist-church-el-mirage-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gideon-missionary-baptist-church-el-mirage-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gila-valley-pentecostal-church-safford",
@@ -3010,10 +3098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.83395,
+"lon": -109.70758,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gila-valley-pentecostal-church-safford-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gila-valley-pentecostal-church-safford-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gilbert-mussalla-cameron",
@@ -3039,10 +3128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gilbert-mussalla-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gilbert-mussalla-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gilbert-presbyterian-church-gilbert",
@@ -3068,10 +3158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gilbert-presbyterian-church-gilbert-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gilbert-presbyterian-church-gilbert-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-missionary-baptist-church-arlington",
@@ -3126,10 +3217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-covenant-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-covenant-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-evangelical-lutheran-church-arizona-city",
@@ -3155,10 +3247,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-evangelical-lutheran-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-evangelical-lutheran-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-family-fellowship-church-black-canyon-city",
@@ -3184,10 +3277,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-family-fellowship-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-family-fellowship-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-in-the-desert-adventist-church-greer",
@@ -3216,7 +3310,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-in-the-desert-adventist-church-greer-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-in-the-desert-adventist-church-greer-arizona",
+"geo_fuente": null
 },
 {
 "slug": "grace-st-pauls-episcopal-church-arizona-city",
@@ -3242,10 +3337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-st-pauls-episcopal-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-st-pauls-episcopal-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "great-commission-pentecostal-church-gray-mountain",
@@ -3300,10 +3396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harmony-community-baptist-church-apache-junction-az-estados-unidos-14070"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harmony-community-baptist-church-apache-junction-az-estados-unidos-14070",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-bible-church-gilbert",
@@ -3329,10 +3426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-bible-church-gilbert-az-estados-unidos-12341"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-bible-church-gilbert-az-estados-unidos-12341",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heritage-lutheran-church-gilbert",
@@ -3358,10 +3456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heritage-lutheran-church-gilbert-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heritage-lutheran-church-gilbert-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hessville-baptist-church-arizona-city",
@@ -3387,10 +3486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hessville-baptist-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hessville-baptist-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-trinity-ame-mesa",
@@ -3416,10 +3516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.42227,
+"lon": -111.82264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-trinity-ame-mesa-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-trinity-ame-mesa-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hope-bible-church-golden-valley",
@@ -3445,10 +3546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-bible-church-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-bible-church-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-hispana-de-mesa-mesa",
@@ -3474,10 +3576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.42227,
+"lon": -111.82264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-hispana-de-mesa-mesa-az-estados-unidos-23309"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-hispana-de-mesa-mesa-az-estados-unidos-23309",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-de-la-fe-en-cristo-jesus-mesa",
@@ -3503,10 +3606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.42227,
+"lon": -111.82264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-mesa-az-estados-unidos-23323"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-mesa-az-estados-unidos-23323",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-independiente-jesus-de-nazareth-arlington",
@@ -3561,10 +3665,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.61309,
+"lon": -112.3246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-reestructurada-del-espiritu-santo-el-mirage-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-reestructurada-del-espiritu-santo-el-mirage-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "journey-evangelical-free-church-cameron",
@@ -3590,10 +3695,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/journey-evangelical-free-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/journey-evangelical-free-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "king-of-kings-church-avondale",
@@ -3619,10 +3725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.4356,
+"lon": -112.3496,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-kings-church-avondale-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-kings-church-avondale-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kingdom-in-the-valley-phoenix",
@@ -3648,10 +3755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kingdom-in-the-valley-phoenix-az-estados-unidos-28141"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kingdom-in-the-valley-phoenix-az-estados-unidos-28141",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kings-church-greer",
@@ -3680,7 +3788,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kings-church-greer-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kings-church-greer-arizona",
+"geo_fuente": null
 },
 {
 "slug": "korean-new-life-presbyterian-church-grand-canyon",
@@ -3706,10 +3815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-new-life-presbyterian-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-new-life-presbyterian-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-phoenix-presbyterian-church-grand-canyon",
@@ -3735,10 +3845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-phoenix-presbyterian-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-phoenix-presbyterian-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-presbyterian-church-arizona-city",
@@ -3764,10 +3875,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "landmark-christian-fellowship-cameron",
@@ -3793,10 +3905,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/landmark-christian-fellowship-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/landmark-christian-fellowship-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-faith-kingman",
@@ -3822,10 +3935,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.18944,
+"lon": -114.05301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-faith-kingman-az-estados-unidos-28406"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-faith-kingman-az-estados-unidos-28406",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-hope-community-church-arizona-city",
@@ -3851,10 +3965,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-community-church-arizona-city-az-estados-unidos-12277"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-community-church-arizona-city-az-estados-unidos-12277",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-word-bible-church-mesa",
@@ -3880,10 +3995,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.42227,
+"lon": -111.82264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-bible-church-mesa-az-estados-unidos-21735"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-bible-church-mesa-az-estados-unidos-21735",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-word-kingman",
@@ -3909,10 +4025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.18944,
+"lon": -114.05301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-kingman-az-estados-unidos-28410"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-kingman-az-estados-unidos-28410",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lone-star-baptist-church-eden",
@@ -3996,10 +4113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/love-gospel-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/love-gospel-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-of-the-risen-savior-golden-valley",
@@ -4025,10 +4143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-the-risen-savior-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-the-risen-savior-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maryvale-baptist-church-grand-canyon",
@@ -4054,10 +4173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maryvale-baptist-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maryvale-baptist-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "melcher-mortuary-mission-chapel-cameron",
@@ -4083,10 +4203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/melcher-mortuary-mission-chapel-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/melcher-mortuary-mission-chapel-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "messiah-luthren-church-colorado-city",
@@ -4112,10 +4233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99026,
+"lon": -112.97577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-luthren-church-colorado-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-luthren-church-colorado-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mohave-baptist-church-bullhead-city",
@@ -4141,10 +4263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.14778,
+"lon": -114.5683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mohave-baptist-church-bullhead-city-az-estados-unidos-12292"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mohave-baptist-church-bullhead-city-az-estados-unidos-12292",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-of-olives-lutheran-church-joseph-city",
@@ -4170,10 +4293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.95586,
+"lon": -110.33401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-of-olives-lutheran-church-joseph-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-of-olives-lutheran-church-joseph-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-view-lutheran-church-apache-junction",
@@ -4199,10 +4323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-view-lutheran-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-view-lutheran-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mt-calvary-baptist-church-arizona-city",
@@ -4228,10 +4353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-calvary-baptist-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-calvary-baptist-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "murphy-community-african-methodist-episcopal-church-grand-canyon",
@@ -4257,10 +4383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/murphy-community-african-methodist-episcopal-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/murphy-community-african-methodist-episcopal-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "navajo-lutheran-missions-teec-nos-pos",
@@ -4286,10 +4413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.92111,
+"lon": -109.08566,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/navajo-lutheran-missions-teec-nos-pos-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/navajo-lutheran-missions-teec-nos-pos-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-age-community-church-arlington",
@@ -4344,10 +4472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-christian-fellowships-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-christian-fellowships-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-river-first-assembly-of-god-church-new-river",
@@ -4373,10 +4502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.91587,
+"lon": -112.13599,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-river-first-assembly-of-god-church-new-river-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-river-first-assembly-of-god-church-new-river-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-song-united-methodist-church-catalina",
@@ -4402,10 +4532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.50556,
+"lon": -110.92111,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-song-united-methodist-church-catalina-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-song-united-methodist-church-catalina-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-valley-church-chandler",
@@ -4431,10 +4562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.30616,
+"lon": -111.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-valley-church-chandler-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-valley-church-chandler-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-mesa-baptist-church-cameron",
@@ -4460,10 +4592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-mesa-baptist-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-mesa-baptist-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-valley-assembly-of-god-church-red-valley",
@@ -4518,10 +4651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-valley-free-will-baptist-church-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-valley-free-will-baptist-church-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olami-arizona-arizona-city",
@@ -4547,10 +4681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olami-arizona-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olami-arizona-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oracle-assembly-of-god-oracle",
@@ -4576,10 +4711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.61091,
+"lon": -110.77093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oracle-assembly-of-god-oracle-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oracle-assembly-of-god-oracle-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "orangewood-presbyterian-church-phoenix",
@@ -4605,10 +4741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/orangewood-presbyterian-church-phoenix-az-estados-unidos-20855"
+"fuente_url": "https://encuentraiglesias.com/iglesia/orangewood-presbyterian-church-phoenix-az-estados-unidos-20855",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-savior-church-arizona-city",
@@ -4634,10 +4771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "page-all-nations-seventh-day-adventist-church-colorado-city",
@@ -4663,10 +4801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99026,
+"lon": -112.97577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/page-all-nations-seventh-day-adventist-church-colorado-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/page-all-nations-seventh-day-adventist-church-colorado-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "page-community-united-methodist-church-colorado-city",
@@ -4692,10 +4831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99026,
+"lon": -112.97577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/page-community-united-methodist-church-colorado-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/page-community-united-methodist-church-colorado-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pan-de-vida-iglesia-luterana-el-mirage",
@@ -4721,10 +4861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.61309,
+"lon": -112.3246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pan-de-vida-iglesia-luterana-el-mirage-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pan-de-vida-iglesia-luterana-el-mirage-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parker-methodist-church-colorado-city",
@@ -4750,10 +4891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99026,
+"lon": -112.97577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parker-methodist-church-colorado-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parker-methodist-church-colorado-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parker-pentecostal-church-colorado-city",
@@ -4779,10 +4921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99026,
+"lon": -112.97577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parker-pentecostal-church-colorado-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parker-pentecostal-church-colorado-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "patagonia-community-united-methodist-church-patagonia",
@@ -4808,10 +4951,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.53954,
+"lon": -110.7562,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/patagonia-community-united-methodist-church-patagonia-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/patagonia-community-united-methodist-church-patagonia-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pathway-christian-fellowship-apache-junction",
@@ -4837,10 +4981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pathway-christian-fellowship-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pathway-christian-fellowship-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phillips-chapel-christian-methodist-episcopal-church-arizona-city",
@@ -4866,10 +5011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-chapel-christian-methodist-episcopal-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-chapel-christian-methodist-episcopal-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phoenix-all-tribes-assembly-of-god-church-grand-canyon",
@@ -4895,10 +5041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.05443,
+"lon": -112.13934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phoenix-all-tribes-assembly-of-god-church-grand-canyon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phoenix-all-tribes-assembly-of-god-church-grand-canyon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phoenix-free-presbyterian-church-greer",
@@ -4927,7 +5074,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phoenix-free-presbyterian-church-greer-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phoenix-free-presbyterian-church-greer-arizona",
+"geo_fuente": null
 },
 {
 "slug": "phoenix-revival-center-phoenix",
@@ -4953,10 +5101,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phoenix-revival-center-phoenix-az-estados-unidos-13879"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phoenix-revival-center-phoenix-az-estados-unidos-13879",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilgrim-evangelical-lutheran-church-mesa",
@@ -4982,10 +5131,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.42227,
+"lon": -111.82264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-evangelical-lutheran-church-mesa-az-estados-unidos-12994"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-evangelical-lutheran-church-mesa-az-estados-unidos-12994",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pima-monthly-meeting-arizona-city",
@@ -5011,10 +5161,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pima-monthly-meeting-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pima-monthly-meeting-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "potters-house-church-black-canyon-city",
@@ -5040,10 +5191,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/potters-house-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/potters-house-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rccg-fountain-of-lift-parish-cameron",
@@ -5069,10 +5221,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rccg-fountain-of-lift-parish-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rccg-fountain-of-lift-parish-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redemption-christian-church-avondale",
@@ -5098,10 +5251,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.4356,
+"lon": -112.3496,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redemption-christian-church-avondale-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redemption-christian-church-avondale-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redemption-fellowship-sda-gilbert",
@@ -5127,10 +5281,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redemption-fellowship-sda-gilbert-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redemption-fellowship-sda-gilbert-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reformation-orthodox-presbyterian-church-apache-junction",
@@ -5156,10 +5311,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reformation-orthodox-presbyterian-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reformation-orthodox-presbyterian-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "resurrection-evangelical-lutheran-church-phoenix",
@@ -5185,10 +5341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/resurrection-evangelical-lutheran-church-phoenix-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/resurrection-evangelical-lutheran-church-phoenix-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rio-vista-baptist-center-gray-mountain",
@@ -5243,10 +5400,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.43532,
+"lon": -112.35821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/risen-saviour-the-pathway-center-goodyear-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/risen-saviour-the-pathway-center-goodyear-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverside-church-of-god-in-christ-flagstaff",
@@ -5272,10 +5430,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.19807,
+"lon": -111.65127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-church-of-god-in-christ-flagstaff-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-church-of-god-in-christ-flagstaff-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "royal-view-baptist-church-gilbert",
@@ -5301,10 +5460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/royal-view-baptist-church-gilbert-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/royal-view-baptist-church-gilbert-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-andrews-evangelical-luteran-church-phoenix",
@@ -5330,10 +5490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrews-evangelical-luteran-church-phoenix-az-estados-unidos-21331"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrews-evangelical-luteran-church-phoenix-az-estados-unidos-21331",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-chapel-church-of-god-in-christ-arizona-city",
@@ -5359,10 +5520,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-chapel-church-of-god-in-christ-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-chapel-church-of-god-in-christ-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-john-institutional-baptist-church-eden",
@@ -5446,10 +5608,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.919,
+"lon": -110.729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-valley-baptist-church-dudleyville-az-estados-unidos-22835"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-valley-baptist-church-dudleyville-az-estados-unidos-22835",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-tan-bible-church-cameron",
@@ -5475,10 +5638,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-tan-bible-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-tan-bible-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saving-grace-lutheran-church-queen-creek",
@@ -5504,10 +5668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.24866,
+"lon": -111.6343,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saving-grace-lutheran-church-queen-creek-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saving-grace-lutheran-church-queen-creek-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "second-national-baptist-church-gray-mountain",
@@ -5562,10 +5727,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91944,
+"lon": -97.37114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/set-free-ministries-solomon-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/set-free-ministries-solomon-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sharon-seventh-day-adventist-church-arizona-city",
@@ -5591,10 +5757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sharon-seventh-day-adventist-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sharon-seventh-day-adventist-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepherd-of-the-desert-lutheran-church-colorado-city",
@@ -5620,10 +5787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99026,
+"lon": -112.97577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-desert-lutheran-church-colorado-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-desert-lutheran-church-colorado-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shepherd-of-the-valley-methodist-church-phoenix",
@@ -5649,10 +5817,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.44838,
+"lon": -112.07404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-valley-methodist-church-phoenix-az-estados-unidos-21336"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-valley-methodist-church-phoenix-az-estados-unidos-21336",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shiloh-apostolic-gray-mountain",
@@ -5707,10 +5876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.38447,
+"lon": -111.45514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sierra-vista-evangelical-lutheran-church-pine-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sierra-vista-evangelical-lutheran-church-pine-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "siloam-christian-church-arizona-city",
@@ -5736,10 +5906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/siloam-christian-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/siloam-christian-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "souls-harbor-lighthouse-apostolic-church-black-canyon-city",
@@ -5765,10 +5936,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/souls-harbor-lighthouse-apostolic-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/souls-harbor-lighthouse-apostolic-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-phoenix-missionary-baptist-church-gray-mountain",
@@ -5823,10 +5995,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southside-presbyterian-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southside-presbyterian-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-of-joy-lutheran-church-cameron",
@@ -5852,10 +6025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-joy-lutheran-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-joy-lutheran-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springs-of-life-kirkland",
@@ -5910,10 +6084,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-albans-episcopal-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-albans-episcopal-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-joseph-coptic-orthodox-church-cameron",
@@ -5939,10 +6114,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-joseph-coptic-orthodox-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-joseph-coptic-orthodox-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-presbyterian-church-palo-verde",
@@ -5997,10 +6173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.71287,
+"lon": -110.06758,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-episcopal-church-tombstone-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-episcopal-church-tombstone-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "starlight-park-baptist-church-elgin",
@@ -6055,10 +6232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/table-of-grace-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/table-of-grace-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "table-of-grace-christian-church-apache-junction",
@@ -6084,10 +6262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/table-of-grace-christian-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/table-of-grace-christian-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-lighthouse-church-apache-junction",
@@ -6113,10 +6292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-lighthouse-church-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-lighthouse-church-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-masters-bible-church-cibola",
@@ -6171,10 +6351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-source-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-source-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-vertical-church-yuma",
@@ -6200,10 +6381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.72532,
+"lon": -114.6244,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-vertical-church-yuma-az-estados-unidos-28132"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-vertical-church-yuma-az-estados-unidos-28132",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thessalonto-church-arizona-city",
@@ -6229,10 +6411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/thessalonto-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/thessalonto-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-baptist-fellowship-church-gray-mountain",
@@ -6287,10 +6470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-presbyterian-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-presbyterian-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-southern-baptist-casa-grande",
@@ -6316,10 +6500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.8795,
+"lon": -111.75735,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-southern-baptist-casa-grande-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-southern-baptist-casa-grande-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tucson-chinese-christian-church-arizona-city",
@@ -6345,10 +6530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tucson-chinese-christian-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tucson-chinese-christian-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tucson-fellowship-bible-church-tucson",
@@ -6374,10 +6560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.22174,
+"lon": -110.92648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tucson-fellowship-bible-church-tucson-az-estados-unidos-24863"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tucson-fellowship-bible-church-tucson-az-estados-unidos-24863",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "two-rivers-church-gilbert",
@@ -6403,10 +6590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.35283,
+"lon": -111.78903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/two-rivers-church-gilbert-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/two-rivers-church-gilbert-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-institutional-baptist-church-gray-mountain",
@@ -6461,10 +6649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.22333,
+"lon": -114.22301,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-green-valley-golden-valley-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-green-valley-golden-valley-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "university-city-church-arizona-city",
@@ -6490,10 +6679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/university-city-church-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/university-city-church-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-christian-bullhead-city",
@@ -6519,10 +6709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.14778,
+"lon": -114.5683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-christian-bullhead-city-az-estados-unidos-12510"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-christian-bullhead-city-az-estados-unidos-12510",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-heights-baptist-church-black-canyon-city",
@@ -6548,10 +6739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.07087,
+"lon": -112.15071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-heights-baptist-church-black-canyon-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-heights-baptist-church-black-canyon-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-korean-presbyterian-church-san-carlos",
@@ -6577,10 +6769,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.34588,
+"lon": -111.8507,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-korean-presbyterian-church-san-carlos-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-korean-presbyterian-church-san-carlos-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valor-christian-center-cameron",
@@ -6606,10 +6799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valor-christian-center-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valor-christian-center-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "velda-rose-united-methodist-church-cameron",
@@ -6635,10 +6829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87583,
+"lon": -111.41292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/velda-rose-united-methodist-church-cameron-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/velda-rose-united-methodist-church-cameron-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "verde-baptist-church-clarkdale",
@@ -6664,10 +6859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.77113,
+"lon": -112.05794,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/verde-baptist-church-clarkdale-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/verde-baptist-church-clarkdale-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "white-tanks-southern-baptist-church-buckeye",
@@ -6693,10 +6889,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.37032,
+"lon": -112.58378,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-tanks-southern-baptist-church-buckeye-az-estados-unidos-12289"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-tanks-southern-baptist-church-buckeye-az-estados-unidos-12289",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "whiteriver-lutheran-church-whiteriver",
@@ -6722,10 +6919,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.83699,
+"lon": -109.96427,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/whiteriver-lutheran-church-whiteriver-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/whiteriver-lutheran-church-whiteriver-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willcox-united-methodist-church-willcox",
@@ -6751,10 +6949,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.25285,
+"lon": -109.83201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/willcox-united-methodist-church-willcox-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/willcox-united-methodist-church-willcox-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wings-of-life-worship-center-apache-junction",
@@ -6780,10 +6979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41505,
+"lon": -111.54958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wings-of-life-worship-center-apache-junction-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wings-of-life-worship-center-apache-junction-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wishing-shrine-arizona-city",
@@ -6809,10 +7009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.75589,
+"lon": -111.67096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wishing-shrine-arizona-city-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wishing-shrine-arizona-city-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "word-of-life-claypool",
@@ -6838,10 +7039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.41117,
+"lon": -110.84261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-claypool-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-claypool-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "yarnell-community-presbyterian-church-yarnell",
@@ -6867,9 +7069,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.22169,
+"lon": -112.7474,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/yarnell-community-presbyterian-church-yarnell-arizona"
+"fuente_url": "https://encuentraiglesias.com/iglesia/yarnell-community-presbyterian-church-yarnell-arizona",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

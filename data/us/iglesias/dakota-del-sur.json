@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aberdeen-first-assembly-of-god-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aberdeen-first-assembly-of-god-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "abiding-savior-free-lutheran-church-saint-charles",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.02138,
+"lon": -96.63087,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alcester-baptist-church-alcester-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alcester-baptist-church-alcester-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "artesian-presbyterian-church-artesian",
@@ -197,10 +199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.01081,
+"lon": -97.52674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beach-united-methodist-church-howard-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beach-united-methodist-church-howard-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belvidere-community-church-belvidere",
@@ -284,10 +287,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-lutheran-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-lutheran-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethlehem-reformed-church-opc-freeman",
@@ -313,10 +317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.35249,
+"lon": -97.43729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-reformed-church-opc-freeman-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-reformed-church-opc-freeman-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "big-springs-baptist-church-alcester",
@@ -342,10 +347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.02138,
+"lon": -96.63087,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/big-springs-baptist-church-alcester-sd-estados-unidos-51847"
+"fuente_url": "https://encuentraiglesias.com/iglesia/big-springs-baptist-church-alcester-sd-estados-unidos-51847",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bowdle-seventh-day-adventist-church-bowdle",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.45304,
+"lon": -99.65401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bowdle-seventh-day-adventist-church-bowdle-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bowdle-seventh-day-adventist-church-bowdle-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brandon-lutheran-church-brandon",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.5947,
+"lon": -96.57199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-lutheran-church-brandon-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-lutheran-church-brandon-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brandon-valley-baptist-church-brandon",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.5947,
+"lon": -96.57199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-valley-baptist-church-brandon-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brandon-valley-baptist-church-brandon-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brookings-baptist-church-brookings",
@@ -458,10 +467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31136,
+"lon": -96.79839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brookings-baptist-church-brookings-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brookings-baptist-church-brookings-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brookings-first-assembly-of-god-brookings",
@@ -487,10 +497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31136,
+"lon": -96.79839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brookings-first-assembly-of-god-brookings-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brookings-first-assembly-of-god-brookings-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "center-free-lutheran-church-salem",
@@ -516,10 +527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.72415,
+"lon": -97.38895,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/center-free-lutheran-church-salem-sd-estados-unidos-51286"
+"fuente_url": "https://encuentraiglesias.com/iglesia/center-free-lutheran-church-salem-sd-estados-unidos-51286",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-valley-community-church-hartford",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.62303,
+"lon": -96.94255,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-valley-community-church-hartford-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-valley-community-church-hartford-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chancellor-reform-church-chancellor",
@@ -603,10 +616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.77944,
+"lon": -96.92921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-church-vermillion-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-church-vermillion-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-nidaros-church-baltic",
@@ -632,10 +646,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.76136,
+"lon": -96.74033,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-nidaros-church-baltic-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-nidaros-church-baltic-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ethan-united-methodist-church-ethan",
@@ -690,10 +705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-free-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-free-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-reformed-church-aberdeen",
@@ -719,10 +735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-reformed-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-reformed-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-aberdeen",
@@ -748,10 +765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "forestburg-lutheran-church-mound-city",
@@ -777,10 +795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.72527,
+"lon": -100.06845,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/forestburg-lutheran-church-mound-city-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/forestburg-lutheran-church-mound-city-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gettysburg-united-methodist-church-gettysburg",
@@ -806,10 +825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.01165,
+"lon": -99.95567,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gettysburg-united-methodist-church-gettysburg-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gettysburg-united-methodist-church-gettysburg-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glory-bound-baptist-church-hoven",
@@ -864,10 +884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-lutheran-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-lutheran-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-reformed-church-mitchell",
@@ -893,10 +914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.70943,
+"lon": -98.0298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-reformed-church-mitchell-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-reformed-church-mitchell-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gracepoint-wesleyan-church-brookings",
@@ -922,10 +944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31136,
+"lon": -96.79839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gracepoint-wesleyan-church-brookings-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gracepoint-wesleyan-church-brookings-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grand-river-lutheran-church-buffalo",
@@ -951,10 +974,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.58416,
+"lon": -103.54603,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grand-river-lutheran-church-buffalo-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grand-river-lutheran-church-buffalo-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grandview-reformed-church-armour",
@@ -980,10 +1004,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.3186,
+"lon": -98.34675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grandview-reformed-church-armour-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grandview-reformed-church-armour-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hartford-united-methodist-church-hartford",
@@ -1009,10 +1034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.62303,
+"lon": -96.94255,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hartford-united-methodist-church-hartford-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hartford-united-methodist-church-hartford-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "herreid-baptist-church-herreid",
@@ -1096,10 +1122,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.36332,
+"lon": -98.21426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/huron-first-united-methodist-church-huron-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/huron-first-united-methodist-church-huron-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-luthern-church-whitewood",
@@ -1125,10 +1152,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.4611,
+"lon": -103.63853,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-luthern-church-whitewood-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-luthern-church-whitewood-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "international-church-of-the-foursquare-gospel-watertown",
@@ -1154,10 +1182,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.89941,
+"lon": -97.11507,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/international-church-of-the-foursquare-gospel-watertown-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/international-church-of-the-foursquare-gospel-watertown-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iroquois-united-methodist-church-iroquois",
@@ -1270,10 +1299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.5947,
+"lon": -96.57199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-springs-church-brandon-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-springs-church-brandon-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mitchell-assembly-of-god-mitchell",
@@ -1299,10 +1329,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.70943,
+"lon": -98.0298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mitchell-assembly-of-god-mitchell-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mitchell-assembly-of-god-mitchell-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "morningside-community-church-brookings",
@@ -1328,10 +1359,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31136,
+"lon": -96.79839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/morningside-community-church-brookings-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/morningside-community-church-brookings-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-home-lutheran-church-mitchell",
@@ -1357,10 +1389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.70943,
+"lon": -98.0298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-home-lutheran-church-mitchell-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-home-lutheran-church-mitchell-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-highland-united-methodist-church-aberdeen",
@@ -1386,10 +1419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-highland-united-methodist-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-highland-united-methodist-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northwestern-united-methodist-church-mellette",
@@ -1444,10 +1478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.36832,
+"lon": -100.35097,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oahe-presbyterian-pierre-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oahe-presbyterian-pierre-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-apostolic-lutheran-church-aberdeen",
@@ -1473,10 +1508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-apostolic-lutheran-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-apostolic-lutheran-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oldham-lutheran-church-oldham",
@@ -1531,10 +1567,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.76665,
+"lon": -103.59881,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemer-custer-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-redeemer-custer-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peace-lutheran-church-brookings",
@@ -1560,10 +1597,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31136,
+"lon": -96.79839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peace-lutheran-church-brookings-sd-estados-unidos-28692"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peace-lutheran-church-brookings-sd-estados-unidos-28692",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "plymouth-congregational-ucc-aberdeen",
@@ -1589,10 +1627,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/plymouth-congregational-ucc-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/plymouth-congregational-ucc-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prairie-methodist-church-kennebec",
@@ -1618,10 +1657,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.9036,
+"lon": -99.86178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-methodist-church-kennebec-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-methodist-church-kennebec-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "real-life-rapid-city",
@@ -1647,10 +1687,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.08054,
+"lon": -103.23101,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/real-life-rapid-city-sd-estados-unidos-39345"
+"fuente_url": "https://encuentraiglesias.com/iglesia/real-life-rapid-city-sd-estados-unidos-39345",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rivertree-church-mitchell",
@@ -1676,10 +1717,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.70943,
+"lon": -98.0298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rivertree-church-mitchell-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rivertree-church-mitchell-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "scandinavian-lutheran-church-stratford",
@@ -1734,10 +1776,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sioux-falls-seventh-day-adventist-church-sioux-falls",
@@ -1763,10 +1806,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.54369,
+"lon": -96.72796,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sioux-falls-seventh-day-adventist-church-sioux-falls-sd-estados-unidos-26465"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sioux-falls-seventh-day-adventist-church-sioux-falls-sd-estados-unidos-26465",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southeastern-church-of-christ-brookings",
@@ -1792,10 +1836,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31136,
+"lon": -96.79839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southeastern-church-of-christ-brookings-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southeastern-church-of-christ-brookings-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spencer-memorial-presbyterian-church-lemmon",
@@ -1821,10 +1866,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.94083,
+"lon": -102.15932,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spencer-memorial-presbyterian-church-lemmon-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spencer-memorial-presbyterian-church-lemmon-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-james-lutheran-church-belle-fourche",
@@ -1850,10 +1896,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.67137,
+"lon": -103.85215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-james-lutheran-church-belle-fourche-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-james-lutheran-church-belle-fourche-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-michaels-episcopal-church-batesland",
@@ -1908,10 +1955,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.3186,
+"lon": -98.34675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-the-apostle-church-armour-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-the-apostle-church-armour-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peter-lutheran-wentworth",
@@ -1966,10 +2014,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.82142,
+"lon": -87.78283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stickney-united-methodist-church-stickney-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stickney-united-methodist-church-stickney-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-open-bible-fellowship-belle-fourche",
@@ -1995,10 +2044,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.67137,
+"lon": -103.85215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-open-bible-fellowship-belle-fourche-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-open-bible-fellowship-belle-fourche-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-corner-in-aberdeen-aberdeen",
@@ -2024,10 +2074,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-corner-in-aberdeen-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-corner-in-aberdeen-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tolstoy-wesleyan-church-tolstoy",
@@ -2082,10 +2133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-school-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-school-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-reformed-church-prairie-city",
@@ -2140,10 +2192,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.67137,
+"lon": -103.85215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-christ-congregational-belle-fourche-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-christ-congregational-belle-fourche-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-norwegian-church-astoria",
@@ -2198,10 +2251,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.70943,
+"lon": -98.0298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-petacostal-church-mitchell-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-petacostal-church-mitchell-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "usd-luther-center-vermillion",
@@ -2227,10 +2281,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.77944,
+"lon": -96.92921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/usd-luther-center-vermillion-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/usd-luther-center-vermillion-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vangen-lutheran-churc-hill-city",
@@ -2256,10 +2311,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.93249,
+"lon": -103.57519,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vangen-lutheran-churc-hill-city-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vangen-lutheran-churc-hill-city-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "watertown-first-united-methodist-church-watertown",
@@ -2285,10 +2341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.89941,
+"lon": -97.11507,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/watertown-first-united-methodist-church-watertown-sd-estados-unidos-28711"
+"fuente_url": "https://encuentraiglesias.com/iglesia/watertown-first-united-methodist-church-watertown-sd-estados-unidos-28711",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "watertown-wesleyan-church-prairie-city",
@@ -2343,10 +2400,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.06168,
+"lon": -83.43275,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/willard-church-alpena-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/willard-church-alpena-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-american-lutheran-church-eureka",
@@ -2372,10 +2430,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.76943,
+"lon": -99.61956,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-american-lutheran-church-eureka-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-american-lutheran-church-eureka-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-lutheran-church-aberdeen",
@@ -2401,10 +2460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.4647,
+"lon": -98.48648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-aberdeen-south-dakota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-aberdeen-south-dakota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-reformed-church-amherst",

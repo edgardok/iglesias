@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -3.94667,
+"lon": -80.94167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-christo-pentecostes-ammi-cancas-tumbes"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-christo-pentecostes-ammi-cancas-tumbes",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-aguas-verdes",
@@ -81,9 +82,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -3.48139,
+"lon": -80.245,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-aguas-verdes-tumbes"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-aguas-verdes-tumbes",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

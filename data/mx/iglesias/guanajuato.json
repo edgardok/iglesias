@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santa-cruz-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santa-cruz-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-soledad-moroleon",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.13027,
+"lon": -101.1908,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-soledad-moroleon-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-soledad-moroleon-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-ntra-sra-de-la-purisima-concepcion-coroneo",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-ntra-sra-de-la-purisima-concepcion-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-ntra-sra-de-la-purisima-concepcion-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-antiguo-panteon-municipal-coroneo",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-antiguo-panteon-municipal-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-antiguo-panteon-municipal-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-divino-nino-jesus-coroneo",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-divino-nino-jesus-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-divino-nino-jesus-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-ntra-sra-de-guadalupe-coroneo",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-ntra-sra-de-guadalupe-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-ntra-sra-de-guadalupe-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-ntra-sra-guadalupe-coroneo",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-ntra-sra-guadalupe-coroneo-guanajuato-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-ntra-sra-guadalupe-coroneo-guanajuato-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-sma-trinidad-coroneo",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-sma-trinidad-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-sma-trinidad-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-stgo-apostol-coroneo",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20001,
+"lon": -100.36546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-stgo-apostol-coroneo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-stgo-apostol-coroneo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-del-alfarero-comonfort",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72005,
+"lon": -100.7612,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-del-alfarero-comonfort-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-del-alfarero-comonfort-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-hipona-uriangato",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.14162,
+"lon": -101.17875,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hipona-uriangato-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-hipona-uriangato-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "castillo-del-rey-uriangato-uriangato",
@@ -342,10 +353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.14162,
+"lon": -101.17875,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/castillo-del-rey-uriangato-uriangato-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/castillo-del-rey-uriangato-uriangato-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-calles-nuevo-leon",
@@ -516,10 +528,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.6435,
+"lon": -100.9952,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-torre-fuerte-juventino-rosas-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-torre-fuerte-juventino-rosas-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-de-los-ultimos-dias-celaya",
@@ -545,10 +558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52181,
+"lon": -100.81399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-de-los-ultimos-dias-celaya-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-de-los-ultimos-dias-celaya-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-maria-auxiliadora-empalme-escobedo",
@@ -574,10 +588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67174,
+"lon": -100.74892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-auxiliadora-empalme-escobedo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-auxiliadora-empalme-escobedo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-antonio-de-padua-pueblo-nuevo-solistahuacan",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.671,
+"lon": -101.35577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tomelopez-irapuato-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tomelopez-irapuato-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-de-la-misericordia-penjamo",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.43134,
+"lon": -101.72403,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-la-misericordia-penjamo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-la-misericordia-penjamo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-de-la-paz-romita",
@@ -690,10 +707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.87208,
+"lon": -101.517,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-la-paz-romita-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-la-paz-romita-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-vicario-apaseo-el-grande",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54555,
+"lon": -100.68787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-vicario-apaseo-el-grande-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-vicario-apaseo-el-grande-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-en-congregacion-de-la-cruz-congregacion-de-la-cruz",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.45859,
+"lon": -100.68852,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-congregacion-de-la-cruz-congregacion-de-la-cruz-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-congregacion-de-la-cruz-congregacion-de-la-cruz-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cbv-corregidora",
@@ -864,10 +884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52181,
+"lon": -100.81399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mexico-celaya-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mexico-celaya-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-senor-de-la-misericordia-huanimaro",
@@ -893,10 +914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.36794,
+"lon": -101.49877,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-de-la-misericordia-huanimaro-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-de-la-misericordia-huanimaro-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jardin-templo-santiaguito-irapuato",
@@ -922,10 +944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.671,
+"lon": -101.35577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jardin-templo-santiaguito-irapuato-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jardin-templo-santiaguito-irapuato-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesucristo-sumo-y-eterno-sacerdote-celaya",
@@ -951,10 +974,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52181,
+"lon": -100.81399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesucristo-sumo-y-eterno-sacerdote-celaya-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesucristo-sumo-y-eterno-sacerdote-celaya-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santiago-congregacion-huaniqueo",
@@ -1009,10 +1033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.48301,
+"lon": -100.96352,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-la-clemencia-cortazar-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-la-clemencia-cortazar-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-chulavista-providencia-obrera-leon",
@@ -1067,10 +1092,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.43134,
+"lon": -101.72403,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-corral-de-piedra-penjamo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-corral-de-piedra-penjamo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-flores-magon-leon",
@@ -1125,10 +1151,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.15611,
+"lon": -100.9325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-jesus-nazareno-dolores-hidalgo-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-jesus-nazareno-dolores-hidalgo-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-adivina-guanajuato",
@@ -1212,10 +1239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21075,
+"lon": -101.13194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-preciosa-sangre-de-cristo-yuriria-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-preciosa-sangre-de-cristo-yuriria-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-purisima-la-piedad",
@@ -1270,10 +1298,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28744,
+"lon": -100.75605,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-resurreccion-tarimoro-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-resurreccion-tarimoro-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-santisima-trinidad-guanajuato",
@@ -1473,10 +1502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.03248,
+"lon": -100.72434,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-hospital-acambaro-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-hospital-acambaro-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-nino-obrerito-leon",
@@ -1589,10 +1619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.48301,
+"lon": -100.96352,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-del-hospital-cortazar-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-del-hospital-cortazar-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-ninado-puruandiro",
@@ -1618,10 +1649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.08879,
+"lon": -101.5156,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-ninado-puruandiro-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-ninado-puruandiro-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-los-angeles-loretito",
@@ -1705,10 +1737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52181,
+"lon": -100.81399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-zapote-celaya-guanajuato"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-zapote-celaya-guanajuato",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zona-verde-2-de-la-iglesia-silao",

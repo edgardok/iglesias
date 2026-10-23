@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atrio-templo-de-san-francisco-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atrio-templo-de-san-francisco-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cerrito-de-la-cruz-mascota",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52536,
+"lon": -104.78516,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cerrito-de-la-cruz-mascota-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cerrito-de-la-cruz-mascota-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-of-child-jesus-of-health-zapopan",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-child-jesus-of-health-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-child-jesus-of-health-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colina-del-templo-tonala",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.62263,
+"lon": -103.24168,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colina-del-templo-tonala-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colina-del-templo-tonala-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-agostadero-mascota",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52536,
+"lon": -104.78516,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-agostadero-mascota-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-agostadero-mascota-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-limon-nuevo-leon",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.62749,
+"lon": -103.41752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-sagrario-zapotiltic-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-sagrario-zapotiltic-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-cantera-villas-de-guadalupe",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.94944,
+"lon": -101.40417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-cantera-villas-de-guadalupe-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-cantera-villas-de-guadalupe-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-circunvalacion-guadalajara",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-circunvalacion-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-circunvalacion-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-constitucion-zapopan",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-constitucion-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-constitucion-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-de-chamizal-zapotlan-el-grande",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.94944,
+"lon": -101.40417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-miguel-hidalgo-villas-de-guadalupe-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-miguel-hidalgo-villas-de-guadalupe-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-san-marcos-guadalajara",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-san-marcos-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-san-marcos-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-el-encuentro-zapopan",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-el-encuentro-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-el-encuentro-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-el-grullo-el-grullo",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80665,
+"lon": -104.21626,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-el-grullo-el-grullo-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-el-grullo-el-grullo-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-la-region-central-region",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.43434,
+"lon": -102.57427,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-teocaltiche-teocaltiche-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-teocaltiche-teocaltiche-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-fuego-pentecostal-san-pedro-tlaquepaque",
@@ -574,10 +588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-madre-de-dios-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-madre-de-dios-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-merced-guadalajara",
@@ -603,10 +618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-merced-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-merced-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ntra-sra-del-perpetuo-socorro-la-huerta",
@@ -632,10 +648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.48438,
+"lon": -104.64237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-del-perpetuo-socorro-la-huerta-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-del-perpetuo-socorro-la-huerta-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jose-coahuayutla-de-jose-maria-izazaga",
@@ -719,10 +736,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28566,
+"lon": -103.42908,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-zapotitan-de-hidalgo-jocotepec-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-zapotitan-de-hidalgo-jocotepec-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cerrito-de-la-cruz-tepalcatepec",
@@ -777,10 +795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70413,
+"lon": -103.46383,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-refugio-ciudad-guzman-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-refugio-ciudad-guzman-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesus-de-nazareth-guadalajara",
@@ -806,10 +825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-de-nazareth-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-de-nazareth-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-luz-del-mundo-la-laja-zapotlanejo-la-loma",
@@ -835,10 +855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.57812,
+"lon": -103.11421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-la-laja-zapotlanejo-la-loma-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-la-laja-zapotlanejo-la-loma-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-mesita-santo-toribio-jalostotitlan",
@@ -864,10 +885,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.16813,
+"lon": -102.46097,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-mesita-santo-toribio-jalostotitlan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-mesita-santo-toribio-jalostotitlan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-bartolome-apostol-san-ignacio-cerro-gordo",
@@ -893,10 +915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.74322,
+"lon": -102.53658,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-bartolome-apostol-san-ignacio-cerro-gordo-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-bartolome-apostol-san-ignacio-cerro-gordo-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-ignacio-de-loyola-ignacio-zaragoza",
@@ -951,10 +974,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.60744,
+"lon": -102.21974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-miguel-arcangel-jesus-maria-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-miguel-arcangel-jesus-maria-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jardin-del-templo-de-la-esperanza-ameca",
@@ -980,10 +1004,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54783,
+"lon": -104.0461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jardin-del-templo-de-la-esperanza-ameca-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jardin-del-templo-de-la-esperanza-ameca-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-asencion-cocula",
@@ -1009,10 +1034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.36517,
+"lon": -103.82215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-asencion-cocula-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-asencion-cocula-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-cruz-de-romero-mascota",
@@ -1038,10 +1064,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.52536,
+"lon": -104.78516,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-cruz-de-romero-mascota-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-cruz-de-romero-mascota-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-de-la-asuncion-toliman",
@@ -1067,10 +1094,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.6014,
+"lon": -103.91522,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-la-asuncion-toliman-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-la-asuncion-toliman-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-vieja-ocampo",
@@ -1125,10 +1153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.65267,
+"lon": -103.70148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/luz-de-las-naciones-tala-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/luz-de-las-naciones-tala-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "piedra-iglesia-coyame-del-sotol",
@@ -1183,10 +1212,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54783,
+"lon": -104.0461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primer-templo-de-la-cruz-ameca-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primer-templo-de-la-cruz-ameca-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ruinas-del-templo-region-cienega",
@@ -1241,10 +1271,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.62749,
+"lon": -103.41752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-martin-de-porres-zapotiltic-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-martin-de-porres-zapotiltic-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-de-la-misericordia-san-pedro-tlaquepaque",
@@ -1299,10 +1330,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.62749,
+"lon": -103.41752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-del-perdon-zapotiltic-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-del-perdon-zapotiltic-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "telepreparatoria-nayarit-marcos-barragan-iglesias-marcos-castellanos",
@@ -1357,10 +1389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-aranzazu-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-aranzazu-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-brisenas-brisenas",
@@ -1415,10 +1448,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-capuchinas-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-capuchinas-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-cristo-sacerdote-zapopan",
@@ -1444,10 +1478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-cristo-sacerdote-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-cristo-sacerdote-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-asuncion-poncitlan",
@@ -1473,10 +1508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.38111,
+"lon": -102.92395,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-asuncion-poncitlan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-asuncion-poncitlan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-concepcion-ameca",
@@ -1502,10 +1538,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54783,
+"lon": -104.0461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-concepcion-ameca-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-concepcion-ameca-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-loma-jocotepec",
@@ -1531,10 +1568,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28566,
+"lon": -103.42908,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-loma-jocotepec-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-loma-jocotepec-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-soledad-ameca",
@@ -1560,10 +1598,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54783,
+"lon": -104.0461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-soledad-ameca-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-soledad-ameca-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-soledad-tlajomulco-de-zuniga",
@@ -1589,10 +1628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.47421,
+"lon": -103.44654,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-soledad-tlajomulco-de-zuniga-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-soledad-tlajomulco-de-zuniga-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-tercera-orden-ciudad-guzman",
@@ -1618,10 +1658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70413,
+"lon": -103.46383,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-tercera-orden-ciudad-guzman-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-tercera-orden-ciudad-guzman-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-tercera-orden-ejutla",
@@ -1647,10 +1688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.90628,
+"lon": -104.16213,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-tercera-orden-ejutla-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-tercera-orden-ejutla-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-los-santos-angeles-guadalajara",
@@ -1676,10 +1718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-santos-angeles-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-santos-angeles-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-isidro-jamay",
@@ -1705,10 +1748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.29479,
+"lon": -102.7094,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-isidro-jamay-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-isidro-jamay-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-jose-obrero-tecalitlan",
@@ -1734,10 +1778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.47156,
+"lon": -103.30708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-jose-obrero-tecalitlan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-jose-obrero-tecalitlan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-juan-evangelista-san-juan-evangelista-analco",
@@ -1821,10 +1866,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.1838,
+"lon": -96.46535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-sebastian-san-sebastian-rio-hondo-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-sebastian-san-sebastian-rio-hondo-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-santa-clara-de-asis-zapopan",
@@ -1850,10 +1896,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santa-clara-de-asis-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santa-clara-de-asis-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-refugio-vista-hermosa",
@@ -1879,10 +1926,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.69346,
+"lon": -103.34018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-refugio-vista-hermosa-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-refugio-vista-hermosa-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-rosario-jamay",
@@ -1908,10 +1956,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.29479,
+"lon": -102.7094,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-rosario-jamay-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-rosario-jamay-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-senor-de-la-agonia-brisenas",
@@ -1966,10 +2015,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.67738,
+"lon": -103.34749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-dulce-corazon-de-maria-guadalajara-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-dulce-corazon-de-maria-guadalajara-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-rosal-region-valles",
@@ -2024,10 +2074,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72111,
+"lon": -103.38742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-cristo-rey-zapopan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-cristo-rey-zapopan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-inconcluso-preciosa-sangre-de-cristo-region-sierra-occidental",
@@ -2082,10 +2133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.33333,
+"lon": -104.5,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-jesus-de-la-divina-misericordia-el-salto-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-jesus-de-la-divina-misericordia-el-salto-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-jose-maria-robles-tecolotlan",
@@ -2111,10 +2163,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20144,
+"lon": -104.04834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-jose-maria-robles-tecolotlan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-jose-maria-robles-tecolotlan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-arenita-tala",
@@ -2140,10 +2193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.65267,
+"lon": -103.70148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-arenita-tala-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-arenita-tala-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-luz-del-mundo-tala-tala",
@@ -2169,10 +2223,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.65267,
+"lon": -103.70148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-luz-del-mundo-tala-tala-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-luz-del-mundo-tala-tala-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-natividad-de-maria-sayula",
@@ -2198,10 +2253,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.88372,
+"lon": -103.60073,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-natividad-de-maria-sayula-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-natividad-de-maria-sayula-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-martir-cecilio-gomez-region-altos-sur",
@@ -2314,10 +2370,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.67616,
+"lon": -102.58803,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-bosco-villa-hidalgo-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-bosco-villa-hidalgo-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-san-juan-evangelista-poncitlan",
@@ -2343,10 +2400,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.38111,
+"lon": -102.92395,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-evangelista-poncitlan-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-evangelista-poncitlan-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-san-mateo-ixtlahuacan-de-los-membrillos",
@@ -2372,10 +2430,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.34869,
+"lon": -103.19206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-mateo-ixtlahuacan-de-los-membrillos-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-mateo-ixtlahuacan-de-los-membrillos-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-san-nicolas-de-acuna-tuxcueca",
@@ -2401,10 +2460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.15362,
+"lon": -103.18557,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-nicolas-de-acuna-tuxcueca-jalisco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-nicolas-de-acuna-tuxcueca-jalisco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-santo-tomas-moro-san-pedro-tlaquepaque",

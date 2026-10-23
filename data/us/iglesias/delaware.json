@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-baptist-church-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-baptist-church-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blood-of-the-lamb-minitries-camden-wyoming",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.29067,
+"lon": -75.63437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/byrds-ame-church-clayton-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/byrds-ame-church-clayton-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-wesleyan-church-bethel",
@@ -226,10 +228,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.21928,
+"lon": -75.58576,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cheswold-united-methodist-church-cheswold-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cheswold-united-methodist-church-cheswold-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christiana-methodist-episcopal-church-bear",
@@ -255,10 +258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62928,
+"lon": -75.65826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christiana-methodist-episcopal-church-bear-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christiana-methodist-episcopal-church-bear-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christiana-presbyterian-church-bear",
@@ -284,10 +288,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62928,
+"lon": -75.65826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christiana-presbyterian-church-bear-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christiana-presbyterian-church-bear-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "city-of-love-church-wilmington",
@@ -313,10 +318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.74595,
+"lon": -75.54659,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/city-of-love-church-wilmington-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/city-of-love-church-wilmington-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-pentecostal-church-of-god-houston",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.44956,
+"lon": -75.71632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/connection-community-church-middletown-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/connection-community-church-middletown-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dagsboro-gospel-fellowship-church-dagsboro",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.54928,
+"lon": -75.24574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dagsboro-gospel-fellowship-church-dagsboro-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dagsboro-gospel-fellowship-church-dagsboro-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "delaware-church-delaware-city",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.57775,
+"lon": -75.58945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/delaware-church-delaware-city-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/delaware-church-delaware-city-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "destiny-christian-church-camden-wyoming",
@@ -603,10 +612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.74595,
+"lon": -75.54659,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-and-central-presbyterian-church-wilmington-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-and-central-presbyterian-church-wilmington-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-ogden-claymont",
@@ -632,10 +642,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ogden-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ogden-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-springfield-delmar",
@@ -661,10 +672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-springfield-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-springfield-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-pilgrim-baptist-church-camden-wyoming",
@@ -719,10 +731,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glenstone-baptist-church-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glenstone-baptist-church-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-church-dover-dover",
@@ -748,10 +761,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15817,
+"lon": -75.52437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-dover-dover-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-dover-dover-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grant-avenue-free-will-baptist-church-delmar",
@@ -777,10 +791,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grant-avenue-free-will-baptist-church-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grant-avenue-free-will-baptist-church-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-hill-presbyterian-church-montchanin",
@@ -864,10 +879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68372,
+"lon": -75.74966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/head-of-christiana-presbyterian-church-newark-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/head-of-christiana-presbyterian-church-newark-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-oak-calvary-united-methodist-church-claymont",
@@ -893,10 +909,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-oak-calvary-united-methodist-church-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-oak-calvary-united-methodist-church-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kennett-square-hispanic-seventh-day-adventist-church-yorklyn",
@@ -922,10 +939,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.99232,
+"lon": -76.64635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kennett-square-hispanic-seventh-day-adventist-church-yorklyn-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kennett-square-hispanic-seventh-day-adventist-church-yorklyn-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kings-way-united-methodist-church-delmar",
@@ -951,10 +969,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kings-way-united-methodist-church-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kings-way-united-methodist-church-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-presbyterian-church-of-springfield-delmar",
@@ -980,10 +999,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-springfield-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-springfield-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lifeway-church-of-god-bridgeville",
@@ -1009,10 +1029,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.74261,
+"lon": -75.60437,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lifeway-church-of-god-bridgeville-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lifeway-church-of-god-bridgeville-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "linwood-heights-united-methodist-church-claymont",
@@ -1038,10 +1059,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/linwood-heights-united-methodist-church-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/linwood-heights-united-methodist-church-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "little-creek-methodist-church-little-creek",
@@ -1125,10 +1147,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53956,
+"lon": -75.05518,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mariners-bethel-united-methodist-church-bethany-beach-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mariners-bethel-united-methodist-church-bethany-beach-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "midway-assembly-of-god-church-lewes",
@@ -1154,10 +1177,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77456,
+"lon": -75.13935,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/midway-assembly-of-god-church-lewes-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/midway-assembly-of-god-church-lewes-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "millville-united-methodist-church-millville",
@@ -1183,10 +1207,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.54956,
+"lon": -75.12324,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/millville-united-methodist-church-millville-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/millville-united-methodist-church-millville-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-lebanon-methodist-episcopal-church-montchanin",
@@ -1241,10 +1266,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68372,
+"lon": -75.74966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-zion-uame-church-newark-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-zion-uame-church-newark-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginning-pentecostal-church-of-god-camden-wyoming",
@@ -1299,10 +1325,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.65948,
+"lon": -75.56359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-castle-presbyterian-church-new-castle-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-castle-presbyterian-church-new-castle-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-jerusalem-baptist-church-camden-wyoming",
@@ -1357,10 +1384,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68372,
+"lon": -75.74966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newark-united-methodist-church-newark-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newark-united-methodist-church-newark-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oak-grove-assembly-of-god-delmar",
@@ -1386,10 +1414,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oak-grove-assembly-of-god-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oak-grove-assembly-of-god-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-drawyers-presbyterian-church-odessa",
@@ -1444,10 +1473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62928,
+"lon": -75.65826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-fort-church-bear-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-fort-church-bear-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-union-methodist-church-townsend",
@@ -1473,10 +1503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39511,
+"lon": -75.6916,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-union-methodist-church-townsend-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-union-methodist-church-townsend-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbyterian-church-of-the-covenant-claymont",
@@ -1502,10 +1533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-the-covenant-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-the-covenant-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "red-lion-united-methodist-church-bear",
@@ -1531,10 +1563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62928,
+"lon": -75.65826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/red-lion-united-methodist-church-bear-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/red-lion-united-methodist-church-bear-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redeemer-presbyterian-church-pca-delaware-city",
@@ -1560,10 +1593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.57775,
+"lon": -75.58945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-presbyterian-church-pca-delaware-city-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-presbyterian-church-pca-delaware-city-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "restoration-presbyterian-church-claymont",
@@ -1589,10 +1623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restoration-presbyterian-church-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restoration-presbyterian-church-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-elizabeth-anne-seton-bear",
@@ -1618,10 +1653,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62928,
+"lon": -75.65826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-elizabeth-anne-seton-bear-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-elizabeth-anne-seton-bear-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-matthews-by-the-sea-united-methodist-church-fenwick-island",
@@ -1676,10 +1712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.64123,
+"lon": -75.61104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seaford-presbyterian-church-seaford-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seaford-presbyterian-church-seaford-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-campbell-avenue-baptist-church-delmar",
@@ -1705,10 +1742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-campbell-avenue-baptist-church-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-campbell-avenue-baptist-church-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springfield-seventh-day-adventist-church-delmar",
@@ -1734,10 +1772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.45651,
+"lon": -75.57715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/springfield-seventh-day-adventist-church-delmar-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/springfield-seventh-day-adventist-church-delmar-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-georges-methodist-church-kirkwood",
@@ -1792,10 +1831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53956,
+"lon": -75.05518,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tabernacle-building-bethany-beach-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tabernacle-building-bethany-beach-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-bridge-church-claymont",
@@ -1821,10 +1861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80067,
+"lon": -75.45964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-bridge-church-claymont-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-bridge-church-claymont-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-town-middletown",
@@ -1850,10 +1891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.44956,
+"lon": -75.71632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-town-middletown-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-town-middletown-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "victory-christian-fellowship-bear",
@@ -1879,10 +1921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62928,
+"lon": -75.65826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/victory-christian-fellowship-bear-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/victory-christian-fellowship-bear-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesleyan-church-of-laurel-bethel",
@@ -1966,10 +2009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68372,
+"lon": -75.74966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-clay-creek-presbyterian-church-newark-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-clay-creek-presbyterian-church-newark-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "william-street-united-methodist-church-delaware-city",
@@ -1995,10 +2039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.57775,
+"lon": -75.58945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/william-street-united-methodist-church-delaware-city-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/william-street-united-methodist-church-delaware-city-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wilmington-apostolic-pentecostal-church-wilmington",
@@ -2024,10 +2069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.74595,
+"lon": -75.54659,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wilmington-apostolic-pentecostal-church-wilmington-delaware"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wilmington-apostolic-pentecostal-church-wilmington-delaware",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wyoming-united-methodist-church-camden-wyoming",

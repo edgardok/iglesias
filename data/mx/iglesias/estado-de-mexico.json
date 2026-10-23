@@ -139,10 +139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atrio-del-templo-del-senor-de-la-resurreccion-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atrio-del-templo-del-senor-de-la-resurreccion-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-asuncion-estado-de-mexico",
@@ -197,10 +198,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.72446,
+"lon": -98.75833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-bartolo-axapusco-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-bartolo-axapusco-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-jose-lerma",
@@ -226,10 +228,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-jose-lerma-estado-de-mexico-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-jose-lerma-estado-de-mexico-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-miguel-arcangel-huixquilucan",
@@ -255,10 +258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35985,
+"lon": -99.35016,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-miguel-arcangel-huixquilucan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-miguel-arcangel-huixquilucan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-cementerio-santiago-tianguistenco",
@@ -313,10 +317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.09207,
+"lon": -99.22167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-guadalupana-tlaxcoapan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-guadalupana-tlaxcoapan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-cuernavaca",
@@ -342,10 +347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-cuernavaca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-cuernavaca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-el-camino-nezahualcoyotl",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-el-camino-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-el-camino-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-zumpango-cuernavaca",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-zumpango-cuernavaca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-zumpango-cuernavaca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-de-fe-esperanza-y-amor-ozumba",
@@ -458,10 +466,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 23.79194,
+"lon": -104.48972,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-cristiano-vida-nueva-internacional-nicolas-romero-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-cristiano-vida-nueva-internacional-nicolas-romero-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-bethel-tula",
@@ -545,10 +554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-cristiana-nuevo-impacto-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-cristiana-nuevo-impacto-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-blanca-calimaya",
@@ -690,10 +700,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/escuela-biblica-dios-es-amor-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/escuela-biblica-dios-es-amor-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "estanque-iglesia-1-ecatepec-de-morelos",
@@ -719,10 +730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.60006,
+"lon": -99.04855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/estanque-iglesia-1-ecatepec-de-morelos-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/estanque-iglesia-1-ecatepec-de-morelos-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hechos-para-la-vida-metepec",
@@ -951,10 +963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.88188,
+"lon": -99.06715,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-azul-yautepec-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-azul-yautepec-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-chalco-chalco-de-diaz-covarrubias",
@@ -980,10 +993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.26105,
+"lon": -98.89636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-chalco-chalco-de-diaz-covarrubias-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-chalco-chalco-de-diaz-covarrubias-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-del-norte-cuautitlan-izcalli",
@@ -1009,10 +1023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-del-norte-cuautitlan-izcalli-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-del-norte-cuautitlan-izcalli-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-emmanuel-atlacomulco",
@@ -1154,10 +1169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38553,
+"lon": -99.30451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-betel-santiago-santiago-yancuitlalpan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-betel-santiago-santiago-yancuitlalpan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bojay-estado-de-mexico",
@@ -1357,10 +1373,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-bautista-dios-es-amor-cuautitlan-izcalli-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-bautista-dios-es-amor-cuautitlan-izcalli-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-de-alabanza-y-oracion-lerma",
@@ -1386,10 +1403,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-de-alabanza-y-oracion-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-de-alabanza-y-oracion-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-dios-es-amor-san-pedro-tultepec",
@@ -1415,10 +1433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.26635,
+"lon": -99.5105,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dios-es-amor-san-pedro-tultepec-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dios-es-amor-san-pedro-tultepec-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-el-hijo-prodigo-lerma",
@@ -1444,10 +1463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-el-hijo-prodigo-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-el-hijo-prodigo-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-el-shaddai-tlanchinol",
@@ -1473,10 +1493,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.9895,
+"lon": -98.65943,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-el-shaddai-tlanchinol-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-el-shaddai-tlanchinol-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-eliaquim-lerma",
@@ -1502,10 +1523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-eliaquim-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-eliaquim-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-acambay-las-marinas-metepec",
@@ -1589,10 +1611,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.74539,
+"lon": -99.18298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-morelia-teoloyucan-teoloyucan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-morelia-teoloyucan-teoloyucan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-avenida-ortiz-teoloyucan-teoloyucan",
@@ -1618,10 +1641,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.74539,
+"lon": -99.18298,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-ortiz-teoloyucan-teoloyucan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-ortiz-teoloyucan-teoloyucan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-barra-de-navidad-colonia-jardines-cas-ecatepec-de-morelos",
@@ -1647,10 +1671,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.60006,
+"lon": -99.04855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-barra-de-navidad-colonia-jardines-cas-ecatepec-de-morelos-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-barra-de-navidad-colonia-jardines-cas-ecatepec-de-morelos-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-calle-j-rosas-ozumba",
@@ -1705,10 +1730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-colinas-del-lago-conjunto-urbano-sitt-cuautitlan-izcalli-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-colinas-del-lago-conjunto-urbano-sitt-cuautitlan-izcalli-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-ecatepec-de-morelos-guanajuato",
@@ -1937,10 +1963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.31334,
+"lon": -98.88421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-miguel-hidalgo-manzana-26-lote-ixtapaluca-ixtapaluca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-miguel-hidalgo-manzana-26-lote-ixtapaluca-ixtapaluca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-morelos-morelos",
@@ -1995,10 +2022,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.60006,
+"lon": -99.04855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-puerto-topolobampo-colonia-jardines-de-ecatepec-de-morelos-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-puerto-topolobampo-colonia-jardines-de-ecatepec-de-morelos-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-villa-hermosa-tlalnepantla-tlalnepantla-de-baz",
@@ -2053,10 +2081,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.13083,
+"lon": -99.23031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-bethesda-tlahuelilpan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-bethesda-tlahuelilpan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-genesaret-nueva-santa-rosa",
@@ -2082,10 +2111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.59028,
+"lon": -98.96,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-genesaret-nueva-santa-rosa-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-genesaret-nueva-santa-rosa-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-interdenominacional-el-palacio-de-jesucristo-el-gran-rey-fraccionamiento-las-americas",
@@ -2140,10 +2170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesus-el-buen-pastor-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesus-el-buen-pastor-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-nuevo-pacto-en-cristo-san-pedro-tultepec",
@@ -2169,10 +2200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.26635,
+"lon": -99.5105,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-nuevo-pacto-en-cristo-san-pedro-tultepec-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-nuevo-pacto-en-cristo-san-pedro-tultepec-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-principe-de-paz-nezahualcoyotl",
@@ -2198,10 +2230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-principe-de-paz-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-principe-de-paz-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-puerta-la-hermosa-emiliano-zapata",
@@ -2401,10 +2434,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.00731,
+"lon": -99.22012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-coayuca-atotonilco-de-tula-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-coayuca-atotonilco-de-tula-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-mi-el-monte-de-sion-tepetlixpa",
@@ -2430,10 +2464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.02891,
+"lon": -98.8205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-mi-el-monte-de-sion-tepetlixpa-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-mi-el-monte-de-sion-tepetlixpa-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cuanalan-acolman",
@@ -2720,10 +2755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.28544,
+"lon": -99.41226,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-escandon-chapantongo-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-escandon-chapantongo-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ixtapaluca-ixtapaluca",
@@ -2749,10 +2785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.31334,
+"lon": -98.88421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ixtapaluca-ixtapaluca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ixtapaluca-ixtapaluca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-zumpango",
@@ -2836,10 +2873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.54895,
+"lon": -98.88236,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-chiautla-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-chiautla-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-canana-lerma",
@@ -2865,10 +2903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-canana-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-canana-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-candelaria-jiquipilco",
@@ -2894,10 +2933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.55761,
+"lon": -99.60824,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-candelaria-jiquipilco-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-candelaria-jiquipilco-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-cima-taxco",
@@ -2923,10 +2963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.13917,
+"lon": -93.00528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-cima-taxco-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-cima-taxco-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-divina-infantita-tecamac",
@@ -3010,10 +3051,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-lupita-casa-viejas-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-lupita-casa-viejas-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-magdalena-de-los-reyes-la-magdalena-de-los-reyes",
@@ -3068,10 +3110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-medalla-milagrosa-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-medalla-milagrosa-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-purisima-concepcion-lerma",
@@ -3097,10 +3140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purisima-concepcion-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purisima-concepcion-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-transfiguracion-atotonilco-de-tula",
@@ -3126,10 +3170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.00731,
+"lon": -99.22012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-transfiguracion-atotonilco-de-tula-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-transfiguracion-atotonilco-de-tula-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-maravillas-estado-de-mexico",
@@ -3329,10 +3374,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.64778,
+"lon": -99.64778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-poder-de-dios-tetipac-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-poder-de-dios-tetipac-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-prizo-sagitario-iii",
@@ -3387,10 +3433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.7133,
+"lon": -99.9529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-rancheria-la-virgen-san-felipe-del-progreso-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-rancheria-la-virgen-san-felipe-del-progreso-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-bautista-estado-de-mexico",
@@ -3445,10 +3492,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-judas-tadeo-lerma-estado-de-mexico-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-judas-tadeo-lerma-estado-de-mexico-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-lorenzo-lerma",
@@ -3474,10 +3522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lorenzo-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lorenzo-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-martin-caballero-lerma",
@@ -3503,10 +3552,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-caballero-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-caballero-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-mateo-apostol-sagitario-iii",
@@ -3590,10 +3640,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-nicolas-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-nicolas-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-monica-tlalnepantla-de-baz",
@@ -3648,10 +3699,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.54895,
+"lon": -98.88236,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-chimalpa-chiautla-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-chimalpa-chiautla-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-solis-solis",
@@ -3677,10 +3729,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.05107,
+"lon": -100.6787,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-solis-solis-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-solis-solis-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tequisitlan-tezoyuca",
@@ -3735,10 +3788,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.00731,
+"lon": -99.22012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-texas-atotonilco-de-tula-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-texas-atotonilco-de-tula-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-texopa-texcoco",
@@ -3909,10 +3963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.00731,
+"lon": -99.22012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-boxfi-atotonilco-de-tula-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-boxfi-atotonilco-de-tula-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-tepecoculco-atlautla",
@@ -3938,10 +3993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.02188,
+"lon": -98.77859,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-tepecoculco-atlautla-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-tepecoculco-atlautla-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-pueblito-ciudad-de-mexico",
@@ -4083,10 +4139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.05959,
+"lon": -99.22168,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dendho-atitalaquia-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dendho-atitalaquia-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-calvario-el-oro",
@@ -4199,10 +4256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.00731,
+"lon": -99.22012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-refugio-atotonilco-de-tula-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-refugio-atotonilco-de-tula-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-senor-del-calvario-huichapan",
@@ -4228,10 +4286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.3763,
+"lon": -99.64911,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-senor-del-calvario-huichapan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-senor-del-calvario-huichapan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-tesoro-buenavista",
@@ -4286,10 +4345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-toreo-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-toreo-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-misionera-apostoles-y-profetas-lerma",
@@ -4315,10 +4375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-misionera-apostoles-y-profetas-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-misionera-apostoles-y-profetas-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-granito-de-sal-nezahualcoyotl",
@@ -4344,10 +4405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-granito-de-sal-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-granito-de-sal-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-hacienda-real-de-tultepec-tultepec",
@@ -4373,10 +4435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.685,
+"lon": -99.12806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-hacienda-real-de-tultepec-tultepec-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-hacienda-real-de-tultepec-tultepec-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-hephzibah-chimalhuacan",
@@ -4460,10 +4523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35529,
+"lon": -99.06224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jardines-de-chalco-iztapalapa-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jardines-de-chalco-iztapalapa-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jardines-de-morelos-estado-de-mexico",
@@ -4518,10 +4582,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesucristo-unico-salvador-del-mundo-cuautitlan-izcalli-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesucristo-unico-salvador-del-mundo-cuautitlan-izcalli-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jose-maria-escriva-de-balaguer-atizapan-de-zaragoza",
@@ -4663,10 +4728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-perla-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-perla-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-villada-nezahualcoyotl",
@@ -4692,10 +4758,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-villada-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-villada-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-los-reyes-la-paz",
@@ -4750,10 +4817,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.47851,
+"lon": -99.23963,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-madre-naucalpan-de-juarez-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-madre-naucalpan-de-juarez-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-manases-valle-de-las-flores",
@@ -4808,10 +4876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.02891,
+"lon": -98.8205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maranatha-tepetlixpa-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maranatha-tepetlixpa-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mihuacan-ayapango",
@@ -4837,10 +4906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.12692,
+"lon": -98.79988,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mihuacan-ayapango-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mihuacan-ayapango-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mision-tlalmanalco-tlalmanalco",
@@ -4953,10 +5023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-cristo-es-el-camino-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-cristo-es-el-camino-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-metropolitana-nezahualcoyotl",
@@ -4982,10 +5053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-metropolitana-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-metropolitana-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-punta-la-zanja-chimalhuacan",
@@ -5040,10 +5112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-judas-tadeo-cuautitlan-izcalli-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-judas-tadeo-cuautitlan-izcalli-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-pedro-apostol-san-pedro-tlaquepaque",
@@ -5130,7 +5203,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sanctorum-hidalgo-del-parral-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sanctorum-hidalgo-del-parral-estado-de-mexico",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-satelite-tlalnepantla-de-baz",
@@ -5243,10 +5317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.33438,
+"lon": -99.68584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tecaxic-calixtlahuaca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tecaxic-calixtlahuaca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-texcoco-texcoco",
@@ -5330,10 +5405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.05959,
+"lon": -99.22168,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tlamaco-atitalaquia-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tlamaco-atitalaquia-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-universal-del-reino-de-dios-estado-de-mexico",
@@ -5388,10 +5464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.82819,
+"lon": -99.2037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villas-del-rey-huehuetoca-huehuetoca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villas-del-rey-huehuetoca-huehuetoca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-wences-ixtapaluca",
@@ -5417,10 +5494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.31334,
+"lon": -98.88421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-wences-ixtapaluca-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-wences-ixtapaluca-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-xalostoc-ecatepec-de-morelos",
@@ -5446,10 +5524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.60006,
+"lon": -99.04855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-xalostoc-ecatepec-de-morelos-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-xalostoc-ecatepec-de-morelos-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-xochihuacan-xochihuacan",
@@ -5475,10 +5554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.98837,
+"lon": -98.70857,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-xochihuacan-xochihuacan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-xochihuacan-xochihuacan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igliesa-de-santiaguito-texcoco",
@@ -5649,10 +5729,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-anglicana-de-san-pablo-apostol-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-anglicana-de-san-pablo-apostol-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-de-santiago-apostol-lerma",
@@ -5678,10 +5759,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-santiago-apostol-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-santiago-apostol-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-del-senor-a-r-chimalhuacan",
@@ -5765,10 +5847,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/miepi-movimiento-iglesia-evangelica-pentecostes-independiente-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/miepi-movimiento-iglesia-evangelica-pentecostes-independiente-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerios-bethel-zitacuaro",
@@ -5823,10 +5906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monte-sion-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monte-sion-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parque-de-la-iglesia-estado-de-mexico",
@@ -5997,10 +6081,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.90944,
+"lon": -99.14472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jeova-tequixquiac-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jeova-tequixquiac-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-nicolas-metepec",
@@ -6055,10 +6140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.12692,
+"lon": -98.79988,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-apostol-ayapango-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-apostol-ayapango-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-de-los-milagros-zinacantepec",
@@ -6113,10 +6199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tabernaculo-cristiano-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tabernaculo-cristiano-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-bethel-morelos",
@@ -6171,10 +6258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-atarasquillo-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-atarasquillo-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristo-el-salvador-lerma",
@@ -6200,10 +6288,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristo-el-salvador-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristo-el-salvador-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-d-gran-morelos",
@@ -6432,10 +6521,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.34449,
+"lon": -97.50853,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santo-domingo-san-juan-achiutla-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santo-domingo-san-juan-achiutla-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-huerto-estado-de-mexico",
@@ -6635,10 +6725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-bethel-miepi-lerma-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-bethel-miepi-lerma-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-filadelfia-ixtaczoquitlan",
@@ -6664,10 +6755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-filadelfia-ixtaczoquitlan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-filadelfia-ixtaczoquitlan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-pentecostes-cuautitlan-izcalli",
@@ -6693,10 +6785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64388,
+"lon": -99.21598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-cuautitlan-izcalli-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-cuautitlan-izcalli-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-pentecostes-getsemani-miepi-san-franscisco",
@@ -6954,10 +7047,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38763,
+"lon": -98.99264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-of-jesus-christ-of-latter-day-saints-nezahualcoyotl-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-of-jesus-christ-of-latter-day-saints-nezahualcoyotl-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "usaer-118-15fua0138u-nicolas-romero-colonia-el-trafico-nicolas-romero",
@@ -6983,10 +7077,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 23.79194,
+"lon": -104.48972,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/usaer-118-15fua0138u-nicolas-romero-colonia-el-trafico-nicolas-romero-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/usaer-118-15fua0138u-nicolas-romero-colonia-el-trafico-nicolas-romero-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vina-de-esperanza-huixquilucan",
@@ -7012,10 +7107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35985,
+"lon": -99.35016,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vina-de-esperanza-huixquilucan-estado-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vina-de-esperanza-huixquilucan-estado-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "yeshua-adonay-tecamac",

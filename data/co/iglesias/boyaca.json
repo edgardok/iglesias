@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 5.61637,
+"lon": -73.81748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-clarisas-chiquinquira-colombia-953"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-clarisas-chiquinquira-colombia-953",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santorial-de-peregrino-chiquinquira",
@@ -52,9 +53,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 5.61637,
+"lon": -73.81748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santorial-de-peregrino-chiquinquira-colombia-972"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santorial-de-peregrino-chiquinquira-colombia-972",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

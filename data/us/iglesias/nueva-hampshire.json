@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94647,
+"lon": -71.5159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abbey-church-bedford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abbey-church-bedford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "acworth-congregational-church-acworth",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.21785,
+"lon": -72.29203,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/acworth-congregational-church-acworth-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/acworth-congregational-church-acworth-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albright-memorial-united-methodist-church-mount-washington",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.14897,
+"lon": -72.36064,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alstead-center-congregational-church-alstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alstead-center-congregational-church-alstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alstead-village-third-congregational-church-alstead",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.14897,
+"lon": -72.36064,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alstead-village-third-congregational-church-alstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alstead-village-third-congregational-church-alstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "amoskeag-presbyterian-church-manchester",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.99564,
+"lon": -71.45479,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/amoskeag-presbyterian-church-manchester-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/amoskeag-presbyterian-church-manchester-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arlington-street-united-methodist-church-hudson",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.76481,
+"lon": -71.43979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arlington-street-united-methodist-church-hudson-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arlington-street-united-methodist-church-hudson-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atkinson-congregational-church-atkinson",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.83842,
+"lon": -71.147,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atkinson-congregational-church-atkinson-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atkinson-congregational-church-atkinson-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baptist-church-of-franklin-franklin",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.44424,
+"lon": -71.6473,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-of-franklin-franklin-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-church-of-franklin-franklin-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barnstead-parade-church-barnstead",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33397,
+"lon": -71.29284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barnstead-parade-church-barnstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barnstead-parade-church-barnstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barrington-evangelical-church-barrington",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.22286,
+"lon": -71.04701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-evangelical-church-barrington-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barrington-evangelical-church-barrington-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bartlett-first-assembly-of-god-bartlett",
@@ -371,10 +381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94647,
+"lon": -71.5159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-presbyterian-church-bedford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-presbyterian-church-bedford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bennington-congregational-church-antrim",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.03091,
+"lon": -71.93897,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bennington-congregational-church-antrim-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bennington-congregational-church-antrim-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethlehem-christian-center-bethlehem",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28034,
+"lon": -71.68814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-christian-center-bethlehem-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-christian-center-bethlehem-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethlehem-hebrew-congregation-bethlehem",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28034,
+"lon": -71.68814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-hebrew-congregation-bethlehem-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-hebrew-congregation-bethlehem-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bow-community-baptist-church-bow",
@@ -603,10 +617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.59119,
+"lon": -71.73675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bristol-federated-church-bristol-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bristol-federated-church-bristol-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campton-baptist-church-campton",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73425,
+"lon": -83.54741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campton-baptist-church-campton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campton-baptist-church-campton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campton-church-campton",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.73425,
+"lon": -83.54741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campton-church-campton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campton-church-campton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canaan-assembly-of-god-canaan",
@@ -690,10 +707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.64757,
+"lon": -72.01175,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canaan-assembly-of-god-canaan-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canaan-assembly-of-god-canaan-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "center-barnstead-christian-church-barnstead",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33397,
+"lon": -71.29284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/center-barnstead-christian-church-barnstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/center-barnstead-christian-church-barnstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "center-effingham-baptist-church-effingham",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.76119,
+"lon": -70.99645,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/center-effingham-baptist-church-effingham-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/center-effingham-baptist-church-effingham-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-of-the-nativity-barrington",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.22286,
+"lon": -71.04701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-the-nativity-barrington-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-of-the-nativity-barrington-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chester-congregational-baptist-church-chester",
@@ -806,10 +827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95675,
+"lon": -71.25728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chester-congregational-baptist-church-chester-nh-estados-unidos-17010"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chester-congregational-baptist-church-chester-nh-estados-unidos-17010",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chester-congregational-baptist-church-chester-2",
@@ -835,10 +857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95675,
+"lon": -71.25728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chester-congregational-baptist-church-chester-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chester-congregational-baptist-church-chester-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chichester-united-methodist-church-chichester",
@@ -864,10 +887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.24925,
+"lon": -71.39979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chichester-united-methodist-church-chichester-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chichester-united-methodist-church-chichester-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-saint-john-the-baptist-episcopal-church-east-wakefield",
@@ -922,10 +946,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86147,
+"lon": -71.62535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-of-amherst-amherst-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-of-amherst-amherst-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crosspoint-church-assembly-of-god-lebanon",
@@ -951,10 +976,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.64229,
+"lon": -72.25176,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crosspoint-church-assembly-of-god-lebanon-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crosspoint-church-assembly-of-god-lebanon-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dover-baptist-church-dover",
@@ -980,10 +1006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.19786,
+"lon": -70.87367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dover-baptist-church-dover-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dover-baptist-church-dover-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "durrell-memorial-united-methodist-church-bethlehem",
@@ -1009,10 +1036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28034,
+"lon": -71.68814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/durrell-memorial-united-methodist-church-bethlehem-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/durrell-memorial-united-methodist-church-bethlehem-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "etna-first-baptist-church-etna",
@@ -1067,10 +1095,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98148,
+"lon": -70.94783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/exeter-presbyterian-church-exeter-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/exeter-presbyterian-church-exeter-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-baptist-church-of-hollis-hollis",
@@ -1096,10 +1125,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.74314,
+"lon": -71.59174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-baptist-church-of-hollis-hollis-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-baptist-church-of-hollis-hollis-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faithbridge-church-bedford",
@@ -1125,10 +1155,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94647,
+"lon": -71.5159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faithbridge-church-bedford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faithbridge-church-bedford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "family-bible-church-of-loudon-gilmanton",
@@ -1154,10 +1185,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42425,
+"lon": -71.41452,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-bible-church-of-loudon-gilmanton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-bible-church-of-loudon-gilmanton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "farmington-pentecostal-church-farmington",
@@ -1183,10 +1215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.3898,
+"lon": -71.06506,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/farmington-pentecostal-church-farmington-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/farmington-pentecostal-church-farmington-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-brentwood-epping",
@@ -1212,10 +1245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.03342,
+"lon": -71.07423,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-brentwood-epping-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-brentwood-epping-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-cornish-cornish-flat",
@@ -1270,10 +1304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.93759,
+"lon": -70.83894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-hampton-falls-hampton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-hampton-falls-hampton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-keene-keene",
@@ -1299,10 +1334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.93369,
+"lon": -72.27814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-keene-keene-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-keene-keene-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-church-of-merrimack-litchfield",
@@ -1328,10 +1364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.84425,
+"lon": -71.47979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-merrimack-litchfield-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-merrimack-litchfield-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-gilford-laconia-gilford",
@@ -1357,10 +1394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.54758,
+"lon": -71.40674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-gilford-laconia-gilford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-gilford-laconia-gilford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fitzwilliam-baptist-church-fitzwilliam",
@@ -1386,10 +1424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78064,
+"lon": -72.14175,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fitzwilliam-baptist-church-fitzwilliam-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fitzwilliam-baptist-church-fitzwilliam-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gerrish-chapel-barrington",
@@ -1415,10 +1454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.22286,
+"lon": -71.04701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gerrish-chapel-barrington-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gerrish-chapel-barrington-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gilmanton-community-church-gilmanton",
@@ -1444,10 +1484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42425,
+"lon": -71.41452,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gilmanton-community-church-gilmanton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gilmanton-community-church-gilmanton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-parish-center-berlin",
@@ -1473,10 +1514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.46867,
+"lon": -71.18508,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-parish-center-berlin-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-parish-center-berlin-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greenland-united-methodist-church-greenland",
@@ -1502,10 +1544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.0362,
+"lon": -70.83283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greenland-united-methodist-church-greenland-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greenland-united-methodist-church-greenland-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "groveton-united-methodist-church-northumberland",
@@ -1531,10 +1574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.56339,
+"lon": -71.5587,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/groveton-united-methodist-church-northumberland-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/groveton-united-methodist-church-northumberland-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "higher-ground-ministries-barnstead",
@@ -1560,10 +1604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33397,
+"lon": -71.29284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/higher-ground-ministries-barnstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/higher-ground-ministries-barnstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "household-of-faith-church-amherst",
@@ -1589,10 +1634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86147,
+"lon": -71.62535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/household-of-faith-church-amherst-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/household-of-faith-church-amherst-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "island-pond-baptist-church-hampstead",
@@ -1618,10 +1664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87453,
+"lon": -71.18117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/island-pond-baptist-church-hampstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/island-pond-baptist-church-hampstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ivie-memorial-church-of-the-messiah-episcopal-church-bethlehem",
@@ -1647,10 +1694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28034,
+"lon": -71.68814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ivie-memorial-church-of-the-messiah-episcopal-church-bethlehem-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ivie-memorial-church-of-the-messiah-episcopal-church-bethlehem-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kearsarge-community-presbyterian-church-elkins",
@@ -1705,10 +1753,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.52785,
+"lon": -71.47035,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/laconia-seventh-day-adventist-church-laconia-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/laconia-seventh-day-adventist-church-laconia-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-sunapee-baptist-church-claremont",
@@ -1734,10 +1783,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.37674,
+"lon": -72.34676,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-sunapee-baptist-church-claremont-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-sunapee-baptist-church-claremont-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lakes-christian-center-belmont",
@@ -1763,10 +1813,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.44536,
+"lon": -71.47785,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lakes-christian-center-belmont-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lakes-christian-center-belmont-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "langdon-congregational-church-alstead",
@@ -1792,10 +1843,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.14897,
+"lon": -72.36064,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/langdon-congregational-church-alstead-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/langdon-congregational-church-alstead-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "litchfield-presbyterian-litchfield",
@@ -1821,10 +1873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.84425,
+"lon": -71.47979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/litchfield-presbyterian-litchfield-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/litchfield-presbyterian-litchfield-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "londonderry-presbyterian-church-londonderry",
@@ -1850,10 +1903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86509,
+"lon": -71.37395,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/londonderry-presbyterian-church-londonderry-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/londonderry-presbyterian-church-londonderry-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "londonderry-united-methodist-church-derry",
@@ -1879,10 +1933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.88064,
+"lon": -71.32729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/londonderry-united-methodist-church-derry-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/londonderry-united-methodist-church-derry-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "longmeadow-congregational-church-auburn",
@@ -1908,10 +1963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00453,
+"lon": -71.3484,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/longmeadow-congregational-church-auburn-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/longmeadow-congregational-church-auburn-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "merrimack-valley-church-chichester",
@@ -1937,10 +1993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.24925,
+"lon": -71.39979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/merrimack-valley-church-chichester-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/merrimack-valley-church-chichester-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "milford-united-methodist-church-amherst",
@@ -1966,10 +2023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86147,
+"lon": -71.62535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/milford-united-methodist-church-amherst-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/milford-united-methodist-church-amherst-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nashua-seventh-day-adventist-church-hudson",
@@ -1995,10 +2053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.76481,
+"lon": -71.43979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nashua-seventh-day-adventist-church-hudson-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nashua-seventh-day-adventist-church-hudson-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginnings-assembly-of-god-church-manchester",
@@ -2024,10 +2083,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.99564,
+"lon": -71.45479,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-assembly-of-god-church-manchester-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-assembly-of-god-church-manchester-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-england-pentecostal-church-pelham",
@@ -2053,10 +2113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73453,
+"lon": -71.32451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-england-pentecostal-church-pelham-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-england-pentecostal-church-pelham-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-country-baptist-church-berlin",
@@ -2082,10 +2143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.46867,
+"lon": -71.18508,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-country-baptist-church-berlin-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-country-baptist-church-berlin-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peoples-united-methodist-church-fremont",
@@ -2111,10 +2173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.99092,
+"lon": -71.14256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-united-methodist-church-fremont-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-united-methodist-church-fremont-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peterborough-united-methodist-church-peterborough",
@@ -2140,10 +2203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87064,
+"lon": -71.95175,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peterborough-united-methodist-church-peterborough-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peterborough-united-methodist-church-peterborough-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "petworth-united-methodist-church-mount-washington",
@@ -2227,10 +2291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.52785,
+"lon": -71.47035,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/real-life-church-laconia-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/real-life-church-laconia-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "restoration-church-bethlehem",
@@ -2256,10 +2321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28034,
+"lon": -71.68814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restoration-church-bethlehem-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restoration-church-bethlehem-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "restoration-foursquare-church-concord",
@@ -2285,10 +2351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.20814,
+"lon": -71.53757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restoration-foursquare-church-concord-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restoration-foursquare-church-concord-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rock-church-sandown-sandown",
@@ -2314,10 +2381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.9287,
+"lon": -71.18701,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rock-church-sandown-sandown-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rock-church-sandown-sandown-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-agnes-church-ashland",
@@ -2343,10 +2411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.69535,
+"lon": -71.63063,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-agnes-church-ashland-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-agnes-church-ashland-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-anthonys-church-east-wakefield",
@@ -2401,10 +2470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.4523,
+"lon": -71.21757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-joan-of-arc-church-alton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-joan-of-arc-church-alton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-lukes-anglican-church-amherst",
@@ -2430,10 +2500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86147,
+"lon": -71.62535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-lukes-anglican-church-amherst-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-lukes-anglican-church-amherst-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-stanislaus-church-ashuelot",
@@ -2488,10 +2559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.4523,
+"lon": -71.21757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-free-baptist-church-alton-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-free-baptist-church-alton-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "seventh-day-adventist-bedford",
@@ -2517,10 +2589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94647,
+"lon": -71.5159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-bedford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seventh-day-adventist-bedford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shiloh-community-church-bedford",
@@ -2546,10 +2619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94647,
+"lon": -71.5159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shiloh-community-church-bedford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shiloh-community-church-bedford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-newbury-union-church-bradford",
@@ -2604,10 +2678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.09675,
+"lon": -71.46507,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/suncook-united-methodist-church-hooksett-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/suncook-united-methodist-church-hooksett-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-church-of-our-savior-amherst",
@@ -2633,10 +2708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86147,
+"lon": -71.62535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-of-our-savior-amherst-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-of-our-savior-amherst-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-grace-community-church-canaan",
@@ -2662,10 +2738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.64757,
+"lon": -72.01175,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-grace-community-church-canaan-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-grace-community-church-canaan-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-manchester-outreach-manchester",
@@ -2691,10 +2768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.99564,
+"lon": -71.45479,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-manchester-outreach-manchester-nh-estados-unidos-13542"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-manchester-outreach-manchester-nh-estados-unidos-13542",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thorton-united-methodist-church-mirror-lake",
@@ -2749,10 +2827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.44424,
+"lon": -71.6473,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tilton-northfield-united-methodist-church-franklin-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tilton-northfield-united-methodist-church-franklin-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-assembly-of-god-derry",
@@ -2778,10 +2857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.88064,
+"lon": -71.32729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-assembly-of-god-derry-nh-estados-unidos-13926"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-assembly-of-god-derry-nh-estados-unidos-13926",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-life-community-bedford",
@@ -2807,10 +2887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94647,
+"lon": -71.5159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-life-community-bedford-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-life-community-bedford-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-schooltrinity-baptist-church-concord",
@@ -2836,10 +2917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.20814,
+"lon": -71.53757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-schooltrinity-baptist-church-concord-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-schooltrinity-baptist-church-concord-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unitarian-universalist-congregation-in-milford-amherst",
@@ -2865,10 +2947,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86147,
+"lon": -71.62535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-congregation-in-milford-amherst-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-congregation-in-milford-amherst-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-winchester-ashuelot",
@@ -2923,10 +3006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.17591,
+"lon": -72.09675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/washington-seventh-day-adventist-church-washington-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/washington-seventh-day-adventist-church-washington-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "white-river-junction-methodist-church-west-lebanon",
@@ -2952,10 +3036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.27004,
+"lon": -87.38668,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-river-junction-methodist-church-west-lebanon-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-river-junction-methodist-church-west-lebanon-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wilmot-flat-baptist-church-elkins",
@@ -3010,9 +3095,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.80064,
+"lon": -71.30423,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/windham-presbyterian-church-windham-new-hampshire"
+"fuente_url": "https://encuentraiglesias.com/iglesia/windham-presbyterian-church-windham-new-hampshire",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

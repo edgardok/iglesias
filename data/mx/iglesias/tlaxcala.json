@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.24558,
+"lon": -98.23409,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-tlacochcalco-tepeyanco-tlaxcala"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-tlacochcalco-tepeyanco-tlaxcala",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cristo-del-buen-vecino-tlaxcala-de-xicohtencatl",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5322,
+"lon": -98.20888,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-calvario-atlangatepec-tlaxcala"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-calvario-atlangatepec-tlaxcala",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-santisima-trinidad-tlaxcala-de-xicohtencatl",
@@ -168,10 +170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.38841,
+"lon": -98.14362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-jesus-de-nazaret-iglesia-metodista-de-mexico-santa-anita-huiloac-tlaxcala"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-jesus-de-nazaret-iglesia-metodista-de-mexico-santa-anita-huiloac-tlaxcala",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-metodista-siloe-tzompantepec",
@@ -197,9 +200,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.37608,
+"lon": -98.09014,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-siloe-tzompantepec-tlaxcala"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-metodista-siloe-tzompantepec-tlaxcala",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

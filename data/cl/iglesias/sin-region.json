@@ -168,10 +168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -46.541,
+"lon": -71.72375,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-y-misionera-chile-chico-chile-434"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-y-misionera-chile-chico-chile-434",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alienza-cristiana-y-misionera-la-union",
@@ -197,10 +198,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -40.29313,
+"lon": -73.08167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alienza-cristiana-y-misionera-la-union-chile-1994"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alienza-cristiana-y-misionera-la-union-chile-1994",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anglicana-episcopalna-de-salamanca",
@@ -806,10 +808,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.99577,
+"lon": -71.19136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bet-el-olmue-chile-1332"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bet-el-olmue-chile-1332",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "betania",
@@ -1096,10 +1099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.35497,
+"lon": -71.28826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-caleuche-pichidegua-chile-3322"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-caleuche-pichidegua-chile-3322",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-casas-viejas",
@@ -1415,10 +1419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.35497,
+"lon": -71.28826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-fe-viva-pichidegua-chile-1339"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-fe-viva-pichidegua-chile-1339",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-hospital-san-antonio-de-putaendo",
@@ -2256,10 +2261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -37.03386,
+"lon": -73.14019,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-la-bendicion-coronel-chile-1720"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-la-bendicion-coronel-chile-1720",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-retiro-san-jose",
@@ -2401,10 +2407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.01327,
+"lon": -71.26084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-flor-arcoiris-limache-chile-1381"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-flor-arcoiris-limache-chile-1381",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-pastoral-juan-pablo-ii-quitratue",
@@ -2459,10 +2466,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.44735,
+"lon": -70.58279,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-rusa-nunoa-chile-3033"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-rusa-nunoa-chile-3033",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cenlimi-casa-central-providencia",
@@ -2488,10 +2496,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.43107,
+"lon": -70.60454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cenlimi-casa-central-providencia-chile-1671"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cenlimi-casa-central-providencia-chile-1671",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-biblico",
@@ -2894,10 +2903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-la-buena-semilla-quilpue-chile-1304"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-la-buena-semilla-quilpue-chile-1304",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-penablanca-villa-alemana",
@@ -2923,10 +2933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04823,
+"lon": -71.3729,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-penablanca-villa-alemana-chile-3279"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-penablanca-villa-alemana-chile-3279",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-cristiana-reformada-maipu",
@@ -2952,10 +2963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.51421,
+"lon": -70.7651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-reformada-maipu-chile-3015"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-reformada-maipu-chile-3015",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-de-cristianos-penalolen",
@@ -2981,10 +2993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.46836,
+"lon": -70.53411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-cristianos-penalolen-chile-1307"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-cristianos-penalolen-chile-1307",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-iglesia-del-senor",
@@ -3358,10 +3371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.51421,
+"lon": -70.7651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-evangelistica-tiempo-de-dios-maipu-chile-2066"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-evangelistica-tiempo-de-dios-maipu-chile-2066",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corporacion-iglecia-micionera-pentecostal-nancagua",
@@ -3387,10 +3401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.65187,
+"lon": -71.19724,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-iglecia-micionera-pentecostal-nancagua-chile-1070"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corporacion-iglecia-micionera-pentecostal-nancagua-chile-1070",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corporacion-iglesia-evangelica-pentecostal",
@@ -3648,10 +3663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.02457,
+"lon": -71.55183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corriente-de-vida-vina-del-mar-chile-1264"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corriente-de-vida-vina-del-mar-chile-1264",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo",
@@ -4083,10 +4099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -20.33552,
+"lon": -69.65671,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-del-calvario-la-tirana-chile-1052"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-del-calvario-la-tirana-chile-1052",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-en-pirque",
@@ -4489,10 +4506,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -41.8707,
+"lon": -73.81622,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ejercito-de-salvacion-ancud-chile-372"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ejercito-de-salvacion-ancud-chile-372",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ejercito-evangelico-de-chile",
@@ -4634,10 +4652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.51421,
+"lon": -70.7651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-buen-samaritano-maipu-chile-3181"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-buen-samaritano-maipu-chile-3181",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-cristo-de-codao",
@@ -5301,10 +5320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.29027,
+"lon": -71.30616,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermanas-pobres-de-jesucristo-las-cabras-chile-3321"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermanas-pobres-de-jesucristo-las-cabras-chile-3321",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermita",
@@ -5794,10 +5814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -19.99631,
+"lon": -69.77205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-achacagua-huara-chile-1918"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-achacagua-huara-chile-1918",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista",
@@ -7534,10 +7555,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.43859,
+"lon": -71.07751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-san-vicente-san-vicente-de-tagua-tagua-chile-1957"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-san-vicente-san-vicente-de-tagua-tagua-chile-1957",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-trinidad",
@@ -7737,10 +7759,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.36952,
+"lon": -71.67654,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-algarrobo-chile-1398"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-algarrobo-chile-1398",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-caap",
@@ -8375,10 +8398,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.28557,
+"lon": -70.81683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-requinoa-chile-1228"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-requinoa-chile-1228",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-ultimos-dias",
@@ -8810,10 +8834,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.71247,
+"lon": -71.0434,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-evangelio-cuadrangular-chimbarongo-chimbarongo-chile-2602"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-evangelio-cuadrangular-chimbarongo-chimbarongo-chile-2602",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno",
@@ -9767,10 +9792,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.44735,
+"lon": -70.58279,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-nunoa-nunoa-chile-1600"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-nunoa-nunoa-chile-1600",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-el-sembrador",
@@ -9912,10 +9938,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -38.19356,
+"lon": -72.99253,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-capitan-pastene-chile-3084"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-capitan-pastene-chile-3084",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-centro-adoracion-abriendo-brecha",
@@ -11855,10 +11882,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.61169,
+"lon": -70.57577,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-puerta-del-cielo-puente-alto-chile-3255"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-puerta-del-cielo-puente-alto-chile-3255",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-quile",
@@ -15161,10 +15189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.35497,
+"lon": -71.28826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-pataguas-cerro-pichidegua-chile-3314"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-pataguas-cerro-pichidegua-chile-3314",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-puerta-del-cielo",
@@ -15770,10 +15799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -30.60106,
+"lon": -71.19901,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-de-barraza-ovalle-chile-24"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-de-barraza-ovalle-chile-24",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-jose-de-los-maquis",
@@ -16611,10 +16641,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.62238,
+"lon": -70.79912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/impu-calera-de-tango-calera-de-tango-chile-2742"
+"fuente_url": "https://encuentraiglesias.com/iglesia/impu-calera-de-tango-calera-de-tango-chile-2742",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ipa-roca-eterna",
@@ -17278,10 +17309,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.44735,
+"lon": -70.58279,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-vina-agape-nunoa-chile-2109"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-vina-agape-nunoa-chile-2109",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-virgen",
@@ -17423,10 +17455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-asambleas-de-dios-quilpue-chile-3064"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-asambleas-de-dios-quilpue-chile-3064",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "las-campanas",
@@ -18612,10 +18645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -34.43859,
+"lon": -71.07751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-iglesia-pentecostal-san-vicente-de-tagua-tagua-chile-1182"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-iglesia-pentecostal-san-vicente-de-tagua-tagua-chile-1182",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-pentecostal-de-cristo-el-salvador",
@@ -18873,10 +18907,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -53.296,
+"lon": -70.36629,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/movimiento-cristiano-misionero-porvenir-chile-2882"
+"fuente_url": "https://encuentraiglesias.com/iglesia/movimiento-cristiano-misionero-porvenir-chile-2882",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "movimiento-misionero-mundial-el-melon",
@@ -19250,10 +19285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.51421,
+"lon": -70.7651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-poder-maipu-chile-1185"
+"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-poder-maipu-chile-1185",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parajalla-vilacollo",
@@ -19424,10 +19460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.04752,
+"lon": -71.44249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peregrinos-quilpue-chile-2816"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peregrinos-quilpue-chile-2816",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "perpetuo-socorro",
@@ -20410,10 +20447,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.45548,
+"lon": -71.66683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-el-tabo-chile-1017"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-el-tabo-chile-1017",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-monte-aguila",
@@ -21193,10 +21231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -33.43107,
+"lon": -70.60454,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-community-church-providencia-chile-2046"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-community-church-providencia-chile-2046",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-domingo-de-guzman-la-ligua",
@@ -21222,10 +21261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -32.45242,
+"lon": -71.23106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-domingo-de-guzman-la-ligua-chile-1520"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-domingo-de-guzman-la-ligua-chile-1520",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spiritual-life",
@@ -22933,10 +22973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -42.62387,
+"lon": -73.775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/testigos-de-jehova-chonchi-chile-2515"
+"fuente_url": "https://encuentraiglesias.com/iglesia/testigos-de-jehova-chonchi-chile-2515",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tiempos-de-gloria",
@@ -23223,10 +23264,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -41.8707,
+"lon": -73.81622,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/velatorio-ancud-chile-2954"
+"fuente_url": "https://encuentraiglesias.com/iglesia/velatorio-ancud-chile-2954",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vigen-del-carmen",

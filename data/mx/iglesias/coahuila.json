@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.53928,
+"lon": -100.94742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/autopista-de-peaje-saltillo-monterrey-ramos-arizpe-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/autopista-de-peaje-saltillo-monterrey-ramos-arizpe-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bautista-maranatha-monclova",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bautista-maranatha-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bautista-maranatha-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bet-el-frontera",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.92814,
+"lon": -101.45212,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bet-el-frontera-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bet-el-frontera-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-monclova",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cdeo-monclova-monclova",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cdeo-monclova-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cdeo-monclova-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-de-la-fe-extendida-monclova",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-de-la-fe-extendida-monclova-coahuila-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-de-la-fe-extendida-monclova-coahuila-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-vida-nueva-ciudad-acuna",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.32322,
+"lon": -100.95217,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-vida-nueva-ciudad-acuna-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-vida-nueva-ciudad-acuna-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-familiar-shalom-sabinas",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.85591,
+"lon": -101.11738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-shalom-sabinas-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-familiar-shalom-sabinas-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-church-in-circuit-remedios-varo-las-azucenas-delegacion-felipe-carrillo-puerto",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.773,
+"lon": -103.27127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/circuito-iglesia-de-nazaret-francisco-i-madero-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/circuito-iglesia-de-nazaret-francisco-i-madero-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-hidalgo",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.49028,
+"lon": -103.14015,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-hidalgo-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-hidalgo-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-rodriguez-coahuila",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.773,
+"lon": -103.27127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-2-francisco-i-madero-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-2-francisco-i-madero-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-3-francisco-i-madero",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.773,
+"lon": -103.27127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-3-francisco-i-madero-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-3-francisco-i-madero-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-de-atongo-cadereyta-jimenez",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.59051,
+"lon": -100.00095,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-de-atongo-cadereyta-jimenez-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-de-atongo-cadereyta-jimenez-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-alfa-omega-asambleas-de-dios-monclova",
@@ -487,10 +500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alfa-omega-asambleas-de-dios-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alfa-omega-asambleas-de-dios-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-antioquia-ciudad-acuna",
@@ -516,10 +530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.32322,
+"lon": -100.95217,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-antioquia-ciudad-acuna-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-antioquia-ciudad-acuna-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-esmirna-matamoros",
@@ -545,10 +560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.52699,
+"lon": -103.2285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-esmirna-matamoros-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-esmirna-matamoros-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-agape-coahuila",
@@ -603,10 +619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dunamis-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dunamis-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-arica-monterrey-guanajuato",
@@ -690,10 +707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.70007,
+"lon": -100.52353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cumbres-piedras-negras-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cumbres-piedras-negras-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-rey-sabinas",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.85591,
+"lon": -101.11738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-rey-sabinas-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-rey-sabinas-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-en-mexico-castanos",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.78932,
+"lon": -101.43211,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-en-mexico-castanos-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-en-mexico-castanos-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-en-mexico-evangelio-completo-monclova",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-en-mexico-evangelio-completo-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-en-mexico-evangelio-completo-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-esmirna-francisco-i-madero",
@@ -806,10 +827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.773,
+"lon": -103.27127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-esmirna-francisco-i-madero-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-esmirna-francisco-i-madero-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-piedras-negras",
@@ -835,10 +857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.70007,
+"lon": -100.52353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-piedras-negras-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-piedras-negras-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-dioseana-arteaga",
@@ -864,10 +887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.44528,
+"lon": -100.84667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dioseana-arteaga-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dioseana-arteaga-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-episcopal-san-juan-de-sabinas",
@@ -893,10 +917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.92893,
+"lon": -101.30381,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-episcopal-san-juan-de-sabinas-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-episcopal-san-juan-de-sabinas-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cristiana-espiritual-a-r-francisco-i-madero",
@@ -922,10 +947,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.773,
+"lon": -103.27127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-espiritual-a-r-francisco-i-madero-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-espiritual-a-r-francisco-i-madero-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-misionera-mexicana-guadalupe",
@@ -980,10 +1006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.52699,
+"lon": -103.2285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fuente-de-agua-viva-matamoros-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fuente-de-agua-viva-matamoros-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesus-salva-monclova",
@@ -1009,10 +1036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-salva-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-salva-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nuevo-amanecer-las-torres",
@@ -1038,10 +1066,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.95167,
+"lon": -100.31806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuevo-amanecer-las-torres-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuevo-amanecer-las-torres-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-de-nombre-jesucristo-ciudad-acuna",
@@ -1067,10 +1096,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.32322,
+"lon": -100.95217,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-de-nombre-jesucristo-ciudad-acuna-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-de-nombre-jesucristo-ciudad-acuna-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-sagrada-familia-sabinas",
@@ -1096,10 +1126,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.85591,
+"lon": -101.11738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sagrada-familia-sabinas-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sagrada-familia-sabinas-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-jose-obrero-sabinas",
@@ -1125,10 +1156,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.85591,
+"lon": -101.11738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-obrero-sabinas-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-jose-obrero-sabinas-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-villa-de-fuente-piedras-negras",
@@ -1154,10 +1186,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.70007,
+"lon": -100.52353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villa-de-fuente-piedras-negras-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-villa-de-fuente-piedras-negras-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lluvia-de-gracia-centro-cristiano-poza-rica",
@@ -1212,10 +1245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-de-vida-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/palabra-de-vida-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-bautista-de-saltillo-coahuila",
@@ -1270,10 +1304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.78932,
+"lon": -101.43211,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-gilgal-castanos-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-gilgal-castanos-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "roca-eterna-miepi-santa-catarina",
@@ -1357,10 +1392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-asamblea-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-asamblea-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-bethel-metodista-coahuila",
@@ -1415,10 +1451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.85591,
+"lon": -101.11738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bethesda-sabinas-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bethesda-sabinas-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-centro-de-avivamiento-coahuila",
@@ -1502,10 +1539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.92814,
+"lon": -101.45212,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-emanuel-frontera-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-emanuel-frontera-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-joyas-de-cristo-monclova",
@@ -1531,10 +1569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.90687,
+"lon": -101.42056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-joyas-de-cristo-monclova-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-joyas-de-cristo-monclova-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-moises-elias-municipio-de-puebla",
@@ -1589,10 +1628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.52699,
+"lon": -103.2285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-protestante-matamoros-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-protestante-matamoros-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-sinai-frontera",
@@ -1618,10 +1658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 26.92814,
+"lon": -101.45212,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-sinai-frontera-coahuila"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-sinai-frontera-coahuila",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-smirna-coahuila",

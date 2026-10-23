@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anointed-tabernacle-pentecostal-church-las-vegas-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anointed-tabernacle-pentecostal-church-las-vegas-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembly-of-god-lovelock",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.17935,
+"lon": -118.47348,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-of-god-lovelock-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-of-god-lovelock-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "austin-methodist-church-austin",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.64213,
+"lon": -116.93427,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/battle-mountain-assembly-battle-mountain-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/battle-mountain-assembly-battle-mountain-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-church-bunkerville",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77303,
+"lon": -114.12802,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-church-bunkerville-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-church-bunkerville-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-of-sonrise-blue-diamond",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.1638,
+"lon": -119.7674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carson-river-baptist-church-carson-city-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carson-river-baptist-church-carson-city-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carson-valley-united-methodist-church-gardnerville",
@@ -284,10 +289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9413,
+"lon": -119.74962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carson-valley-united-methodist-church-gardnerville-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carson-valley-united-methodist-church-gardnerville-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crescent-valley-baptist-church-crescent-valley",
@@ -342,10 +348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-camino-a-cristo-lutheran-church-las-vegas-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-camino-a-cristo-lutheran-church-las-vegas-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fernley-first-baptist-church-fernley",
@@ -371,10 +378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.60797,
+"lon": -119.25183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fernley-first-baptist-church-fernley-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fernley-first-baptist-church-fernley-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fernley-united-free-methodist-fernley",
@@ -400,10 +408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.60797,
+"lon": -119.25183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fernley-united-free-methodist-fernley-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fernley-united-free-methodist-fernley-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-korean-presbyterian-church-of-las-vegas-mc-gill",
@@ -458,10 +467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.52963,
+"lon": -119.8138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-church-of-reno-reno-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-church-of-reno-reno-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-carson-city-nevada-carson-city",
@@ -487,10 +497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.1638,
+"lon": -119.7674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-carson-city-nevada-carson-city-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-carson-city-nevada-carson-city-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "foundation-lutheran-church-las-vegas",
@@ -516,10 +527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/foundation-lutheran-church-las-vegas-nv-estados-unidos-12628"
+"fuente_url": "https://encuentraiglesias.com/iglesia/foundation-lutheran-church-las-vegas-nv-estados-unidos-12628",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gift-of-grace-lutheran-fernley",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.60797,
+"lon": -119.25183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gift-of-grace-lutheran-fernley-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gift-of-grace-lutheran-fernley-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-community-church-boulder-city",
@@ -574,10 +587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.97859,
+"lon": -114.83249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-church-boulder-city-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-church-boulder-city-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-valley-christian-reformed-church-las-vegas",
@@ -603,10 +617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-valley-christian-reformed-church-las-vegas-nv-estados-unidos-12300"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-valley-christian-reformed-church-las-vegas-nv-estados-unidos-12300",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "great-basin-reformed-presbyterian-church-virginia-city",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.30963,
+"lon": -119.64962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/great-basin-reformed-presbyterian-church-virginia-city-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/great-basin-reformed-presbyterian-church-virginia-city-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-valley-lutheran-school-henderson",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.0397,
+"lon": -114.98194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/green-valley-lutheran-school-henderson-nv-estados-unidos-28485"
+"fuente_url": "https://encuentraiglesias.com/iglesia/green-valley-lutheran-school-henderson-nv-estados-unidos-28485",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hilltop-baptist-church-beatty",
@@ -690,10 +707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.90856,
+"lon": -116.75923,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hilltop-baptist-church-beatty-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hilltop-baptist-church-beatty-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "imlay-baptist-church-imlay",
@@ -748,10 +766,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.98324,
+"lon": -114.67476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jackpot-baptist-church-jackpot-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jackpot-baptist-church-jackpot-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "las-vegas-reformed-presbyterian-church-las-vegas",
@@ -777,10 +796,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-vegas-reformed-presbyterian-church-las-vegas-nv-estados-unidos-11823"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-vegas-reformed-presbyterian-church-las-vegas-nv-estados-unidos-11823",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-view-assembly-of-god-church-mc-gill",
@@ -835,10 +855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.0397,
+"lon": -114.98194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oasis-baptist-church-henderson-nv-estados-unidos-11799"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oasis-baptist-church-henderson-nv-estados-unidos-11799",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pahrump-valley-umc-pahrump",
@@ -864,10 +885,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.20829,
+"lon": -115.98391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pahrump-valley-umc-pahrump-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pahrump-valley-umc-pahrump-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-temple-church-of-god-in-christ-childrens-center-las-vegas",
@@ -893,10 +915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-temple-church-of-god-in-christ-childrens-center-las-vegas-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-temple-church-of-god-in-christ-childrens-center-las-vegas-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shadow-mountain-church-gardnerville",
@@ -922,10 +945,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9413,
+"lon": -119.74962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shadow-mountain-church-gardnerville-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shadow-mountain-church-gardnerville-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sparks-united-methodist-smith",
@@ -951,10 +975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.80047,
+"lon": -119.32738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sparks-united-methodist-smith-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sparks-united-methodist-smith-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spring-meadows-presbyterian-church-blue-diamond",
@@ -1038,10 +1063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.17497,
+"lon": -115.13722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-life-center-assembly-of-god-church-las-vegas-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-life-center-assembly-of-god-church-las-vegas-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wells-presbyterian-church-wells",
@@ -1067,9 +1093,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.11159,
+"lon": -114.96449,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wells-presbyterian-church-wells-nevada"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wells-presbyterian-church-wells-nevada",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.78622,
+"lon": -2.62245,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-privada-de-fieles-hakuna-cifuentes-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-privada-de-fieles-hakuna-cifuentes-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cristro-de-la-caridad-la-puebla-de-montalban",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.86297,
+"lon": -4.35917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristro-de-la-caridad-la-puebla-de-montalban-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristro-de-la-caridad-la-puebla-de-montalban-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-cristobal-bolanos-de-calatrava",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9069,
+"lon": -3.66345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-cristobal-bolanos-de-calatrava-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-cristobal-bolanos-de-calatrava-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-galindo-campisabalos",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.26667,
+"lon": -3.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-galindo-campisabalos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-galindo-campisabalos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-jose-toledo",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8581,
+"lon": -4.02263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-jose-toledo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-jose-toledo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-cristo-de-los-mercaderes-talavera-de-la-reina",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96348,
+"lon": -4.83076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-cristo-de-los-mercaderes-talavera-de-la-reina-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-cristo-de-los-mercaderes-talavera-de-la-reina-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-escolapios-albacete",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-escolapios-albacete-castilla-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-escolapios-albacete-castilla-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-obispo-de-salona-aunon",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.51752,
+"lon": -2.7925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-obispo-de-salona-aunon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-obispo-de-salona-aunon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carmelitas-descalzas-albacete",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carmelitas-descalzas-albacete-albacete"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carmelitas-descalzas-albacete-albacete",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-del-cura-villarrubia-de-los-ojos",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.22085,
+"lon": -3.60802,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-del-cura-villarrubia-de-los-ojos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-del-cura-villarrubia-de-los-ojos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-evangelico-filadelfia-talavera-de-la-reina",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96348,
+"lon": -4.83076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelico-filadelfia-talavera-de-la-reina-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelico-filadelfia-talavera-de-la-reina-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-evangelistico-casa-de-dios-cuenca",
@@ -342,10 +353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06667,
+"lon": -2.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelistico-casa-de-dios-cuenca-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-evangelistico-casa-de-dios-cuenca-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-pastoral-san-francisco-de-asis-trillo",
@@ -371,10 +383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.70086,
+"lon": -2.59265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-pastoral-san-francisco-de-asis-trillo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-pastoral-san-francisco-de-asis-trillo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-evangelica-maranatha-ocana-ocana",
@@ -400,10 +413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.95785,
+"lon": -3.4982,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-evangelica-maranatha-ocana-ocana-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-evangelica-maranatha-ocana-ocana-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-esclavas-de-maria-almansa",
@@ -429,10 +443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.86917,
+"lon": -1.09713,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-esclavas-de-maria-almansa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-esclavas-de-maria-almansa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-en-honor-a-los-caidos-madridejos",
@@ -458,10 +473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.46823,
+"lon": -3.53196,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-en-honor-a-los-caidos-madridejos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-en-honor-a-los-caidos-madridejos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-pajaron-mohernando",
@@ -487,10 +503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80129,
+"lon": -3.17234,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-pajaron-mohernando-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-pajaron-mohernando-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-salvador-anguita",
@@ -516,10 +533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02659,
+"lon": -2.36849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-salvador-anguita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-salvador-anguita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eremita-san-antonio-almansa",
@@ -545,10 +563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.86917,
+"lon": -1.09713,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eremita-san-antonio-almansa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eremita-san-antonio-almansa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-abuela-santa-ana-el-pedernoso",
@@ -574,10 +593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.4858,
+"lon": -2.74642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-abuela-santa-ana-el-pedernoso-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-abuela-santa-ana-el-pedernoso-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-cristo-de-la-misericordia-herencia",
@@ -603,10 +623,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36616,
+"lon": -3.35735,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cristo-de-la-misericordia-herencia-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cristo-de-la-misericordia-herencia-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-cristo-de-la-salud-santa-ana-de-pusa",
@@ -632,10 +653,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.76238,
+"lon": -4.70904,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cristo-de-la-salud-santa-ana-de-pusa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cristo-de-la-salud-santa-ana-de-pusa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-aceca-villaseca-de-la-sagra",
@@ -661,10 +683,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96185,
+"lon": -3.88291,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-aceca-villaseca-de-la-sagra-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-aceca-villaseca-de-la-sagra-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-castrejon-bajo-polan",
@@ -690,10 +713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.78765,
+"lon": -4.16792,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-castrejon-bajo-polan-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-castrejon-bajo-polan-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-cubillas-albalate-de-zorita",
@@ -719,10 +743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30812,
+"lon": -2.84267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-cubillas-albalate-de-zorita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-cubillas-albalate-de-zorita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-bastida-toledo",
@@ -748,10 +773,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8581,
+"lon": -4.02263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-bastida-toledo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-bastida-toledo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-concepcion-almendros",
@@ -806,10 +832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15759,
+"lon": -3.02156,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-estacion-del-zancara-tomelloso-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-estacion-del-zancara-tomelloso-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-fuenmaria-landete",
@@ -835,10 +862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.9,
+"lon": -1.36667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-fuenmaria-landete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-fuenmaria-landete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-labradora-herencia",
@@ -864,10 +892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36616,
+"lon": -3.35735,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-labradora-herencia-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-labradora-herencia-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-magdalena-ano-1734-almagro",
@@ -893,10 +922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.88941,
+"lon": -3.71131,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-magdalena-ano-1734-almagro-ciudad-real"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-magdalena-ano-1734-almagro-ciudad-real",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-salceda-arbancon",
@@ -922,10 +952,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96434,
+"lon": -3.11505,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-salceda-arbancon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-salceda-arbancon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-soledad-alarilla",
@@ -951,10 +982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84711,
+"lon": -3.1031,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-soledad-alarilla-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-soledad-alarilla-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-cristos-galvez",
@@ -980,10 +1012,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.70208,
+"lon": -4.27239,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-cristos-galvez-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-cristos-galvez-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-cuatro-caminos-ajofrin",
@@ -1009,10 +1042,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.71088,
+"lon": -3.9822,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-cuatro-caminos-ajofrin-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-cuatro-caminos-ajofrin-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-desamparados-almonacid-de-zorita",
@@ -1038,10 +1072,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32932,
+"lon": -2.8504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-desamparados-almonacid-de-zorita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-desamparados-almonacid-de-zorita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-pastorcillos-villel-de-mesa",
@@ -1067,10 +1102,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12616,
+"lon": -1.99072,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-pastorcillos-villel-de-mesa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-pastorcillos-villel-de-mesa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-santos-alustante",
@@ -1096,10 +1132,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.61442,
+"lon": -1.6591,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-santos-alustante-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-santos-alustante-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-maria-del-espino-el-peral",
@@ -1125,10 +1162,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.5,
+"lon": -1.9,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-maria-del-espino-el-peral-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-maria-del-espino-el-peral-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-n-sra-de-las-angustias-escariche",
@@ -1154,10 +1192,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.40553,
+"lon": -3.0531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-n-sra-de-las-angustias-escariche-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-n-sra-de-las-angustias-escariche-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-penamira-tamajon",
@@ -1183,10 +1222,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.99914,
+"lon": -3.24743,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-penamira-tamajon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-penamira-tamajon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-s-juan-restos-albalate-de-zorita",
@@ -1212,10 +1252,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30812,
+"lon": -2.84267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-s-juan-restos-albalate-de-zorita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-s-juan-restos-albalate-de-zorita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-anton-almonacid-de-zorita",
@@ -1241,10 +1282,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.32932,
+"lon": -2.8504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-almonacid-de-zorita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-almonacid-de-zorita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-anton-y-san-isidro-labrador-la-almarcha",
@@ -1270,10 +1312,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68626,
+"lon": -2.38011,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-y-san-isidro-labrador-la-almarcha-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-y-san-isidro-labrador-la-almarcha-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-anton-y-santa-lucia-belmonte",
@@ -1299,10 +1342,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.55746,
+"lon": -2.70461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-y-santa-lucia-belmonte-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-anton-y-santa-lucia-belmonte-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-isidro-y-san-jorge-casasimarro",
@@ -1328,10 +1372,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36667,
+"lon": -2.03333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-isidro-y-san-jorge-casasimarro-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-isidro-y-san-jorge-casasimarro-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-jose-almodovar-del-campo",
@@ -1357,10 +1402,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.70936,
+"lon": -4.17908,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-jose-almodovar-del-campo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-jose-almodovar-del-campo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-mames-altarejos",
@@ -1386,10 +1432,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.91258,
+"lon": -2.35692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mames-altarejos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mames-altarejos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pedro-y-san-juan-de-la-cruz-pastrana",
@@ -1415,10 +1462,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.41902,
+"lon": -2.92256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pedro-y-san-juan-de-la-cruz-pastrana-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pedro-y-san-juan-de-la-cruz-pastrana-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-policarpo-calera-y-chozas",
@@ -1444,10 +1492,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.88278,
+"lon": -4.98213,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-policarpo-calera-y-chozas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-policarpo-calera-y-chozas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-roque-albendiego",
@@ -1473,10 +1522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.22742,
+"lon": -3.05171,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-roque-albendiego-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-roque-albendiego-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-ana-alocen",
@@ -1502,10 +1552,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.57455,
+"lon": -2.74993,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-ana-alocen-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-ana-alocen-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-quiteria-albalate-de-las-nogueras",
@@ -1531,10 +1582,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.36614,
+"lon": -2.27718,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-quiteria-albalate-de-las-nogueras-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-quiteria-albalate-de-las-nogueras-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-almoguera",
@@ -1560,10 +1612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.29713,
+"lon": -2.9824,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-almoguera-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-almoguera-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-humildad-el-toboso",
@@ -1589,10 +1642,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.51333,
+"lon": -2.99726,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-humildad-el-toboso-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-humildad-el-toboso-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-misericordia-miguelturra",
@@ -1618,10 +1672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96442,
+"lon": -3.89047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-misericordia-miguelturra-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-misericordia-miguelturra-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-cristo-de-la-sala-bargas",
@@ -1647,10 +1702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.94113,
+"lon": -4.01979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-sala-bargas-castilla-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-cristo-de-la-sala-bargas-castilla-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-madronal-aunon",
@@ -1676,10 +1732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.51752,
+"lon": -2.7925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-madronal-aunon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-madronal-aunon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-milagro-navahermosa",
@@ -1705,10 +1762,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.63526,
+"lon": -4.47012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-milagro-navahermosa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-milagro-navahermosa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santisimo-cristo-de-la-salud-minglanilla",
@@ -1734,10 +1792,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.53333,
+"lon": -1.6,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-de-la-salud-minglanilla-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-de-la-salud-minglanilla-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santisimo-cristo-de-las-eras-carcelen",
@@ -1763,10 +1822,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10202,
+"lon": -1.30879,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-de-las-eras-carcelen-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-de-las-eras-carcelen-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santisimo-cristo-salvador-del-mundo-calzada-de-calatrava",
@@ -1821,10 +1881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13333,
+"lon": -3.06667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-alto-rey-bustares-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-alto-rey-bustares-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-de-pinilla-lupiana",
@@ -1850,10 +1911,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.60846,
+"lon": -3.05118,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-pinilla-lupiana-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-pinilla-lupiana-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-rostro-honrubia",
@@ -1879,10 +1941,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61358,
+"lon": -2.28077,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-rostro-honrubia-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-rostro-honrubia-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-sepulcro-las-pedroneras",
@@ -1908,10 +1971,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.44997,
+"lon": -2.67394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-sepulcro-las-pedroneras-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-sepulcro-las-pedroneras-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-valle-toledo",
@@ -1937,10 +2001,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8581,
+"lon": -4.02263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-valle-toledo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-valle-toledo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-el-collado-berninches",
@@ -1966,10 +2031,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.57106,
+"lon": -2.80121,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-collado-berninches-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-collado-berninches-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-nstra-sra-de-bienvenida-alcolea-de-tajo",
@@ -1995,10 +2061,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80966,
+"lon": -5.14738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-nstra-sra-de-bienvenida-alcolea-de-tajo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-nstra-sra-de-bienvenida-alcolea-de-tajo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-andres-de-poyos-sacedon",
@@ -2024,10 +2091,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48076,
+"lon": -2.73337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-andres-de-poyos-sacedon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-andres-de-poyos-sacedon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-antonio-abad-canaveras",
@@ -2053,10 +2121,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.35994,
+"lon": -2.39611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-antonio-abad-canaveras-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-antonio-abad-canaveras-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-isidro-bolanos-de-calatrava",
@@ -2082,10 +2151,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9069,
+"lon": -3.66345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-isidro-bolanos-de-calatrava-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-isidro-bolanos-de-calatrava-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-maria-del-castanar-viso-del-marques",
@@ -2111,10 +2181,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.52208,
+"lon": -3.56348,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-del-castanar-viso-del-marques-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-del-castanar-viso-del-marques-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santisimo-cristo-de-la-expiacion-montiel",
@@ -2140,10 +2211,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.69802,
+"lon": -2.86441,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santisimo-cristo-de-la-expiacion-montiel-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santisimo-cristo-de-la-expiacion-montiel-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santo-cristo-checa",
@@ -2169,10 +2241,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58614,
+"lon": -1.79056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-checa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-cristo-checa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santos-martires-argamasilla-de-calatrava",
@@ -2198,10 +2271,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.72985,
+"lon": -4.07627,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santos-martires-argamasilla-de-calatrava-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santos-martires-argamasilla-de-calatrava-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-virgen-soledad-guadalajara",
@@ -2227,10 +2301,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62862,
+"lon": -3.16185,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-virgen-soledad-guadalajara-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-virgen-soledad-guadalajara-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-virgen-traspaso-y-soledad-guadalajara",
@@ -2256,10 +2331,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62862,
+"lon": -3.16185,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-virgen-traspaso-y-soledad-guadalajara-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-virgen-traspaso-y-soledad-guadalajara-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermitilla-de-la-piedad-quintanar-de-la-orden",
@@ -2285,10 +2361,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.59369,
+"lon": -3.04165,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermitilla-de-la-piedad-quintanar-de-la-orden-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermitilla-de-la-piedad-quintanar-de-la-orden-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "guillermo-tauste-albacete",
@@ -2314,10 +2391,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/guillermo-tauste-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/guillermo-tauste-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermita-santa-ana-lagartera",
@@ -2343,10 +2421,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.90557,
+"lon": -5.20143,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-santa-ana-lagartera-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermita-santa-ana-lagartera-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-ascension-del-senor-sesena",
@@ -2372,10 +2451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.10473,
+"lon": -3.69793,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ascension-del-senor-sesena-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ascension-del-senor-sesena-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-alcazar-de-san-juan",
@@ -2401,10 +2481,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39011,
+"lon": -3.20827,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-alcazar-de-san-juan-castilla-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-alcazar-de-san-juan-castilla-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-de-valdepenas-valdepenas",
@@ -2430,10 +2511,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76211,
+"lon": -3.38483,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-valdepenas-valdepenas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-valdepenas-valdepenas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-casalgordo-sonseca",
@@ -2459,10 +2541,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.67747,
+"lon": -3.97448,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-casalgordo-sonseca-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-casalgordo-sonseca-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-colliguilla-cuenca",
@@ -2488,10 +2571,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06667,
+"lon": -2.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-colliguilla-cuenca-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-colliguilla-cuenca-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-ministerial-de-jesucristo-internacional-albacete",
@@ -2517,10 +2601,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-ministerial-de-jesucristo-internacional-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-ministerial-de-jesucristo-internacional-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-asuncion-albendea",
@@ -2546,10 +2631,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48751,
+"lon": -2.41747,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-albendea-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-albendea-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-purisima-concepcion-albacete",
@@ -2575,10 +2661,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purisima-concepcion-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purisima-concepcion-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-santisima-trinidad-alcaraz",
@@ -2604,10 +2691,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6668,
+"lon": -2.49105,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-alcaraz-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-alcaraz-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ns-de-la-asuncion-narboneta",
@@ -2633,10 +2721,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75,
+"lon": -1.46667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ns-de-la-asuncion-narboneta-cuenca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ns-de-la-asuncion-narboneta-cuenca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ntra-sra-de-la-candelaria-villanueva-de-san-carlos",
@@ -2662,10 +2751,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.62173,
+"lon": -3.90903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-de-la-candelaria-villanueva-de-san-carlos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ntra-sra-de-la-candelaria-villanueva-de-san-carlos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-riba-de-santiuste-siguenza",
@@ -2691,10 +2781,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.06892,
+"lon": -2.64308,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-riba-de-santiuste-siguenza-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-riba-de-santiuste-siguenza-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-bernabe-rozalen-del-monte",
@@ -2720,10 +2811,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.99083,
+"lon": -2.80525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-bernabe-rozalen-del-monte-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-bernabe-rozalen-del-monte-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-bernabe-valdenuno-fernandez",
@@ -2778,10 +2870,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.94897,
+"lon": -4.57175,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-ciprian-cebolla-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-ciprian-cebolla-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-cosme-y-san-damian-bolanos-de-calatrava",
@@ -2807,10 +2900,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9069,
+"lon": -3.66345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cosme-y-san-damian-bolanos-de-calatrava-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cosme-y-san-damian-bolanos-de-calatrava-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-dionisio-areopagita-fuente-alamo",
@@ -2836,10 +2930,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.69288,
+"lon": -1.43158,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-dionisio-areopagita-fuente-alamo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-dionisio-areopagita-fuente-alamo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-esteban-albares",
@@ -2865,10 +2960,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3069,
+"lon": -3.00897,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-esteban-albares-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-esteban-albares-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-esteban-protomartir-bargas",
@@ -2894,10 +2990,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.94113,
+"lon": -4.01979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-esteban-protomartir-bargas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-esteban-protomartir-bargas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-felipe-y-santiago-bolanos-de-calatrava",
@@ -2923,10 +3020,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9069,
+"lon": -3.66345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-felipe-y-santiago-bolanos-de-calatrava-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-felipe-y-santiago-bolanos-de-calatrava-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-de-asis-franciscanos-albacete",
@@ -2952,10 +3050,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-franciscanos-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-franciscanos-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-de-asis-talavera-de-la-reina",
@@ -2981,10 +3080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96348,
+"lon": -4.83076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-talavera-de-la-reina-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-talavera-de-la-reina-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gil-cuenca",
@@ -3010,10 +3110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06667,
+"lon": -2.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gil-cuenca-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gil-cuenca-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gines-casas-de-benitez",
@@ -3039,10 +3140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.36667,
+"lon": -2.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gines-casas-de-benitez-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gines-casas-de-benitez-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-ildefonso-albatana",
@@ -3068,10 +3170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.57057,
+"lon": -1.5221,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-ildefonso-albatana-castilla-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-ildefonso-albatana-castilla-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jorge-graja-de-iniesta",
@@ -3097,10 +3200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.51667,
+"lon": -1.66667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jorge-graja-de-iniesta-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jorge-graja-de-iniesta-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-alcazar-de-san-juan",
@@ -3126,10 +3230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.39011,
+"lon": -3.20827,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-alcazar-de-san-juan-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-alcazar-de-san-juan-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-de-anteportalatina-santa-cruz-de-moya",
@@ -3155,10 +3260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.95,
+"lon": -1.26667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-de-anteportalatina-santa-cruz-de-moya-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-de-anteportalatina-santa-cruz-de-moya-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-julian-cantalojas",
@@ -3184,10 +3290,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23472,
+"lon": -3.24629,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-julian-cantalojas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-julian-cantalojas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-lorenzo-martir-bustares",
@@ -3213,10 +3320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13333,
+"lon": -3.06667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lorenzo-martir-bustares-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lorenzo-martir-bustares-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-arcaagel-una",
@@ -3242,10 +3350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.2241,
+"lon": -1.97788,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-arcaagel-una-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-arcaagel-una-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-advincula-campos-del-paraiso",
@@ -3300,10 +3409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.61667,
+"lon": -2.1,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-y-san-pablo-olmedilla-de-alarcon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-y-san-pablo-olmedilla-de-alarcon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-roman-martir-san-roman-de-los-montes",
@@ -3358,10 +3468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.5814,
+"lon": -2.8889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-eulalia-de-merida-penalver-guadalajara"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-eulalia-de-merida-penalver-guadalajara",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-de-melque-san-martin-de-montalban",
@@ -3387,10 +3498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.70186,
+"lon": -4.38796,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-melque-san-martin-de-montalban-toledo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-melque-san-martin-de-montalban-toledo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-micaela-guadalajara",
@@ -3416,10 +3528,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62862,
+"lon": -3.16185,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-micaela-guadalajara-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-micaela-guadalajara-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-domingo-albacete",
@@ -3445,10 +3558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-domingo-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-domingo-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sta-maria-magdalena-villamuelas",
@@ -3474,10 +3588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.81784,
+"lon": -3.73461,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sta-maria-magdalena-villamuelas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sta-maria-magdalena-villamuelas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-buen-pastor-toledo",
@@ -3503,10 +3618,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8581,
+"lon": -4.02263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-buen-pastor-toledo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-buen-pastor-toledo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-buen-suceso-almodovar-del-campo",
@@ -3532,10 +3648,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.70936,
+"lon": -4.17908,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-buen-suceso-almodovar-del-campo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-buen-suceso-almodovar-del-campo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santisimo-cristo-de-la-sangre-torrijas",
@@ -3561,10 +3678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01667,
+"lon": -0.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santisimo-cristo-de-la-sangre-torrijas-toledo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santisimo-cristo-de-la-sangre-torrijas-toledo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santisimo-cristo-del-amparo-cuenca",
@@ -3590,10 +3708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06667,
+"lon": -2.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santisimo-cristo-del-amparo-cuenca-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santisimo-cristo-del-amparo-cuenca-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santisimo-cristo-del-valle-san-carlos-del-valle",
@@ -3619,10 +3738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84399,
+"lon": -3.24148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santisimo-cristo-del-valle-san-carlos-del-valle-ciudad-real"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santisimo-cristo-del-valle-san-carlos-del-valle-ciudad-real",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-emanuel-quintanar-de-la-orden",
@@ -3648,10 +3768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.59369,
+"lon": -3.04165,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-emanuel-quintanar-de-la-orden-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-emanuel-quintanar-de-la-orden-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostala-campo-de-criptana",
@@ -3677,10 +3798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.40463,
+"lon": -3.12492,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostala-campo-de-criptana-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostala-campo-de-criptana-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-puertollano-puertollano",
@@ -3706,10 +3828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.68712,
+"lon": -4.10734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-puertollano-puertollano-castilla-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-puertollano-puertollano-castilla-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-invencion-de-la-santa-cruz-almendros",
@@ -3764,10 +3887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.14526,
+"lon": -2.69026,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-real-de-san-nicolas-de-medina-huete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-real-de-san-nicolas-de-medina-huete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-romanica-de-san-pedro-de-villacadima-cantalojas",
@@ -3793,10 +3917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23472,
+"lon": -3.24629,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-romanica-de-san-pedro-de-villacadima-cantalojas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-romanica-de-san-pedro-de-villacadima-cantalojas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-sagrada-familia-el-casar",
@@ -3822,10 +3947,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53089,
+"lon": -5.92513,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sagrada-familia-el-casar-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sagrada-familia-el-casar-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-antonio-de-padua-guadalajara",
@@ -3851,10 +3977,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62862,
+"lon": -3.16185,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-de-padua-guadalajara-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-de-padua-guadalajara-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-bautista-alarcon",
@@ -3880,10 +4007,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.55,
+"lon": -2.08333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-alarcon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-alarcon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-bautista-de-la-concepcion-valdepenas",
@@ -3909,10 +4037,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76211,
+"lon": -3.38483,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-de-la-concepcion-valdepenas-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-de-la-concepcion-valdepenas-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-pablo-albacete",
@@ -3938,10 +4067,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pablo-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pablo-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-pedro-apostol-villanueva-de-guadamejud",
@@ -3996,10 +4126,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9069,
+"lon": -3.66345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-bolanos-de-calatrava-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-bolanos-de-calatrava-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santisimo-cristo-de-la-hulmildad-oropesa",
@@ -4025,10 +4156,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.91726,
+"lon": -5.17371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santisimo-cristo-de-la-hulmildad-oropesa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santisimo-cristo-de-la-hulmildad-oropesa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oratorio-de-santo-tomas-de-villanueva-villanueva-de-los-infantes",
@@ -4083,10 +4215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30812,
+"lon": -2.84267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-andres-albalate-de-zorita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-andres-albalate-de-zorita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-anton-los-hinojosos",
@@ -4112,10 +4245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.60417,
+"lon": -2.82572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-anton-los-hinojosos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-anton-los-hinojosos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-bernabe-los-hinojosos",
@@ -4141,10 +4275,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.60417,
+"lon": -2.82572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-bernabe-los-hinojosos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-bernabe-los-hinojosos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-francisco-de-asis-hellin",
@@ -4170,10 +4305,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.5106,
+"lon": -1.70096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-francisco-de-asis-hellin-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-francisco-de-asis-hellin-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-de-los-reyes-toledo",
@@ -4199,10 +4335,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8581,
+"lon": -4.02263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-de-los-reyes-toledo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-de-los-reyes-toledo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-pablo-ii-albacete",
@@ -4228,10 +4365,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-pablo-ii-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-pablo-ii-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-marcos-evangelista-pareja",
@@ -4257,10 +4395,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.55578,
+"lon": -2.64882,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-marcos-evangelista-pareja-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-marcos-evangelista-pareja-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-mateo-apostol-pozo-de-guadalajara",
@@ -4286,10 +4425,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.49533,
+"lon": -3.1814,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-mateo-apostol-pozo-de-guadalajara-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-mateo-apostol-pozo-de-guadalajara-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pedro-anguita",
@@ -4315,10 +4455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02659,
+"lon": -2.36849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-anguita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-anguita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-victor-y-santa-corona-tarancon",
@@ -4344,10 +4485,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.00851,
+"lon": -3.00731,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-victor-y-santa-corona-tarancon-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-victor-y-santa-corona-tarancon-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-cecilia-almoguera",
@@ -4373,10 +4515,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.29713,
+"lon": -2.9824,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cecilia-almoguera-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cecilia-almoguera-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-cruz-azuqueca-de-henares",
@@ -4402,10 +4545,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.56566,
+"lon": -3.26753,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-azuqueca-de-henares-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-azuqueca-de-henares-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-de-la-merced-huete",
@@ -4431,10 +4575,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.14526,
+"lon": -2.69026,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-la-merced-huete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-la-merced-huete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-de-medina-anguita",
@@ -4460,10 +4605,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02659,
+"lon": -2.36849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-medina-anguita-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-de-medina-anguita-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-magdalena-garciotum",
@@ -4518,10 +4664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.56566,
+"lon": -3.26753,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-teresa-de-jesus-azuqueca-de-henares-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-teresa-de-jesus-azuqueca-de-henares-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santiago-apostol-valsalobre",
@@ -4547,10 +4694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.61742,
+"lon": -2.09297,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-apostol-valsalobre-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santiago-apostol-valsalobre-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-de-la-hontanilla-los-hinojosos",
@@ -4576,10 +4724,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.60417,
+"lon": -2.82572,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-de-la-hontanilla-los-hinojosos-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-de-la-hontanilla-los-hinojosos-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tanatorio-municipal-santa-cruz-de-mudela",
@@ -4605,10 +4754,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.64241,
+"lon": -3.4665,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tanatorio-municipal-santa-cruz-de-mudela-ciudad-real"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tanatorio-municipal-santa-cruz-de-mudela-ciudad-real",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tual-de-yemita-oropesa",
@@ -4634,10 +4784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.91726,
+"lon": -5.17371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tual-de-yemita-oropesa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tual-de-yemita-oropesa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tual-escopeta-oropesa",
@@ -4663,10 +4814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.91726,
+"lon": -5.17371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tual-escopeta-oropesa-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tual-escopeta-oropesa-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "velatorio-navalmoralejo",
@@ -4692,10 +4844,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.73929,
+"lon": -5.14359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/velatorio-navalmoralejo-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/velatorio-navalmoralejo-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zoe-vida-de-dios-iglesia-cristiana-evangelica-albacete",
@@ -4721,9 +4874,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99424,
+"lon": -1.85643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zoe-vida-de-dios-iglesia-cristiana-evangelica-albacete-castile-la-mancha"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zoe-vida-de-dios-iglesia-cristiana-evangelica-albacete-castile-la-mancha",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

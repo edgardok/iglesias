@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.83667,
+"lon": -79.93417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-fatima-pimentel-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-fatima-pimentel-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-santisima-cruz-de-mocape-olmos",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.98472,
+"lon": -79.74528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santisima-cruz-de-mocape-olmos-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-santisima-cruz-de-mocape-olmos-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-pimentel-provivienda-pimentel",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.83667,
+"lon": -79.93417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-pimentel-provivienda-pimentel-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-pimentel-provivienda-pimentel-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-monsenor-oscar-a-romero-la-victoria",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -7.1353,
+"lon": -76.74165,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-monsenor-oscar-a-romero-la-victoria-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-monsenor-oscar-a-romero-la-victoria-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-salitral-motupe",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.15194,
+"lon": -79.71417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-salitral-motupe-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-salitral-motupe-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santisima-cruz-de-chalpon-motupe",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.15194,
+"lon": -79.71417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santisima-cruz-de-chalpon-motupe-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santisima-cruz-de-chalpon-motupe-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-simon-bolivar-pimentel",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.83667,
+"lon": -79.93417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-simon-bolivar-pimentel-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-simon-bolivar-pimentel-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-santisimo-ferrenafe",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.63889,
+"lon": -79.78889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-santisimo-ferrenafe-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-santisimo-ferrenafe-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-chiclayo",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.77008,
+"lon": -79.85495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-chiclayo-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-chiclayo-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-avivamiento-chiclayo",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.77008,
+"lon": -79.85495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-avivamiento-chiclayo-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-avivamiento-chiclayo-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-cristo-tuman-tuman",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.74314,
+"lon": -79.85105,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-asambleas-de-dios-emanuel-jose-leonardo-ortiz-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-asambleas-de-dios-emanuel-jose-leonardo-ortiz-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-de-los-olivos-mocupe",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.98944,
+"lon": -79.61917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-de-los-olivos-mocupe-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-de-los-olivos-mocupe-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nazareno-chiclayo",
@@ -400,10 +412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.77008,
+"lon": -79.85495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nazareno-chiclayo-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nazareno-chiclayo-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-apostolica-chiclayo",
@@ -429,10 +442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.77008,
+"lon": -79.85495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-apostolica-chiclayo-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-apostolica-chiclayo-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-chiclayo",
@@ -458,10 +472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.77008,
+"lon": -79.85495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-chiclayo-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-chiclayo-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostes-los-portales-pimentel",
@@ -487,10 +502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.83667,
+"lon": -79.93417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-los-portales-pimentel-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-los-portales-pimentel-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pueblo-nuevo-ferrenafe",
@@ -516,10 +532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.63889,
+"lon": -79.78889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pueblo-nuevo-ferrenafe-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pueblo-nuevo-ferrenafe-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-martin-de-porras-olmos",
@@ -545,10 +562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.98472,
+"lon": -79.74528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-martin-de-porras-olmos-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-martin-de-porras-olmos-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-testigo-de-jeova-tuman",
@@ -603,9 +621,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.98472,
+"lon": -79.74528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-del-puente-olmos-lambayeque"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-del-puente-olmos-lambayeque",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

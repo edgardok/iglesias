@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14304,
+"lon": -88.15188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-hospital-san-carlos-tizimin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-hospital-san-carlos-tizimin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-punto-de-vida-merida",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-punto-de-vida-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-punto-de-vida-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-abandonada-de-kancanchen-casares-tixkokob",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.0012,
+"lon": -89.39476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-abandonada-de-kancanchen-casares-tixkokob-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-abandonada-de-kancanchen-casares-tixkokob-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-1-yucatan",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.55192,
+"lon": -89.85698,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-susula-opichen-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-susula-opichen-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-agua-viva-yucatan",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-11-a-popola-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-11-a-popola-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-18a-kanasin-kanasin",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.93485,
+"lon": -89.55822,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-18a-kanasin-kanasin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-18a-kanasin-kanasin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-19a-mococha-mococha",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.10678,
+"lon": -89.45286,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-19a-mococha-mococha-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-19a-mococha-mococha-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-21a-kimbila-izamal",
@@ -284,10 +291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.93315,
+"lon": -89.01887,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-kimbila-izamal-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-kimbila-izamal-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-21a-molas-merida",
@@ -313,10 +321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-molas-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-molas-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-21a-sotuta-sotuta",
@@ -342,10 +351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.59666,
+"lon": -89.00798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-sotuta-sotuta-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-sotuta-sotuta-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-21a-sucila-sucila",
@@ -371,10 +381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.15665,
+"lon": -88.31474,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-sucila-sucila-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-21a-sucila-sucila-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-25a-ticul-ticul",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.39875,
+"lon": -89.53493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-25a-ticul-ticul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-25a-ticul-ticul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-33a-temax-temax",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.15056,
+"lon": -88.93941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-33a-temax-temax-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-33a-temax-temax-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-akil-akil",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.2654,
+"lon": -89.34726,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-akil-akil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-akil-akil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-baca-mococha",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.10678,
+"lon": -89.45286,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-baca-mococha-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-baca-mococha-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-barrio-de-sisal-valladolid",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-barrio-de-sisal-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-barrio-de-sisal-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-bolon-uman",
@@ -545,10 +561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88149,
+"lon": -89.74798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-bolon-uman-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-bolon-uman-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cacalchen-cacalchen",
@@ -574,10 +591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.98358,
+"lon": -89.22686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cacalchen-cacalchen-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cacalchen-cacalchen-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-calcehtok-opichen",
@@ -603,10 +621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.55192,
+"lon": -89.85698,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-calcehtok-opichen-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-calcehtok-opichen-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-camino-dzitnup-ebtun-valladolid",
@@ -632,10 +651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-camino-dzitnup-ebtun-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-camino-dzitnup-ebtun-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-citilcum-tixkochoh-tekanto",
@@ -661,10 +681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.00968,
+"lon": -89.10723,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-citilcum-tixkochoh-tekanto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-citilcum-tixkochoh-tekanto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-hunucma-uman-uman",
@@ -690,10 +711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88149,
+"lon": -89.74798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-hunucma-uman-uman-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-hunucma-uman-uman-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-kinchil-tamchen-kinchil",
@@ -719,10 +741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.91354,
+"lon": -89.95018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-kinchil-tamchen-kinchil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-kinchil-tamchen-kinchil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-kinchil-uman-oxholon-uman",
@@ -748,10 +771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88149,
+"lon": -89.74798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-kinchil-uman-oxholon-uman-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-kinchil-uman-oxholon-uman-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-merida-acanceh-hunxectaman-merida",
@@ -777,10 +801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-merida-acanceh-hunxectaman-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-merida-acanceh-hunxectaman-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-merida-dzilam-de-b-kaxatah-motul",
@@ -806,10 +831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.09571,
+"lon": -89.28332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-merida-dzilam-de-b-kaxatah-motul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-merida-dzilam-de-b-kaxatah-motul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-merida-oxkutzcab-cuzama-yucatan",
@@ -864,10 +890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.97742,
+"lon": -89.44222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-merida-tekanto-techoh-tixpehual-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-merida-tekanto-techoh-tixpehual-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-motul-puerto-telch-motul",
@@ -893,10 +920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.09571,
+"lon": -89.28332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-motul-puerto-telch-motul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-motul-puerto-telch-motul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-peto-ichmul-progresito-peto",
@@ -922,10 +950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.1261,
+"lon": -88.92302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-peto-ichmul-progresito-peto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-peto-ichmul-progresito-peto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-tekax-tixmehuac-tixcuytun-tekax",
@@ -980,10 +1009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.1261,
+"lon": -88.92302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-teya-peto-peto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-teya-peto-peto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-teya-peto-telchaquillo-tecoh",
@@ -1067,10 +1097,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.73918,
+"lon": -89.2849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-tixkokob-sotuta-polaban-homun-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-tixkokob-sotuta-polaban-homun-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-tixkokob-sotuta-sotuta",
@@ -1096,10 +1127,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.59666,
+"lon": -89.00798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-tixkokob-sotuta-sotuta-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-tixkokob-sotuta-sotuta-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-valladolid-rio-lag-kikil-tizimin",
@@ -1125,10 +1157,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14304,
+"lon": -88.15188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-valladolid-rio-lag-kikil-tizimin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-valladolid-rio-lag-kikil-tizimin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-yaxcaba-tixcacaltu-tixcacaltuyub-yaxcaba",
@@ -1154,10 +1187,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-yaxcaba-tixcacaltu-tixcacaltuyub-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-carretera-yaxcaba-tixcacaltu-tixcacaltuyub-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cerrada-31-samahil-samahil",
@@ -1183,10 +1217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88348,
+"lon": -89.88826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cerrada-31-samahil-samahil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cerrada-31-samahil-samahil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-chalmuch-merida",
@@ -1212,10 +1247,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-chalmuch-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-chalmuch-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-chan-cenote-tizimin",
@@ -1241,10 +1277,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14304,
+"lon": -88.15188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-chan-cenote-tizimin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-chan-cenote-tizimin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-chikindzonot-chikindzonot",
@@ -1270,10 +1307,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.3378,
+"lon": -88.48708,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-chikindzonot-chikindzonot-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-chikindzonot-chikindzonot-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cholul-cholul",
@@ -1299,10 +1337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.04288,
+"lon": -89.55792,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cholul-cholul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cholul-cholul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-chuchub-tixmehuac-yucatan",
@@ -1357,10 +1396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ciclopista-a-dzitnup-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ciclopista-a-dzitnup-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-citilcum-izamal",
@@ -1386,10 +1426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.93315,
+"lon": -89.01887,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-citilcum-izamal-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-citilcum-izamal-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-colonia-los-limones-chicxulub-pueblo",
@@ -1415,10 +1456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.13709,
+"lon": -89.51596,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-colonia-los-limones-chicxulub-pueblo-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-colonia-los-limones-chicxulub-pueblo-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cuncunul-cuncunul",
@@ -1444,10 +1486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.64045,
+"lon": -88.2965,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cuncunul-cuncunul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cuncunul-cuncunul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cuzama-cuzama",
@@ -1473,10 +1516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.74202,
+"lon": -89.31732,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cuzama-cuzama-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-cuzama-cuzama-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-distrito-1-merida",
@@ -1502,10 +1546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-distrito-1-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-distrito-1-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzan-dzan",
@@ -1531,10 +1576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.38988,
+"lon": -89.46849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzan-dzan-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzan-dzan-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzibilchaltun-dzibilchaltun",
@@ -1589,10 +1635,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.24898,
+"lon": -89.04205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzidzantun-dzidzantun-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzidzantun-dzidzantun-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzilam-de-bravo-dzilam-de-bravo",
@@ -1618,10 +1665,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.3917,
+"lon": -88.89421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzilam-de-bravo-dzilam-de-bravo-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzilam-de-bravo-dzilam-de-bravo-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzitya-merida",
@@ -1647,10 +1695,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzitya-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzitya-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzoncauich-dzoncauich",
@@ -1676,10 +1725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.12887,
+"lon": -88.89068,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzoncauich-dzoncauich-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzoncauich-dzoncauich-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzoyaxche-merida",
@@ -1705,10 +1755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzoyaxche-merida-yucatan-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzoyaxche-merida-yucatan-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzununcan-merida",
@@ -1734,10 +1785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzununcan-merida-yucatan-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzununcan-merida-yucatan-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-dzununcan-merida-2",
@@ -1763,10 +1815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzununcan-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-dzununcan-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-ekmul-tixkokob",
@@ -1792,10 +1845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.0012,
+"lon": -89.39476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ekmul-tixkokob-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ekmul-tixkokob-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-granada-maxcanu",
@@ -1821,10 +1875,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.58567,
+"lon": -90.002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-granada-maxcanu-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-granada-maxcanu-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-haltunchen-xmatkuil",
@@ -1850,10 +1905,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.8637,
+"lon": -89.62466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-haltunchen-xmatkuil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-haltunchen-xmatkuil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-hocaba-hocaba",
@@ -1879,10 +1935,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.8162,
+"lon": -89.24626,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-hocaba-hocaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-hocaba-hocaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-holca-kantunil",
@@ -1908,10 +1965,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.79677,
+"lon": -89.03535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-holca-kantunil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-holca-kantunil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-homun-homun",
@@ -1937,10 +1995,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.73918,
+"lon": -89.2849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-homun-homun-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-homun-homun-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-huechen-balam-yaxcaba-yaxcaba",
@@ -1966,10 +2025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-huechen-balam-yaxcaba-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-huechen-balam-yaxcaba-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-huhi-huhi",
@@ -1995,10 +2055,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.72603,
+"lon": -89.16072,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-huhi-huhi-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-huhi-huhi-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-hunucma-ucu",
@@ -2024,10 +2085,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.03193,
+"lon": -89.74617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-hunucma-ucu-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-hunucma-ucu-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-hunxectaman-uman",
@@ -2053,10 +2115,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88149,
+"lon": -89.74798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-hunxectaman-uman-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-hunxectaman-uman-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-ixil-ixil",
@@ -2082,10 +2145,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.15382,
+"lon": -89.48177,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ixil-ixil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-ixil-ixil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kancabdzonot-yaxcaba",
@@ -2111,10 +2175,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kancabdzonot-yaxcaba-yucatan-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kancabdzonot-yaxcaba-yucatan-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kantunil-kantunil",
@@ -2140,10 +2205,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.79677,
+"lon": -89.03535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kantunil-kantunil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kantunil-kantunil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kaua-kaua",
@@ -2169,10 +2235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.62132,
+"lon": -88.41434,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kaua-kaua-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kaua-kaua-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kaxatah-motul",
@@ -2198,10 +2265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.09571,
+"lon": -89.28332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kaxatah-motul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kaxatah-motul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kilinche-tixpehual",
@@ -2227,10 +2295,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.97742,
+"lon": -89.44222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kilinche-tixpehual-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kilinche-tixpehual-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kini-motul",
@@ -2256,10 +2325,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.09571,
+"lon": -89.28332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kini-motul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-kini-motul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-kinil-tekax",
@@ -2314,10 +2384,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.53692,
+"lon": -88.26998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-la-autopista-chikindzonot-x-thobi-poop-tixcacalcupul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-la-autopista-chikindzonot-x-thobi-poop-tixcacalcupul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-lepan-tecoh",
@@ -2372,10 +2443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.4775,
+"lon": -89.36469,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mama-mama-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mama-mama-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-mani-mani",
@@ -2401,10 +2473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.38774,
+"lon": -89.39189,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mani-mani-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mani-mani-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-mayapan-mayapan",
@@ -2430,10 +2503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.46839,
+"lon": -89.21395,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mayapan-mayapan-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-mayapan-mayapan-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-merida-merida",
@@ -2459,10 +2533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-merida-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-merida-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-motul-yucatan",
@@ -2517,10 +2592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.04295,
+"lon": -89.3297,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-muxupip-muxupip-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-muxupip-muxupip-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-nahbalam-temozon",
@@ -2546,10 +2622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.80393,
+"lon": -88.20155,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-nahbalam-temozon-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-nahbalam-temozon-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-nolo-tixkokob",
@@ -2575,10 +2652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.0012,
+"lon": -89.39476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-nolo-tixkokob-yucatan-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-nolo-tixkokob-yucatan-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-oxkutzcab-oxkutzcab",
@@ -2633,10 +2711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.1261,
+"lon": -88.92302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-papacal-peto-peto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-papacal-peto-peto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-petac-merida",
@@ -2662,10 +2741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-petac-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-petac-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-peto-peto",
@@ -2691,10 +2771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.1261,
+"lon": -88.92302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-peto-peto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-peto-peto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-prolongacion-30-tzucacab",
@@ -2720,10 +2801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.0721,
+"lon": -89.05009,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-prolongacion-30-tzucacab-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-prolongacion-30-tzucacab-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-prolongacion-30-tzucacab-tzucacab",
@@ -2749,10 +2831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.0721,
+"lon": -89.05009,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-prolongacion-30-tzucacab-tzucacab-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-prolongacion-30-tzucacab-tzucacab-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-pustunich-ticul",
@@ -2778,10 +2861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.39875,
+"lon": -89.53493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-pustunich-ticul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-pustunich-ticul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sabacchen-tixmehuac-yucatan",
@@ -2836,10 +2920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sac-nicte-merida-yucatan-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sac-nicte-merida-yucatan-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sacalum-sacalum",
@@ -2865,10 +2950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.49647,
+"lon": -89.59033,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sacalum-sacalum-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sacalum-sacalum-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sahcaba-hocaba",
@@ -2894,10 +2980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.8162,
+"lon": -89.24626,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sahcaba-hocaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sahcaba-hocaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-samahil-samahil",
@@ -2923,10 +3010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88348,
+"lon": -89.88826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-samahil-samahil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-samahil-samahil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sanahcat-sanahcat",
@@ -2952,10 +3040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.77131,
+"lon": -89.2141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sanahcat-sanahcat-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sanahcat-sanahcat-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sierra-papacal-merida",
@@ -2981,10 +3070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sierra-papacal-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sierra-papacal-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sitilpech-izamal",
@@ -3010,10 +3100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.93315,
+"lon": -89.01887,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sitilpech-izamal-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sitilpech-izamal-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sitpach-andria-i-etapa",
@@ -3068,10 +3159,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14304,
+"lon": -88.15188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sucopo-tizimin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sucopo-tizimin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-sudzal-sudzal",
@@ -3097,10 +3189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.87184,
+"lon": -88.98876,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sudzal-sudzal-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-sudzal-sudzal-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tabi-sotuta",
@@ -3126,10 +3219,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.59666,
+"lon": -89.00798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tabi-sotuta-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tabi-sotuta-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tahcabo-calotmul-yucatan",
@@ -3184,10 +3278,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahdzibichen-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahdzibichen-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tahdzibichen-yaxcaba",
@@ -3213,10 +3308,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahdzibichen-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahdzibichen-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tahdziu-tahdziu",
@@ -3242,10 +3338,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.20508,
+"lon": -88.94555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahdziu-tahdziu-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahdziu-tahdziu-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tahmek-tahmek",
@@ -3271,10 +3368,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.87493,
+"lon": -89.25558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahmek-tahmek-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tahmek-tahmek-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tamanche-merida",
@@ -3300,10 +3398,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tamanche-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tamanche-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-teabo-teabo",
@@ -3329,10 +3428,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.39951,
+"lon": -89.28299,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-teabo-teabo-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-teabo-teabo-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tebec-uman",
@@ -3358,10 +3458,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88149,
+"lon": -89.74798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tebec-uman-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tebec-uman-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tecoh-tecoh",
@@ -3416,10 +3517,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01599,
+"lon": -88.94693,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekal-de-venegas-tekal-de-venegas-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekal-de-venegas-tekal-de-venegas-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tekanto-tekanto",
@@ -3445,10 +3547,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.00968,
+"lon": -89.10723,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekanto-tekanto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekanto-tekanto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tekik-de-regil-timucuy",
@@ -3474,10 +3577,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.81048,
+"lon": -89.51469,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekik-de-regil-timucuy-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekik-de-regil-timucuy-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tekit-tekit",
@@ -3503,10 +3607,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.53601,
+"lon": -89.33404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekit-tekit-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tekit-tekit-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-telchac-puerto-telchac-puerto",
@@ -3532,10 +3637,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.34087,
+"lon": -89.26452,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-telchac-puerto-telchac-puerto-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-telchac-puerto-telchac-puerto-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-telchaquillo-tecoh",
@@ -3619,10 +3725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.04882,
+"lon": -89.03873,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tepakan-tepakan-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tepakan-tepakan-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tesoco-yunchen-x-wo-valladolid",
@@ -3648,10 +3755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tesoco-yunchen-x-wo-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tesoco-yunchen-x-wo-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-texan-camara-merida",
@@ -3677,10 +3785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-texan-camara-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-texan-camara-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-teya-teya",
@@ -3706,10 +3815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.05124,
+"lon": -89.07341,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-teya-teya-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-teya-teya-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tibolon-sotuta",
@@ -3735,10 +3845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.59666,
+"lon": -89.00798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tibolon-sotuta-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tibolon-sotuta-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-ticum-tekax",
@@ -3793,10 +3904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.81048,
+"lon": -89.51469,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-timucuy-timucuy-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-timucuy-timucuy-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tinuncah-yaxcaba-yucatan",
@@ -3851,10 +3963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.96592,
+"lon": -88.60478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixbacab-cenotillo-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixbacab-cenotillo-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tixcacaltuyub-yaxcaba",
@@ -3880,10 +3993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixcacaltuyub-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixcacaltuyub-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tixcuytun-merida",
@@ -3909,10 +4023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixcuytun-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixcuytun-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tixmehuac-tixmehuac",
@@ -3938,10 +4053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.23608,
+"lon": -89.10716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixmehuac-tixmehuac-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tixmehuac-tixmehuac-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tzucacab-tzucacab",
@@ -3967,10 +4083,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.0721,
+"lon": -89.05009,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tzucacab-tzucacab-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tzucacab-tzucacab-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-x-akabchen-chankom-chankom",
@@ -4025,10 +4142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.07499,
+"lon": -89.51945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-x-cuyum-conkal-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-x-cuyum-conkal-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-x-uch-temozon-temozon",
@@ -4054,10 +4172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.80393,
+"lon": -88.20155,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-x-uch-temozon-temozon-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-x-uch-temozon-temozon-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-xanaba-izamal",
@@ -4083,10 +4202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.93315,
+"lon": -89.01887,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xanaba-izamal-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xanaba-izamal-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-xcunya-merida",
@@ -4112,10 +4232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xcunya-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xcunya-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-xocchel-xocchel",
@@ -4141,10 +4262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.833,
+"lon": -89.1826,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xocchel-xocchel-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xocchel-xocchel-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-xocen-valladolid",
@@ -4170,10 +4292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xocen-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xocen-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-xuxcab-tekom-tekom",
@@ -4199,10 +4322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.60232,
+"lon": -88.26483,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xuxcab-tekom-tekom-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-xuxcab-tekom-tekom-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yaxcaba-yaxcaba",
@@ -4228,10 +4352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yaxcaba-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yaxcaba-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yaxche-de-peon-yaxche-de-peon",
@@ -4257,10 +4382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.04449,
+"lon": -89.75466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yaxche-de-peon-yaxche-de-peon-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yaxche-de-peon-yaxche-de-peon-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yaxnic-merida",
@@ -4286,10 +4412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yaxnic-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yaxnic-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yobain-yobain",
@@ -4315,10 +4442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.23435,
+"lon": -89.11488,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yobain-yobain-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yobain-yobain-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yokdzonot-presentado-temozon-temozon",
@@ -4344,10 +4472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.80393,
+"lon": -88.20155,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yokdzonot-presentado-temozon-temozon-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yokdzonot-presentado-temozon-temozon-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yokdzonot-yaxcaba",
@@ -4373,10 +4502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yokdzonot-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yokdzonot-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yotholin-ticul",
@@ -4402,10 +4532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.39875,
+"lon": -89.53493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yotholin-ticul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-yotholin-ticul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-yunku-sacalum-yucatan",
@@ -4460,10 +4591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.59666,
+"lon": -89.00798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-zavala-sotuta-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-zavala-sotuta-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-jesus-el-camino-progreso",
@@ -4489,10 +4621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.28217,
+"lon": -89.66289,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesus-el-camino-progreso-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesus-el-camino-progreso-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-principe-de-paz-valladolid",
@@ -4518,10 +4651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-principe-de-paz-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-principe-de-paz-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-concepcion-calotmul",
@@ -4547,10 +4681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01964,
+"lon": -88.17734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-concepcion-calotmul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-concepcion-calotmul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-la-biblia-valladolid",
@@ -4576,10 +4711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-la-biblia-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-la-biblia-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-pentecostes-la-hermosa-piste",
@@ -4605,10 +4741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.69972,
+"lon": -88.58889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-pentecostes-la-hermosa-piste-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-pentecostes-la-hermosa-piste-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-hunuku-temozon",
@@ -4634,10 +4771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.80393,
+"lon": -88.20155,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-hunuku-temozon-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-hunuku-temozon-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-kanxoc-valladolid",
@@ -4663,10 +4801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-kanxoc-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-kanxoc-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-kinchil-kinchil",
@@ -4692,10 +4831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.91354,
+"lon": -89.95018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-kinchil-kinchil-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-kinchil-kinchil-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-mahas-tixcacalcupul",
@@ -4721,10 +4861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.53692,
+"lon": -88.26998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-mahas-tixcacalcupul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-mahas-tixcacalcupul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nohuayun-tetiz",
@@ -4750,10 +4891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.96338,
+"lon": -89.93392,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nohuayun-tetiz-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nohuayun-tetiz-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-apostol-tixcacalcupul",
@@ -4779,10 +4921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.53692,
+"lon": -88.26998,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-tixcacalcupul-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-tixcacalcupul-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sisal-hunucma",
@@ -4808,10 +4951,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.0164,
+"lon": -89.87716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sisal-hunucma-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sisal-hunucma-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-xuilub-espita",
@@ -4837,10 +4981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01062,
+"lon": -88.30672,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-xuilub-espita-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-xuilub-espita-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-dzibikal-uman",
@@ -4866,10 +5011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.88149,
+"lon": -89.74798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dzibikal-uman-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dzibikal-uman-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-luz-del-mundo-la-luz",
@@ -4924,10 +5070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14304,
+"lon": -88.15188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-los-santos-reyes-tizimin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-los-santos-reyes-tizimin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-el-espiritu-santo-tizimin",
@@ -4953,10 +5100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.14304,
+"lon": -88.15188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-el-espiritu-santo-tizimin-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-el-espiritu-santo-tizimin-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-emanuel-chankom",
@@ -5011,10 +5159,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-moriah-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-moriah-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-rey-de-reyes-tinum",
@@ -5040,10 +5189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.76721,
+"lon": -88.39199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-rey-de-reyes-tinum-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-rey-de-reyes-tinum-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-monte-oreb-espita",
@@ -5069,10 +5219,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01062,
+"lon": -88.30672,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-monte-oreb-espita-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-monte-oreb-espita-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostes-monte-sinai-valladolid",
@@ -5098,10 +5249,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-monte-sinai-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-monte-sinai-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-emanuel-valladolid",
@@ -5127,10 +5279,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-emanuel-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-emanuel-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-evangelica-estrella-de-belen-hoctun",
@@ -5156,10 +5309,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.86513,
+"lon": -89.20125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-evangelica-estrella-de-belen-hoctun-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-evangelica-estrella-de-belen-hoctun-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-principe-de-paz-acanceh",
@@ -5185,10 +5339,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.81291,
+"lon": -89.45332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-principe-de-paz-acanceh-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-principe-de-paz-acanceh-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-reformada-de-mexico-emanuel-caucel",
@@ -5214,10 +5369,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.01589,
+"lon": -89.70682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-reformada-de-mexico-emanuel-caucel-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-reformada-de-mexico-emanuel-caucel-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-chabihau-yobain",
@@ -5243,10 +5399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.23435,
+"lon": -89.11488,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-chabihau-yobain-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-chabihau-yobain-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-chapab-chapab",
@@ -5272,10 +5429,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.45863,
+"lon": -89.45727,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-chapab-chapab-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-chapab-chapab-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-euan-tixkokob",
@@ -5301,10 +5459,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.0012,
+"lon": -89.39476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-euan-tixkokob-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-euan-tixkokob-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-tixhualactun-tixhualactun",
@@ -5330,10 +5489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.64403,
+"lon": -88.14308,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-tixhualactun-tixhualactun-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-tixhualactun-tixhualactun-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-tixpehual-tixpehual",
@@ -5359,10 +5519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.97742,
+"lon": -89.44222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-tixpehual-tixpehual-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-tixpehual-tixpehual-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-x-calakoop-tinum",
@@ -5388,10 +5549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.76721,
+"lon": -88.39199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-x-calakoop-tinum-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-x-calakoop-tinum-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-xcumpich-merida",
@@ -5417,10 +5579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-xcumpich-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principal-de-xcumpich-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principal-de-yaxcopoil-yucatan",
@@ -5475,10 +5638,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principe-de-paz-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principe-de-paz-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-refugio-de-pecadores-merida",
@@ -5504,10 +5668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-refugio-de-pecadores-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-refugio-de-pecadores-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-francisco-de-asis-tinum",
@@ -5533,10 +5698,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.76721,
+"lon": -88.39199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-de-asis-tinum-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-de-asis-tinum-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-nicolas-de-bari-san-nicolas-tolentino",
@@ -5620,10 +5786,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.71684,
+"lon": -88.31714,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-cristo-la-unica-esperanza-uayma-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-cristo-la-unica-esperanza-uayma-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sinai-merida",
@@ -5649,10 +5816,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sinai-merida-yucatan-mexico-6599"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sinai-merida-yucatan-mexico-6599",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-apocento-alto-tunkas",
@@ -5678,10 +5846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.90227,
+"lon": -88.75135,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-apocento-alto-tunkas-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-apocento-alto-tunkas-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-bautista-emmanuel-merida",
@@ -5707,10 +5876,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bautista-emmanuel-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bautista-emmanuel-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-betania-merida",
@@ -5736,10 +5906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-betania-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-betania-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-bethesda-valladolid",
@@ -5765,10 +5936,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bethesda-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bethesda-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-abala",
@@ -5794,10 +5966,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.6478,
+"lon": -89.68065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-abala-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-abala-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-elim-valladolid",
@@ -5823,10 +5996,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-elim-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-elim-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-la-profecia-chichimila",
@@ -5852,10 +6026,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.63176,
+"lon": -88.21689,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-la-profecia-chichimila-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-la-profecia-chichimila-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-maranatta-ucu",
@@ -5881,10 +6056,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.03193,
+"lon": -89.74617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-maranatta-ucu-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-maranatta-ucu-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-las-grandes-mesas-san-felipe",
@@ -5910,10 +6086,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.56344,
+"lon": -88.23284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-las-grandes-mesas-san-felipe-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-las-grandes-mesas-san-felipe-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-las-pequenas-mesas-san-felipe",
@@ -5939,10 +6116,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.56344,
+"lon": -88.23284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-las-pequenas-mesas-san-felipe-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-las-pequenas-mesas-san-felipe-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-los-guerreros-san-felipe",
@@ -5968,10 +6146,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.56344,
+"lon": -88.23284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-guerreros-san-felipe-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-guerreros-san-felipe-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-los-tableros-esculpidos-san-felipe",
@@ -5997,10 +6176,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.56344,
+"lon": -88.23284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-tableros-esculpidos-san-felipe-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-los-tableros-esculpidos-san-felipe-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-jaguar-dzilam-de-bravo",
@@ -6026,10 +6206,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.3917,
+"lon": -88.89421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-jaguar-dzilam-de-bravo-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-jaguar-dzilam-de-bravo-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-eden-yaxcaba",
@@ -6055,10 +6236,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.5475,
+"lon": -88.82692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-eden-yaxcaba-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-eden-yaxcaba-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-mesias-valladolid",
@@ -6084,10 +6266,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-mesias-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-mesias-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-elim-piste",
@@ -6113,10 +6296,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.69972,
+"lon": -88.58889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-elim-piste-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-elim-piste-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-emmanuiel-piste",
@@ -6142,10 +6326,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.69972,
+"lon": -88.58889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-emmanuiel-piste-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-emmanuiel-piste-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-fuente-de-esperanza-valladolid",
@@ -6171,10 +6356,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-fuente-de-esperanza-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-fuente-de-esperanza-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-gracia-sobre-gracia-merida",
@@ -6200,10 +6386,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-gracia-sobre-gracia-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-gracia-sobre-gracia-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-luz-del-mundo-chichimila",
@@ -6229,10 +6416,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.63176,
+"lon": -88.21689,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-luz-del-mundo-chichimila-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-luz-del-mundo-chichimila-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-peniel-valladolid",
@@ -6258,10 +6446,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-peniel-valladolid-yucatan-2"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-peniel-valladolid-yucatan-2",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-presbiteriano-peniel-san-felipe-nuevo",
@@ -6316,10 +6505,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.68812,
+"lon": -88.19936,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-roca-del-poder-valladolid-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-roca-del-poder-valladolid-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-san-juan-de-dios-merida",
@@ -6345,10 +6535,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.967,
+"lon": -89.62318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-de-dios-merida-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-de-dios-merida-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-xtoloc-abala",
@@ -6374,9 +6565,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.6478,
+"lon": -89.68065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xtoloc-abala-yucatan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-xtoloc-abala-yucatan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.72791,
+"lon": -100.08555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-dulces-nombres-dulces-nombres-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-dulces-nombres-dulces-nombres-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-oracion-iglesia-del-dios-vivo-columna-y-apoyo-de-la-verdad-la-luz-del-mundo-la-luz",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.9545,
+"lon": -100.16617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiro-maranatha-camsvi-cienega-de-flores-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiro-maranatha-camsvi-cienega-de-flores-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-comunitario-linares-tlahualile",
@@ -226,10 +228,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.74167,
+"lon": -100.30222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/familia-cristiana-san-nicolas-de-los-garza-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/familia-cristiana-san-nicolas-de-los-garza-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "francisco-villa-ixhuatan",
@@ -258,7 +261,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/francisco-villa-ixhuatan-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/francisco-villa-ixhuatan-nuevo-leon",
+"geo_fuente": null
 },
 {
 "slug": "iglesia-adventista-los-sabinos-montemorelos",
@@ -284,10 +288,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.18897,
+"lon": -99.82933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-los-sabinos-montemorelos-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-los-sabinos-montemorelos-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-vallarta-monterrey",
@@ -313,10 +318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-vallarta-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-vallarta-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-villas-de-oriente-san-nicolas-de-los-garza",
@@ -342,10 +348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.74167,
+"lon": -100.30222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-villas-de-oriente-san-nicolas-de-los-garza-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-villas-de-oriente-san-nicolas-de-los-garza-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-amor-de-jesus-apodaca",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-monterrey-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-monterrey-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-divino-salvador-nuevo-leon",
@@ -487,10 +495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.67663,
+"lon": -100.25907,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-olivos-guadalupe-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-olivos-guadalupe-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-monterrey-nuevo-leon",
@@ -545,10 +554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-principe-de-paz-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-principe-de-paz-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-corpus-christi-monterrey",
@@ -574,10 +584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-corpus-christi-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-corpus-christi-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-nuevo-leon-nuevo-leon",
@@ -661,10 +672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 24.85798,
+"lon": -99.56768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-uncion-y-poder-linares-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-uncion-y-poder-linares-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-crsitiana-espiritual-san-nicolas-de-los-garza",
@@ -690,10 +702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.74167,
+"lon": -100.30222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-crsitiana-espiritual-san-nicolas-de-los-garza-nuevo-leon-mexico-8819"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-crsitiana-espiritual-san-nicolas-de-los-garza-nuevo-leon-mexico-8819",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-fiesta-pentecostal-guadalupe",
@@ -719,10 +732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.67663,
+"lon": -100.25907,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fiesta-pentecostal-guadalupe-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fiesta-pentecostal-guadalupe-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesus-misericordioso-real-de-palmas",
@@ -835,10 +849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.18897,
+"lon": -99.82933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuestro-padre-jesus-montemorelos-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuestro-padre-jesus-montemorelos-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-odres-nuevos-apodaca",
@@ -893,10 +908,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-nuevo-testamento-icc-monterrey-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostes-nuevo-testamento-icc-monterrey-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-puertos-2-juarez",
@@ -951,10 +967,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-nicolas-de-bari-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-nicolas-de-bari-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-universitaria-montemorelos",
@@ -980,10 +997,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.18897,
+"lon": -99.82933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-universitaria-montemorelos-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-universitaria-montemorelos-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lluvia-tardia-general-escobedo",
@@ -1009,10 +1027,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.51397,
+"lon": -105.24246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lluvia-tardia-general-escobedo-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lluvia-tardia-general-escobedo-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maria-madre-de-la-iglesia-monterrey",
@@ -1038,10 +1057,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.68435,
+"lon": -100.31721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maria-madre-de-la-iglesia-monterrey-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maria-madre-de-la-iglesia-monterrey-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monte-de-sion-colinas-del-aeropuerto",
@@ -1067,10 +1087,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.81705,
+"lon": -100.10258,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monte-de-sion-colinas-del-aeropuerto-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monte-de-sion-colinas-del-aeropuerto-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nstra-sra-de-la-salud-apodaca",
@@ -1125,10 +1146,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 24.85798,
+"lon": -99.56768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/plutarco-elias-calles-linares-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/plutarco-elias-calles-linares-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primer-iglesia-bautista-la-unica-esperanza-galeana",
@@ -1154,10 +1176,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 24.82528,
+"lon": -100.07601,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primer-iglesia-bautista-la-unica-esperanza-galeana-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primer-iglesia-bautista-la-unica-esperanza-galeana-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "siervas-de-nuestro-senor-jesucristo-snsj-santiago",
@@ -1183,10 +1206,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.42596,
+"lon": -100.15399,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/siervas-de-nuestro-senor-jesucristo-snsj-santiago-nuevo-leon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/siervas-de-nuestro-senor-jesucristo-snsj-santiago-nuevo-leon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sta-clara-apodaca",

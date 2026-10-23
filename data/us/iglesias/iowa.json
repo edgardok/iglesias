@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61443,
+"lon": -94.01745,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/adel-united-methodist-church-adel-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/adel-united-methodist-church-adel-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "adventure-life-reformed-church-altoona",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64416,
+"lon": -93.46466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/adventure-life-reformed-church-altoona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/adventure-life-reformed-church-altoona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "agency-united-methodist-church-agency",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.99502,
+"lon": -92.30685,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/agency-united-methodist-church-agency-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/agency-united-methodist-church-agency-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ainsworth-community-church-ainsworth",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.28891,
+"lon": -91.55238,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ainsworth-community-church-ainsworth-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ainsworth-community-church-ainsworth-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ainsworth-community-presbyterian-church-ainsworth",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.28891,
+"lon": -91.55238,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ainsworth-community-presbyterian-church-ainsworth-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ainsworth-community-presbyterian-church-ainsworth-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albia-church-albia",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02667,
+"lon": -92.80575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/albia-church-albia-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/albia-church-albia-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albia-holiness-church-of-god-albia",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02667,
+"lon": -92.80575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/albia-holiness-church-of-god-albia-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/albia-holiness-church-of-god-albia-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-nations-baptist-church-coralville",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6764,
+"lon": -91.58045,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-nations-baptist-church-coralville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-nations-baptist-church-coralville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "allerton-presbyterian-church-allerton",
@@ -313,10 +321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.99502,
+"lon": -92.30685,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alpine-log-church-agency-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alpine-log-church-agency-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alta-church-of-christ-alta",
@@ -342,10 +351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.67359,
+"lon": -95.29055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alta-church-of-christ-alta-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alta-church-of-christ-alta-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alton-presbyterian-church-alton",
@@ -371,10 +381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98749,
+"lon": -96.01057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alton-presbyterian-church-alton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alton-presbyterian-church-alton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alton-reformed-church-alton",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98749,
+"lon": -96.01057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alton-reformed-church-alton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alton-reformed-church-alton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "altoona-regular-baptist-church-altoona",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64416,
+"lon": -93.46466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/altoona-regular-baptist-church-altoona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/altoona-regular-baptist-church-altoona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "altoona-united-methodist-church-altoona",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64416,
+"lon": -93.46466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/altoona-united-methodist-church-altoona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/altoona-united-methodist-church-altoona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "american-reformed-church-alton",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98749,
+"lon": -96.01057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/american-reformed-church-alton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/american-reformed-church-alton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ames-jewish-congregation-ames",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.03471,
+"lon": -93.61994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ames-jewish-congregation-ames-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ames-jewish-congregation-ames-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ames-united-church-of-christ-ames",
@@ -545,10 +561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.03471,
+"lon": -93.61994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ames-united-church-of-christ-ames-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ames-united-church-of-christ-ames-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ankeny-first-united-methodist-church-faith-chapel-crocker-township",
@@ -661,10 +678,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ashworth-road-baptist-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ashworth-road-baptist-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembly-of-god-church-afton",
@@ -690,10 +708,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02749,
+"lon": -94.19801,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-of-god-church-afton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembly-of-god-church-afton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atlantic-gospel-chapel-atlantic",
@@ -719,10 +738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4036,
+"lon": -95.01388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atlantic-gospel-chapel-atlantic-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atlantic-gospel-chapel-atlantic-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atlantic-seventh-day-adventist-church-atlantic",
@@ -748,10 +768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4036,
+"lon": -95.01388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atlantic-seventh-day-adventist-church-atlantic-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atlantic-seventh-day-adventist-church-atlantic-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "avery-presbyterian-church-gifford",
@@ -806,10 +827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-convention-of-iowa-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-convention-of-iowa-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barnes-city-community-church-barnes-city",
@@ -893,10 +915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.99418,
+"lon": -92.1674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/batavia-united-methodist-church-batavia-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/batavia-united-methodist-church-batavia-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beacon-united-methodist-church-beacon",
@@ -922,10 +945,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beacon-united-methodist-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beacon-united-methodist-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bedford-seventh-day-adventist-church-bedford",
@@ -951,10 +975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.66693,
+"lon": -94.72136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-seventh-day-adventist-church-bedford-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bedford-seventh-day-adventist-church-bedford-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bellevue-christian-center-gifford",
@@ -1009,10 +1034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52364,
+"lon": -90.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berean-baptist-churc-davenport-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berean-baptist-churc-davenport-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berwick-united-church-of-christ-berwick",
@@ -1125,10 +1151,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.96276,
+"lon": -91.80822,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-united-presbyterian-church-west-union-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-united-presbyterian-church-west-union-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bettendorf-apostolic-church-bettendorf",
@@ -1154,10 +1181,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bettendorf-apostolic-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bettendorf-apostolic-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bettendorf-church-of-the-nazarene-bettendorf",
@@ -1183,10 +1211,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bettendorf-church-of-the-nazarene-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bettendorf-church-of-the-nazarene-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bettendorf-presbyterian-church-bettendorf",
@@ -1212,10 +1241,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bettendorf-presbyterian-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bettendorf-presbyterian-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "birmingham-free-methodist-church-birmingham",
@@ -1444,10 +1474,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50892,
+"lon": -90.76598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-grass-presbyterian-church-blue-grass-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-grass-presbyterian-church-blue-grass-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bonaparte-baptist-church-bonaparte",
@@ -1560,10 +1591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.70054,
+"lon": -93.46216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bondurant-christian-church-bondurant-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bondurant-christian-church-bondurant-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bridge-of-hope-sioux-center",
@@ -1589,10 +1621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.07971,
+"lon": -96.17558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bridge-of-hope-sioux-center-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bridge-of-hope-sioux-center-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brighton-united-church-brighton",
@@ -1618,10 +1651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.17474,
+"lon": -91.81961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brighton-united-church-brighton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brighton-united-church-brighton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burlington-baptist-church-burlington",
@@ -1647,10 +1681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-baptist-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burlington-baptist-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burns-united-methodist-church-carpenter",
@@ -1676,10 +1711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burns-united-methodist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burns-united-methodist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-christian-reformed-church-alton",
@@ -1705,10 +1741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98749,
+"lon": -96.01057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-christian-reformed-church-alton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-christian-reformed-church-alton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-temple-baptist-church-homestead",
@@ -1850,10 +1887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50082,
+"lon": -93.49105,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carlisle-united-methodist-church-carlisle-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carlisle-united-methodist-church-carlisle-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "carson-presbyterian-church-carson",
@@ -1879,10 +1917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23666,
+"lon": -95.41806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/carson-presbyterian-church-carson-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/carson-presbyterian-church-carson-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "castelar-united-presbyterian-church-gifford",
@@ -1937,10 +1976,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.32083,
+"lon": -93.10937,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/celebrate-community-church-knoxville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/celebrate-community-church-knoxville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centerville-baptist-fellowship-centerville",
@@ -1966,10 +2006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.09276,
+"lon": -93.93551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centerville-baptist-fellowship-centerville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centerville-baptist-fellowship-centerville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centerville-church-centerville",
@@ -1995,10 +2036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.09276,
+"lon": -93.93551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centerville-church-centerville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centerville-church-centerville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-community-free-methodist-church-clive",
@@ -2024,10 +2066,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-community-free-methodist-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-community-free-methodist-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-reformed-church-beacon",
@@ -2053,10 +2096,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-reformed-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-reformed-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-chapel-alton",
@@ -2082,10 +2126,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98749,
+"lon": -96.01057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-chapel-alton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-chapel-alton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-church-brunsville",
@@ -2140,10 +2185,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-family-reformed-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-family-reformed-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-church-adel",
@@ -2169,10 +2215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61443,
+"lon": -94.01745,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-church-adel-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-church-adel-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-christ-of-goshen-township-atalissa",
@@ -2227,10 +2274,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64416,
+"lon": -93.46466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-cross-altoona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-cross-altoona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-open-bible-albia",
@@ -2256,10 +2304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02667,
+"lon": -92.80575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-open-bible-albia-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-open-bible-albia-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clarinda-first-baptist-church-clarinda",
@@ -2285,10 +2334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.73981,
+"lon": -95.038,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-first-baptist-church-clarinda-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-first-baptist-church-clarinda-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clarinda-free-methodist-church-clarinda",
@@ -2314,10 +2364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.73981,
+"lon": -95.038,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-free-methodist-church-clarinda-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-free-methodist-church-clarinda-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clarinda-methodist-church-clarinda",
@@ -2343,10 +2394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.73981,
+"lon": -95.038,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-methodist-church-clarinda-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-methodist-church-clarinda-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "clarinda-reformed-presbyterian-church-clarinda",
@@ -2372,10 +2424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.73981,
+"lon": -95.038,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-reformed-presbyterian-church-clarinda-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clarinda-reformed-presbyterian-church-clarinda-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colfax-presbyterian-church-colfax",
@@ -2401,10 +2454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67777,
+"lon": -93.2452,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colfax-presbyterian-church-colfax-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colfax-presbyterian-church-colfax-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "college-avenue-friends-church-beacon",
@@ -2430,10 +2484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/college-avenue-friends-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/college-avenue-friends-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregational-church-anita",
@@ -2459,10 +2514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.44526,
+"lon": -94.7647,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-anita-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-anita-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregational-united-church-aurelia",
@@ -2488,10 +2544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.71276,
+"lon": -95.43667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-united-church-aurelia-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-united-church-aurelia-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "coralville-united-methodist-church-coralville",
@@ -2517,10 +2574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6764,
+"lon": -91.58045,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/coralville-united-methodist-church-coralville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/coralville-united-methodist-church-coralville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corinthian-baptist-church-carpenter",
@@ -2546,10 +2604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corinthian-baptist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corinthian-baptist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-evangelical-free-church-adair",
@@ -2575,10 +2634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50054,
+"lon": -94.64359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-evangelical-free-church-adair-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-evangelical-free-church-adair-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-pentecostal-church-berwick",
@@ -2633,10 +2693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-united-presbyterian-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-united-presbyterian-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "covenanter-church-shambaugh",
@@ -2691,10 +2752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.0586,
+"lon": -94.36135,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crest-baptist-church-creston-ia-estados-unidos-49616"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crest-baptist-church-creston-ia-estados-unidos-49616",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crestwood-baptist-church-carpenter",
@@ -2720,10 +2782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crestwood-baptist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crestwood-baptist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cross-lutheran-church-gifford",
@@ -2778,10 +2841,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cross-point-churchcommunity-of-joy-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cross-point-churchcommunity-of-joy-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cushing-methodist-church-cushing",
@@ -2836,10 +2900,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.09276,
+"lon": -93.93551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dale-baptist-church-centerville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dale-baptist-church-centerville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dallas-center-united-methodist-church-dallas",
@@ -2923,10 +2988,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.53166,
+"lon": -94.00967,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/de-soto-calvary-baptist-church-de-soto-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/de-soto-calvary-baptist-church-de-soto-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "de-soto-united-methodist-church-de-soto",
@@ -2952,10 +3018,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.53166,
+"lon": -94.00967,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/de-soto-united-methodist-church-de-soto-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/de-soto-united-methodist-church-de-soto-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "delta-united-methodist-church-delta",
@@ -3010,10 +3077,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.01777,
+"lon": -95.35528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/denison-baptist-church-denison-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/denison-baptist-church-denison-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "des-moines-chin-evangelical-church-clive",
@@ -3039,10 +3107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/des-moines-chin-evangelical-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/des-moines-chin-evangelical-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "des-moines-northeast-branch-church-berwick",
@@ -3097,10 +3166,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.91863,
+"lon": -92.22296,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/des-moines-river-primitive-baptist-church-eldon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/des-moines-river-primitive-baptist-church-eldon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dexter-united-methodist-church-redfield",
@@ -3126,10 +3196,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.58943,
+"lon": -94.19607,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dexter-united-methodist-church-redfield-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dexter-united-methodist-church-redfield-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "donnellson-presbyterian-church-donnellson",
@@ -3155,10 +3226,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.64282,
+"lon": -91.5646,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/donnellson-presbyterian-church-donnellson-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/donnellson-presbyterian-church-donnellson-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dover-avenue-alliance-church-alton",
@@ -3184,10 +3256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.98749,
+"lon": -96.01057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dover-avenue-alliance-church-alton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dover-avenue-alliance-church-alton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastside-evangelical-free-church-berwick",
@@ -3271,10 +3344,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.1565,
+"lon": -92.63739,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eddyville-united-methodist-church-eddyville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eddyville-united-methodist-church-eddyville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "edwards-church-bettendorf",
@@ -3300,10 +3374,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/edwards-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/edwards-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eldon-first-baptist-church-eldon",
@@ -3329,10 +3404,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.91863,
+"lon": -92.22296,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eldon-first-baptist-church-eldon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eldon-first-baptist-church-eldon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eldon-united-methodist-church-eldon",
@@ -3358,10 +3434,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.91863,
+"lon": -92.22296,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eldon-united-methodist-church-eldon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eldon-united-methodist-church-eldon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eldora-united-methodist-church-eldora",
@@ -3387,10 +3464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.36082,
+"lon": -93.09965,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eldora-united-methodist-church-eldora-ia-estados-unidos-52699"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eldora-united-methodist-church-eldora-ia-estados-unidos-52699",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eldridge-united-methodist-church-eldridge",
@@ -3416,10 +3494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65809,
+"lon": -90.58458,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eldridge-united-methodist-church-eldridge-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eldridge-united-methodist-church-eldridge-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elk-horn-lutheran-church-elk-horn",
@@ -3445,10 +3524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.59166,
+"lon": -95.05999,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elk-horn-lutheran-church-elk-horn-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elk-horn-lutheran-church-elk-horn-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elliott-creek-presbyterian-church-bronson",
@@ -3561,10 +3641,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.34386,
+"lon": -96.00224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-united-methodist-church-george-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-united-methodist-church-george-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "exira-lutheran-church-exira",
@@ -3590,10 +3671,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.59082,
+"lon": -94.87554,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/exira-lutheran-church-exira-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/exira-lutheran-church-exira-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-life-marion",
@@ -3619,10 +3701,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.03417,
+"lon": -91.59768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-life-marion-ia-estados-unidos-42797"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-life-marion-ia-estados-unidos-42797",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-united-methodist-churchmorley-city-hall-morley",
@@ -3648,10 +3731,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.04366,
+"lon": -89.61036,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-methodist-churchmorley-city-hall-morley-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-methodist-churchmorley-city-hall-morley-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "farmers-chapel-ackworth",
@@ -3706,10 +3790,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.26194,
+"lon": -95.86083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fifth-avenue-united-methodist-church-council-bluffs-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fifth-avenue-united-methodist-church-council-bluffs-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-augustana-lutheran-church-lockridge",
@@ -3764,10 +3849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-nazarene-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-nazarene-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-pentecostal-assembly-of-god-church-ottumwa",
@@ -3793,10 +3879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02001,
+"lon": -92.4113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-pentecostal-assembly-of-god-church-ottumwa-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-pentecostal-assembly-of-god-church-ottumwa-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-south-baptist-church-adel",
@@ -3822,10 +3909,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61443,
+"lon": -94.01745,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-south-baptist-church-adel-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-south-baptist-church-adel-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "flint-hills-church-of-the-nazarene-burlington",
@@ -3851,10 +3939,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/flint-hills-church-of-the-nazarene-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/flint-hills-church-of-the-nazarene-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "floris-baptist-church-floris",
@@ -3880,10 +3969,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93706,
+"lon": -77.41277,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/floris-baptist-church-floris-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/floris-baptist-church-floris-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fort-des-moines-presbyterian-church-central-city",
@@ -3909,10 +3999,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20388,
+"lon": -91.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fort-des-moines-presbyterian-church-central-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fort-des-moines-presbyterian-church-central-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fort-des-moines-united-methodist-church-central-city",
@@ -3938,10 +4029,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20388,
+"lon": -91.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fort-des-moines-united-methodist-church-central-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fort-des-moines-united-methodist-church-central-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fruitland-baptist-church-fruitland",
@@ -3967,10 +4059,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35614,
+"lon": -91.12932,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fruitland-baptist-church-fruitland-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fruitland-baptist-church-fruitland-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "galva-united-methodist-church-galva",
@@ -4112,10 +4205,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-news-chapel-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-news-chapel-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-lutheran-church-adel",
@@ -4141,10 +4235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61443,
+"lon": -94.01745,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-church-adel-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-church-adel-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-tabernacle-baptist-church-centerville",
@@ -4170,10 +4265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.09276,
+"lon": -93.93551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-tabernacle-baptist-church-centerville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-tabernacle-baptist-church-centerville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-united-church-of-christ-conesville",
@@ -4257,10 +4353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-des-moines-baptist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-des-moines-baptist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-hope-missionary-baptist-church-burlington",
@@ -4286,10 +4383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-hope-missionary-baptist-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-hope-missionary-baptist-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "guernsey-methodist-church-guernsey",
@@ -4315,10 +4413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.26969,
+"lon": -104.74163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/guernsey-methodist-church-guernsey-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/guernsey-methodist-church-guernsey-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "guthrie-center-church-guthrie-center",
@@ -4344,10 +4443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67721,
+"lon": -94.5033,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/guthrie-center-church-guthrie-center-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/guthrie-center-church-guthrie-center-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hamilton-memorial-lutheran-church-bedford",
@@ -4373,10 +4473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.66693,
+"lon": -94.72136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hamilton-memorial-lutheran-church-bedford-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hamilton-memorial-lutheran-church-bedford-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hamlin-lutheran-church-audubon",
@@ -4402,10 +4503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.71804,
+"lon": -94.93249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hamlin-lutheran-church-audubon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hamlin-lutheran-church-audubon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harlan-church-harlan",
@@ -4431,10 +4533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65304,
+"lon": -95.32555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harlan-church-harlan-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harlan-church-harlan-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harlan-mission-lutheran-church-oakland",
@@ -4460,10 +4563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.30916,
+"lon": -95.39667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harlan-mission-lutheran-church-oakland-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harlan-mission-lutheran-church-oakland-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harmony-hills-baptist-church-bettendorf",
@@ -4489,10 +4593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harmony-hills-baptist-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harmony-hills-baptist-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-fellowship-shambaugh",
@@ -4547,10 +4652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.99582,
+"lon": -96.48531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hawarden-united-methodist-church-hawarden-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hawarden-united-methodist-church-hawarden-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heartland-district-pentecostal-church-of-god-council-bluffs",
@@ -4576,10 +4682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.26194,
+"lon": -95.86083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heartland-district-pentecostal-church-of-god-council-bluffs-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heartland-district-pentecostal-church-of-god-council-bluffs-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heritage-wesleyan-church-bettendorf",
@@ -4605,10 +4712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heritage-wesleyan-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heritage-wesleyan-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highland-park-lutheran-church-des-moines",
@@ -4634,10 +4742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60054,
+"lon": -93.60911,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highland-park-lutheran-church-des-moines-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highland-park-lutheran-church-des-moines-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highland-park-presbyterian-church-des-moines",
@@ -4663,10 +4772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60054,
+"lon": -93.60911,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/highland-park-presbyterian-church-des-moines-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/highland-park-presbyterian-church-des-moines-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hope-temple-christian-church-burlington",
@@ -4692,10 +4802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-temple-christian-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-temple-christian-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "house-of-praise-ralston",
@@ -4721,10 +4832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20528,
+"lon": -96.04252,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-praise-ralston-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-praise-ralston-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hus-memorial-presbyterian-church-cedar-rapids",
@@ -4750,10 +4862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00833,
+"lon": -91.64407,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hus-memorial-presbyterian-church-cedar-rapids-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hus-memorial-presbyterian-church-cedar-rapids-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ida-grove-baptist-church-ida-grove",
@@ -4779,10 +4892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.34499,
+"lon": -95.47167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ida-grove-baptist-church-ida-grove-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ida-grove-baptist-church-ida-grove-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-belen-assembly-of-god-ottumwa",
@@ -4808,10 +4922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02001,
+"lon": -92.4113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-assembly-of-god-ottumwa-ia-estados-unidos-36342"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-assembly-of-god-ottumwa-ia-estados-unidos-36342",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "independent-bible-church-bussey",
@@ -4866,10 +4981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.57002,
+"lon": -91.26377,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/independent-pentecostal-church-west-liberty-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/independent-pentecostal-church-west-liberty-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "indianola-regular-baptist-church-indianola",
@@ -4895,10 +5011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35805,
+"lon": -93.55744,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/indianola-regular-baptist-church-indianola-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/indianola-regular-baptist-church-indianola-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iowa-city-seventh-day-adventist-church-coralville",
@@ -4924,10 +5041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6764,
+"lon": -91.58045,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iowa-city-seventh-day-adventist-church-coralville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iowa-city-seventh-day-adventist-church-coralville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "johnston-river-of-life-johnston",
@@ -4953,10 +5071,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67304,
+"lon": -93.69772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/johnston-river-of-life-johnston-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/johnston-river-of-life-johnston-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jordan-united-methodist-church-central-city",
@@ -4982,10 +5101,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20388,
+"lon": -91.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jordan-united-methodist-church-central-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jordan-united-methodist-church-central-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jubilee-family-church-beacon",
@@ -5011,10 +5131,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jubilee-family-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jubilee-family-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kalona-united-methodist-church-kalona",
@@ -5040,10 +5161,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48307,
+"lon": -91.706,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kalona-united-methodist-church-kalona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kalona-united-methodist-church-kalona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "keosauqua-baptist-fellowship-keosauqua",
@@ -5069,10 +5191,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.73031,
+"lon": -91.96239,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/keosauqua-baptist-fellowship-keosauqua-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/keosauqua-baptist-fellowship-keosauqua-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "killduff-united-methodist-church-killduff",
@@ -5127,10 +5250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.58832,
+"lon": -95.96752,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kingsley-baptist-church-kingsley-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kingsley-baptist-church-kingsley-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kirkman-united-methodist-church-kirkman",
@@ -5214,10 +5338,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29055,
+"lon": -95.91807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kountze-memorial-lutheran-church-carter-lake-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kountze-memorial-lutheran-church-carter-lake-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kyles-a-m-e-zion-church-carpenter",
@@ -5243,10 +5368,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kyles-a-m-e-zion-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kyles-a-m-e-zion-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-park-united-methodist-church-lake-city",
@@ -5272,10 +5398,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.26748,
+"lon": -94.73387,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-park-united-methodist-church-lake-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-park-united-methodist-church-lake-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "landmark-church-of-god-beacon",
@@ -5301,10 +5428,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/landmark-church-of-god-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/landmark-church-of-god-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lefler-united-methodist-church-gifford",
@@ -5359,10 +5487,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.44338,
+"lon": -84.00883,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/liberty-center-united-methodist-church-liberty-center-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/liberty-center-united-methodist-church-liberty-center-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lincoln-heights-lutheran-church-central-city",
@@ -5388,10 +5517,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20388,
+"lon": -91.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lincoln-heights-lutheran-church-central-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lincoln-heights-lutheran-church-central-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-water-outreach-church-of-god-clarinda",
@@ -5417,10 +5547,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.73981,
+"lon": -95.038,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-outreach-church-of-god-clarinda-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-outreach-church-of-god-clarinda-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-word-family-church-adair",
@@ -5446,10 +5577,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50054,
+"lon": -94.64359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-family-church-adair-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-word-family-church-adair-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "livingwater-church-sheldon",
@@ -5475,10 +5607,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.18109,
+"lon": -95.85613,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/livingwater-church-sheldon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/livingwater-church-sheldon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lucas-presbyterian-church-lucas",
@@ -5533,10 +5666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6764,
+"lon": -91.58045,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-campus-ministry-coralville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-campus-ministry-coralville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-anita",
@@ -5562,10 +5696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.44526,
+"lon": -94.7647,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-anita-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-anita-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-of-galva-galva",
@@ -5620,10 +5755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.68832,
+"lon": -93.79106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-hope-johnston-grimes-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-hope-johnston-grimes-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-of-hope-waukee-waukee",
@@ -5649,10 +5785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61166,
+"lon": -93.88523,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-hope-waukee-waukee-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-hope-waukee-waukee-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-east-side-mission-davenport",
@@ -5678,10 +5815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52364,
+"lon": -90.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-east-side-mission-davenport-ia-estados-unidos-42532"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-east-side-mission-davenport-ia-estados-unidos-42532",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "macksburg-united-methodist-church-macksburg",
@@ -5736,10 +5874,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.98166,
+"lon": -95.10415,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mamrelund-lutheran-church-stanton-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mamrelund-lutheran-church-stanton-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "marquisville-united-methodist-church-polk-city",
@@ -5765,10 +5904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.77138,
+"lon": -93.713,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/marquisville-united-methodist-church-polk-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/marquisville-united-methodist-church-polk-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "martinsburg-united-methodist-church-martinsburg",
@@ -5823,10 +5963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.00809,
+"lon": -91.16404,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mediapolis-presbyterian-church-mediapolis-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mediapolis-presbyterian-church-mediapolis-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "methodist-church-arthur",
@@ -5939,10 +6080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60054,
+"lon": -93.60911,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/miller-united-methodist-church-des-moines-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/miller-united-methodist-church-des-moines-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "milo-united-methodist-church-milo",
@@ -5968,10 +6110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29166,
+"lon": -93.44243,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/milo-united-methodist-church-milo-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/milo-united-methodist-church-milo-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mitchellville-united-methodist-church-mitchellville",
@@ -5997,10 +6140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.6686,
+"lon": -93.35771,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mitchellville-united-methodist-church-mitchellville-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mitchellville-united-methodist-church-mitchellville-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "modale-united-methodist-church-modale",
@@ -6055,10 +6199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.04166,
+"lon": -93.94939,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/murray-united-methodist-church-murray-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/murray-united-methodist-church-murray-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "musserville-united-methodist-church-muscatine",
@@ -6084,10 +6229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42447,
+"lon": -91.04321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/musserville-united-methodist-church-muscatine-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/musserville-united-methodist-church-muscatine-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-fellowship-christian-church-burlington",
@@ -6113,10 +6259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-fellowship-christian-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-fellowship-christian-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-life-fellowship-church-aurora",
@@ -6200,10 +6347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northridge-baptist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northridge-baptist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "norwoodville-baptist-church-berwick",
@@ -6258,10 +6406,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13899,
+"lon": -72.30342,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/orient-united-methodist-church-orient-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/orient-united-methodist-church-orient-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "osceola-church-of-christ-osceola",
@@ -6287,10 +6436,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.03389,
+"lon": -93.7655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-church-of-christ-osceola-ia-estados-unidos-37079"
+"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-church-of-christ-osceola-ia-estados-unidos-37079",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "osceola-church-osceola",
@@ -6316,10 +6466,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.03389,
+"lon": -93.7655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-church-osceola-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-church-osceola-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "osceola-united-methodist-church-osceola",
@@ -6345,10 +6496,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.03389,
+"lon": -93.7655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-united-methodist-church-osceola-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-united-methodist-church-osceola-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-church-of-christ-beacon",
@@ -6374,10 +6526,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-church-of-christ-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-church-of-christ-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-community-church-beacon",
@@ -6403,10 +6556,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-community-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-community-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-community-church-of-the-christian-and-missionary-alliance-beacon",
@@ -6432,10 +6586,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-community-church-of-the-christian-and-missionary-alliance-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-community-church-of-the-christian-and-missionary-alliance-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-free-methodist-church-beacon",
@@ -6461,10 +6616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-free-methodist-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-free-methodist-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oskaloosa-united-methodist-church-beacon",
@@ -6490,10 +6646,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-united-methodist-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oskaloosa-united-methodist-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ottumwa-church-of-the-brethren-ottumwa",
@@ -6519,10 +6676,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02001,
+"lon": -92.4113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ottumwa-church-of-the-brethren-ottumwa-ia-estados-unidos-36341"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ottumwa-church-of-the-brethren-ottumwa-ia-estados-unidos-36341",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-savior-lutheran-church-and-preschool-bettendorf",
@@ -6548,10 +6706,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-lutheran-church-and-preschool-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-lutheran-church-and-preschool-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviors-full-gospel-baptist-church-carpenter",
@@ -6577,10 +6736,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-full-gospel-baptist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-full-gospel-baptist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviours-lutheran-church-ackley",
@@ -6606,10 +6766,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.55415,
+"lon": -93.05326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-lutheran-church-ackley-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-lutheran-church-ackley-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "park-avenue-presbyterian-church-central-city",
@@ -6635,10 +6796,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20388,
+"lon": -91.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/park-avenue-presbyterian-church-central-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/park-avenue-presbyterian-church-central-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "park-chapel-altoona",
@@ -6664,10 +6826,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64416,
+"lon": -93.46466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/park-chapel-altoona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/park-chapel-altoona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peace-mennonite-church-burlington",
@@ -6693,10 +6856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peace-mennonite-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peace-mennonite-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pecatonica-lutheran-parish-moscow",
@@ -6751,10 +6915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40805,
+"lon": -92.91631,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pella-united-methodist-church-pella-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pella-united-methodist-church-pella-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pennsylvania-avenue-free-methodist-church-ottumwa",
@@ -6780,10 +6945,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02001,
+"lon": -92.4113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pennsylvania-avenue-free-methodist-church-ottumwa-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pennsylvania-avenue-free-methodist-church-ottumwa-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-apostolic-faith-church-davenport",
@@ -6809,10 +6975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52364,
+"lon": -90.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-apostolic-faith-church-davenport-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-apostolic-faith-church-davenport-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "persia-methodist-church-persia",
@@ -6896,10 +7063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.01777,
+"lon": -95.35528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pioneer-southern-baptist-church-denison-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pioneer-southern-baptist-church-denison-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "plymouth-brethren-gospel-chapel-adair",
@@ -6925,10 +7093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50054,
+"lon": -94.64359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/plymouth-brethren-gospel-chapel-adair-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/plymouth-brethren-gospel-chapel-adair-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prairie-city-united-methodist-church-prairie-city",
@@ -6954,10 +7123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.59943,
+"lon": -93.23521,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-city-united-methodist-church-prairie-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-city-united-methodist-church-prairie-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prairie-creek-church-grimes",
@@ -6983,10 +7153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.68832,
+"lon": -93.79106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-creek-church-grimes-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-creek-church-grimes-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbyterian-united-church-le-mars",
@@ -7012,10 +7183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.79416,
+"lon": -96.16558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-united-church-le-mars-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-united-church-le-mars-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbytery-of-des-moines-clive",
@@ -7041,10 +7213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbytery-of-des-moines-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbytery-of-des-moines-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "progressive-church-bettendorf",
@@ -7070,10 +7243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/progressive-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/progressive-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prospect-park-baptist-church-council-bluffs",
@@ -7099,10 +7273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.26194,
+"lon": -95.86083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prospect-park-baptist-church-council-bluffs-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prospect-park-baptist-church-council-bluffs-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "providence-reformed-church-carpenter",
@@ -7128,10 +7303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/providence-reformed-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/providence-reformed-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "puerta-al-cielo-pentecostal-church-muscatine",
@@ -7157,10 +7333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42447,
+"lon": -91.04321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/puerta-al-cielo-pentecostal-church-muscatine-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/puerta-al-cielo-pentecostal-church-muscatine-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pulaski-united-methodist-church-pulaski",
@@ -7215,10 +7392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61443,
+"lon": -94.01745,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rapid-street-baptist-church-adel-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rapid-street-baptist-church-adel-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reach-church-urbandale",
@@ -7244,10 +7422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.62666,
+"lon": -93.71217,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reach-church-urbandale-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reach-church-urbandale-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "red-oak-presbyterian-church-red-oak",
@@ -7273,10 +7452,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.00972,
+"lon": -95.22555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/red-oak-presbyterian-church-red-oak-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/red-oak-presbyterian-church-red-oak-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redeemer-evangelical-lutheran-church-bettendorf",
@@ -7302,10 +7482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52448,
+"lon": -90.51569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-evangelical-lutheran-church-bettendorf-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-evangelical-lutheran-church-bettendorf-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "redeemer-evangelical-lutheran-church-carter-lake",
@@ -7331,10 +7512,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29055,
+"lon": -95.91807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-evangelical-lutheran-church-carter-lake-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redeemer-evangelical-lutheran-church-carter-lake-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "revelation-light-of-jesus-christ-bedford",
@@ -7360,10 +7542,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.66693,
+"lon": -94.72136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/revelation-light-of-jesus-christ-bedford-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/revelation-light-of-jesus-christ-bedford-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "risen-christ-lutheran-church-davenport",
@@ -7389,10 +7572,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52364,
+"lon": -90.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/risen-christ-lutheran-church-davenport-ia-estados-unidos-41959"
+"fuente_url": "https://encuentraiglesias.com/iglesia/risen-christ-lutheran-church-davenport-ia-estados-unidos-41959",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-of-life-family-worship-center-albia",
@@ -7418,10 +7602,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02667,
+"lon": -92.80575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-family-worship-center-albia-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-family-worship-center-albia-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverside-lutheran-church-dakota-city",
@@ -7447,10 +7632,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.72219,
+"lon": -94.19718,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-lutheran-church-dakota-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverside-lutheran-church-dakota-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-united-church-ackley",
@@ -7476,10 +7662,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.55415,
+"lon": -93.05326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-johns-united-church-ackley-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-johns-united-church-ackley-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-mark-discipleship-center-west-des-moines",
@@ -7505,10 +7692,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.57721,
+"lon": -93.71133,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mark-discipleship-center-west-des-moines-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mark-discipleship-center-west-des-moines-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-mathews-lutheran-church-davenport",
@@ -7534,10 +7722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52364,
+"lon": -90.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathews-lutheran-church-davenport-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mathews-lutheran-church-davenport-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-african-methodist-church-carpenter",
@@ -7563,10 +7752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-african-methodist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-african-methodist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-congregational-united-church-of-christ-beacon",
@@ -7592,10 +7782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-congregational-united-church-of-christ-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-congregational-united-church-of-christ-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-hispanic-methodist-church-muscatine",
@@ -7621,10 +7812,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42447,
+"lon": -91.04321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-hispanic-methodist-church-muscatine-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-hispanic-methodist-church-muscatine-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salix-community-united-methodist-church-salix",
@@ -7650,10 +7842,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30008,
+"lon": -78.7653,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salix-community-united-methodist-church-salix-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salix-community-united-methodist-church-salix-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sanborn-presbyterian-church-sanborn",
@@ -7679,10 +7872,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.18164,
+"lon": -95.65557,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sanborn-presbyterian-church-sanborn-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sanborn-presbyterian-church-sanborn-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sandusky-united-methodist-church-keokuk",
@@ -7708,10 +7902,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39727,
+"lon": -91.38487,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sandusky-united-methodist-church-keokuk-ia-estados-unidos-28710"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sandusky-united-methodist-church-keokuk-ia-estados-unidos-28710",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sante-fe-united-methodist-church-fort-madison",
@@ -7737,10 +7932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62976,
+"lon": -91.31515,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sante-fe-united-methodist-church-fort-madison-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sante-fe-united-methodist-church-fort-madison-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shambaugh-church-of-god-shambaugh",
@@ -7824,10 +8020,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.09614,
+"lon": -91.25765,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sharon-reformed-presbyterian-church-morning-sun-ia-estados-unidos-45235"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sharon-reformed-presbyterian-church-morning-sun-ia-estados-unidos-45235",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sharon-united-presbyterian-church-farmington",
@@ -7853,10 +8050,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.64031,
+"lon": -91.74294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sharon-united-presbyterian-church-farmington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sharon-united-presbyterian-church-farmington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shelby-united-methodist-church-shelby",
@@ -7882,10 +8080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.5161,
+"lon": -95.45028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shelby-united-methodist-church-shelby-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shelby-united-methodist-church-shelby-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sheridan-park-united-methodist-church-berwick",
@@ -7940,10 +8139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.92698,
+"lon": -91.3996,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shinar-cumberland-presbyterian-church-new-london-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shinar-cumberland-presbyterian-church-new-london-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shueyville-united-methodist-church-swisher",
@@ -7969,10 +8169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.84556,
+"lon": -91.69295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shueyville-united-methodist-church-swisher-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shueyville-united-methodist-church-swisher-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sigourney-presbyterian-church-keokuk",
@@ -7998,10 +8199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39727,
+"lon": -91.38487,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sigourney-presbyterian-church-keokuk-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sigourney-presbyterian-church-keokuk-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "siloam-lutheran-church-paullina",
@@ -8027,10 +8229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.97915,
+"lon": -95.68807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/siloam-lutheran-church-paullina-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/siloam-lutheran-church-paullina-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sioux-center-united-reformed-church-sioux-center",
@@ -8056,10 +8259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.07971,
+"lon": -96.17558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sioux-center-united-reformed-church-sioux-center-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sioux-center-united-reformed-church-sioux-center-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "soldier-lutheran-church-soldier",
@@ -8114,10 +8318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52221,
+"lon": -93.10187,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/solid-rock-church-monroe-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/solid-rock-church-monroe-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southeast-polk-family-church-altoona",
@@ -8143,10 +8348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.64416,
+"lon": -93.46466,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southeast-polk-family-church-altoona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southeast-polk-family-church-altoona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southeastern-iowa-synod-evangelical-lutheran-church-ralston",
@@ -8172,10 +8378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20528,
+"lon": -96.04252,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southeastern-iowa-synod-evangelical-lutheran-church-ralston-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southeastern-iowa-synod-evangelical-lutheran-church-ralston-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southtown-baptist-church-central-city",
@@ -8201,10 +8408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.20388,
+"lon": -91.52406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southtown-baptist-church-central-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southtown-baptist-church-central-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "speak-the-word-church-adel",
@@ -8230,10 +8438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61443,
+"lon": -94.01745,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/speak-the-word-church-adel-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/speak-the-word-church-adel-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spencer-memorial-chapel-beacon",
@@ -8259,10 +8468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spencer-memorial-chapel-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spencer-memorial-chapel-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-of-god-baptist-church-blue-grass",
@@ -8288,10 +8498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50892,
+"lon": -90.76598,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-god-baptist-church-blue-grass-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-god-baptist-church-blue-grass-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-andrews-lutheran-church-ames",
@@ -8317,10 +8528,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.03471,
+"lon": -93.61994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-lutheran-church-ames-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-lutheran-church-ames-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-by-the-campus-episcopal-church-of-ames-ames",
@@ -8346,10 +8558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.03471,
+"lon": -93.61994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-by-the-campus-episcopal-church-of-ames-ames-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-by-the-campus-episcopal-church-of-ames-ames-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-pauls-evangelical-luthern-chapin",
@@ -8404,10 +8617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20528,
+"lon": -96.04252,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-chapel-ralston-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-chapel-ralston-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "staves-memorial-united-methodist-church-berwick",
@@ -8491,10 +8705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50332,
+"lon": -94.31857,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stuart-mount-vernon-united-methodist-church-stuart-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stuart-mount-vernon-united-methodist-church-stuart-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "suburban-heights-baptist-church-fairfield",
@@ -8520,10 +8735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.00863,
+"lon": -91.96267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/suburban-heights-baptist-church-fairfield-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/suburban-heights-baptist-church-fairfield-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-church-alta",
@@ -8549,10 +8765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.67359,
+"lon": -95.29055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-church-alta-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-church-alta-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunnyside-bible-chapel-atlantic",
@@ -8578,10 +8795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4036,
+"lon": -95.01388,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sunnyside-bible-chapel-atlantic-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sunnyside-bible-chapel-atlantic-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sutherland-methodist-church-sutherland",
@@ -8607,10 +8825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.97414,
+"lon": -95.49751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sutherland-methodist-church-sutherland-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sutherland-methodist-church-sutherland-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "swedesburg-evangelical-lutheran-church-olds",
@@ -8665,10 +8884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sweet-home-deliverance-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sweet-home-deliverance-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tent-chapel-blockton",
@@ -8723,10 +8943,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.68832,
+"lon": -93.79106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-bridge-grimes-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-bridge-grimes-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-evangelical-church-beacon",
@@ -8752,10 +8973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50482,
+"lon": -73.96958,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-evangelical-church-beacon-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-evangelical-church-beacon-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-lighthouse-sheldahl",
@@ -8810,10 +9032,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52364,
+"lon": -90.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/third-missionary-baptist-church-davenport-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/third-missionary-baptist-church-davenport-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tilton-evangelical-methodist-church-gibson",
@@ -8868,10 +9091,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29055,
+"lon": -95.91807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/timothy-lutheran-church-carter-lake-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/timothy-lutheran-church-carter-lake-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-las-americas-united-methodist-church-carpenter",
@@ -8897,10 +9121,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05233,
+"lon": -75.20018,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-las-americas-united-methodist-church-carpenter-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-las-americas-united-methodist-church-carpenter-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-life-church-of-god-berwick",
@@ -9013,10 +9238,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.38694,
+"lon": -95.67667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/underwood-lutheran-church-underwood-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/underwood-lutheran-church-underwood-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-baptist-church-full-gospel-fellowship-burlington",
@@ -9042,10 +9268,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-baptist-church-full-gospel-fellowship-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-baptist-church-full-gospel-fellowship-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-liberty-church-bussey",
@@ -9129,10 +9356,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60054,
+"lon": -93.60911,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-park-methodist-church-des-moines-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-park-methodist-church-des-moines-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-park-united-presbyterian-church-oakdale",
@@ -9187,10 +9415,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-fellowship-burlington-ia-estados-unidos-51716"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-fellowship-burlington-ia-estados-unidos-51716",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-christian-and-baptist-church-kalona",
@@ -9216,10 +9445,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.48307,
+"lon": -91.706,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-christian-and-baptist-church-kalona-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-christian-and-baptist-church-kalona-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-christian-presbyterian-church-bedford",
@@ -9245,10 +9475,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.66693,
+"lon": -94.72136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-christian-presbyterian-church-bedford-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-christian-presbyterian-church-bedford-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-avoca-avoca",
@@ -9274,10 +9505,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.47666,
+"lon": -95.33805,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-avoca-avoca-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-church-of-avoca-avoca-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-methodist-church-adair",
@@ -9303,10 +9535,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50054,
+"lon": -94.64359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-adair-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-adair-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-methodist-church-at-pella-pella",
@@ -9332,10 +9565,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40805,
+"lon": -92.91631,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-at-pella-pella-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-at-pella-pella-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "urbandale-baptist-church-johnston",
@@ -9361,10 +9595,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67304,
+"lon": -93.69772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/urbandale-baptist-church-johnston-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/urbandale-baptist-church-johnston-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-junction-baptist-church-des-moines",
@@ -9390,10 +9625,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60054,
+"lon": -93.60911,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-junction-baptist-church-des-moines-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-junction-baptist-church-des-moines-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-united-methodist-church-clive",
@@ -9419,10 +9655,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-united-methodist-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-united-methodist-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "van-meter-united-methodist-church-de-soto",
@@ -9448,10 +9685,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.53166,
+"lon": -94.00967,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/van-meter-united-methodist-church-de-soto-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/van-meter-united-methodist-church-de-soto-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wales-united-presbyterian-church-emerson",
@@ -9506,10 +9744,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-hills-united-methodist-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-hills-united-methodist-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "walnut-street-first-baptist-church-burlington",
@@ -9535,10 +9774,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-street-first-baptist-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/walnut-street-first-baptist-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "washington-reformed-presbyterian-church-washington",
@@ -9564,10 +9804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29918,
+"lon": -91.69294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/washington-reformed-presbyterian-church-washington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/washington-reformed-presbyterian-church-washington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "washta-methodist-church-washta",
@@ -9622,10 +9863,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.61166,
+"lon": -93.88523,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/waukee-united-methodist-church-waukee-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/waukee-united-methodist-church-waukee-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesley-united-methodist-church-akron",
@@ -9651,10 +9893,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.82888,
+"lon": -96.55948,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesley-united-methodist-church-akron-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesley-united-methodist-church-akron-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesleyan-church-charles-city",
@@ -9680,10 +9923,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.06636,
+"lon": -92.67241,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wesleyan-church-charles-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wesleyan-church-charles-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-avenue-baptist-church-burlington",
@@ -9709,10 +9953,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-avenue-baptist-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-avenue-baptist-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-branch-methodist-church-west-branch",
@@ -9738,10 +9983,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.67141,
+"lon": -91.34655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-branch-methodist-church-west-branch-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-branch-methodist-church-west-branch-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-burlington-church-of-god-burlington",
@@ -9767,10 +10013,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-burlington-church-of-god-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-burlington-church-of-god-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-burlington-united-methodist-church-west-burlington",
@@ -9796,10 +10043,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.82504,
+"lon": -91.15654,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-burlington-united-methodist-church-west-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-burlington-united-methodist-church-west-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-hill-united-methodist-church-burlington",
@@ -9825,10 +10073,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80754,
+"lon": -91.11292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-hill-united-methodist-church-burlington-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-hill-united-methodist-church-burlington-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westkirk-evangelical-presbyterian-church-clive",
@@ -9854,10 +10103,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.60304,
+"lon": -93.72411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westkirk-evangelical-presbyterian-church-clive-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westkirk-evangelical-presbyterian-church-clive-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westlawn-presbyterian-church-riverside",
@@ -9883,10 +10133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.47974,
+"lon": -91.58128,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westlawn-presbyterian-church-riverside-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westlawn-presbyterian-church-riverside-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willard-street-united-methodist-church-ottumwa",
@@ -9912,10 +10163,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02001,
+"lon": -92.4113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/willard-street-united-methodist-church-ottumwa-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/willard-street-united-methodist-church-ottumwa-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "windsor-heights-lutheran-church-urbandale",
@@ -9941,10 +10193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.62666,
+"lon": -93.71217,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/windsor-heights-lutheran-church-urbandale-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/windsor-heights-lutheran-church-urbandale-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "winebrenner-church-of-god-arthur",
@@ -9999,10 +10252,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.45642,
+"lon": -90.72347,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winterset-seventh-day-adventist-church-buffalo-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winterset-seventh-day-adventist-church-buffalo-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "word-of-life-church-dunlap",
@@ -10028,10 +10282,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.85443,
+"lon": -95.60056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-church-dunlap-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-church-dunlap-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "word-of-life-fellowship-bloomfield",
@@ -10057,10 +10312,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.75169,
+"lon": -92.41491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-fellowship-bloomfield-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-fellowship-bloomfield-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "yoke-united-methodist-church-charles-city",
@@ -10086,9 +10342,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.06636,
+"lon": -92.67241,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/yoke-united-methodist-church-charles-city-iowa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/yoke-united-methodist-church-charles-city-iowa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

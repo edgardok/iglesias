@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.14876,
+"lon": -96.9676,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/amistad-vida-huatusco-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/amistad-vida-huatusco-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "amistad-vida-yanga-yanga",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.83288,
+"lon": -96.79837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/amistad-vida-yanga-yanga-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/amistad-vida-yanga-yanga-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campo-iglesiade-jesucristo-tampico-alto",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.1124,
+"lon": -97.80184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campo-iglesiade-jesucristo-tampico-alto-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campo-iglesiade-jesucristo-tampico-alto-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-rafael-guizar-y-valencia-san-rafael",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.18862,
+"lon": -96.86737,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-rafael-guizar-y-valencia-san-rafael-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-rafael-guizar-y-valencia-san-rafael-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-la-iglesia-veracruz",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.54841,
+"lon": -97.525,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-salud-congregacion-marco-a-munoz-emiliano-zapata-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-salud-congregacion-marco-a-munoz-emiliano-zapata-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-berea-valente-diaz",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.16347,
+"lon": -96.21648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-berea-valente-diaz-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-berea-valente-diaz-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-la-vid-verdadera-san-andres-tuxtla",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.4487,
+"lon": -95.21327,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-la-vid-verdadera-san-andres-tuxtla-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-la-vid-verdadera-san-andres-tuxtla-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-poza-rica-poza-rica",
@@ -313,10 +320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-saron-cuernavaca-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-saron-cuernavaca-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-de-oracion-familiar-veracruz",
@@ -371,10 +379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.41639,
+"lon": -95.36611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-misionero-cristiano-medellin-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-misionero-cristiano-medellin-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-jesus-christ-of-latter-day-saints-veracruz",
@@ -574,10 +583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.96268,
+"lon": -97.21141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-hidalgo-tlapacoyan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-hidalgo-tlapacoyan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-jose-maria-morelos-veracruz",
@@ -661,10 +671,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.18398,
+"lon": -97.58568,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/curato-coxquihui-coxquihui-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/curato-coxquihui-coxquihui-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ejido-congregacion-de-chijolar-alamo-temapache",
@@ -719,10 +730,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.74927,
+"lon": -97.6303,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ejido-congregacion-la-lima-castillo-de-teayo-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ejido-congregacion-la-lima-castillo-de-teayo-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ejido-la-reforma-congregacion-otra-banda-tlapacoyan",
@@ -748,10 +760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.96268,
+"lon": -97.21141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ejido-la-reforma-congregacion-otra-banda-tlapacoyan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ejido-la-reforma-congregacion-otra-banda-tlapacoyan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-sinai-templo-presbiteriano-veracruz",
@@ -806,10 +819,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.00011,
+"lon": -94.5569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/en-espiritu-en-verdad-iglesia-cristiana-minatitlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/en-espiritu-en-verdad-iglesia-cristiana-minatitlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-puerto-del-aire-acultzingo",
@@ -835,10 +849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.71894,
+"lon": -97.30367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-puerto-del-aire-acultzingo-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-puerto-del-aire-acultzingo-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "escalera-a-la-iglesia-jesus-carranza",
@@ -864,10 +879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.43526,
+"lon": -95.02637,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/escalera-a-la-iglesia-jesus-carranza-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/escalera-a-la-iglesia-jesus-carranza-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "francisco-i-madero-congregacion-hidalgo",
@@ -893,10 +909,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.9375,
+"lon": -94.97056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/francisco-i-madero-congregacion-hidalgo-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/francisco-i-madero-congregacion-hidalgo-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "guerrero-veracruz",
@@ -951,10 +968,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.70423,
+"lon": -97.30994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-cazones-de-herrera-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-cazones-de-herrera-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-colonia-diaz-miron-juan-rodriguez-clara",
@@ -980,10 +998,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.99283,
+"lon": -95.40099,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-colonia-diaz-miron-juan-rodriguez-clara-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-colonia-diaz-miron-juan-rodriguez-clara-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-compresora-cosoleacaque",
@@ -1009,10 +1028,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.99913,
+"lon": -94.6359,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-compresora-cosoleacaque-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-compresora-cosoleacaque-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-las-flores-veracruz",
@@ -1096,10 +1116,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-eben-ezer-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-eben-ezer-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-emanuel-de-xalapa-xalapa",
@@ -1154,10 +1175,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.32219,
+"lon": -96.32103,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-fundamental-monte-horeb-la-antigua-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-fundamental-monte-horeb-la-antigua-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-getsemani-fortin-de-las-flores",
@@ -1183,10 +1205,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-getsemani-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-getsemani-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-koinonia-actopan",
@@ -1212,10 +1235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.50427,
+"lon": -96.61668,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-koinonia-actopan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-koinonia-actopan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-los-cafetales",
@@ -1241,10 +1265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 14.86745,
+"lon": -92.302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-los-cafetales-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-los-cafetales-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-maranatha-chinampa-de-gorostiza",
@@ -1270,10 +1295,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.35959,
+"lon": -97.73484,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-maranatha-chinampa-de-gorostiza-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-maranatha-chinampa-de-gorostiza-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-por-su-gracia-veracruz",
@@ -1328,10 +1354,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.95783,
+"lon": -94.64231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-beth-lehem-zaragoza-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-beth-lehem-zaragoza-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bethel-terrenos-del-lote-amatlan",
@@ -1386,10 +1413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-cristiana-sublime-gracia-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-cristiana-sublime-gracia-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-central-tatahuicapan-tatahuicapan-de-juarez",
@@ -1502,10 +1530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.41639,
+"lon": -95.36611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-elim-medellin-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-elim-medellin-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-1-oriente-pueblo-de-las-flores-fortin-de-las-flores",
@@ -1531,10 +1560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-1-oriente-pueblo-de-las-flores-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-1-oriente-pueblo-de-las-flores-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-cuauhtemoc-acalapa-dos-kilomet-acalapa-ii-km17",
@@ -1647,10 +1677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.07082,
+"lon": -97.06078,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-martinez-de-la-torre-martinez-de-la-torre-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-martinez-de-la-torre-martinez-de-la-torre-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-mateo-guzman-p-gloria-de-coapa-el-cosamaloapan-de-carpio",
@@ -1705,10 +1736,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.26027,
+"lon": -97.72972,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-miguel-hidalgo-coahuitlan-coahuitlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-miguel-hidalgo-coahuitlan-coahuitlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-venustiano-carranza-coetzala-coetzala",
@@ -1734,10 +1766,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.78521,
+"lon": -96.91697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-venustiano-carranza-coetzala-coetzala-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-venustiano-carranza-coetzala-coetzala-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-veracruz-misantla",
@@ -1763,10 +1796,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.92992,
+"lon": -96.85194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-veracruz-misantla-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-veracruz-misantla-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-esmirna-la-terminal",
@@ -1821,10 +1855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-monte-horeb-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-monte-horeb-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-monte-horeb-veracruz",
@@ -1879,10 +1914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-peniel-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-peniel-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostal-jehova-nissi-cordoba",
@@ -1908,10 +1944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostal-jehova-nissi-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostal-jehova-nissi-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-restauracion-aprendiendo-a-vivir-veracruz",
@@ -1995,10 +2032,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.14905,
+"lon": -94.4447,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-tiempos-de-gracia-coatzacoalcos-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-tiempos-de-gracia-coatzacoalcos-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-campo-chico-campo-chico",
@@ -2024,10 +2062,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.83685,
+"lon": -97.02867,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-campo-chico-campo-chico-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-campo-chico-campo-chico-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-betel-orizaba",
@@ -2053,10 +2092,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-betel-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-betel-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-7mo-dia-veracruz",
@@ -2111,10 +2151,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.80222,
+"lon": -96.06056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-maria-tlalixcoyan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-maria-tlalixcoyan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-reyes-quimiapan",
@@ -2198,10 +2239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antonio-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antonio-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-tronconal-santa-teresita-del-nino-jesus-xalapa",
@@ -2256,10 +2298,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-portal-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-portal-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-en-casa-citlaltepec",
@@ -2285,10 +2328,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.32912,
+"lon": -97.87861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-casa-citlaltepec-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-casa-citlaltepec-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-en-monte-salas-monte-salas",
@@ -2314,10 +2358,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.93722,
+"lon": -97.01833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-monte-salas-monte-salas-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-en-monte-salas-monte-salas-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-belen-villa-union",
@@ -2343,10 +2388,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85396,
+"lon": -96.98106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-villa-union-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-belen-villa-union-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-el-rey-ya-viene-san-andres-tuxtla",
@@ -2372,10 +2418,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.4487,
+"lon": -95.21327,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-rey-ya-viene-san-andres-tuxtla-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-rey-ya-viene-san-andres-tuxtla-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-gil-gal-veracruz",
@@ -2430,10 +2477,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostes-solo-cristo-salva-cordoba",
@@ -2459,10 +2507,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-solo-cristo-salva-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-solo-cristo-salva-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-fortaleza-divina-fortin-de-las-flores",
@@ -2488,10 +2537,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fortaleza-divina-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fortaleza-divina-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-galilea-veracruz",
@@ -2546,10 +2596,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.20261,
+"lon": -97.84015,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-benito-juarez-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-benito-juarez-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-resurreccion-de-cristo-mecatlan",
@@ -2575,10 +2626,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21053,
+"lon": -97.68204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-resurreccion-de-cristo-mecatlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-resurreccion-de-cristo-mecatlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-las-haldas-las-haldas",
@@ -2604,10 +2656,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.63053,
+"lon": -96.8264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-haldas-las-haldas-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-haldas-las-haldas-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-martires-mexicanos-naranjos",
@@ -2633,10 +2686,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.35087,
+"lon": -97.68656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-martires-mexicanos-naranjos-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-martires-mexicanos-naranjos-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-calvario-mecatlan",
@@ -2662,10 +2716,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21053,
+"lon": -97.68204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-calvario-mecatlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-calvario-mecatlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mundial-el-poder-de-dios-veracruz",
@@ -2720,10 +2775,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-palabra-de-vida-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-palabra-de-vida-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pan-de-vida-veracruz",
@@ -2778,10 +2834,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.69677,
+"lon": -96.84216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-acatlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-acatlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-plan-de-la-flor-juchique-de-ferrer",
@@ -2807,10 +2864,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.83985,
+"lon": -96.69463,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-plan-de-la-flor-juchique-de-ferrer-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-plan-de-la-flor-juchique-de-ferrer-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-puerto-de-la-amistad-municipio-de-veracruz",
@@ -2894,10 +2952,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tierra-deseable-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-tierra-deseable-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-universal-cristiana-sol-de-justicia-veracruz",
@@ -2952,10 +3011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vida-y-restauracion-sumidero-ixtaczoquitlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vida-y-restauracion-sumidero-ixtaczoquitlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vitoche-cosamaloapan-de-carpio",
@@ -3010,10 +3070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesucristo-es-el-senor-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesucristo-es-el-senor-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-concordia-orizaba",
@@ -3039,10 +3100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-concordia-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-concordia-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-soledad-orizaba",
@@ -3068,10 +3130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-soledad-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-soledad-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "los-corazones-xalapa",
@@ -3155,10 +3218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.32219,
+"lon": -96.32103,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maranatha-la-antigua-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maranatha-la-antigua-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-evangelica-cristiana-pentecostes-valente-diaz",
@@ -3184,10 +3248,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.16347,
+"lon": -96.21648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-evangelica-cristiana-pentecostes-valente-diaz-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-evangelica-cristiana-pentecostes-valente-diaz-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-oasis-de-amor-veracruz",
@@ -3242,10 +3307,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monte-carmelo-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monte-carmelo-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nuestro-senor-del-calvario-orizaba",
@@ -3271,10 +3337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nuestro-senor-del-calvario-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nuestro-senor-del-calvario-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nuevo-ocampo-congregacion-de-ocampo-tantima",
@@ -3300,10 +3367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.33228,
+"lon": -97.83327,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nuevo-ocampo-congregacion-de-ocampo-tantima-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nuevo-ocampo-congregacion-de-ocampo-tantima-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oasis-de-esperanza-xalapa",
@@ -3387,10 +3455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.48699,
+"lon": -97.46823,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pozo-de-agua-viva-coatzintla-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pozo-de-agua-viva-coatzintla-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presencia-manifiesta-xalapa",
@@ -3474,10 +3543,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.83555,
+"lon": -96.3964,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reyno-de-los-testigos-de-jehova-cotaxtla-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reyno-de-los-testigos-de-jehova-cotaxtla-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-de-padua-y-santa-lucia-acula",
@@ -3503,10 +3573,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.50563,
+"lon": -95.77427,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-de-padua-y-santa-lucia-acula-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-de-padua-y-santa-lucia-acula-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-diego-tetitlan-huatusco",
@@ -3532,10 +3603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.14876,
+"lon": -96.9676,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-diego-tetitlan-huatusco-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-diego-tetitlan-huatusco-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tabernaculo-de-david-veracruz",
@@ -3619,10 +3691,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.16347,
+"lon": -96.21648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-pentecostes-roca-de-salvacion-valente-diaz-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-pentecostes-roca-de-salvacion-valente-diaz-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-luna-ursulo-galvan",
@@ -3648,10 +3721,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.40531,
+"lon": -96.3609,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-luna-ursulo-galvan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-luna-ursulo-galvan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-muerte-ursulo-galvan",
@@ -3677,10 +3751,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.40531,
+"lon": -96.3609,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-muerte-ursulo-galvan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-la-muerte-ursulo-galvan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-las-chimeneas-zempoala",
@@ -3793,10 +3868,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.34919,
+"lon": -98.3569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-agua-agua-blanca-de-iturbide-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-agua-agua-blanca-de-iturbide-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-septimo-dia-juan-rodriguez-clara",
@@ -3822,10 +3898,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.99283,
+"lon": -95.40099,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-septimo-dia-juan-rodriguez-clara-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-septimo-dia-juan-rodriguez-clara-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-bethel-fortin-de-las-flores",
@@ -3851,10 +3928,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-bethel-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-bethel-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-dios-es-amor-fortin-de-las-flores",
@@ -3880,10 +3958,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.90806,
+"lon": -97.0,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-dios-es-amor-fortin-de-las-flores-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-dios-es-amor-fortin-de-las-flores-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-eben-ezer-chacaltianguis",
@@ -3909,10 +3988,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.30528,
+"lon": -95.84167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-eben-ezer-chacaltianguis-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-eben-ezer-chacaltianguis-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-elim-ixtaczoquitlan",
@@ -3938,10 +4018,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85364,
+"lon": -97.06229,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-elim-ixtaczoquitlan-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-elim-ixtaczoquitlan-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-jesucristo-rey-de-reyes-altotonga",
@@ -3967,10 +4048,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.76613,
+"lon": -97.24514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-jesucristo-rey-de-reyes-altotonga-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-jesucristo-rey-de-reyes-altotonga-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-monte-de-los-olivos-dante-delgado-ranauro",
@@ -4025,10 +4107,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.8842,
+"lon": -96.92559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-ebethel-cordoba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-ebethel-cordoba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-pentecostes-peniel-altotonga",
@@ -4054,10 +4137,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.76613,
+"lon": -97.24514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-peniel-altotonga-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-pentecostes-peniel-altotonga-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-sendero-de-luz-rafael-delgado",
@@ -4083,10 +4167,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81014,
+"lon": -97.07172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-sendero-de-luz-rafael-delgado-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-sendero-de-luz-rafael-delgado-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-smirna-san-andres-tuxtla",
@@ -4112,10 +4197,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.4487,
+"lon": -95.21327,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-smirna-san-andres-tuxtla-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-smirna-san-andres-tuxtla-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-mayor-la-santisima-veracruz",
@@ -4199,10 +4285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.59601,
+"lon": -95.4458,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-sinai-angel-r-cabada-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-sinai-angel-r-cabada-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-negro-luceferius-veracruz",
@@ -4344,9 +4431,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.85195,
+"lon": -97.09957,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vida-victoriosa-a-r-orizaba-veracruz"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vida-victoriosa-a-r-orizaba-veracruz",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

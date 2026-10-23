@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -7.25061,
+"lon": -78.65933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-sanctuario-magdalena-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-sanctuario-magdalena-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cabracancha-chota",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.55,
+"lon": -78.65,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cabracancha-chota-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cabracancha-chota-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-immacolada-conception-encanada",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -7.08498,
+"lon": -78.34284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-immacolada-conception-encanada-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-immacolada-conception-encanada-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-de-los-ultimos-dias-cajamarca",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -7.08498,
+"lon": -78.34284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-polloc-encanada-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-polloc-encanada-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-clara-callayuc",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.18099,
+"lon": -78.91022,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-clara-callayuc-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-clara-callayuc-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-nazareno-san-ignacio",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.14583,
+"lon": -79.00139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-nazareno-san-ignacio-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-nazareno-san-ignacio-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-matriz-patriarca-san-jose-bolivar",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.97681,
+"lon": -79.17801,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-matriz-patriarca-san-jose-bolivar-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-matriz-patriarca-san-jose-bolivar-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nazarena-puerto-ciruelo",
@@ -342,10 +349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.51465,
+"lon": -79.12008,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-isidro-labrador-llama-cajamarca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-isidro-labrador-llama-cajamarca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pedro-cajamarca",

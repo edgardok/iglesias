@@ -15,6 +15,17 @@
       "limitaciones": "La mayoría no trae ciudad ni departamento; la localidad se deduce de la URL de origen. Casi ninguna tiene coordenadas. Se descartaron filas con marcas católicas inequívocas en el nombre. Es una semilla: la cobertura real requiere el Registro Público de Entidades Religiosas del Ministerio del Interior."
     },
     {
+      "nombre": "GeoNames (coordenadas de localidades)",
+      "organismo": "GeoNames",
+      "url": "https://www.geonames.org/",
+      "archivo": "data/_geonames/cities500.txt (no se versiona; se baja con las instrucciones de scripts/comunes/geonames.py)",
+      "descarga": "2026-10-23",
+      "licencia": "CC BY 4.0 (requiere atribución a GeoNames)",
+      "que_aporta": "Coordenadas del centro de la localidad para las fichas que la tienen. Marcadas como aproximadas en cada ficha.",
+      "script": "scripts/comunes/geonames.py",
+      "limitaciones": "Es el centro de la localidad, no el templo. Se omiten las localidades ambiguas sin región y las que caen lejos de la región declarada, que es una heurística y puede fallar en pocos casos."
+    },
+    {
       "nombre": "Aportes de las iglesias",
       "organismo": "Formulario del sitio, revisado por un asistente y una persona",
       "url": "/sumarse/",

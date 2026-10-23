@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.05605,
+"lon": -77.05295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/adventista-espana-brena-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/adventista-espana-brena-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alianza-christina-mala",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.65806,
+"lon": -76.63083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-christina-mala-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-christina-mala-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anexo-san-francisco-ate",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-3-de-octubre-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-3-de-octubre-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cementerio-mala",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.65806,
+"lon": -76.63083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cementerio-mala-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cementerio-mala-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cristo-buen-pastor-san-juan-de-lurigancho",
@@ -313,10 +317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-casa-hacienda-huando-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-casa-hacienda-huando-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-la-cruz-carabayllo",
@@ -342,10 +347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-cruz-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-cruz-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-macarena-huaral",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-macarena-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-macarena-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-atanacio-de-pegregal-surquillo",
@@ -487,10 +494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13333,
+"lon": -76.81667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-el-santisimo-madero-cieneguilla-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-el-santisimo-madero-cieneguilla-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-familia-de-nazareth-san-juan-de-lurigancho",
@@ -545,10 +553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-la-quincha-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-la-quincha-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-la-resurreccion-chaclacayo",
@@ -574,10 +583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.98278,
+"lon": -76.7675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-la-resurreccion-chaclacayo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-la-resurreccion-chaclacayo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-maria-auxiliadora-comas",
@@ -603,10 +613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-maria-auxiliadora-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-maria-auxiliadora-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-maria-msionera-san-juan-de-miraflores",
@@ -690,10 +701,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.98278,
+"lon": -76.7675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nana-sud-chaclacayo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nana-sud-chaclacayo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-nino-jesus-villa-maria-del-triunfo",
@@ -748,10 +760,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.11718,
+"lon": -77.60584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nstra-senora-de-guadalupe-cipreses-huacho-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nstra-senora-de-guadalupe-cipreses-huacho-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-sagrada-familia-san-juan-de-lurigancho",
@@ -835,10 +848,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-sagrado-de-jesus-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-sagrado-de-jesus-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-sagrados-corazones-los-olivos",
@@ -1009,10 +1023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.99,
+"lon": -77.04583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-martin-de-porres-independencia-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-martin-de-porres-independencia-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-pedro-barranca",
@@ -1038,10 +1053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-pedro-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-pedro-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santa-maria-de-maranga-san-miguel",
@@ -1125,10 +1141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-senor-cautivo-de-ayabaca-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-senor-cautivo-de-ayabaca-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-senor-de-la-divina-misericordia-los-olivos",
@@ -1241,10 +1258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.14297,
+"lon": -77.01862,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiro-cruzadas-de-santa-maria-barranco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiro-cruzadas-de-santa-maria-barranco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cene-senor-de-la-misericordia-lima",
@@ -1357,10 +1375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.05605,
+"lon": -77.05295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-del-espiritu-santo-brena-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-cristiana-del-espiritu-santo-brena-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-es-el-camino-ate",
@@ -1415,10 +1434,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-es-rey-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-es-rey-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-salon-sana-comas",
@@ -1444,10 +1464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-salon-sana-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-salon-sana-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-vive-comas",
@@ -1473,10 +1494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-vive-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-vive-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dios-de-amor-carabayllo",
@@ -1502,10 +1524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dios-de-amor-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dios-de-amor-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dios-es-amor-cerro-azul",
@@ -1676,10 +1699,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.33333,
+"lon": -76.81667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermandad-senor-de-los-milagros-punta-hermosa-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermandad-senor-de-los-milagros-punta-hermosa-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iasd-la-concordia-villa-el-salvador",
@@ -1734,10 +1758,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08333,
+"lon": -76.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ibc-iglesia-biblica-cristiana-la-molina-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ibc-iglesia-biblica-cristiana-la-molina-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ielp-iglesia-de-cristo-lima",
@@ -1821,10 +1846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.25,
+"lon": -76.33333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igleisa-san-francisco-de-calaguaya-mariatana-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igleisa-san-francisco-de-calaguaya-mariatana-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesai-de-dios-pentecostal-movimiento-internacional-del-peru-san-gabriel-villa-maria-del-triunfo",
@@ -1908,10 +1934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventisat-del-septimo-dia-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventisat-del-septimo-dia-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-central-a-villa-el-salvador",
@@ -1966,10 +1993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-7mo-dia-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-7mo-dia-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-chaclacayo",
@@ -1995,10 +2023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.98278,
+"lon": -76.7675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-chaclacayo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-chaclacayo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-de-miraflores-san-isidro",
@@ -2024,10 +2053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.09655,
+"lon": -77.04258,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-de-miraflores-san-isidro-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-de-miraflores-san-isidro-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-el-progreso-carabayllo",
@@ -2053,10 +2083,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-el-progreso-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-el-progreso-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-gramadal-puente-piedra",
@@ -2227,10 +2258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -7.1353,
+"lon": -76.74165,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-el-porvenir-matute-la-victoria-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-el-porvenir-matute-la-victoria-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-el-septimo-dia-surquillo",
@@ -2314,10 +2346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.98278,
+"lon": -76.7675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alianza-cristiana-misionera-chaclacayo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alianza-cristiana-misionera-chaclacayo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-alianza-cristiana-y-misionera-de-lince-lima",
@@ -2401,10 +2434,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-allanxo-cristiana-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-allanxo-cristiana-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-karros-comas",
@@ -2430,10 +2464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-karros-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-karros-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-betesda-chancay",
@@ -2459,10 +2494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.57139,
+"lon": -77.26722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-betesda-chancay-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-betesda-chancay-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-ebenezer-miraflores",
@@ -2488,10 +2524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.11331,
+"lon": -77.03274,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-ebenezer-miraflores-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-ebenezer-miraflores-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-efata-villa-el-salvador",
@@ -2633,10 +2670,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-vida-nueva-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-vida-nueva-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-betel-lima",
@@ -2691,10 +2729,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.99,
+"lon": -77.04583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-beula-peru-independencia-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-beula-peru-independencia-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-apostolica-linaje-del-rey-san-juan-de-miraflores",
@@ -2778,10 +2817,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-betel-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-betel-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-bautista-chancay-chancay",
@@ -2807,10 +2847,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.57139,
+"lon": -77.26722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-chancay-chancay-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-chancay-chancay-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-bautista-de-palmas-reales-los-olivos",
@@ -2981,10 +3022,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-siloe-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-bautista-siloe-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-bautista-vida-nueva-san-martin-de-porres",
@@ -3039,10 +3081,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08333,
+"lon": -76.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-cristiana-la-molina-la-molina-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-cristiana-la-molina-la-molina-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-emmanuel-surco-santiago-de-surco",
@@ -3068,10 +3111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-emmanuel-surco-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-emmanuel-surco-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-maranga-san-miguel",
@@ -3155,10 +3199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-buenas-nuevas-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-buenas-nuevas-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-canta-callao-san-martin-de-porres",
@@ -3271,10 +3316,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.06982,
+"lon": -77.04495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-apostolica-pentecostal-jesus-maria-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-apostolica-pentecostal-jesus-maria-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-bethel-chaclacayo",
@@ -3300,10 +3346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.98278,
+"lon": -76.7675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-bethel-chaclacayo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-bethel-chaclacayo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-comunidad-de-fe-pueblo-libre",
@@ -3358,10 +3405,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-cristo-mi-redentor-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-cristo-mi-redentor-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-dios-con-nosothos-carabayllo",
@@ -3387,10 +3435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dios-con-nosothos-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-dios-con-nosothos-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-palabra-viva-santiago-de-surco",
@@ -3416,10 +3465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-palabra-viva-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-palabra-viva-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-pentecostal-surquillo",
@@ -3503,10 +3553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesus-es-me-salvador-y-senor-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-jesus-es-me-salvador-y-senor-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-justicia-de-dios-para-las-naciones-ancon",
@@ -3706,10 +3757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-nuevo-amanecer-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-nuevo-amanecer-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-penetecostes-del-peru-movimiento-misionero-mundial-villa-chorrillos-chorrillos",
@@ -3822,10 +3874,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-del-peru-barranco",
@@ -3851,10 +3904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.14297,
+"lon": -77.01862,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-barranco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-barranco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-del-peru-marko-jara-schenone-ancon",
@@ -3938,10 +3992,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-movimiento-misionero-mundial-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-del-peru-movimiento-misionero-mundial-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-del-peru-puente-piedra",
@@ -4054,10 +4109,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pueblo-de-dios-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pueblo-de-dios-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-roca-fuerte-villa-maria-del-triunfo",
@@ -4170,10 +4226,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08333,
+"lon": -76.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-y-misionera-la-molina-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-y-misionera-la-molina-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristo-te-ama-hoy-puente-piedra",
@@ -4257,10 +4314,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-vive-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-vive-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-aucallama-aucallama",
@@ -4286,10 +4344,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.55778,
+"lon": -77.18083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-aucallama-aucallama-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-aucallama-aucallama-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-capilla-de-asia-la-capilla-de-asia",
@@ -4344,10 +4403,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.07541,
+"lon": -76.31719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-carmen-alto-nuevo-imperial-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-carmen-alto-nuevo-imperial-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cerro-azul-cerro-azul",
@@ -4431,10 +4491,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.16667,
+"lon": -76.26667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-coranche-sangallaya-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-coranche-sangallaya-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-de-la-profecia-huaral",
@@ -4460,10 +4521,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-de-la-profecia-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-de-la-profecia-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-de-la-profecia-los-olivos",
@@ -4634,10 +4696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-sociedad-misionera-mundial-comas-lima-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-sociedad-misionera-mundial-comas-lima-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-huacan-huancan",
@@ -4663,10 +4726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.10634,
+"lon": -75.21703,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-huacan-huancan-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-huacan-huancan-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-huacos-san-pedro-de-huacos",
@@ -4721,10 +4785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.18917,
+"lon": -76.95139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ihuari-ihuari-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-ihuari-ihuari-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-ate",
@@ -5040,10 +5105,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.7,
+"lon": -77.78333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pativilca-pativilca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pativilca-pativilca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pueblo-nuevo-de-conta-nuevo-imperial",
@@ -5069,10 +5135,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.07541,
+"lon": -76.31719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pueblo-nuevo-de-conta-nuevo-imperial-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pueblo-nuevo-de-conta-nuevo-imperial-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-rinconada-de-conta-nuevo-imperial",
@@ -5098,10 +5165,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.07541,
+"lon": -76.31719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-rinconada-de-conta-nuevo-imperial-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-rinconada-de-conta-nuevo-imperial-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-buenaventura-san-buenaventura",
@@ -5127,10 +5195,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.48889,
+"lon": -76.66194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-buenaventura-san-buenaventura-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-buenaventura-san-buenaventura-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-luis-san-luis",
@@ -5156,10 +5225,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.07674,
+"lon": -76.99435,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-luis-san-luis-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-luis-san-luis-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-san-miguel",
@@ -5243,10 +5313,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.16667,
+"lon": -76.26667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sangallaya-sangallaya-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sangallaya-sangallaya-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-liberata-rimac",
@@ -5359,10 +5430,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.72015,
+"lon": -76.96379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-trapiche-trapiche-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-trapiche-trapiche-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cuadro-chaclacayo",
@@ -5388,10 +5460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.98278,
+"lon": -76.7675,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cuadro-chaclacayo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cuadro-chaclacayo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-jesus-el-cristo-carabayllo",
@@ -5417,10 +5490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-jesus-el-cristo-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-jesus-el-cristo-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-dignidad-nacional-mala",
@@ -5446,10 +5520,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.65806,
+"lon": -76.63083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dignidad-nacional-mala-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dignidad-nacional-mala-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-dios-es-amor-nuevo-imperial",
@@ -5475,10 +5550,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.07541,
+"lon": -76.31719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dios-es-amor-nuevo-imperial-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dios-es-amor-nuevo-imperial-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-divino-nino-jesus-de-praga-nana-lurigancho",
@@ -5533,10 +5609,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.65806,
+"lon": -76.63083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-rastor-mala-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-rastor-mala-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-buen-sembrador-huaral",
@@ -5562,10 +5639,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-sembrador-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-buen-sembrador-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-el-nazareno-pueblo-libre",
@@ -5736,10 +5814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.11331,
+"lon": -77.03274,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-coreana-miraflores-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-coreana-miraflores-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cristo-san-juan-de-miraflores",
@@ -5823,10 +5902,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-redentor-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-redentor-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-metodista-chancay",
@@ -5852,10 +5932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.57139,
+"lon": -77.26722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-metodista-chancay-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-metodista-chancay-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-del-peru-filial-jesus-oropeza-chonta-san-juan-de-lurigancho",
@@ -5939,10 +6020,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-misionera-templo-sion-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-misionera-templo-sion-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-rios-de-agua-viva-chorrillos",
@@ -5997,10 +6079,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.11718,
+"lon": -77.60584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-del-peru-huacho-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostes-del-peru-huacho-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostes-monte-alto-de-dios-puente-piedra",
@@ -6055,10 +6138,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-perlana-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-perlana-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-huacho",
@@ -6084,10 +6168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.11718,
+"lon": -77.60584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-huacho-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-huacho-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-presbiteriana-peruana-lima",
@@ -6200,10 +6285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-sion-cristo-viene-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-sion-cristo-viene-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-templo-la-hermosa-ate",
@@ -6345,10 +6431,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fuente-de-vida-eterna-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fuente-de-vida-eterna-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-fuente-de-vida-lima",
@@ -6548,10 +6635,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.46722,
+"lon": -76.62417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-matriz-de-carhua-canta-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-matriz-de-carhua-canta-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-matriz-de-san-jeronimo-de-surco-surco",
@@ -6577,10 +6665,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.88401,
+"lon": -76.44002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-matriz-de-san-jeronimo-de-surco-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-matriz-de-san-jeronimo-de-surco-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-menacho-los-olivos",
@@ -6664,10 +6753,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.11331,
+"lon": -77.03274,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mireflores-miraflores-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mireflores-miraflores-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mision-bliblica-comunitaria-villa-maria-del-triunfo",
@@ -6722,10 +6812,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.09655,
+"lon": -77.04258,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-familiar-internacional-san-isidro-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-familiar-internacional-san-isidro-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mision-internacional-cristo-viene-de-san-benito-lomas-de-carabayllo-carabayllo",
@@ -6751,10 +6842,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-internacional-cristo-viene-de-san-benito-lomas-de-carabayllo-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-internacional-cristo-viene-de-san-benito-lomas-de-carabayllo-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-misionera-pentecostes-bethel-villa-el-salvador",
@@ -6809,10 +6901,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.07556,
+"lon": -76.38528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-montejato-san-vicente-de-canete-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-montejato-san-vicente-de-canete-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-morada-de-dios-magdalena-del-mar",
@@ -7041,10 +7134,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -7.1353,
+"lon": -76.74165,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-del-peru-la-victoria-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-del-peru-la-victoria-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-politecnico-comas",
@@ -7070,10 +7164,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-politecnico-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-politecnico-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-primavera-comas",
@@ -7099,10 +7194,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-primavera-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-primavera-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principe-de-la-paz-sayan",
@@ -7128,10 +7224,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.13333,
+"lon": -77.1946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principe-de-la-paz-sayan-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principe-de-la-paz-sayan-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principe-de-paz-puente-piedra",
@@ -7244,10 +7341,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.13588,
+"lon": -77.00742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roca-fuerte-santiago-de-surco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-roca-fuerte-santiago-de-surco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-benito-de-palermo-imperial",
@@ -7273,10 +7371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.05927,
+"lon": -76.35269,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-benito-de-palermo-imperial-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-benito-de-palermo-imperial-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-ildefonso-barranca",
@@ -7302,10 +7401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-ildefonso-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-ildefonso-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-bautista-canta",
@@ -7331,10 +7431,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.46722,
+"lon": -76.62417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-canta-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-canta-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-pedro-caleta-de-carquin",
@@ -7360,10 +7461,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.0925,
+"lon": -77.62667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pedro-caleta-de-carquin-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pedro-caleta-de-carquin-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-pedro-del-valle-de-mala-mala",
@@ -7389,10 +7491,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.65806,
+"lon": -76.63083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pedro-del-valle-de-mala-mala-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-pedro-del-valle-de-mala-mala-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-vicente-martir-mala",
@@ -7418,10 +7521,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.65806,
+"lon": -76.63083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-vicente-martir-mala-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-vicente-martir-mala-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-rosa-de-barranco-barranco",
@@ -7447,10 +7551,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.14297,
+"lon": -77.01862,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-rosa-de-barranco-barranco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-rosa-de-barranco-barranco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-rosa-del-mar-santa-rosa",
@@ -7476,10 +7581,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.79917,
+"lon": -77.17333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-rosa-del-mar-santa-rosa-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-rosa-del-mar-santa-rosa-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-sigo-a-cristo-carabayllo",
@@ -7505,10 +7611,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sigo-a-cristo-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sigo-a-cristo-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-terazas-de-villa-villa-el-salvador",
@@ -7621,10 +7728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08333,
+"lon": -76.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vida-nueva-la-molina-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vida-nueva-la-molina-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vied-internacional-lurigancho",
@@ -7766,10 +7874,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.38333,
+"lon": -76.78333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesis-san-bartolo-san-bartolo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesis-san-bartolo-san-bartolo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ilesia-cristiana-pentecostes-del-peru-moviviento-misionero-mundial-los-rosales-ancon",
@@ -7853,10 +7962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.05605,
+"lon": -77.05295,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ipda-peru-brena-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ipda-peru-brena-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "islegia-cristo-la-roca-san-martin-de-porres",
@@ -7969,10 +8079,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesucristo-la-roca-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesucristo-la-roca-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesus-camino-de-vida-los-olivos",
@@ -8172,10 +8283,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08333,
+"lon": -76.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-la-molina-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-la-molina-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-de-jesucristo-lurigancho",
@@ -8230,10 +8342,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-en-huaral-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-en-huaral-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-santa-cruz-san-juan-de-lurigancho",
@@ -8288,10 +8401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.0925,
+"lon": -77.62667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-asambleas-de-dios-de-peru-caleta-de-carquin-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-asambleas-de-dios-de-peru-caleta-de-carquin-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "las-asambleas-de-dios-del-peru-chorrillos",
@@ -8549,10 +8663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.71807,
+"lon": -75.0821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-cristiana-evangelica-comas-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-cristiana-evangelica-comas-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-cristiana-patmos-independencia",
@@ -8578,10 +8693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.99,
+"lon": -77.04583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-cristiana-patmos-independencia-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-cristiana-patmos-independencia-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-divino-maestro-las-asambleas-de-dios-del-peru-ancon",
@@ -8694,10 +8810,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mmm-san-felipe-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mmm-san-felipe-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "movimiento-misionero-mundial-anexo-los-olivos-lima",
@@ -8839,10 +8956,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.66667,
+"lon": -77.83333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oratorio-del-santisimo-paramonga-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oratorio-del-santisimo-paramonga-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peru-jesu-cristo-villa-el-salvador",
@@ -8926,10 +9044,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-de-barranca-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-de-barranca-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "radha-soami-satsang-beas-peru-miraflores",
@@ -8955,10 +9074,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.11331,
+"lon": -77.03274,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/radha-soami-satsang-beas-peru-miraflores-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/radha-soami-satsang-beas-peru-miraflores-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-los-testigo-de-jehova-lurin",
@@ -9042,10 +9162,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.85333,
+"lon": -77.03778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-pablo-ii-carabayllo-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-pablo-ii-carabayllo-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-martin-de-porres-huaral",
@@ -9071,10 +9192,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.495,
+"lon": -77.20778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-martin-de-porres-huaral-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-martin-de-porres-huaral-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-martin-santa-anita",
@@ -9245,10 +9367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.75,
+"lon": -77.76667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-de-puerto-chico-barranca-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-cruz-de-puerto-chico-barranca-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santisima-trinidad-san-juan-de-lurigancho",
@@ -9332,10 +9455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.14297,
+"lon": -77.01862,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sociedad-misionera-de-santiago-apostol-barranco-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sociedad-misionera-de-santiago-apostol-barranco-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristo-vive-magdalena-del-mar",
@@ -9448,10 +9572,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.08333,
+"lon": -76.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/testigos-de-jehova-la-molina-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/testigos-de-jehova-la-molina-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-church-of-lima-miraflores",
@@ -9477,10 +9602,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.11331,
+"lon": -77.03274,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-church-of-lima-miraflores-lima"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-church-of-lima-miraflores-lima",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "virgen-sarita-colonia-san-juan-de-miraflores",

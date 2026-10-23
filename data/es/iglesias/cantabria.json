@@ -81,10 +81,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15457,
+"lon": -4.62055,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-cayetano-potes-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-cayetano-potes-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-arcangel-san-miguel-rionansa",
@@ -168,10 +169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15078,
+"lon": -4.69376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-fernando-camaleno-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-fernando-camaleno-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-juan-de-la-canal-santa-cruz-de-bezana",
@@ -197,10 +199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.4437,
+"lon": -3.90324,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-de-la-canal-santa-cruz-de-bezana-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-de-la-canal-santa-cruz-de-bezana-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-julian-camaleno",
@@ -226,10 +229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15078,
+"lon": -4.69376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-julian-camaleno-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-julian-camaleno-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-mateo-santa-cruz-de-bezana",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.4437,
+"lon": -3.90324,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mateo-santa-cruz-de-bezana-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mateo-santa-cruz-de-bezana-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pantaleon-ribamontan-al-mar",
@@ -371,10 +376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.34943,
+"lon": -4.04785,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-redimida-de-dios-torrelavega-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-redimida-de-dios-torrelavega-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-castro-cillorigo-de-liebana",
@@ -429,10 +435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.46589,
+"lon": -3.80493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-ultimos-dias-santander-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-ultimos-dias-santander-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-adriano-camaleno",
@@ -458,10 +465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15078,
+"lon": -4.69376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-adriano-camaleno-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-adriano-camaleno-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-cipriano-camaleno",
@@ -487,10 +495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15078,
+"lon": -4.69376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cipriano-camaleno-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cipriano-camaleno-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pantaleon-voto",
@@ -603,10 +612,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.38285,
+"lon": -3.22043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-castro-urdiales-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-castro-urdiales-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-el-amor-torrelavega",
@@ -632,10 +642,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.34943,
+"lon": -4.04785,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-amor-torrelavega-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-el-amor-torrelavega-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-espanola-santander",
@@ -661,10 +672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.46589,
+"lon": -3.80493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-espanola-santander-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-espanola-santander-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-los-del-camino-santander",
@@ -690,10 +702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.46589,
+"lon": -3.80493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-los-del-camino-santander-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-los-del-camino-santander-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostal-ministerio-ebenezer-santander",
@@ -719,10 +732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.46589,
+"lon": -3.80493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-ministerio-ebenezer-santander-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pentecostal-ministerio-ebenezer-santander-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-piedad-limpias",
@@ -748,10 +762,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.36402,
+"lon": -3.41778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-piedad-limpias-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-piedad-limpias-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "los-pinos-rionansa",
@@ -806,9 +821,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.36402,
+"lon": -3.41778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-advincula-limpias-cantabria"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-advincula-limpias-cantabria",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

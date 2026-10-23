@@ -26,7 +26,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boca-iglesia-chapa-de-mota-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boca-iglesia-chapa-de-mota-quintana-roo",
+"geo_fuente": null
 },
 {
 "slug": "edificio-1-templo-del-buho-felipe-carrillo-puerto",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5775,
+"lon": -88.04529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/edificio-1-templo-del-buho-felipe-carrillo-puerto-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/edificio-1-templo-del-buho-felipe-carrillo-puerto-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "edificio-2-templo-de-los-cormoranes-los-reyes",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5775,
+"lon": -88.04529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-3-reyes-felipe-carrillo-puerto-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-3-reyes-felipe-carrillo-puerto-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-maranatha-playa-del-carmen",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.6274,
+"lon": -87.07987,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-maranatha-playa-del-carmen-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-maranatha-playa-del-carmen-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-carretera-valladolid-felipe-nuevo-x-habin-orizaba",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.17429,
+"lon": -86.84656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-distrito-4-cancun-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-distrito-4-cancun-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tulum-tulum",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tulum-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tulum-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-roca-de-salvacion-cancun",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.17429,
+"lon": -86.84656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-roca-de-salvacion-cancun-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-roca-de-salvacion-cancun-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cristo-felipe-carrillo-puerto",
@@ -284,10 +291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5775,
+"lon": -88.04529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-felipe-carrillo-puerto-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cristo-felipe-carrillo-puerto-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-candelaria-jose-sixto-verduzco",
@@ -371,10 +379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-eben-ezer-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-eben-ezer-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-emanuel-tulum",
@@ -400,10 +409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-emanuel-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-emanuel-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-la-esperanza-san-luis-potosi",
@@ -458,10 +468,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.39693,
+"lon": -87.31444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-es-el-camino-akumal-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesus-es-el-camino-akumal-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-luz-del-mundo-tulum",
@@ -487,10 +498,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-lirio-de-los-valles-valladolid",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.74887,
+"lon": -88.70866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-auxiliadora-jose-maria-morelos-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-auxiliadora-jose-maria-morelos-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-de-los-olivos-tulum",
@@ -574,10 +587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-de-los-olivos-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-de-los-olivos-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-de-ored-tulum",
@@ -603,10 +617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-de-ored-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-de-ored-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-de-mexico-a-r-emanuel-bacalar",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.68109,
+"lon": -88.39333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-de-mexico-a-r-emanuel-bacalar-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-de-mexico-a-r-emanuel-bacalar-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-de-mexico-jose-maria-morelos",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.74887,
+"lon": -88.70866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-de-mexico-jose-maria-morelos-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-de-mexico-jose-maria-morelos-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-peniel-quintana-roo",
@@ -719,10 +736,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.50038,
+"lon": -86.94272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-antioquia-cozumel-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-antioquia-cozumel-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-el-divino-redentor-san-miguel-de-cozumel",
@@ -806,10 +824,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sendero-de-la-cruz-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-sendero-de-la-cruz-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-1-bacalar",
@@ -835,10 +854,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.68109,
+"lon": -88.39333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-1-bacalar-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-1-bacalar-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-24-bacalar",
@@ -864,10 +884,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.68109,
+"lon": -88.39333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-24-bacalar-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-24-bacalar-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-alfa-y-omega-othon-p-blanco",
@@ -893,10 +914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.62027,
+"lon": -89.00453,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-alfa-y-omega-othon-p-blanco-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-alfa-y-omega-othon-p-blanco-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-los-dinteles-ediicio-6-los-reyes",
@@ -1096,10 +1118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.21173,
+"lon": -87.46325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-nueva-jerusalem-fraternidad-de-asambleas-cristianas-pentecostes-tulum-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-nueva-jerusalem-fraternidad-de-asambleas-cristianas-pentecostes-tulum-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-monte-carmelo-felipe-carrillo-puerto",
@@ -1125,10 +1148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5775,
+"lon": -88.04529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-carmelo-felipe-carrillo-puerto-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-carmelo-felipe-carrillo-puerto-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-monte-de-los-olivos-los-reyes",
@@ -1183,9 +1207,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5775,
+"lon": -88.04529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-oreb-felipe-carrillo-puerto-quintana-roo"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-monte-oreb-felipe-carrillo-puerto-quintana-roo",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

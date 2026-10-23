@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.92501,
+"lon": -98.34201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-christian-center-grand-island-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-christian-center-grand-island-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albion-bible-church-albion",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.69084,
+"lon": -98.00367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/albion-bible-church-albion-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/albion-bible-church-albion-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-seasons-church-bellevue",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-seasons-church-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-seasons-church-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alliance-baptist-church-alliance",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-baptist-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-baptist-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alliance-berean-church-alliance",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-berean-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-berean-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alliance-christian-church-alliance",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-christian-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-christian-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alliance-seventh-day-adventist-church-alliance",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-seventh-day-adventist-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-seventh-day-adventist-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alliance-united-methodist-church-alliance",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-united-methodist-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alliance-united-methodist-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "allon-chapel-lincoln",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.8,
+"lon": -96.66696,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/allon-chapel-lincoln-ne-estados-unidos-18268"
+"fuente_url": "https://encuentraiglesias.com/iglesia/allon-chapel-lincoln-ne-estados-unidos-18268",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alma-evangelical-free-church-alma",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.09751,
+"lon": -99.36204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alma-evangelical-free-church-alma-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alma-evangelical-free-church-alma-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "american-lutheran-church-adams",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.45944,
+"lon": -96.51002,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/american-lutheran-church-adams-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/american-lutheran-church-adams-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "american-muslim-institute-boys-town",
@@ -516,10 +527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-life-center-omaha-ne-estados-unidos-27245"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-life-center-omaha-ne-estados-unidos-27245",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arnold-baptist-church-arnold",
@@ -545,10 +557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.4225,
+"lon": -100.19346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arnold-baptist-church-arnold-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arnold-baptist-church-arnold-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "auburn-berean-church-auburn",
@@ -574,10 +587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39278,
+"lon": -95.83889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/auburn-berean-church-auburn-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/auburn-berean-church-auburn-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "auburn-evangelical-free-church-auburn",
@@ -603,10 +617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39278,
+"lon": -95.83889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/auburn-evangelical-free-church-auburn-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/auburn-evangelical-free-church-auburn-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aurora-seventh-day-adventist-church-aurora",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86723,
+"lon": -98.00422,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aurora-seventh-day-adventist-church-aurora-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aurora-seventh-day-adventist-church-aurora-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bartley-christian-church-bartley",
@@ -690,10 +706,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.58583,
+"lon": -99.53789,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bassett-assembly-of-god-church-bassett-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bassett-assembly-of-god-church-bassett-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bayard-memorial-chapel-bayard",
@@ -719,10 +736,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.75497,
+"lon": -103.3241,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bayard-memorial-chapel-bayard-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bayard-memorial-chapel-bayard-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beatrice-mennonite-church-beatrice",
@@ -748,10 +766,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26806,
+"lon": -96.74697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beatrice-mennonite-church-beatrice-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beatrice-mennonite-church-beatrice-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beatrice-seventh-day-adventist-church-beatrice",
@@ -777,10 +796,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26806,
+"lon": -96.74697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beatrice-seventh-day-adventist-church-beatrice-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beatrice-seventh-day-adventist-church-beatrice-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beemer-community-church-beemer",
@@ -806,10 +826,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.93,
+"lon": -96.8117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beemer-community-church-beemer-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beemer-community-church-beemer-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bellevue-christian-church-bellevue",
@@ -835,10 +856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bellevue-christian-church-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bellevue-christian-church-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bellevue-church-of-christ-bellevue",
@@ -864,10 +886,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bellevue-church-of-christ-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bellevue-church-of-christ-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bennet-community-church-bennet",
@@ -893,10 +916,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.68,
+"lon": -96.5064,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bennet-community-church-bennet-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bennet-community-church-bennet-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berean-fundamental-church-brady",
@@ -951,10 +975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-temple-seventh-day-adventist-church-omaha-ne-estados-unidos-51480"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-temple-seventh-day-adventist-church-omaha-ne-estados-unidos-51480",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethpage-mission-axtell",
@@ -980,10 +1005,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.47835,
+"lon": -99.12676,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethpage-mission-axtell-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethpage-mission-axtell-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bible-truth-ministries-fellowship-church-bellevue",
@@ -1009,10 +1035,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bible-truth-ministries-fellowship-church-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bible-truth-ministries-fellowship-church-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bingham-congregational-church-bingham",
@@ -1041,7 +1068,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bingham-congregational-church-bingham-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bingham-congregational-church-bingham-nebraska",
+"geo_fuente": null
 },
 {
 "slug": "bradshaw-united-methodist-church-bradshaw",
@@ -1125,10 +1153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40195,
+"lon": -99.63928,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/broken-bow-seventh-day-adventist-church-broken-bow-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/broken-bow-seventh-day-adventist-church-broken-bow-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "burwell-baptist-church-burwell",
@@ -1154,10 +1183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.78167,
+"lon": -99.13315,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burwell-baptist-church-burwell-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burwell-baptist-church-burwell-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cairo-united-methodist-church-cairo",
@@ -1183,10 +1213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.00112,
+"lon": -98.60757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cairo-united-methodist-church-cairo-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cairo-united-methodist-church-cairo-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "callaway-community-church-callaway",
@@ -1212,10 +1243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29195,
+"lon": -99.92262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/callaway-community-church-callaway-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/callaway-community-church-callaway-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "callaway-lutheran-church-callaway",
@@ -1241,10 +1273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.29195,
+"lon": -99.92262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/callaway-lutheran-church-callaway-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/callaway-lutheran-church-callaway-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-assembly-of-god-church-alliance",
@@ -1270,10 +1303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-assembly-of-god-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-assembly-of-god-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-christian-center-auburn",
@@ -1299,10 +1333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.39278,
+"lon": -95.83889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-christian-center-auburn-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-christian-center-auburn-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campus-lutheran-ministry-kearney",
@@ -1328,10 +1363,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.69946,
+"lon": -99.08148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campus-lutheran-ministry-kearney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campus-lutheran-ministry-kearney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capitol-view-seventh-day-adventist-church-ames",
@@ -1386,10 +1422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-church-of-the-nazarene-omaha-ne-estados-unidos-35412"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-church-of-the-nazarene-omaha-ne-estados-unidos-35412",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chabad-house-center-boys-town",
@@ -1444,10 +1481,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.82942,
+"lon": -102.99991,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chadron-seventh-day-adventist-church-chadron-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chadron-seventh-day-adventist-church-chadron-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-of-the-pines-pentecostal-church-long-pine",
@@ -1502,10 +1540,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84194,
+"lon": -101.72517,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cheney-united-methodist-church-grant-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cheney-united-methodist-church-grant-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-our-savior-church-fremont",
@@ -1531,10 +1570,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.43333,
+"lon": -96.49808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-our-savior-church-fremont-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-our-savior-church-fremont-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-temple-mission-church-ames",
@@ -1589,10 +1629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.30417,
+"lon": -99.9004,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-church-of-christ-arapahoe-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-church-of-christ-arapahoe-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-missionary-alliance-western-district-office-church-boys-town",
@@ -1676,10 +1717,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26806,
+"lon": -96.74697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-promise-beatrice-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-promise-beatrice-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "citylight-lincoln-ames",
@@ -1792,10 +1834,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42973,
+"lon": -97.36838,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/columbus-seventh-day-adventist-church-columbus-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/columbus-seventh-day-adventist-church-columbus-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "condordia-lutheran-church-clearwater",
@@ -1850,10 +1893,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.46667,
+"lon": -97.90618,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-baptist-united-church-of-christ-creighton-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-baptist-united-church-of-christ-creighton-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregational-united-church-of-christ-ainsworth",
@@ -1879,10 +1923,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.55,
+"lon": -99.86262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-united-church-of-christ-ainsworth-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-united-church-of-christ-ainsworth-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cornerstone-assembly-of-god-church-blair",
@@ -1908,10 +1953,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.54444,
+"lon": -96.12502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-assembly-of-god-church-blair-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-assembly-of-god-church-blair-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "coryell-chapel-brock",
@@ -1995,10 +2041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/countryside-community-church-omaha-ne-estados-unidos-35402"
+"fuente_url": "https://encuentraiglesias.com/iglesia/countryside-community-church-omaha-ne-estados-unidos-35402",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cozad-presbyterian-church-cozad",
@@ -2024,10 +2071,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.85973,
+"lon": -99.98734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cozad-presbyterian-church-cozad-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cozad-presbyterian-church-cozad-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "creston-baptist-church-creston",
@@ -2082,10 +2130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40195,
+"lon": -99.63928,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/custer-united-methodist-parish-broken-bow-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/custer-united-methodist-parish-broken-bow-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "deaf-bethlehem-lutheran-church-mason-city",
@@ -2169,10 +2218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dominion-covenant-church-omaha-ne-estados-unidos-28245"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dominion-covenant-church-omaha-ne-estados-unidos-28245",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dunbar-presbyterian-church-dunbar",
@@ -2256,10 +2306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86807,
+"lon": -97.592,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-avenue-united-methodist-church-york-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-avenue-united-methodist-church-york-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastridge-presbyterian-church-central-city",
@@ -2285,10 +2336,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.11585,
+"lon": -98.00172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eastridge-presbyterian-church-central-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eastridge-presbyterian-church-central-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ebenezer-united-church-of-christ-ames",
@@ -2372,10 +2424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.92719,
+"lon": -89.96346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/edgar-lutheran-church-edgar-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/edgar-lutheran-church-edgar-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elevate-church-lincoln",
@@ -2401,10 +2454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.8,
+"lon": -96.66696,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elevate-church-lincoln-ne-estados-unidos-46891"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elevate-church-lincoln-ne-estados-unidos-46891",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elkhorn-hills-united-methodist-church-elkhorn",
@@ -2430,10 +2484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.345,
+"lon": -96.256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elkhorn-hills-united-methodist-church-elkhorn-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elkhorn-hills-united-methodist-church-elkhorn-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elsie-united-methodist-church-elsie",
@@ -2459,10 +2514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.08864,
+"lon": -84.38693,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elsie-united-methodist-church-elsie-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elsie-united-methodist-church-elsie-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-southern-baptist-church-bassett",
@@ -2488,10 +2544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.58583,
+"lon": -99.53789,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-southern-baptist-church-bassett-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-southern-baptist-church-bassett-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evangelical-covenant-church-aurora",
@@ -2517,10 +2574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86723,
+"lon": -98.00422,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-covenant-church-aurora-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-covenant-church-aurora-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evangelical-free-church-of-alliance-alliance",
@@ -2546,10 +2604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-free-church-of-alliance-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-free-church-of-alliance-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evangelical-lutheran-church-in-america-douglas",
@@ -2633,10 +2692,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.13722,
+"lon": -97.18059,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fairbury-presbyterian-church-fairbury-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fairbury-presbyterian-church-fairbury-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fairbury-seventh-day-adventist-church-fairbury",
@@ -2662,10 +2722,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.13722,
+"lon": -97.18059,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fairbury-seventh-day-adventist-church-fairbury-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fairbury-seventh-day-adventist-church-fairbury-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fairmont-community-church-fairmont",
@@ -2691,10 +2752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.63695,
+"lon": -97.58533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fairmont-community-church-fairmont-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fairmont-community-church-fairmont-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-apostolic-holiness-church-elmwood",
@@ -2720,10 +2782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84167,
+"lon": -96.29362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-apostolic-holiness-church-elmwood-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-apostolic-holiness-church-elmwood-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-christian-church-boys-town",
@@ -2778,10 +2841,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62,
+"lon": -96.62918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-of-our-father-lutheran-church-hickman-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-of-our-father-lutheran-church-hickman-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-united-methodist-parish-waterloo",
@@ -2807,10 +2871,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.28694,
+"lon": -96.28558,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-methodist-parish-waterloo-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-methodist-parish-waterloo-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-united-pentecostal-church-gering",
@@ -2836,10 +2901,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.8258,
+"lon": -103.6605,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-pentecostal-church-gering-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-united-pentecostal-church-gering-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-wesleyan-church-atkinson",
@@ -2865,10 +2931,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.53139,
+"lon": -98.97815,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-wesleyan-church-atkinson-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-wesleyan-church-atkinson-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-westwood-united-methodist-church-omaha",
@@ -2894,10 +2961,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-westwood-united-methodist-church-omaha-ne-estados-unidos-33079"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-westwood-united-methodist-church-omaha-ne-estados-unidos-33079",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "falls-city-first-baptist-church-falls-city",
@@ -2923,10 +2991,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06084,
+"lon": -95.60193,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/falls-city-first-baptist-church-falls-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/falls-city-first-baptist-church-falls-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "falls-city-seventh-day-adventist-church-falls-city",
@@ -2952,10 +3021,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06084,
+"lon": -95.60193,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/falls-city-seventh-day-adventist-church-falls-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/falls-city-seventh-day-adventist-church-falls-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-bellevue-bellevue",
@@ -2981,10 +3051,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-bellevue-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-bellevue-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-christian-church-disciples-of-christ-beatrice",
@@ -3010,10 +3081,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26806,
+"lon": -96.74697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-christian-church-disciples-of-christ-beatrice-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-christian-church-disciples-of-christ-beatrice-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-christian-church-of-lincoln-ames",
@@ -3068,10 +3140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-city-church-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-city-church-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-evangelical-lutheran-church-aurora",
@@ -3097,10 +3170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86723,
+"lon": -98.00422,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-evangelical-lutheran-church-aurora-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-evangelical-lutheran-church-aurora-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-plymouth-congregational-church-ames",
@@ -3184,10 +3258,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-omaha-omaha-ne-estados-unidos-35150"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-omaha-omaha-ne-estados-unidos-35150",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-slavic-baptist-church-elk-creek",
@@ -3213,10 +3288,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10034,
+"lon": -85.37107,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-slavic-baptist-church-elk-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-slavic-baptist-church-elk-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-holdrege-holdrege",
@@ -3242,10 +3318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.44029,
+"lon": -99.36982,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-holdrege-holdrege-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-holdrege-holdrege-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fort-calhoun-baptist-church-fort-calhoun",
@@ -3271,10 +3348,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.45583,
+"lon": -96.0264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fort-calhoun-baptist-church-fort-calhoun-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fort-calhoun-baptist-church-fort-calhoun-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fourmile-church-beaver-city",
@@ -3300,10 +3378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.13751,
+"lon": -99.82956,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fourmile-church-beaver-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fourmile-church-beaver-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fourth-church-of-christ-boys-town",
@@ -3358,10 +3437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.71945,
+"lon": -99.37204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fremont-seventh-day-adventist-church-elm-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fremont-seventh-day-adventist-church-elm-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fridhem-lutheran-church-funk",
@@ -3416,10 +3496,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.91139,
+"lon": -98.84926,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/full-gospel-assembly-of-god-butte-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/full-gospel-assembly-of-god-butte-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gering-baptist-church-gering",
@@ -3445,10 +3526,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.8258,
+"lon": -103.6605,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gering-baptist-church-gering-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gering-baptist-church-gering-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gibbon-baptist-church-gibbon",
@@ -3474,10 +3556,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.74835,
+"lon": -98.8448,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gibbon-baptist-church-gibbon-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gibbon-baptist-church-gibbon-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gordon-seventh-day-adventist-church-gordon",
@@ -3503,10 +3586,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.80472,
+"lon": -102.20322,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gordon-seventh-day-adventist-church-gordon-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gordon-seventh-day-adventist-church-gordon-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-by-faith-evangelical-lutheran-church-norfolk",
@@ -3532,10 +3616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.02834,
+"lon": -97.417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-by-faith-evangelical-lutheran-church-norfolk-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-by-faith-evangelical-lutheran-church-norfolk-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-chapel-ames",
@@ -3648,10 +3733,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gregg-memorial-african-methodist-episcopal-church-omaha-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gregg-memorial-african-methodist-episcopal-church-omaha-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gretna-baptist-church-gretna",
@@ -3677,10 +3763,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.14083,
+"lon": -96.23974,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gretna-baptist-church-gretna-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gretna-baptist-church-gretna-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hanscom-park-united-methodist-church-omaha",
@@ -3706,10 +3793,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hanscom-park-united-methodist-church-omaha-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hanscom-park-united-methodist-church-omaha-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harrison-street-baptist-church-champion",
@@ -3793,10 +3881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.04916,
+"lon": -101.53294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-time-assembly-of-god-church-benkelman-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-time-assembly-of-god-church-benkelman-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-time-baptist-church-grand-island",
@@ -3822,10 +3911,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.92501,
+"lon": -98.34201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-time-baptist-church-grand-island-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-time-baptist-church-grand-island-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvey-oaks-baptist-church-boys-town",
@@ -3880,10 +3970,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58612,
+"lon": -98.38839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hastings-seventh-day-adventist-church-hastings-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hastings-seventh-day-adventist-church-hastings-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "havelock-united-methodist-church-liberty",
@@ -3938,10 +4029,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.15861,
+"lon": -101.00265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hershey-baptist-church-hershey-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hershey-baptist-church-hershey-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hillside-christian-church-blair",
@@ -3967,10 +4059,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.54444,
+"lon": -96.12502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillside-christian-church-blair-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillside-christian-church-blair-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holdrege-seventh-day-adventist-church-holdrege",
@@ -3996,10 +4089,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.44029,
+"lon": -99.36982,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holdrege-seventh-day-adventist-church-holdrege-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holdrege-seventh-day-adventist-church-holdrege-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "holy-cross-campus-ministry-kearney",
@@ -4025,10 +4119,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.69946,
+"lon": -99.08148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-cross-campus-ministry-kearney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-cross-campus-ministry-kearney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "homestead-baptist-church-beatrice",
@@ -4054,10 +4149,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26806,
+"lon": -96.74697,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/homestead-baptist-church-beatrice-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/homestead-baptist-church-beatrice-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hope-congregational-church-bayard",
@@ -4083,10 +4179,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.75497,
+"lon": -103.3241,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hope-congregational-church-bayard-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hope-congregational-church-bayard-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "horizons-community-church-elk-creek",
@@ -4112,10 +4209,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10034,
+"lon": -85.37107,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/horizons-community-church-elk-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/horizons-community-church-elk-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hull-united-methodist-church-harrisburg",
@@ -4141,10 +4239,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.55636,
+"lon": -103.73856,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hull-united-methodist-church-harrisburg-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hull-united-methodist-church-harrisburg-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hyannis-seventh-day-adventist-church-hyannis",
@@ -4170,10 +4269,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.00054,
+"lon": -101.76184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hyannis-seventh-day-adventist-church-hyannis-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hyannis-seventh-day-adventist-church-hyannis-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-beemer",
@@ -4199,10 +4299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.93,
+"lon": -96.8117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-beemer-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-beemer-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-dios-es-amor-ames",
@@ -4315,10 +4416,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.69946,
+"lon": -99.08148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kearney-baptist-church-kearney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kearney-baptist-church-kearney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kearney-seventh-day-adventist-church-kearney",
@@ -4344,10 +4446,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.69946,
+"lon": -99.08148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kearney-seventh-day-adventist-church-kearney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kearney-seventh-day-adventist-church-kearney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kenesaw-lutheran-church-kenesaw",
@@ -4373,10 +4476,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62113,
+"lon": -98.65757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kenesaw-lutheran-church-kenesaw-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kenesaw-lutheran-church-kenesaw-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kenesaw-presbyterian-church-kenesaw",
@@ -4402,10 +4506,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62113,
+"lon": -98.65757,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kenesaw-presbyterian-church-kenesaw-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kenesaw-presbyterian-church-kenesaw-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kimball-southern-baptist-church-kimball",
@@ -4431,10 +4536,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23581,
+"lon": -103.663,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kimball-southern-baptist-church-kimball-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kimball-southern-baptist-church-kimball-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "king-of-kings-church-fremont-elm-creek",
@@ -4460,10 +4566,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.71945,
+"lon": -99.37204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-kings-church-fremont-elm-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-kings-church-fremont-elm-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kingway-christian-church-boys-town",
@@ -4518,10 +4625,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lakefield-wesleyan-chapel-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lakefield-wesleyan-chapel-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lakota-lutheran-center-gering",
@@ -4547,10 +4655,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.8258,
+"lon": -103.6605,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lakota-lutheran-center-gering-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lakota-lutheran-center-gering-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "life-tabernacle-church-elmwood",
@@ -4576,10 +4685,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84167,
+"lon": -96.29362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-tabernacle-church-elmwood-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-tabernacle-church-elmwood-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "light-memorial-presbyterian-church-sidney",
@@ -4605,10 +4715,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.14276,
+"lon": -102.97798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/light-memorial-presbyterian-church-sidney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/light-memorial-presbyterian-church-sidney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lighthouse-united-pentecostal-church-seward",
@@ -4634,10 +4745,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.90695,
+"lon": -97.09892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-united-pentecostal-church-seward-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-united-pentecostal-church-seward-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lincoln-community-of-christ-ames",
@@ -4692,10 +4804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84167,
+"lon": -96.29362,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lincoln-hispanic-seventh-day-adventist-church-elmwood-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lincoln-hispanic-seventh-day-adventist-church-elmwood-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lisco-presbyterian-church-lisco",
@@ -4750,10 +4863,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.11585,
+"lon": -98.00172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-faith-free-methodist-church-central-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-faith-free-methodist-church-central-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-hope-evangelical-lutheran-church-lakeside",
@@ -4808,10 +4922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-united-methodist-church-omaha-ne-estados-unidos-42197"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-united-methodist-church-omaha-ne-estados-unidos-42197",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-life-reformed-church-champion",
@@ -4895,10 +5010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mapleview-free-methodist-church-omaha-ne-estados-unidos-35525"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mapleview-free-methodist-church-omaha-ne-estados-unidos-35525",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maria-lutheran-church-hershey",
@@ -4924,10 +5040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.15861,
+"lon": -101.00265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maria-lutheran-church-hershey-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maria-lutheran-church-hershey-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "martell-united-methodist-church-martell",
@@ -5069,10 +5186,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84194,
+"lon": -101.72517,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mid-america-seventh-day-adventist-church-grant-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mid-america-seventh-day-adventist-church-grant-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "miracle-hills-church-boys-town",
@@ -5127,10 +5245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94024,
+"lon": -103.80856,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mitchell-united-methodist-church-mitchell-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mitchell-united-methodist-church-mitchell-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monroe-methodist-church-monroe",
@@ -5243,10 +5362,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.92945,
+"lon": -100.16068,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nebraska-synod-lutheran-church-gothenburg-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nebraska-synod-lutheran-church-gothenburg-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "neligh-seventh-day-adventist-church-neligh",
@@ -5272,10 +5392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.12862,
+"lon": -98.02979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/neligh-seventh-day-adventist-church-neligh-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/neligh-seventh-day-adventist-church-neligh-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-covenant-community-church-grant",
@@ -5301,10 +5422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84194,
+"lon": -101.72517,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-covenant-community-church-grant-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-covenant-community-church-grant-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-creation-community-lincoln",
@@ -5330,10 +5452,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.8,
+"lon": -96.66696,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-creation-community-lincoln-ne-estados-unidos-49635"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-creation-community-lincoln-ne-estados-unidos-49635",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-life-assembly-of-god-church-albion",
@@ -5359,10 +5482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.69084,
+"lon": -98.00367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-assembly-of-god-church-albion-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-assembly-of-god-church-albion-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-visions-community-united-methodist-church-calvary-site-ames",
@@ -5475,10 +5599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.72667,
+"lon": -97.12226,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-zion-presbyterian-church-clarkson-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-zion-presbyterian-church-clarkson-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "niobrara-evangelical-lutheran-church-niobrara",
@@ -5533,10 +5658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.02834,
+"lon": -97.417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/norfolk-seventh-day-adventist-church-norfolk-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/norfolk-seventh-day-adventist-church-norfolk-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northfield-assembly-of-god-church-gering",
@@ -5562,10 +5688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.8258,
+"lon": -103.6605,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northfield-assembly-of-god-church-gering-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northfield-assembly-of-god-church-gering-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northside-seventh-day-adventist-church-liberty",
@@ -5620,10 +5747,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12805,
+"lon": -101.71962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ogallala-seventh-day-adventist-church-ogallala-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ogallala-seventh-day-adventist-church-ogallala-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olds-path-baptist-tabernacle-church-blair",
@@ -5649,10 +5777,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.54444,
+"lon": -96.12502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olds-path-baptist-tabernacle-church-blair-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olds-path-baptist-tabernacle-church-blair-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "omaha-chinese-christian-church-boys-town",
@@ -5707,10 +5836,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/omaha-memorial-seventh-day-adventist-church-omaha-ne-estados-unidos-18283"
+"fuente_url": "https://encuentraiglesias.com/iglesia/omaha-memorial-seventh-day-adventist-church-omaha-ne-estados-unidos-18283",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "open-bible-church-boys-town",
@@ -5765,10 +5895,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.17974,
+"lon": -97.54755,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-lutheran-church-osceola-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/osceola-lutheran-church-osceola-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "osmond-united-methodist-church-osmond",
@@ -5794,10 +5925,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.36,
+"lon": -97.59673,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/osmond-united-methodist-church-osmond-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/osmond-united-methodist-church-osmond-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-savior-lutheran-church-missouri-synod-valentine",
@@ -5823,10 +5955,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87278,
+"lon": -100.55097,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-lutheran-church-missouri-synod-valentine-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-lutheran-church-missouri-synod-valentine-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviours-baptist-church-elkhorn",
@@ -5852,10 +5985,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.345,
+"lon": -96.256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-baptist-church-elkhorn-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-baptist-church-elkhorn-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pacific-hills-lutheran-church-lakeside",
@@ -5939,10 +6073,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/panhandle-church-of-christ-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/panhandle-church-of-christ-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parkside-berean-church-ainsworth",
@@ -5968,10 +6103,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.55,
+"lon": -99.86262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkside-berean-church-ainsworth-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkside-berean-church-ainsworth-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "passageway-church-blair",
@@ -5997,10 +6133,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.54444,
+"lon": -96.12502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/passageway-church-blair-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/passageway-church-blair-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peace-presbyterian-church-elkhorn",
@@ -6026,10 +6163,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.345,
+"lon": -96.256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peace-presbyterian-church-elkhorn-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peace-presbyterian-church-elkhorn-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pella-reformed-church-panama",
@@ -6055,10 +6193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.16732,
+"lon": -94.67245,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pella-reformed-church-panama-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pella-reformed-church-panama-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-church-of-god-abundant-life-fellowship-elm-creek",
@@ -6084,10 +6223,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.71945,
+"lon": -99.37204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-church-of-god-abundant-life-fellowship-elm-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-church-of-god-abundant-life-fellowship-elm-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-church-of-kearney-kearney",
@@ -6113,10 +6253,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.69946,
+"lon": -99.08148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-church-of-kearney-kearney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-church-of-kearney-kearney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-kings-church-nebraska-city",
@@ -6142,10 +6283,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.67667,
+"lon": -95.85917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-kings-church-nebraska-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-kings-church-nebraska-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentecostal-temple-hastings",
@@ -6171,10 +6313,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58612,
+"lon": -98.38839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-temple-hastings-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentecostal-temple-hastings-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "piedmont-park-seventh-day-adventist-church-central-city",
@@ -6200,10 +6343,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.11585,
+"lon": -98.00172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/piedmont-park-seventh-day-adventist-church-central-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/piedmont-park-seventh-day-adventist-church-central-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "plains-baptist-church-ames",
@@ -6287,10 +6431,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.71945,
+"lon": -99.37204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-fremont-elm-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-fremont-elm-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbyterian-church-of-the-cross-boys-town",
@@ -6345,10 +6490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-the-master-omaha-ne-estados-unidos-35496"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-the-master-omaha-ne-estados-unidos-35496",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbyterian-community-church-melbeta",
@@ -6461,10 +6607,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.20168,
+"lon": -98.06782,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/raymond-united-methodist-church-nelson-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/raymond-united-methodist-church-nelson-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rejoice-lutheran-church-boys-town",
@@ -6519,10 +6666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.03916,
+"lon": -96.36835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/riverview-community-church-ashland-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/riverview-community-church-ashland-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rockbrook-united-methodist-church-lakeside",
@@ -6577,10 +6725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.47388,
+"lon": -96.41364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rustin-avenue-methodist-church-south-sioux-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rustin-avenue-methodist-church-south-sioux-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sac-memorial-chapel-bellevue",
@@ -6606,10 +6755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13667,
+"lon": -95.89084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sac-memorial-chapel-bellevue-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sac-memorial-chapel-bellevue-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-andrews-eqiscopal-church-omaha",
@@ -6635,10 +6785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrews-eqiscopal-church-omaha-ne-estados-unidos-35408"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrews-eqiscopal-church-omaha-ne-estados-unidos-35408",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-francis-de-sales-church-battle-creek",
@@ -6664,10 +6815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.99945,
+"lon": -97.59839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-francis-de-sales-church-battle-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-francis-de-sales-church-battle-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-reformed-church-ames",
@@ -6780,10 +6932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10034,
+"lon": -85.37107,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sheridan-lutheran-church-elk-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sheridan-lutheran-church-elk-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sinai-lutheran-church-elm-creek",
@@ -6809,10 +6962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.71945,
+"lon": -99.37204,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sinai-lutheran-church-elm-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sinai-lutheran-church-elm-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-street-temple-ames",
@@ -6867,10 +7021,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10034,
+"lon": -85.37107,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southern-heights-presbyterian-church-elk-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southern-heights-presbyterian-church-elk-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southview-christian-church-ames",
@@ -6925,10 +7080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10034,
+"lon": -85.37107,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southwood-lutheran-church-elk-creek-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southwood-lutheran-church-elk-creek-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sower-church-ames",
@@ -6983,10 +7139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.10163,
+"lon": -102.87215,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spanish-assembly-of-god-church-alliance-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spanish-assembly-of-god-church-alliance-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spekes-temple-african-methodist-episcopal-zion-church-omaha",
@@ -7012,10 +7169,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.25626,
+"lon": -95.94043,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spekes-temple-african-methodist-episcopal-zion-church-omaha-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spekes-temple-african-methodist-episcopal-zion-church-omaha-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-of-hope-lutheran-church-nebraska-city",
@@ -7041,10 +7199,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.67667,
+"lon": -95.85917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-hope-lutheran-church-nebraska-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spirit-of-hope-lutheran-church-nebraska-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springank-church-allen",
@@ -7131,7 +7290,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/swede-valley-lutheran-church-ashby-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/swede-valley-lutheran-church-ashby-nebraska",
+"geo_fuente": null
 },
 {
 "slug": "table-rock-united-methodist-church-table-rock",
@@ -7186,10 +7346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.49945,
+"lon": -97.54201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/thabor-lutheran-church-wausa-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/thabor-lutheran-church-wausa-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-lutheran-center-lincoln",
@@ -7215,10 +7376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.8,
+"lon": -96.66696,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-lutheran-center-lincoln-ne-estados-unidos-39582"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-lutheran-center-lincoln-ne-estados-unidos-39582",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-rock-lutheran-church-seward",
@@ -7244,10 +7406,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.90695,
+"lon": -97.09892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-lutheran-church-seward-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-lutheran-church-seward-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tri-faith-center-boys-town",
@@ -7302,10 +7465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.69946,
+"lon": -99.08148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-campus-ministry-at-kearney-kearney-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-campus-ministry-at-kearney-kearney-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-latvian-evangelical-lutheran-church-ames",
@@ -7360,10 +7524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.00482,
+"lon": -76.60413,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-hallam-hallam-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-hallam-hallam-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-methodist-churchfirst-lutheran-church-potter",
@@ -7418,10 +7583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.67667,
+"lon": -95.85917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-ministries-nebraska-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-ministries-nebraska-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-presbyterian-church-of-hickman-hickman",
@@ -7447,10 +7613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.62,
+"lon": -96.62918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-presbyterian-church-of-hickman-hickman-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-presbyterian-church-of-hickman-hickman-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valparaiso-united-methodist-church-valparaiso",
@@ -7476,10 +7643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.08139,
+"lon": -96.83169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valparaiso-united-methodist-church-valparaiso-ne-estados-unidos-52456"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valparaiso-united-methodist-church-valparaiso-ne-estados-unidos-52456",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wallace-united-methodist-church-wallace",
@@ -7534,10 +7702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.53139,
+"lon": -98.97815,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-holt-assembly-of-god-church-atkinson-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-holt-assembly-of-god-church-atkinson-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westcott-baptist-church-comstock",
@@ -7592,10 +7761,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.02834,
+"lon": -97.417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/westridge-united-methodist-church-norfolk-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/westridge-united-methodist-church-norfolk-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "westwood-church-boys-town",
@@ -7679,10 +7849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.47388,
+"lon": -96.41364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/whitfield-united-methodist-church-south-sioux-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/whitfield-united-methodist-church-south-sioux-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "winnebago-reformed-church-winnebago",
@@ -7708,10 +7879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.23583,
+"lon": -96.47253,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winnebago-reformed-church-winnebago-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winnebago-reformed-church-winnebago-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wolbach-lutheran-church-wolbach",
@@ -7795,10 +7967,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.03916,
+"lon": -96.36835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-hope-lutheran-church-ashland-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-hope-lutheran-church-ashland-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "word-of-life-lutheran-church-nebraska-city",
@@ -7824,10 +7997,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.67667,
+"lon": -95.85917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-lutheran-church-nebraska-city-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-life-lutheran-church-nebraska-city-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wymore-church-of-christ-blue-springs",
@@ -7853,10 +8027,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wymore-church-of-christ-blue-springs-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wymore-church-of-christ-blue-springs-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-lutheran-church-missouri-synod-crookston",
@@ -7882,10 +8057,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.77414,
+"lon": -96.60812,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-missouri-synod-crookston-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-missouri-synod-crookston-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-lutheran-church-wisconsin-synod-valentine",
@@ -7911,9 +8087,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87278,
+"lon": -100.55097,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-wisconsin-synod-valentine-nebraska"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-wisconsin-synod-valentine-nebraska",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33804,
+"lon": -89.3804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/allen-ebenezer-christian-methodist-episcopal-church-arlington-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/allen-ebenezer-christian-methodist-episcopal-church-arlington-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-truth-church-appleton",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.26193,
+"lon": -88.41538,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-truth-church-appleton-wi-estados-unidos-52496"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-truth-church-appleton-wi-estados-unidos-52496",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "believers-city-church-menomonie",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.87552,
+"lon": -91.91934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/believers-city-church-menomonie-wi-estados-unidos-42937"
+"fuente_url": "https://encuentraiglesias.com/iglesia/believers-city-church-menomonie-wi-estados-unidos-42937",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beloit-seventh-day-adventist-church-beloit",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50835,
+"lon": -89.03178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beloit-seventh-day-adventist-church-beloit-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beloit-seventh-day-adventist-church-beloit-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beth-israel-center-bassett",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.99746,
+"lon": -91.72712,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-lutheran-brethren-church-colfax-wi-estados-unidos-39650"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-lutheran-brethren-church-colfax-wi-estados-unidos-39650",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-lutheran-church-highlands-campus-hudson",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.97469,
+"lon": -92.75687,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-lutheran-church-highlands-campus-hudson-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-lutheran-church-highlands-campus-hudson-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethesda-church-of-god-in-christ-king",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.33748,
+"lon": -89.14178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-church-of-god-in-christ-king-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-church-of-god-in-christ-king-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boycville-united-methodist-church-boyceville",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.04357,
+"lon": -92.04101,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boycville-united-methodist-church-boyceville-wi-estados-unidos-44299"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boycville-united-methodist-church-boyceville-wi-estados-unidos-44299",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capital-memorial-church-of-seventh-day-adventists-caroline",
@@ -313,10 +321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.95974,
+"lon": -87.86147,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/changing-lives-assembly-of-god-cudahy-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/changing-lives-assembly-of-god-cudahy-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-presbyterian-church-bassett",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.27304,
+"lon": -88.67844,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-baptist-church-asian-american-community-center-dale-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-baptist-church-asian-american-community-center-dale-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "discover-church-oak-creek",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.88585,
+"lon": -87.86314,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/discover-church-oak-creek-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/discover-church-oak-creek-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elm-grove-lutheran-church-elm-grove",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.04307,
+"lon": -88.07898,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elm-grove-lutheran-church-elm-grove-wi-estados-unidos-27"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elm-grove-lutheran-church-elm-grove-wi-estados-unidos-27",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elmbrook-church-brookfield",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.06057,
+"lon": -88.10648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elmbrook-church-brookfield-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elmbrook-church-brookfield-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-evangelical-free-church-boyceville",
@@ -487,10 +500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.04357,
+"lon": -92.04101,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-evangelical-free-church-boyceville-wi-estados-unidos-50217"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-evangelical-free-church-boyceville-wi-estados-unidos-50217",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faiths-creation-christian-butler",
@@ -516,10 +530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.10584,
+"lon": -88.06953,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faiths-creation-christian-butler-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faiths-creation-christian-butler-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glenwood-moravian-church-avalon",
@@ -574,10 +589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.80468,
+"lon": -91.44321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvestime-church-altoona-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvestime-church-altoona-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hayward-wesleyan-church-hayward",
@@ -603,10 +619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.01301,
+"lon": -91.48462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hayward-wesleyan-church-hayward-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hayward-wesleyan-church-hayward-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-lutheran-church-school-black-creek",
@@ -632,10 +649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.47749,
+"lon": -88.45066,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-lutheran-church-school-black-creek-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-lutheran-church-school-black-creek-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ismaili-community-center-and-jamatkhana-bryant",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.5747,
+"lon": -90.64041,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-farge-united-methodist-church-la-farge-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-farge-united-methodist-church-la-farge-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-edge-united-church-of-christ-madison",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.07305,
+"lon": -89.40123,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-edge-united-church-of-christ-madison-wi-estados-unidos-42048"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-edge-united-church-of-christ-madison-wi-estados-unidos-42048",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "legacy-church-onalaska",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.88441,
+"lon": -91.23514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-church-onalaska-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-church-onalaska-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "legacy-hmong-christian-alliance-church-arlington",
@@ -806,10 +827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33804,
+"lon": -89.3804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-hmong-christian-alliance-church-arlington-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-hmong-christian-alliance-church-arlington-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "luz-a-las-naciones-iglesia-metodista-unida-milwaukee",
@@ -835,10 +857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.0389,
+"lon": -87.90647,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/luz-a-las-naciones-iglesia-metodista-unida-milwaukee-wi-estados-unidos-41610"
+"fuente_url": "https://encuentraiglesias.com/iglesia/luz-a-las-naciones-iglesia-metodista-unida-milwaukee-wi-estados-unidos-41610",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "madison-east-seventh-day-adventist-church-babcock",
@@ -980,10 +1003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33804,
+"lon": -89.3804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-creatures-in-christ-outreach-ministies-fellowship-church-arlington-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-creatures-in-christ-outreach-ministies-fellowship-church-arlington-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-hope-pine-creek-lutheran-church-sand-creek",
@@ -1067,10 +1091,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.60889,
+"lon": -87.43259,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oakhaven-church-algoma-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oakhaven-church-algoma-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviors-lutheran-church-amery",
@@ -1096,10 +1121,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.30691,
+"lon": -92.36214,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-lutheran-church-amery-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-lutheran-church-amery-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "platteville-united-methodist-church-platteville",
@@ -1125,10 +1151,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73416,
+"lon": -90.47846,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/platteville-united-methodist-church-platteville-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/platteville-united-methodist-church-platteville-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-dale",
@@ -1154,10 +1181,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.27304,
+"lon": -88.67844,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-johns-dale-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-johns-dale-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salem-rest-church-of-god-in-christ-lowell",
@@ -1212,10 +1240,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.87302,
+"lon": -91.691,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-hill-lutheran-elk-mound-wi-estados-unidos-51851"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shepherd-of-the-hill-lutheran-elk-mound-wi-estados-unidos-51851",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sherman-park-lutheran-church-lowell",
@@ -1299,10 +1328,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60112,
+"lon": -89.63845,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-episcopal-church-monroe-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-episcopal-church-monroe-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-edmunds-anglican-church-brookfield",
@@ -1328,10 +1358,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.06057,
+"lon": -88.10648,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-edmunds-anglican-church-brookfield-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-edmunds-anglican-church-brookfield-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-ev-lutheran-church-oak-creek",
@@ -1357,10 +1388,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.88585,
+"lon": -87.86314,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-ev-lutheran-church-oak-creek-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-ev-lutheran-church-oak-creek-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-lutheran-boscobel",
@@ -1386,10 +1418,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.13443,
+"lon": -90.7054,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-boscobel-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-boscobel-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-lutheran-church-altoona",
@@ -1415,10 +1448,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.80468,
+"lon": -91.44321,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-church-altoona-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-church-altoona-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-lutheran-church-auburndale",
@@ -1444,10 +1478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.62691,
+"lon": -90.00763,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-church-auburndale-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-church-auburndale-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-lutheran-church-school-pardeeville",
@@ -1473,10 +1508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.53776,
+"lon": -89.30012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-church-school-pardeeville-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-church-school-pardeeville-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-united-church-of-christ-appleton",
@@ -1502,10 +1538,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.26193,
+"lon": -88.41538,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-united-church-of-christ-appleton-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-united-church-of-christ-appleton-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-ame-church-arlington",
@@ -1531,10 +1568,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33804,
+"lon": -89.3804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-ame-church-arlington-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-ame-church-arlington-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-avalon",
@@ -1589,10 +1627,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.88441,
+"lon": -91.23514,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-church-onalaska-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-church-onalaska-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-episcopal-church-beaver-dam",
@@ -1618,10 +1657,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.45777,
+"lon": -88.83733,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-episcopal-church-beaver-dam-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-episcopal-church-beaver-dam-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-matthias-episcopal-church-waukesha",
@@ -1647,10 +1687,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.01168,
+"lon": -88.23148,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-matthias-episcopal-church-waukesha-wi-estados-unidos-46890"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-matthias-episcopal-church-waukesha-wi-estados-unidos-46890",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-pauls-lebanon",
@@ -1705,10 +1746,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.59244,
+"lon": -90.8838,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-church-ashland-wi-estados-unidos-45827"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-church-ashland-wi-estados-unidos-45827",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thy-rod-thy-staff-church-arlington",
@@ -1734,10 +1776,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33804,
+"lon": -89.3804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/thy-rod-thy-staff-church-arlington-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/thy-rod-thy-staff-church-arlington-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "town-country-presbyterian-church-richland-center",
@@ -1763,10 +1806,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33471,
+"lon": -90.38679,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/town-country-presbyterian-church-richland-center-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/town-country-presbyterian-church-richland-center-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-view-assembly-of-god-maiden-rock",
@@ -1879,10 +1923,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.03302,
+"lon": -90.07402,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-pine-old-german-baptist-church-athens-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-pine-old-german-baptist-church-athens-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "williams-bay-lutheran-church-elca-fontana",
@@ -1908,10 +1953,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.55141,
+"lon": -88.5751,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/williams-bay-lutheran-church-elca-fontana-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/williams-bay-lutheran-church-elca-fontana-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-english-lutheran-church-horicon",
@@ -1937,9 +1983,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.45138,
+"lon": -88.63121,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-english-lutheran-church-horicon-wisconsin"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-english-lutheran-church-horicon-wisconsin",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

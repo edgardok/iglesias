@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 10.96854,
+"lon": -74.78132,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-biblico-internacional-barranquilla-colombia-3435"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-biblico-internacional-barranquilla-colombia-3435",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-barranquilla",
@@ -52,9 +53,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 10.96854,
+"lon": -74.78132,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-barranquilla"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-barranquilla",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

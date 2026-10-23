@@ -23,9 +23,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 10.39817,
+"lon": -75.49328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-rios-de-vida-cartagena-colombia-2444"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-rios-de-vida-cartagena-colombia-2444",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

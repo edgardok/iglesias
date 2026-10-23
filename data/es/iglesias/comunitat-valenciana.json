@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7493,
+"lon": -0.99684,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvario-chelva-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvario-chelva-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capella-de-la-mare-de-deu-del-pilar-xert",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.19165,
+"lon": -0.5658,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capella-de-la-maredeu-del-carme-santa-pola-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capella-de-la-maredeu-del-carme-santa-pola-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capella-de-la-verge-dels-desemparats-alcala-de-xivert",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3,
+"lon": 0.23333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capella-de-la-verge-dels-desemparats-alcala-de-xivert-castellon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capella-de-la-verge-dels-desemparats-alcala-de-xivert-castellon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capella-de-santa-maria-de-la-valldigna-tavernes-de-la-valldigna",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07195,
+"lon": -0.26623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capella-de-santa-maria-de-la-valldigna-tavernes-de-la-valldigna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capella-de-santa-maria-de-la-valldigna-tavernes-de-la-valldigna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capella-del-capitulet-valencia",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capella-del-capitulet-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capella-del-capitulet-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capelleta-de-sant-antoni-manises",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.49139,
+"lon": -0.46349,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capelleta-de-sant-antoni-manises-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capelleta-de-sant-antoni-manises-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-ns-sufragio-benidorm",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-ns-sufragio-benidorm-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-ns-sufragio-benidorm-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-santa-maria-del-monte-torres-torres",
@@ -284,10 +291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97872,
+"lon": -0.68222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-torrevieja-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-torrevieja-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-espirita-ana-franco-benidorm",
@@ -313,10 +321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-espirita-ana-franco-benidorm-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-espirita-ana-franco-benidorm-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-islamico-abu-bakar-siddiq-benidorm",
@@ -342,10 +351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-islamico-abu-bakar-siddiq-benidorm-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-islamico-abu-bakar-siddiq-benidorm-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-neocatecumenal-diocesano-valencia",
@@ -371,10 +381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-neocatecumenal-diocesano-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-neocatecumenal-diocesano-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidad-de-hermanas-del-corderito-enguera",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97974,
+"lon": -0.68683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-hermanas-del-corderito-enguera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidad-de-hermanas-del-corderito-enguera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacion-madres-desamparados-y-san-jose-de-la-montana-valencia",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-madres-desamparados-y-san-jose-de-la-montana-valencia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacion-madres-desamparados-y-san-jose-de-la-montana-valencia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "convent-de-les-carmelites-serra",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68333,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/convent-de-les-carmelites-serra-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/convent-de-les-carmelites-serra-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "convent-de-sant-francesc-mutxamel",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.4158,
+"lon": -0.44529,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/convent-de-sant-francesc-mutxamel-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/convent-de-sant-francesc-mutxamel-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crist-de-la-mar-benicarlo",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.4165,
+"lon": 0.42709,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crist-de-la-mar-benicarlo-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crist-de-la-mar-benicarlo-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-vive-picanya",
@@ -545,10 +561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.43333,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-vive-picanya-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-vive-picanya-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "den-norske-turistkirke-benidorm",
@@ -574,10 +591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/den-norske-turistkirke-benidorm-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/den-norske-turistkirke-benidorm-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-calvari-albaida",
@@ -603,10 +621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvari-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvari-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-calvario-zucaina",
@@ -632,10 +651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.11667,
+"lon": -0.41667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-zucaina-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-zucaina-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-collao",
@@ -690,10 +710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76667,
+"lon": -0.61667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-a-sant-antoni-abad-de-bocairent-bocairent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-a-sant-antoni-abad-de-bocairent-bocairent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-calvari-tavernes-de-la-valldigna",
@@ -719,10 +740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07195,
+"lon": -0.26623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-calvari-tavernes-de-la-valldigna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-calvari-tavernes-de-la-valldigna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-beneixida-beneixida",
@@ -748,10 +770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.06667,
+"lon": -0.55,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-beneixida-beneixida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-beneixida-beneixida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-bocairent-bocairent",
@@ -777,10 +800,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76667,
+"lon": -0.61667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-bocairent-bocairent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-bocairent-bocairent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-campolivar-godella",
@@ -806,10 +830,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.53333,
+"lon": -0.41667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-campolivar-godella-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-campolivar-godella-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-fabraquer-sant-joan-dalacant",
@@ -864,10 +889,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.85,
+"lon": -0.48333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-esperanza-segorbe-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-esperanza-segorbe-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-huerta-de-reig-alzira",
@@ -893,10 +919,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-huerta-de-reig-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-huerta-de-reig-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-malena-santa-maria-magdalena-banyeres-de-mariola",
@@ -951,10 +978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6739,
+"lon": -0.8133,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-mare-de-deu-del-carme-canada-alicante"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-mare-de-deu-del-carme-canada-alicante",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-mare-de-deu-del-socors-calig",
@@ -980,10 +1008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.46262,
+"lon": 0.35521,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-mare-de-deu-del-socors-calig-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-mare-de-deu-del-socors-calig-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-mare-de-deu-dels-desemparats-bocairent",
@@ -1009,10 +1038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76667,
+"lon": -0.61667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-mare-de-deu-dels-desemparats-bocairent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-mare-de-deu-dels-desemparats-bocairent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-mare-de-deu-dels-socors-rotgla-i-corbera",
@@ -1096,10 +1126,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05852,
+"lon": -1.05635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-santa-cruz-ayora-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-santa-cruz-ayora-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-verge-de-gracia-albaida",
@@ -1125,10 +1156,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-verge-de-gracia-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-verge-de-gracia-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-grafitis-alzira",
@@ -1154,10 +1186,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-grafitis-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-grafitis-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-lujan-pedralba",
@@ -1183,10 +1216,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.6,
+"lon": -0.71667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-lujan-pedralba-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-lujan-pedralba-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-marxuquera-gandia",
@@ -1212,10 +1246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-marxuquera-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-marxuquera-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-nostra-senyora-del-bon-succes-villores",
@@ -1241,10 +1276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.67478,
+"lon": -0.20023,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nostra-senyora-del-bon-succes-villores-castellon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-nostra-senyora-del-bon-succes-villores-castellon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-agustin-alcublas",
@@ -1270,10 +1306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.8,
+"lon": -0.7,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-agustin-alcublas-valencian-community-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-agustin-alcublas-valencian-community-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-antonio-de-padua-almoradi",
@@ -1299,10 +1336,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10879,
+"lon": -0.79197,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-de-padua-almoradi-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-de-padua-almoradi-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-crispin-elda",
@@ -1328,10 +1366,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47783,
+"lon": -0.79157,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-crispin-elda-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-crispin-elda-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-francisco-javier-soneja",
@@ -1357,10 +1396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.81667,
+"lon": -0.41667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-francisco-javier-soneja-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-francisco-javier-soneja-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-jose-ayora",
@@ -1386,10 +1426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.05852,
+"lon": -1.05635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-jose-ayora-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-jose-ayora-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-nicolas-chella",
@@ -1415,10 +1456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.04203,
+"lon": -0.65916,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-nicolas-chella-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-nicolas-chella-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-roc-barracas",
@@ -1444,10 +1486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01667,
+"lon": -0.68333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-roc-barracas-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-roc-barracas-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-vicente-gandia",
@@ -1473,10 +1516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-vicente-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-vicente-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-antoni-abat-lalcudia",
@@ -1531,10 +1575,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-antoni-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-antoni-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-blai-rafol-de-salem",
@@ -1560,10 +1605,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.86651,
+"lon": -0.39991,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-blai-rafol-de-salem-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-blai-rafol-de-salem-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-cristofol-cocentaina",
@@ -1589,10 +1635,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.73975,
+"lon": -0.43976,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-cristofol-cocentaina-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-cristofol-cocentaina-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-domenec-xalo",
@@ -1647,10 +1694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.94844,
+"lon": -0.30719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-francesc-tales-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-francesc-tales-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-gaieta-crevillent",
@@ -1734,10 +1782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-joan-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-joan-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-joan-baptiste-lolleria",
@@ -1792,10 +1841,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.75038,
+"lon": -0.04013,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-joan-de-la-mosquera-alcalali-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-joan-de-la-mosquera-alcalali-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-joquim-forcall",
@@ -1821,10 +1871,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.64542,
+"lon": -0.19992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-joquim-forcall-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-joquim-forcall-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-jordi-banyeres-de-mariola",
@@ -1879,10 +1930,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91823,
+"lon": -0.22247,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-josep-ador-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-josep-ador-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-llorenc-tavernes-de-la-valldigna",
@@ -1908,10 +1960,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07195,
+"lon": -0.26623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-llorenc-tavernes-de-la-valldigna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-llorenc-tavernes-de-la-valldigna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-marc-cinctorres",
@@ -1937,10 +1990,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58333,
+"lon": -0.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-marc-cinctorres-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-marc-cinctorres-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-rafel-albaida",
@@ -1966,10 +2020,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-rafel-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-rafel-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-vicent-busot",
@@ -1995,10 +2050,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.48206,
+"lon": -0.41918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-vicent-busot-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-vicent-busot-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sant-vicent-ferrer-agullent",
@@ -2024,10 +2080,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.82273,
+"lon": -0.54833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-vicent-ferrer-agullent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sant-vicent-ferrer-agullent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-agueda-catral",
@@ -2053,10 +2110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.16061,
+"lon": -0.80209,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-agueda-catral-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-agueda-catral-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-barbera-morella",
@@ -2082,10 +2140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.61966,
+"lon": -0.09892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-barbera-morella-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-barbera-morella-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-marta-alzira",
@@ -2111,10 +2170,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-marta-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-marta-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-paula-denia",
@@ -2140,10 +2200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-paula-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-paula-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-rosa-de-lima-ludiente",
@@ -2169,10 +2230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.08333,
+"lon": -0.36667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-rosa-de-lima-ludiente-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-rosa-de-lima-ludiente-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sanz-benidorm",
@@ -2198,10 +2260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sanz-benidorm-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sanz-benidorm-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-villa-serra-alcoleja",
@@ -2256,10 +2319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.75038,
+"lon": -0.04013,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvari-alcalali-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvari-alcalali-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-calvari-de-canet-lo-roig-canet-lo-roig",
@@ -2285,10 +2349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.55142,
+"lon": 0.24308,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvari-de-canet-lo-roig-canet-lo-roig-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-calvari-de-canet-lo-roig-canet-lo-roig-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-corazon-de-maria-denia",
@@ -2314,10 +2379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-corazon-de-maria-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-corazon-de-maria-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-crist-de-la-providencia-meliana",
@@ -2343,10 +2409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.53333,
+"lon": -0.33333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-crist-de-la-providencia-meliana-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-crist-de-la-providencia-meliana-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-huerto-del-santisimo-alzira",
@@ -2372,10 +2439,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-huerto-del-santisimo-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-huerto-del-santisimo-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-loreto-chelva",
@@ -2401,10 +2469,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7493,
+"lon": -0.99684,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-loreto-chelva-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-loreto-chelva-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-monte-calvario-alzira",
@@ -2430,10 +2499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-monte-calvario-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-monte-calvario-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-rosell-ademuz",
@@ -2459,10 +2529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.06139,
+"lon": -1.28677,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-rosell-ademuz-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-rosell-ademuz-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-roser-albaida",
@@ -2488,10 +2559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-roser-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-roser-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-salvador-lalcora",
@@ -2575,10 +2647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.56737,
+"lon": -0.21235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisim-crist-del-remei-finestrat-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisim-crist-del-remei-finestrat-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santisimo-cristo-del-calvario-gata-de-gorgos",
@@ -2604,10 +2677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77443,
+"lon": 0.08538,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-del-calvario-gata-de-gorgos-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santisimo-cristo-del-calvario-gata-de-gorgos-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santissim-crist-planes",
@@ -2633,10 +2707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78524,
+"lon": -0.34271,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santissim-crist-planes-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santissim-crist-planes-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-sitjar-onda",
@@ -2662,10 +2737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96495,
+"lon": -0.26041,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-sitjar-onda-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-sitjar-onda-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-stmo-cristo-de-la-providencia-anna",
@@ -2691,10 +2767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.02029,
+"lon": -0.64621,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-stmo-cristo-de-la-providencia-anna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-stmo-cristo-de-la-providencia-anna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-dels-desemparats-tavernes-blanques",
@@ -2720,10 +2797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.5,
+"lon": -0.36667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-dels-desemparats-tavernes-blanques-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-dels-desemparats-tavernes-blanques-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-dels-lleus-benissa",
@@ -2749,10 +2827,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.71492,
+"lon": 0.04849,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-dels-lleus-benissa-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-dels-lleus-benissa-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-dels-sants-de-la-pedra-biar",
@@ -2778,10 +2857,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.63117,
+"lon": -0.76458,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-dels-sants-de-la-pedra-biar-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-dels-sants-de-la-pedra-biar-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-el-nino-jesus-la-dehesa-orihuela",
@@ -2807,10 +2887,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.08483,
+"lon": -0.94401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-nino-jesus-la-dehesa-orihuela-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-el-nino-jesus-la-dehesa-orihuela-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-la-nuesa-senora-del-carmen-almenara",
@@ -2836,10 +2917,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.75,
+"lon": -0.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-nuesa-senora-del-carmen-almenara-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-la-nuesa-senora-del-carmen-almenara-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-romanica-de-sant-miquel-la-pobla-villafranca-del-cid-vilafranca",
@@ -2894,10 +2976,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97974,
+"lon": -0.68683,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-antonio-de-padua-enguera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-antonio-de-padua-enguera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-sant-antoni-oliva",
@@ -2923,10 +3006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91971,
+"lon": -0.11935,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sant-antoni-oliva-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sant-antoni-oliva-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-sant-miquel-ibi",
@@ -2952,10 +3036,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.62533,
+"lon": -0.57225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sant-miquel-ibi-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sant-miquel-ibi-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-sant-vicent-oliva",
@@ -2981,10 +3066,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91971,
+"lon": -0.11935,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sant-vicent-oliva-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sant-vicent-oliva-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-anna-antigua-mezquita-de-la-xara-simat-de-la-valldigna",
@@ -3010,10 +3096,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.03333,
+"lon": -0.31667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-anna-antigua-mezquita-de-la-xara-simat-de-la-valldigna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-anna-antigua-mezquita-de-la-xara-simat-de-la-valldigna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santisima-cruz-almoradi",
@@ -3039,10 +3126,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10879,
+"lon": -0.79197,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santisima-cruz-almoradi-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santisima-cruz-almoradi-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santisimo-cristo-aras-de-los-olmos",
@@ -3097,10 +3185,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9503,
+"lon": -0.652,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santisimo-cristo-de-la-buena-muerte-montesa-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santisimo-cristo-de-la-buena-muerte-montesa-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-sants-antonis-oliva",
@@ -3126,10 +3215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91971,
+"lon": -0.11935,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sants-antonis-oliva-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-sants-antonis-oliva-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-torresena-penaguila",
@@ -3184,10 +3274,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermiteta-maria-magdalena-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermiteta-maria-magdalena-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermitori-de-la-mare-de-deu-de-gracia-vila-real",
@@ -3213,10 +3304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.9383,
+"lon": -0.10087,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermitori-de-la-mare-de-deu-de-gracia-vila-real-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermitori-de-la-mare-de-deu-de-gracia-vila-real-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermitori-del-calvari-ribesalbes",
@@ -3242,10 +3334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.01667,
+"lon": -0.26667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermitori-del-calvari-ribesalbes-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermitori-del-calvari-ribesalbes-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "escolapias-utiel",
@@ -3271,10 +3364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56667,
+"lon": -1.2,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/escolapias-utiel-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/escolapias-utiel-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-beata-ines-beniganim",
@@ -3300,10 +3394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-beata-ines-beniganim-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-beata-ines-beniganim-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-benipeixcar-gandia",
@@ -3329,10 +3424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-benipeixcar-gandia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-benipeixcar-gandia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-confrides-confrides",
@@ -3358,10 +3454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.68451,
+"lon": -0.2689,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-confrides-confrides-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-confrides-confrides-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-crist-rei-gandia",
@@ -3387,10 +3484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-crist-rei-gandia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-crist-rei-gandia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-immaculada-concepcio-segart",
@@ -3416,10 +3514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68333,
+"lon": -0.36667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-immaculada-concepcio-segart-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-immaculada-concepcio-segart-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-immaculada-concepcio-sollana",
@@ -3445,10 +3544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.2783,
+"lon": -0.38238,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-immaculada-concepcio-sollana-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-immaculada-concepcio-sollana-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-mare-de-deu-del-rosari-olocau",
@@ -3474,10 +3574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.7,
+"lon": -0.53333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-del-rosari-olocau-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-del-rosari-olocau-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-mare-de-deu-del-roser-alfauir",
@@ -3503,10 +3604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93333,
+"lon": -0.25,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-del-roser-alfauir-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-del-roser-alfauir-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-mare-de-deu-dels-angels-betxi",
@@ -3532,10 +3634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.93333,
+"lon": -0.2,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-dels-angels-betxi-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-dels-angels-betxi-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-mare-de-deu-lliria",
@@ -3561,10 +3664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-mare-de-deu-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-nativitat-de-la-nostra-senyora-almisera",
@@ -3590,10 +3694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91667,
+"lon": -0.28333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nativitat-de-la-nostra-senyora-almisera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nativitat-de-la-nostra-senyora-almisera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-nativitat-la-font-de-la-figuera",
@@ -3619,10 +3724,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.8,
+"lon": -0.88333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nativitat-la-font-de-la-figuera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nativitat-la-font-de-la-figuera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-nostra-senyora-del-roser-xativa",
@@ -3648,10 +3754,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99042,
+"lon": -0.51852,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nostra-senyora-del-roser-xativa-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nostra-senyora-del-roser-xativa-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-nostra-senyora-dels-angels-rafol-de-salem",
@@ -3677,10 +3784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.86651,
+"lon": -0.39991,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nostra-senyora-dels-angels-rafol-de-salem-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-nostra-senyora-dels-angels-rafol-de-salem-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-purissima-concepcio-palmera",
@@ -3706,10 +3814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93927,
+"lon": -0.15411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-purissima-concepcio-palmera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-purissima-concepcio-palmera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-purissima-la-vall-dalcala",
@@ -3764,10 +3873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-sang-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-sang-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-santa-creu-pedreguer",
@@ -3793,10 +3903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.79312,
+"lon": 0.03411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-santa-creu-pedreguer-alicante"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-santa-creu-pedreguer-alicante",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-transfiguracio-del-senyor-alfafara",
@@ -3822,10 +3933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.77339,
+"lon": -0.55551,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-transfiguracio-del-senyor-alfafara-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-transfiguracio-del-senyor-alfafara-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-trinitat-tavernes-blanques",
@@ -3851,10 +3963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.5,
+"lon": -0.36667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-trinitat-tavernes-blanques-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-trinitat-tavernes-blanques-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-la-verge-de-gracia-rugat",
@@ -3880,10 +3993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.87933,
+"lon": -0.36115,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-verge-de-gracia-rugat-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-la-verge-de-gracia-rugat-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-les-esclaves-benirredra",
@@ -3909,10 +4023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.9611,
+"lon": -0.19739,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-les-esclaves-benirredra-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-les-esclaves-benirredra-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-andreu-lalcudia",
@@ -3967,10 +4082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.18333,
+"lon": -0.3,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-antoni-abat-fortaleny-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-antoni-abat-fortaleny-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-antoni-llanera-de-ranes",
@@ -3996,10 +4112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.99507,
+"lon": -0.57534,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-antoni-llanera-de-ranes-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-antoni-llanera-de-ranes-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-bertomeu",
@@ -4054,10 +4171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6739,
+"lon": -0.8133,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-cristofol-canada-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-cristofol-canada-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-francesc-de-paula-xirivella",
@@ -4083,10 +4201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.46588,
+"lon": -0.42589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-francesc-de-paula-xirivella-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-francesc-de-paula-xirivella-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-jaume-castellonet-de-la-conquesta",
@@ -4112,10 +4231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91667,
+"lon": -0.26667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-jaume-castellonet-de-la-conquesta-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-jaume-castellonet-de-la-conquesta-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-jaume-de-bel-rossell",
@@ -4199,10 +4319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08333,
+"lon": -0.55,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-joan-baptista-i-sant-antoni-gavarda-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-joan-baptista-i-sant-antoni-gavarda-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-joan-evangelista-benifairo-de-la-valldigna",
@@ -4257,10 +4378,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.80143,
+"lon": -0.0716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-lluis-bertran-de-tormos-tormos-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-lluis-bertran-de-tormos-tormos-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-miquel-arcangel-beniganim",
@@ -4286,10 +4408,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.95,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-miquel-arcangel-beniganim-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-miquel-arcangel-beniganim-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-onofre-estubeny",
@@ -4315,10 +4438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01792,
+"lon": -0.62379,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-onofre-estubeny-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-onofre-estubeny-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-pere-apostol-massanassa",
@@ -4373,10 +4497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07195,
+"lon": -0.26623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-pere-tavernes-de-la-valldigna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-pere-tavernes-de-la-valldigna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-ramon-paiporta",
@@ -4402,10 +4527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.42814,
+"lon": -0.41765,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-ramon-paiporta-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-ramon-paiporta-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-roc-beato-gandia",
@@ -4431,10 +4557,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-roc-beato-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-roc-beato-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-roc-llocnou-de-sant-jeroni",
@@ -4460,10 +4587,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91667,
+"lon": -0.28333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-roc-llocnou-de-sant-jeroni-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-roc-llocnou-de-sant-jeroni-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-roc-oliva",
@@ -4489,10 +4617,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91971,
+"lon": -0.11935,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-roc-oliva-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-roc-oliva-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-sant-vicent-ferrer-xirivella",
@@ -4518,10 +4647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.46588,
+"lon": -0.42589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-vicent-ferrer-xirivella-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-sant-vicent-ferrer-xirivella-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-de-santa-anna-montitxelvo-montichelvo",
@@ -4605,10 +4735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.62533,
+"lon": -0.57225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-santiago-apostol-ibi-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-de-santiago-apostol-ibi-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-del-bon-pastor-lliria",
@@ -4634,10 +4765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-del-bon-pastor-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-del-bon-pastor-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-del-salvador-de-cocentaina-cocentaina",
@@ -4663,10 +4795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.73975,
+"lon": -0.43976,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-del-salvador-de-cocentaina-cocentaina-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-del-salvador-de-cocentaina-cocentaina-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-del-temple-valencia",
@@ -4692,10 +4825,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-del-temple-valencia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-del-temple-valencia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-dels-sants-joans-estivella",
@@ -4721,10 +4855,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.71667,
+"lon": -0.35,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-dels-sants-joans-estivella-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-dels-sants-joans-estivella-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-lalcudia-de-crespins",
@@ -4779,10 +4914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.03333,
+"lon": -0.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-platja-de-xeraco-xeraco-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-platja-de-xeraco-xeraco-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-sant-jaume-orxeta",
@@ -4837,10 +4973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.07195,
+"lon": -0.26623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-sant-josep-tavernes-de-la-valldigna-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-sant-josep-tavernes-de-la-valldigna-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esglesia-sant-miquel-arcangel-benifallim",
@@ -4866,10 +5003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.66259,
+"lon": -0.39994,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-sant-miquel-arcangel-benifallim-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esglesia-sant-miquel-arcangel-benifallim-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ex-convent-albaida",
@@ -4895,10 +5033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83798,
+"lon": -0.51721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ex-convent-albaida-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ex-convent-albaida-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermitage-of-saint-vincent-teulada",
@@ -4924,10 +5063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.7294,
+"lon": 0.10383,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hermitage-of-saint-vincent-teulada-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hermitage-of-saint-vincent-teulada-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-en-denia-denia",
@@ -4953,10 +5093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-en-denia-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-en-denia-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-lliria",
@@ -4982,10 +5123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-arciprestal-de-santiago-villena",
@@ -5011,10 +5153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6373,
+"lon": -0.86568,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-arciprestal-de-santiago-villena-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-arciprestal-de-santiago-villena-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-valencia-valencia",
@@ -5040,10 +5183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-valencia-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-de-valencia-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-monte-sion-denia",
@@ -5069,10 +5213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-sion-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-sion-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-carmelitas-descalzas-altea",
@@ -5098,10 +5243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59878,
+"lon": -0.05151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-carmelitas-descalzas-altea-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-carmelitas-descalzas-altea-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-malvarrosa-valencia",
@@ -5127,10 +5273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-malvarrosa-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-malvarrosa-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cuerpo-de-cristo-benidorm",
@@ -5156,10 +5303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cuerpo-de-cristo-benidorm-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cuerpo-de-cristo-benidorm-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-saladar-almoradi",
@@ -5185,10 +5333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.10879,
+"lon": -0.79197,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-saladar-almoradi-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-saladar-almoradi-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-purisima-concepcion-de-calles-calles",
@@ -5214,10 +5363,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.72118,
+"lon": -0.97057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purisima-concepcion-de-calles-calles-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purisima-concepcion-de-calles-calles-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-sangre-de-onda-onda",
@@ -5243,10 +5393,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.96495,
+"lon": -0.26041,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-sangre-de-onda-onda-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-sangre-de-onda-onda-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-cuevas-utiel",
@@ -5272,10 +5423,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.56667,
+"lon": -1.2,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-cuevas-utiel-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-cuevas-utiel-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-ventas-la-pobla-de-vallbona",
@@ -5301,10 +5453,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.59747,
+"lon": -0.55468,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-ventas-la-pobla-de-vallbona-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-ventas-la-pobla-de-vallbona-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-desamparados-betera",
@@ -5330,10 +5483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.59111,
+"lon": -0.46151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-desamparados-betera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-desamparados-betera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-maria-madre-lliria",
@@ -5359,10 +5513,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-madre-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-madre-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nuestra-sra-de-la-aslincion-teresa-de-cofrentes",
@@ -5388,10 +5543,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.10563,
+"lon": -1.05105,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestra-sra-de-la-aslincion-teresa-de-cofrentes-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestra-sra-de-la-aslincion-teresa-de-cofrentes-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-orihuela-orihuela",
@@ -5417,10 +5573,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.08483,
+"lon": -0.94401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-orihuela-orihuela-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-orihuela-orihuela-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-de-paula-viver",
@@ -5446,10 +5603,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.91667,
+"lon": -0.6,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-paula-viver-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-paula-viver-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-de-sales-elda",
@@ -5475,10 +5633,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47783,
+"lon": -0.79157,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-sales-elda-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-sales-elda-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-isidro-sacanet",
@@ -5504,10 +5663,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.86667,
+"lon": -0.71667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-isidro-sacanet-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-isidro-sacanet-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jeromino-benferri",
@@ -5533,10 +5693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.14129,
+"lon": -0.96212,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jeromino-benferri-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jeromino-benferri-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-joaquin-muro-de-alcoy",
@@ -5591,10 +5752,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11667,
+"lon": -0.51667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lorenzo-alberic-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-lorenzo-alberic-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sant-bernat-martir-valencia",
@@ -5620,10 +5782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sant-bernat-martir-valencia-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sant-bernat-martir-valencia-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sant-miquel-arcangel-ontinyent",
@@ -5649,10 +5812,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.82191,
+"lon": -0.60603,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sant-miquel-arcangel-ontinyent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sant-miquel-arcangel-ontinyent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sant-vicent-ferrer-almassora",
@@ -5678,10 +5842,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.94729,
+"lon": -0.06313,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sant-vicent-ferrer-almassora-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sant-vicent-ferrer-almassora-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-agueda-jerica",
@@ -5707,10 +5872,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.91667,
+"lon": -0.56667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-agueda-jerica-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-agueda-jerica-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-fatima-los-pedregales-daimus",
@@ -5736,10 +5902,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.15,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-fatima-los-pedregales-daimus-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-fatima-los-pedregales-daimus-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-sants-joans-potries",
@@ -5765,10 +5932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.91617,
+"lon": -0.19594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sants-joans-potries-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-sants-joans-potries-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-vera-valencia",
@@ -5794,10 +5962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-vera-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-vera-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-espiritu-santo-alberic",
@@ -5823,10 +5992,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.11667,
+"lon": -0.51667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-espiritu-santo-alberic-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-espiritu-santo-alberic-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-dominicos-torrent",
@@ -5852,10 +6022,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.43705,
+"lon": -0.46546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dominicos-torrent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-dominicos-torrent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-asambleas-de-dios-rojales",
@@ -5881,10 +6052,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.08799,
+"lon": -0.72544,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asambleas-de-dios-rojales-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asambleas-de-dios-rojales-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-camino-real-lliria",
@@ -5910,10 +6082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-camino-real-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-camino-real-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-camino-vida-alzira",
@@ -5939,10 +6112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-camino-vida-alzira-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-camino-vida-alzira-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-filadelfia-lliria",
@@ -5968,10 +6142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.62894,
+"lon": -0.59783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-lliria-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-lliria-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-filadelfia-monforte-del-cid",
@@ -5997,10 +6172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.38027,
+"lon": -0.7285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-monforte-del-cid-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-filadelfia-monforte-del-cid-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-sion-orihuela",
@@ -6026,10 +6202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.08483,
+"lon": -0.94401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-sion-orihuela-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-sion-orihuela-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-jesucristo-gandia",
@@ -6055,10 +6232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesucristo-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-jesucristo-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-maxima-auxilidiadora-villena",
@@ -6084,10 +6262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6373,
+"lon": -0.86568,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maxima-auxilidiadora-villena-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maxima-auxilidiadora-villena-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-monte-vedat-torrent",
@@ -6113,10 +6292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.43705,
+"lon": -0.46546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-vedat-torrent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-monte-vedat-torrent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-ns-de-la-asuncion-camporrobles",
@@ -6142,10 +6322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.65,
+"lon": -1.4,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ns-de-la-asuncion-camporrobles-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ns-de-la-asuncion-camporrobles-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-apostica-vallada",
@@ -6171,10 +6352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.89575,
+"lon": -0.69104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-apostica-vallada-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-apostica-vallada-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-regina-pacis-denia",
@@ -6200,10 +6382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-regina-pacis-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-regina-pacis-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-antonio-abad-de-sumacarcer-sumacarcer",
@@ -6229,10 +6412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.1,
+"lon": -0.63333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-abad-de-sumacarcer-sumacarcer-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-abad-de-sumacarcer-sumacarcer-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-antonio-gavarda-gavarda",
@@ -6258,10 +6442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08333,
+"lon": -0.55,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-gavarda-gavarda-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-antonio-gavarda-gavarda-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-francisco-altea",
@@ -6287,10 +6472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59878,
+"lon": -0.05151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-altea-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-altea-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-alzira",
@@ -6316,10 +6502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-miguel-arcangel-denia",
@@ -6345,10 +6532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-miguel-arcangel-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-miguel-arcangel-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-del-mar-gandia",
@@ -6374,10 +6562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-del-mar-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-del-mar-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kerkelijk-centrum-het-anker-benidorm",
@@ -6403,10 +6592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kerkelijk-centrum-het-anker-benidorm-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kerkelijk-centrum-het-anker-benidorm-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-benidorm",
@@ -6432,10 +6622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-benidorm-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-benidorm-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-purisima-formentera-del-segura",
@@ -6519,10 +6710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97872,
+"lon": -0.68222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-naciones-para-cristo-torrevieja-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-naciones-para-cristo-torrevieja-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mare-de-deu-de-pallerols-la-pobla-de-benifassa",
@@ -6606,10 +6798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.76667,
+"lon": -0.61667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monestir-de-bocairent-bocairent-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monestir-de-bocairent-bocairent-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "norwegian-centre-torrevieja",
@@ -6635,10 +6828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.97872,
+"lon": -0.68222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/norwegian-centre-torrevieja-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/norwegian-centre-torrevieja-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nueva-vida-altea-altea",
@@ -6664,10 +6858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59878,
+"lon": -0.05151,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-vida-altea-altea-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-vida-altea-altea-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parriqola-de-san-jorde-valencia",
@@ -6693,10 +6888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parriqola-de-san-jorde-valencia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parriqola-de-san-jorde-valencia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-evangelica-bautista-quart-valencia",
@@ -6722,10 +6918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-quart-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-evangelica-bautista-quart-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "real-santuari-de-la-font-de-la-salut-traiguera",
@@ -6751,10 +6948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.52511,
+"lon": 0.29023,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/real-santuari-de-la-font-de-la-salut-traiguera-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/real-santuari-de-la-font-de-la-salut-traiguera-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "reial-santuari-de-la-mare-de-deu-del-lluch-alzira",
@@ -6780,10 +6978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.15,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reial-santuari-de-la-mare-de-deu-del-lluch-alzira-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reial-santuari-de-la-mare-de-deu-del-lluch-alzira-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "restos-antigua-ermita-villena",
@@ -6809,10 +7008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.6373,
+"lon": -0.86568,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restos-antigua-ermita-villena-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restos-antigua-ermita-villena-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-los-testigos-cristianos-de-jehova-denia",
@@ -6838,10 +7038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.84078,
+"lon": 0.10574,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-cristianos-de-jehova-denia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-cristianos-de-jehova-denia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-vicente-martir-benimantell",
@@ -6867,10 +7068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.67709,
+"lon": -0.21057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-vicente-martir-benimantell-alicante"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-vicente-martir-benimantell-alicante",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sant-cristofol-de-collet-cinctorres",
@@ -6896,10 +7098,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.58333,
+"lon": -0.21667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sant-cristofol-de-collet-cinctorres-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sant-cristofol-de-collet-cinctorres-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sant-nicolau-gandia",
@@ -6925,10 +7128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.96667,
+"lon": -0.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sant-nicolau-gandia-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sant-nicolau-gandia-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sant-pere-apostol-la-pobla-llarga",
@@ -6954,10 +7158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.08333,
+"lon": -0.46667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sant-pere-apostol-la-pobla-llarga-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sant-pere-apostol-la-pobla-llarga-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-barbera-serra",
@@ -6983,10 +7188,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.68333,
+"lon": -0.43333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-barbera-serra-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-barbera-serra-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-caterina-senija",
@@ -7012,10 +7218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.72804,
+"lon": 0.04176,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-caterina-senija-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-caterina-senija-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santuari-de-la-mare-de-deu-de-la-balma-zorita-del-maestrazgo",
@@ -7041,10 +7248,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.72817,
+"lon": -0.16667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santuari-de-la-mare-de-deu-de-la-balma-zorita-del-maestrazgo-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santuari-de-la-mare-de-deu-de-la-balma-zorita-del-maestrazgo-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santuari-de-la-mare-de-deu-de-montolivet-valencia",
@@ -7070,10 +7278,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santuari-de-la-mare-de-deu-de-montolivet-valencia-valencia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santuari-de-la-mare-de-deu-de-montolivet-valencia-valencia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santuari-de-la-mare-de-deu-del-llosar-villafranca-del-cid-vilafranca",
@@ -7128,10 +7337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.86591,
+"lon": -0.79256,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shrine-of-the-virgin-mary-pilar-de-la-horadada-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shrine-of-the-virgin-mary-pilar-de-la-horadada-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-maria-magdalena-vinaros",
@@ -7157,10 +7367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.47033,
+"lon": 0.47559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-maria-magdalena-vinaros-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-maria-magdalena-vinaros-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "temple-de-nostra-senyora-de-la-soledat-ondara",
@@ -7186,10 +7397,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.82817,
+"lon": 0.0172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/temple-de-nostra-senyora-de-la-soledat-ondara-valencian-community"
+"fuente_url": "https://encuentraiglesias.com/iglesia/temple-de-nostra-senyora-de-la-soledat-ondara-valencian-community",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-english-church-skandinaviska-turistkyrkan-benidorm",
@@ -7215,10 +7427,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.53816,
+"lon": -0.13098,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-english-church-skandinaviska-turistkyrkan-benidorm-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-english-church-skandinaviska-turistkyrkan-benidorm-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-evangelica-bautista-espanola-valencia",
@@ -7244,9 +7457,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.47391,
+"lon": -0.37966,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-evangelica-bautista-espanola-valencia-comunitat-valenciana"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-evangelica-bautista-espanola-valencia-comunitat-valenciana",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

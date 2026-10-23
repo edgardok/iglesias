@@ -168,10 +168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.46838,
+"lon": -73.26022,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-socorro-colombia-1154"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alianza-cristiana-socorro-colombia-1154",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alianza-cristiana-y-misionera-sede-nacional",
@@ -690,10 +691,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 5.99732,
+"lon": -72.69138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asembleas-de-dios-socha-colombia-966"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asembleas-de-dios-socha-colombia-966",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "auditorio-la-capilla",
@@ -2749,10 +2751,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 1.00075,
+"lon": -77.44918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-senor-de-la-buena-esperanza-funes-colombia-4218"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-senor-de-la-buena-esperanza-funes-colombia-4218",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-senor-de-los-milagros",
@@ -3010,10 +3013,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 2.77717,
+"lon": -75.25642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-david-rivera-colombia-1407"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-david-rivera-colombia-1407",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-espiritualidad-monticello",
@@ -6403,10 +6407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 10.89686,
+"lon": -74.886,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-vigia-salon-testigos-de-jehova-galapa-colombia-3985"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-vigia-salon-testigos-de-jehova-galapa-colombia-3985",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emanuel-renuevo-de-paz",
@@ -8433,10 +8438,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 5.15964,
+"lon": -76.68611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-istmina"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-istmina",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-jerusalen-iglesia-adventista-del-sptimo-da-jerusaln",
@@ -14639,10 +14645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 9.15596,
+"lon": -74.26618,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-margarita"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazareno-margarita",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-santiago-de-cali-valle-del-cauca",
@@ -17539,10 +17546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.18917,
+"lon": -75.70361,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-campo-alegre-colombia-2410"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-campo-alegre-colombia-2410",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-de-colombia-iglesia-pentecostal-de",
@@ -19685,10 +19693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 3.72412,
+"lon": -75.48386,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-chaparral"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-juan-bautista-chaparral",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-juan-bautista-iglesa-san-juan-bautista",
@@ -21425,10 +21434,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 7.29889,
+"lon": -72.49472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ipuc-labateca-labateca-colombia-4058"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ipuc-labateca-labateca-colombia-4058",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ipuc-laureles",
@@ -24035,10 +24045,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 6.01335,
+"lon": -73.67352,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mision-panamericana-velez-colombia-3646"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mision-panamericana-velez-colombia-3646",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-paz-a-las-naciones",
@@ -24238,10 +24249,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 5.08236,
+"lon": -73.36334,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/movimiento-misionario-de-colombia-garagoa-colombia-1198"
+"fuente_url": "https://encuentraiglesias.com/iglesia/movimiento-misionario-de-colombia-garagoa-colombia-1198",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "movimiento-misionero-mundial",
@@ -26210,10 +26222,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 2.38678,
+"lon": -75.54736,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-padua-gigante-colombia-4346"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-antonio-padua-gigante-colombia-4346",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-blas",

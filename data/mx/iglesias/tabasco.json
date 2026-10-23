@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.74058,
+"lon": -91.76635,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-iglesia-de-chable-emiliano-zapata-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-iglesia-de-chable-emiliano-zapata-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-central-tabasco",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.92264,
+"lon": -91.17056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-el-triunfo-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-el-triunfo-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-de-la-fe-en-cristo-jesus-cardenas",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.00135,
+"lon": -93.37559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-cardenas-tabasco-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-la-fe-en-cristo-jesus-cardenas-tabasco-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-aqua-comalcalco",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-aqua-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-aqua-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-arca-de-noe-cunduacan",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.06557,
+"lon": -93.17302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-arca-de-noe-cunduacan-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-arca-de-noe-cunduacan-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-indep-centla",
@@ -255,10 +260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-boulevard-adolfo-lopez-mateos-comalcalco-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-boulevard-adolfo-lopez-mateos-comalcalco-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-circuito-flor-de-guayacan-tabasco",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.00135,
+"lon": -93.37559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-de-porres-cardenas-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-martin-de-porres-cardenas-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-villa-ignacio-allende-centla",
@@ -458,10 +465,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.06557,
+"lon": -93.17302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-lirio-de-los-valles-cunduacan-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-lirio-de-los-valles-cunduacan-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-lluvia-de-gracia-comalcalco",
@@ -487,10 +495,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-lluvia-de-gracia-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-lluvia-de-gracia-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mision-pentecostes-comalcalco",
@@ -516,10 +525,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-pentecostes-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-pentecostes-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-comalcalco",
@@ -545,10 +555,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-cristo-la-luz-del-mundo-villahermosa",
@@ -574,10 +585,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.98625,
+"lon": -92.93928,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-cristo-la-luz-del-mundo-villahermosa-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-cristo-la-luz-del-mundo-villahermosa-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-morelos-piedra-cunduacan",
@@ -603,10 +615,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.06557,
+"lon": -93.17302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-morelos-piedra-cunduacan-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-morelos-piedra-cunduacan-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-senor-de-tila-cunduacan",
@@ -632,10 +645,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.06557,
+"lon": -93.17302,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-de-tila-cunduacan-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-de-tila-cunduacan-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "juan-pablo-segundo-nacajuca",
@@ -661,10 +675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.16963,
+"lon": -93.01837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/juan-pablo-segundo-nacajuca-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/juan-pablo-segundo-nacajuca-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-luz-del-mundo-cardenas",
@@ -690,10 +705,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.00135,
+"lon": -93.37559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-luz-del-mundo-cardenas-tabasco-mexico-2822"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-luz-del-mundo-cardenas-tabasco-mexico-2822",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-nueva-jerusalen-comalcalco",
@@ -719,10 +735,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-nueva-jerusalen-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-nueva-jerusalen-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-iglesia-monte-calvario-tenosique-de-pino-suarez",
@@ -864,10 +881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.17678,
+"lon": -93.06376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-lirios-de-los-valles-jalpa-de-mendez-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-lirios-de-los-valles-jalpa-de-mendez-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-presbiteriano-solo-cristo-salva-tabasco",
@@ -922,9 +940,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.26496,
+"lon": -93.22432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-puerta-del-cielo-comalcalco-tabasco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-puerta-del-cielo-comalcalco-tabasco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.62897,
+"lon": -0.32135,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ahadia-de-biescas-biescas-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ahadia-de-biescas-biescas-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antigua-capilla-del-psiquiatrico-zaragoza",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-capilla-del-psiquiatrico-zaragoza-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-capilla-del-psiquiatrico-zaragoza-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campanario-de-iglesia-cristiana-la-muela",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.58014,
+"lon": -1.11719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campanario-de-iglesia-cristiana-la-muela-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campanario-de-iglesia-cristiana-la-muela-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cristo-del-portazgo-zuera",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86775,
+"lon": -0.78984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-del-portazgo-zuera-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-del-portazgo-zuera-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-anton-naval",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19503,
+"lon": 0.15183,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-anton-naval-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-anton-naval-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-francisco-de-asis-la-sotonera",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.42253,
+"lon": -1.38061,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-gervasio-y-san-protasio-alpartir-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-san-gervasio-y-san-protasio-alpartir-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-san-lorenzo-isabena",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3456,
+"lon": -1.10646,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-espiritualidad-madre-rafols-teruel-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-espiritualidad-madre-rafols-teruel-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "castro-viello-ruins-la-puebla-de-castro",
@@ -313,10 +320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.83412,
+"lon": -1.53271,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colegiata-de-santa-maria-borja-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colegiata-de-santa-maria-borja-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colegiata-de-santa-maria-de-abiego-abiego",
@@ -342,10 +350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.12094,
+"lon": -0.06873,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colegiata-de-santa-maria-de-abiego-abiego-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colegiata-de-santa-maria-de-abiego-abiego-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "colegiata-del-santo-sepulcro-calatayud",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35353,
+"lon": -1.64318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/colegiata-del-santo-sepulcro-calatayud-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/colegiata-del-santo-sepulcro-calatayud-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-iglesia-cristiana-la-muela",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.58014,
+"lon": -1.11719,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-iglesia-cristiana-la-muela-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-iglesia-cristiana-la-muela-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "erm-san-vicens-graus",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.18885,
+"lon": 0.33749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/erm-san-vicens-graus-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/erm-san-vicens-graus-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "erminta-del-calvario-del-rollo-bordon",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.6865,
+"lon": -0.32216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/erminta-del-calvario-del-rollo-bordon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/erminta-del-calvario-del-rollo-bordon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-dulcis-santa-maria-de-dulcis",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.18894,
+"lon": -0.65307,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-el-calvario-rubielos-de-mora-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-el-calvario-rubielos-de-mora-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-escoronillas-yebra-de-basa",
@@ -545,10 +559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.48647,
+"lon": -0.28178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-escoronillas-yebra-de-basa-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-escoronillas-yebra-de-basa-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-jaime-juan-nogueruelas",
@@ -574,10 +589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.23622,
+"lon": -0.63606,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-jaime-juan-nogueruelas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-jaime-juan-nogueruelas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-aparecita-vera-de-moncayo",
@@ -603,10 +619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.824,
+"lon": -1.68799,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-aparecita-vera-de-moncayo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-aparecita-vera-de-moncayo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-candelera-salas-altas",
@@ -632,10 +649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.11407,
+"lon": 0.06821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-candelera-salas-altas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-candelera-salas-altas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-capella-valle-de-lierp",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.57934,
+"lon": -0.53682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-magdalena-canada-de-benatanduz-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-magdalena-canada-de-benatanduz-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-malena-moyuela",
@@ -748,10 +767,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12792,
+"lon": -0.92225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-malena-moyuela-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-malena-moyuela-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-mora-peralta-de-calasanz",
@@ -806,10 +826,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20491,
+"lon": -0.71133,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-rebollosa-lecera-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-rebollosa-lecera-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-sagrada-zaragoza",
@@ -835,10 +856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-sagrada-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-sagrada-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-sangre-de-cristo-sarrion",
@@ -864,10 +886,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.14175,
+"lon": -0.81533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-sangre-de-cristo-sarrion-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-sangre-de-cristo-sarrion-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-santisima-trinidad-bello",
@@ -893,10 +916,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.92266,
+"lon": -1.4985,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-santisima-trinidad-bello-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-santisima-trinidad-bello-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-victoria-jaca",
@@ -922,10 +946,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.56898,
+"lon": -0.54987,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-victoria-jaca-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-victoria-jaca-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-vigen-de-la-pena-alfajarin",
@@ -951,10 +976,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.614,
+"lon": -0.7037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vigen-de-la-pena-alfajarin-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-vigen-de-la-pena-alfajarin-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-vigen-del-carmen-las-cuerlas",
@@ -1009,10 +1035,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.48647,
+"lon": -0.28178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-arrodillas-yebra-de-basa-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-arrodillas-yebra-de-basa-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-rocas-graus",
@@ -1038,10 +1065,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.18885,
+"lon": 0.33749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-rocas-graus-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-las-rocas-graus-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-laude-graus",
@@ -1067,10 +1095,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.18885,
+"lon": 0.33749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-laude-graus-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-laude-graus-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-loreto-la-puebla-de-valverde",
@@ -1096,10 +1125,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.22409,
+"lon": -0.92783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-loreto-la-puebla-de-valverde-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-loreto-la-puebla-de-valverde-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-los-dolores-baguena",
@@ -1125,10 +1155,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.04181,
+"lon": -1.35767,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-dolores-baguena-teruel"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-los-dolores-baguena-teruel",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-montler-sastago",
@@ -1154,10 +1185,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.32166,
+"lon": -0.35075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-montler-sastago-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-montler-sastago-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-montserrat-caspe",
@@ -1183,10 +1215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23402,
+"lon": -0.03945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-montserrat-caspe-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-montserrat-caspe-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-adrian-borau",
@@ -1212,10 +1245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.65858,
+"lon": -0.58846,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-adrian-borau-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-adrian-borau-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-agustin-torrelacarcel",
@@ -1270,10 +1304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.19275,
+"lon": -1.30292,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-andres-mainar-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-andres-mainar-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-antonio-abad-bordon",
@@ -1299,10 +1334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.6865,
+"lon": -0.32216,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-abad-bordon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-abad-bordon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-antonio-del-pueyo-sabinanigo",
@@ -1328,10 +1364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.51924,
+"lon": -0.36607,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-del-pueyo-sabinanigo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-antonio-del-pueyo-sabinanigo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-babil-puente-la-reina-de-jaca",
@@ -1357,10 +1394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.55908,
+"lon": -0.78759,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-babil-puente-la-reina-de-jaca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-babil-puente-la-reina-de-jaca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-bernabe-burbaguena",
@@ -1386,10 +1424,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.01783,
+"lon": -1.33825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-bernabe-burbaguena-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-bernabe-burbaguena-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-caprasio-farlete",
@@ -1415,10 +1454,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.68122,
+"lon": -0.50678,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-caprasio-farlete-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-caprasio-farlete-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-elias-binaced",
@@ -1444,10 +1484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.82564,
+"lon": 0.20084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-elias-binaced-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-elias-binaced-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-fabian-y-san-sebastian-castejon-de-alarba",
@@ -1473,10 +1514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.18365,
+"lon": -1.63612,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-fabian-y-san-sebastian-castejon-de-alarba-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-fabian-y-san-sebastian-castejon-de-alarba-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-felix-mores",
@@ -1502,10 +1544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.47326,
+"lon": -1.56491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-felix-mores-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-felix-mores-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-gervasio-y-san-protasio-maluenda",
@@ -1531,10 +1574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.28772,
+"lon": -1.61603,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-gervasio-y-san-protasio-maluenda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-gervasio-y-san-protasio-maluenda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-gines-de-peracense-peracense",
@@ -1560,10 +1604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.64099,
+"lon": -1.47075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-gines-de-peracense-peracense-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-gines-de-peracense-peracense-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-indalecio-caspe",
@@ -1589,10 +1634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23402,
+"lon": -0.03945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-indalecio-caspe-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-indalecio-caspe-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-jaime-broto",
@@ -1618,10 +1664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60434,
+"lon": -0.12351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-jaime-broto-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-jaime-broto-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-juan-bautista-abizanda",
@@ -1647,10 +1694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24236,
+"lon": 0.19717,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-bautista-abizanda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-juan-bautista-abizanda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-justo-abizanda",
@@ -1676,10 +1724,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24236,
+"lon": 0.19717,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-justo-abizanda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-justo-abizanda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-lamberto-atea",
@@ -1705,10 +1754,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.16059,
+"lon": -1.55533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-lamberto-atea-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-lamberto-atea-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-lorenzo-ateca",
@@ -1734,10 +1784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33092,
+"lon": -1.79353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-lorenzo-ateca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-lorenzo-ateca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-lorien-tella-sin",
@@ -1792,10 +1843,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.58126,
+"lon": 0.33742,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mames-plan-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mames-plan-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-marcial-tella-sin",
@@ -1850,10 +1902,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.26317,
+"lon": -0.12741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-marcos-chiprana-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-marcos-chiprana-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-martin-barcabo",
@@ -1879,10 +1932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24219,
+"lon": 0.06934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-martin-barcabo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-martin-barcabo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-martin-de-capella-capella",
@@ -1908,10 +1962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19635,
+"lon": 0.39637,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-martin-de-capella-capella-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-martin-de-capella-capella-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-mateo-de-gallego-zuera",
@@ -1937,10 +1992,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86775,
+"lon": -0.78984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mateo-de-gallego-zuera-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-mateo-de-gallego-zuera-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-miguel-camporrells",
@@ -1966,10 +2022,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.95856,
+"lon": 0.52136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-miguel-camporrells-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-miguel-camporrells-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-nicolas-de-orcajo-orcajo",
@@ -1995,10 +2052,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.10975,
+"lon": -1.48933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-nicolas-de-orcajo-orcajo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-nicolas-de-orcajo-orcajo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pascual-ojos-negros",
@@ -2024,10 +2082,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.7375,
+"lon": -1.49875,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pascual-ojos-negros-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pascual-ojos-negros-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-paterno-calatayud",
@@ -2053,10 +2112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35353,
+"lon": -1.64318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-paterno-calatayud-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-paterno-calatayud-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-pelay-laspuna",
@@ -2082,10 +2142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.50374,
+"lon": 0.15441,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pelay-laspuna-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-pelay-laspuna-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-quilez-binefar",
@@ -2111,10 +2172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.85141,
+"lon": 0.29433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-quilez-binefar-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-quilez-binefar-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-roman-lascellas-ponzano",
@@ -2169,10 +2231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60434,
+"lon": -0.12351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-salvador-broto-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-salvador-broto-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-valero-del-castillo-estada",
@@ -2198,10 +2261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.07201,
+"lon": 0.23219,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-valero-del-castillo-estada-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-valero-del-castillo-estada-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-valero-seno",
@@ -2227,10 +2291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.81225,
+"lon": -0.33816,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-valero-seno-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-valero-seno-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-vicente-ferrer-niguella",
@@ -2256,10 +2321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.53621,
+"lon": -1.5245,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-vicente-ferrer-niguella-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-vicente-ferrer-niguella-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-victor-fortanete",
@@ -2285,10 +2351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.50533,
+"lon": -0.52283,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-victor-fortanete-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-victor-fortanete-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-visorio-labuerda",
@@ -2314,10 +2381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.45234,
+"lon": 0.13561,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-visorio-labuerda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-visorio-labuerda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-cruz-sarrion",
@@ -2343,10 +2411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.14175,
+"lon": -0.81533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-cruz-sarrion-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-cruz-sarrion-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-engracia-san-mateo-de-gallego",
@@ -2372,10 +2441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.83043,
+"lon": -0.76578,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-engracia-san-mateo-de-gallego-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-engracia-san-mateo-de-gallego-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-maria-magdalena-gudar",
@@ -2401,10 +2471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.44107,
+"lon": -0.72048,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-maria-magdalena-gudar-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-maria-magdalena-gudar-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-orosia-ejea-de-los-caballeros",
@@ -2430,10 +2501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.12632,
+"lon": -1.13716,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-orosia-ejea-de-los-caballeros-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-orosia-ejea-de-los-caballeros-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-rufina-seira",
@@ -2459,10 +2531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.47696,
+"lon": 0.43127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-rufina-seira-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-rufina-seira-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santa-teresa-estadilla",
@@ -2488,10 +2561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.05657,
+"lon": 0.24343,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-teresa-estadilla-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santa-teresa-estadilla-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-sobradiel-sobradiel",
@@ -2517,10 +2591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.73875,
+"lon": -1.03765,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sobradiel-sobradiel-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-sobradiel-sobradiel-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-vilet-peralta-de-calasanz",
@@ -2575,10 +2650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.68584,
+"lon": -0.7723,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-villamayor-villamayor-de-gallego-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-villamayor-villamayor-de-gallego-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-angusto-yebra-de-basa",
@@ -2604,10 +2680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.48647,
+"lon": -0.28178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-angusto-yebra-de-basa-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-angusto-yebra-de-basa-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-campo-vinaceite",
@@ -2662,10 +2739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.2502,
+"lon": -0.75249,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-canario-mora-de-rubielos-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-canario-mora-de-rubielos-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-castellar-torres-de-berrellen",
@@ -2691,10 +2769,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.75797,
+"lon": -1.0655,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-castellar-torres-de-berrellen-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-castellar-torres-de-berrellen-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-llovedor-castellote",
@@ -2720,10 +2799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.8,
+"lon": -0.31975,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-llovedor-castellote-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-llovedor-castellote-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-oreto-manzanera",
@@ -2749,10 +2829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.05,
+"lon": -0.83333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-oreto-manzanera-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-oreto-manzanera-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-plano-salas-altas",
@@ -2778,10 +2859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.11407,
+"lon": 0.06821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-plano-salas-altas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-plano-salas-altas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-remedio-alcubierre",
@@ -2807,10 +2889,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.80757,
+"lon": -0.45291,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-remedio-alcubierre-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-remedio-alcubierre-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-santo-cristo-de-la-cueva-remolinos",
@@ -2836,10 +2919,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.83946,
+"lon": -1.17768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-cueva-remolinos-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-santo-cristo-de-la-cueva-remolinos-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-tozal-isabena",
@@ -2923,10 +3007,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.695,
+"lon": -1.54335,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-los-santos-tabuenca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-los-santos-tabuenca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-blas-alacon",
@@ -2952,10 +3037,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.02575,
+"lon": -0.69782,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-blas-alacon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-blas-alacon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-cristobal-retascon",
@@ -2981,10 +3067,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.1435,
+"lon": -1.38376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-cristobal-retascon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-cristobal-retascon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-eloy-castel-de-cabra",
@@ -3010,10 +3097,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80255,
+"lon": -0.696,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-eloy-castel-de-cabra-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-eloy-castel-de-cabra-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-macario-andorra",
@@ -3039,10 +3127,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.97655,
+"lon": -0.44721,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-macario-andorra-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-macario-andorra-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-mames-isabena",
@@ -3097,10 +3186,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.84804,
+"lon": -1.25246,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-miguel-boquineni-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-miguel-boquineni-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-pedro-de-tabernas-seira",
@@ -3126,10 +3216,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.47696,
+"lon": 0.43127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-pedro-de-tabernas-seira-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-pedro-de-tabernas-seira-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-pedro-oliete",
@@ -3155,10 +3246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.99791,
+"lon": -0.67429,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-pedro-oliete-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-pedro-oliete-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-roque-alloza",
@@ -3184,10 +3276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.96942,
+"lon": -0.52941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-roque-alloza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-roque-alloza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-ana-binaced",
@@ -3213,10 +3306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.82564,
+"lon": 0.20084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-ana-binaced-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-ana-binaced-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-maria-de-allende-moyuela",
@@ -3242,10 +3336,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12792,
+"lon": -0.92225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-de-allende-moyuela-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-maria-de-allende-moyuela-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santa-maria-pedruy-isabena",
@@ -3300,10 +3395,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.49561,
+"lon": -0.12094,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-marina-fiscal-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santa-marina-fiscal-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-santo-domingo-de-silos-pozuel-del-campo",
@@ -3329,10 +3425,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.77125,
+"lon": -1.50575,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-domingo-de-silos-pozuel-del-campo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-santo-domingo-de-silos-pozuel-del-campo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-vieja-alcaniz",
@@ -3358,10 +3455,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.05,
+"lon": -0.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-vieja-alcaniz-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-vieja-alcaniz-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-vigen-de-la-carrasca-blancas",
@@ -3387,10 +3485,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.81392,
+"lon": -1.48208,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-vigen-de-la-carrasca-blancas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-vigen-de-la-carrasca-blancas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "esconjuradero-de-san-vicente-de-labuerda-labuerda",
@@ -3416,10 +3515,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.45234,
+"lon": 0.13561,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/esconjuradero-de-san-vicente-de-labuerda-labuerda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/esconjuradero-de-san-vicente-de-labuerda-labuerda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hermita-del-calvario-urrea-de-gaen",
@@ -3474,10 +3574,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.30976,
+"lon": -1.81084,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igleia-de-el-salvador-castejon-de-las-armas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igleia-de-el-salvador-castejon-de-las-armas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-arciprestal-de-santa-maria-la-mayor-calamocha",
@@ -3503,10 +3604,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.91933,
+"lon": -1.2975,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-arciprestal-de-santa-maria-la-mayor-calamocha-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-arciprestal-de-santa-maria-la-mayor-calamocha-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-biblica-reto-a-la-esperanza-zaragoza",
@@ -3532,10 +3634,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-reto-a-la-esperanza-zaragoza-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-biblica-reto-a-la-esperanza-zaragoza-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-de-espana-zaragoza",
@@ -3561,10 +3664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-de-espana-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-de-espana-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-pentecostes-de-espana-zaragoza-2",
@@ -3590,10 +3694,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-de-espana-zaragoza-aragon-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-de-espana-zaragoza-aragon-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-figueruelas-figueruelas",
@@ -3619,10 +3724,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76651,
+"lon": -1.17473,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-figueruelas-figueruelas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-figueruelas-figueruelas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-asuncion-de-la-virgen-retascon",
@@ -3648,10 +3754,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.1435,
+"lon": -1.38376,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-la-virgen-retascon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-la-virgen-retascon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-asuncion-de-ns-robres",
@@ -3677,10 +3784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86746,
+"lon": -0.46094,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-ns-robres-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-ns-robres-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-asuncion-de-nuestra-senoa-villalengua",
@@ -3706,10 +3814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.43548,
+"lon": -1.84125,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-nuestra-senoa-villalengua-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-asuncion-de-nuestra-senoa-villalengua-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-concepcion-el-buste",
@@ -3764,10 +3873,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.8824,
+"lon": -1.75637,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-exaltacion-de-la-santa-cruz-santa-cruz-de-moncayo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-exaltacion-de-la-santa-cruz-santa-cruz-de-moncayo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-natividad-alquezar",
@@ -3793,10 +3903,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.17268,
+"lon": 0.02586,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-natividad-alquezar-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-natividad-alquezar-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-purificacion-la-iglesuela-del-cid",
@@ -3822,10 +3933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.48312,
+"lon": -0.31938,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purificacion-la-iglesuela-del-cid-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-purificacion-la-iglesuela-del-cid-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-visitacion-bezas",
@@ -3851,10 +3963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.33076,
+"lon": -1.32511,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-visitacion-bezas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-visitacion-bezas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-carmelitas-descalzas-de-san-alberto-calatayud",
@@ -3880,10 +3993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35353,
+"lon": -1.64318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-carmelitas-descalzas-de-san-alberto-calatayud-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-carmelitas-descalzas-de-san-alberto-calatayud-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-las-siervas-de-maria-zaragoza",
@@ -3909,10 +4023,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-siervas-de-maria-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-las-siervas-de-maria-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-angeles-penalba",
@@ -3938,10 +4053,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50087,
+"lon": -0.03798,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-angeles-penalba-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-angeles-penalba-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-escolapios-alcaniz",
@@ -3967,10 +4083,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.05,
+"lon": -0.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-escolapios-alcaniz-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-escolapios-alcaniz-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-acisclo-y-victorian-abizanda",
@@ -3996,10 +4113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24236,
+"lon": 0.19717,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-acisclo-y-victorian-abizanda-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-acisclo-y-victorian-abizanda-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-reyes-hoz-de-jaca",
@@ -4025,10 +4143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.69045,
+"lon": -0.3065,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-reyes-hoz-de-jaca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-reyes-hoz-de-jaca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-maria-magdalena-fonz",
@@ -4054,10 +4173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.01015,
+"lon": 0.25878,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-magdalena-fonz-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-maria-magdalena-fonz-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nuestra-seora-de-la-ascension-santaliestra-y-san-quilez",
@@ -4141,10 +4261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.17434,
+"lon": -1.73505,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-s-miguel-monterde-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-s-miguel-monterde-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-agustin-almuniente",
@@ -4170,10 +4291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94949,
+"lon": -0.41173,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-agustin-almuniente-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-agustin-almuniente-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-andres-alarba",
@@ -4199,10 +4321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20482,
+"lon": -1.61335,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-andres-alarba-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-andres-alarba-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-anton-tauste",
@@ -4228,10 +4351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.91804,
+"lon": -1.25343,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-anton-tauste-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-anton-tauste-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-antonio-de-padua-alagon",
@@ -4257,10 +4381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76964,
+"lon": -1.11906,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antonio-de-padua-alagon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antonio-de-padua-alagon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-blas-santa-cruz-de-grio",
@@ -4286,10 +4411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.3705,
+"lon": -1.43009,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-blas-santa-cruz-de-grio-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-blas-santa-cruz-de-grio-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-esteban-protomartir-bisaurri",
@@ -4315,10 +4441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.49677,
+"lon": 0.50647,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-esteban-protomartir-bisaurri-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-esteban-protomartir-bisaurri-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-felix-sahun",
@@ -4344,10 +4471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.5759,
+"lon": 0.46546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-felix-sahun-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-felix-sahun-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-felix-torralba-de-ribota",
@@ -4373,10 +4501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.41803,
+"lon": -1.68429,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-felix-torralba-de-ribota-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-felix-torralba-de-ribota-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-ateca",
@@ -4402,10 +4531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33092,
+"lon": -1.79353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-ateca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-ateca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-gabriel-zuera",
@@ -4431,10 +4561,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86775,
+"lon": -0.78984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gabriel-zuera-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-gabriel-zuera-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-hermenegildo-torre-de-las-arcas",
@@ -4460,10 +4591,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.84166,
+"lon": -0.71783,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-hermenegildo-torre-de-las-arcas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-hermenegildo-torre-de-las-arcas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-jose-de-pignatelli-almuniente",
@@ -4489,10 +4621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94949,
+"lon": -0.41173,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-de-pignatelli-almuniente-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-jose-de-pignatelli-almuniente-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-bautista-alagon",
@@ -4518,10 +4651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76964,
+"lon": -1.11906,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-bautista-alagon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-bautista-alagon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-el-real-calatayud",
@@ -4547,10 +4681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.35353,
+"lon": -1.64318,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-el-real-calatayud-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-el-real-calatayud-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-arcangel-alfajarin",
@@ -4576,10 +4711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.614,
+"lon": -0.7037,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-arcangel-alfajarin-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-arcangel-alfajarin-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-arcangel-bubierca",
@@ -4605,10 +4741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.31482,
+"lon": -1.85386,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-arcangel-bubierca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-arcangel-bubierca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-miguel-de-los-navarros-zaragoza",
@@ -4634,10 +4771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-de-los-navarros-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-miguel-de-los-navarros-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-orencio-sopeira",
@@ -4663,10 +4801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.31615,
+"lon": 0.74632,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-orencio-sopeira-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-orencio-sopeira-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-ad-vincula-torralba-de-aragon",
@@ -4692,10 +4831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.93487,
+"lon": -0.51053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-ad-vincula-torralba-de-aragon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-ad-vincula-torralba-de-aragon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-adahuesca",
@@ -4721,10 +4861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.1461,
+"lon": -0.00804,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-adahuesca-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-adahuesca-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-apostol-alagon",
@@ -4750,10 +4891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.76964,
+"lon": -1.11906,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-apostol-alagon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-apostol-alagon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-roman-la-puebla-de-castro",
@@ -4808,10 +4950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.62897,
+"lon": -0.32135,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-salvador-biescas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-salvador-biescas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-salvador-esglesia-de-sant-salvador-fraga",
@@ -4837,10 +4980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.52294,
+"lon": 0.34894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-salvador-esglesia-de-sant-salvador-fraga-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-salvador-esglesia-de-sant-salvador-fraga-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-saturnino-abizanda",
@@ -4866,10 +5010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24236,
+"lon": 0.19717,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-saturnino-abizanda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-saturnino-abizanda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-vicente-albelda",
@@ -4895,10 +5040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86542,
+"lon": 0.45999,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-albelda-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-albelda-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-ana-alcubierre",
@@ -4924,10 +5070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.80757,
+"lon": -0.45291,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-ana-alcubierre-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-ana-alcubierre-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-cruz-cuarte-de-huerva",
@@ -4953,10 +5100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.59466,
+"lon": -0.93268,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-cruz-cuarte-de-huerva-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-cruz-cuarte-de-huerva-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-eulalia-broto",
@@ -4982,10 +5130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60434,
+"lon": -0.12351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-eulalia-broto-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-eulalia-broto-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-margarita-alcampell",
@@ -5040,10 +5189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-los-angeles-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-de-los-angeles-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-del-rosario-s-xii-xiii-asin",
@@ -5069,10 +5219,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.28314,
+"lon": -1.04657,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-del-rosario-s-xii-xiii-asin-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-del-rosario-s-xii-xiii-asin-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-la-mayor-alcaniz",
@@ -5098,10 +5249,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.05,
+"lon": -0.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-la-mayor-alcaniz-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-la-mayor-alcaniz-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-maria-la-mayor-caspe",
@@ -5127,10 +5279,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.23402,
+"lon": -0.03945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-la-mayor-caspe-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-maria-la-mayor-caspe-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-quiteria-graus",
@@ -5156,10 +5309,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.18885,
+"lon": 0.33749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-quiteria-graus-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-quiteria-graus-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-tecla-cervera-de-la-canada",
@@ -5185,10 +5339,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.43301,
+"lon": -1.73568,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-tecla-cervera-de-la-canada-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-tecla-cervera-de-la-canada-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-teresa-de-jesus-granen",
@@ -5214,10 +5369,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.94104,
+"lon": -0.36941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-teresa-de-jesus-granen-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-teresa-de-jesus-granen-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santas-justa-y-rufina-maluenda",
@@ -5243,10 +5399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.28772,
+"lon": -1.61603,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santas-justa-y-rufina-maluenda-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santas-justa-y-rufina-maluenda-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-toribio-de-liebana-estercuel",
@@ -5272,10 +5429,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.855,
+"lon": -0.63208,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-toribio-de-liebana-estercuel-teruel"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santo-toribio-de-liebana-estercuel-teruel",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santo-cristo-calamocha",
@@ -5301,10 +5459,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.91933,
+"lon": -1.2975,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santo-cristo-calamocha-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-santo-cristo-calamocha-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-alianza-de-fe-zaragoza",
@@ -5330,10 +5489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-alianza-de-fe-zaragoza-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-alianza-de-fe-zaragoza-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-asambleas-de-dios-huesca",
@@ -5359,10 +5519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.13615,
+"lon": -0.4087,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asambleas-de-dios-huesca-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asambleas-de-dios-huesca-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-de-zaragoza-zaragoza",
@@ -5388,10 +5549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-zaragoza-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-zaragoza-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-betel-zaragoza",
@@ -5417,10 +5579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-betel-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-betel-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-fortaleza-de-san-pedro-apostol-villarroya-de-la-sierra",
@@ -5446,10 +5609,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.46346,
+"lon": -1.7835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fortaleza-de-san-pedro-apostol-villarroya-de-la-sierra-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fortaleza-de-san-pedro-apostol-villarroya-de-la-sierra-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-las-lomas-del-gallego-zuera",
@@ -5475,10 +5639,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.86775,
+"lon": -0.78984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-lomas-del-gallego-zuera-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-lomas-del-gallego-zuera-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-modernista-el-salvador-1912-teruel",
@@ -5504,10 +5669,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3456,
+"lon": -1.10646,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-modernista-el-salvador-1912-teruel-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-modernista-el-salvador-1912-teruel-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-de-la-biblia-zaragoza",
@@ -5533,10 +5699,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-de-la-biblia-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-de-la-biblia-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-aragon-zaragoza",
@@ -5562,10 +5729,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-aragon-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-aragon-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-espana-huesca",
@@ -5591,10 +5759,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.13615,
+"lon": -0.4087,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-espana-huesca-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-espana-huesca-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-de-espana-zaragoza",
@@ -5620,10 +5789,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-espana-zaragoza-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pentecostal-unida-de-espana-zaragoza-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-principe-de-la-paz-zaragoza",
@@ -5649,10 +5819,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principe-de-la-paz-zaragoza-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-principe-de-la-paz-zaragoza-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-purisima-concepcion-monton",
@@ -5678,10 +5849,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.20667,
+"lon": -1.5155,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-purisima-concepcion-monton-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-purisima-concepcion-monton-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-reformada-de-aragon-zaragoza",
@@ -5707,10 +5879,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.65606,
+"lon": -0.87734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-reformada-de-aragon-zaragoza-zaragoza"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-reformada-de-aragon-zaragoza-zaragoza",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-agustin-almochuel",
@@ -5736,10 +5909,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.27992,
+"lon": -0.55067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-agustin-almochuel-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-agustin-almochuel-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-esteban-barcabo",
@@ -5765,10 +5939,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24219,
+"lon": 0.06934,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-esteban-barcabo-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-esteban-barcabo-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-martin-de-tours",
@@ -5823,10 +5998,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19635,
+"lon": 0.39637,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-capella-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-capella-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-maria-la-mayor-hijar",
@@ -5852,10 +6028,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.17429,
+"lon": -0.45112,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-la-mayor-hijar-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-maria-la-mayor-hijar-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vieja-de-belsierre-puertolas",
@@ -5881,10 +6058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.54748,
+"lon": 0.13214,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vieja-de-belsierre-puertolas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vieja-de-belsierre-puertolas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglsia-de-san-martin-capella",
@@ -5910,10 +6088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.19635,
+"lon": 0.39637,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglsia-de-san-martin-capella-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglsia-de-san-martin-capella-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ilesia-de-sant-chuse-de-monzon-monzon",
@@ -5939,10 +6118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.91084,
+"lon": 0.19406,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ilesia-de-sant-chuse-de-monzon-monzon-huesca"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ilesia-de-sant-chuse-de-monzon-monzon-huesca",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monte-del-calvario-cella",
@@ -5968,10 +6148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.45325,
+"lon": -1.2875,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monte-del-calvario-cella-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monte-del-calvario-cella-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peiron-la-viluena",
@@ -6026,10 +6207,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.40308,
+"lon": -1.16876,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peiron-v-del-pilar-longares-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peiron-v-del-pilar-longares-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peiron-virgen-botorrita",
@@ -6055,10 +6237,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.50706,
+"lon": -1.03104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peiron-virgen-botorrita-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peiron-virgen-botorrita-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilon-de-san-bermabe-cinco-olivas",
@@ -6084,10 +6267,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33966,
+"lon": -0.37116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilon-de-san-bermabe-cinco-olivas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilon-de-san-bermabe-cinco-olivas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilon-de-san-blas-cinco-olivas",
@@ -6113,10 +6297,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33966,
+"lon": -0.37116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilon-de-san-blas-cinco-olivas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilon-de-san-blas-cinco-olivas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilon-de-san-jose-cinco-olivas",
@@ -6142,10 +6327,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.33966,
+"lon": -0.37116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilon-de-san-jose-cinco-olivas-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilon-de-san-jose-cinco-olivas-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-nicolas-fiscal",
@@ -6171,10 +6357,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.49561,
+"lon": -0.12094,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-nicolas-fiscal-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-nicolas-fiscal-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pedro-apostol-de-alastrue-bierge",
@@ -6200,10 +6387,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.16216,
+"lon": -0.08326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-apostol-de-alastrue-bierge-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-apostol-de-alastrue-bierge-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-pedro-apostol-griegos",
@@ -6229,10 +6417,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.42722,
+"lon": -1.71201,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-apostol-griegos-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-pedro-apostol-griegos-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-roque-camarena-de-la-sierra",
@@ -6258,10 +6447,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.15,
+"lon": -1.03333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-roque-camarena-de-la-sierra-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-roque-camarena-de-la-sierra-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-valero-bisaurri",
@@ -6287,10 +6477,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.49677,
+"lon": 0.50647,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-valero-bisaurri-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-valero-bisaurri-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-lucia-campillo-de-aragon",
@@ -6316,10 +6507,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.12648,
+"lon": -1.84393,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-lucia-campillo-de-aragon-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-lucia-campillo-de-aragon-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-la-mayor-almonacid-de-la-cuba",
@@ -6345,9 +6537,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.28067,
+"lon": -0.79266,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-la-mayor-almonacid-de-la-cuba-aragon"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-maria-la-mayor-almonacid-de-la-cuba-aragon",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

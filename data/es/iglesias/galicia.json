@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.48451,
+"lon": -8.23293,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/buenas-noticias-ferrol-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/buenas-noticias-ferrol-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-da-candelaria-montederramo",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27554,
+"lon": -7.50138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-da-candelaria-montederramo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-da-candelaria-montederramo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-da-encarnacion-vilanova-de-arousa",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.564,
+"lon": -8.82797,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-da-encarnacion-vilanova-de-arousa-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-da-encarnacion-vilanova-de-arousa-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-da-merce-a-pobra-do-caraminal",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60295,
+"lon": -8.93824,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-da-merce-a-pobra-do-caraminal-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-da-merce-a-pobra-do-caraminal-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-das-angustias-do-porto-o-vicedo",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.60295,
+"lon": -8.93824,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-guadalupe-a-pobra-do-caraminal-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-guadalupe-a-pobra-do-caraminal-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-nosa-senora-de-belen-ribeira",
@@ -226,10 +231,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.73809,
+"lon": -8.44106,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-nosa-senora-de-belen-ribeira-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-nosa-senora-de-belen-ribeira-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-san-bieito-tomino",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.98772,
+"lon": -8.75502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-bieito-tomino-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-bieito-tomino-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-san-blas-cabana-de-bergantinos",
@@ -313,10 +320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.16122,
+"lon": -7.54324,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-gregorio-mos-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-gregorio-mos-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-san-paio-vilasantar",
@@ -342,10 +350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.07106,
+"lon": -8.12163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-paio-vilasantar-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-paio-vilasantar-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-san-ramon-culleredo",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.28788,
+"lon": -8.38858,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-ramon-culleredo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-ramon-culleredo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-san-roque-montederramo",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27554,
+"lon": -7.50138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-roque-montederramo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-san-roque-montederramo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santa-ana-oleiros",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33333,
+"lon": -8.31667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santa-ana-oleiros-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santa-ana-oleiros-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santa-eufemia-arteixo",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.30482,
+"lon": -8.50749,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santa-eufemia-arteixo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santa-eufemia-arteixo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santa-marina-ourense",
@@ -487,10 +500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33669,
+"lon": -7.86407,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santa-marina-ourense-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santa-marina-ourense-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santaballa-monfero",
@@ -516,10 +530,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.33333,
+"lon": -8.01667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santaballa-monfero-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santaballa-monfero-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santiago-mino",
@@ -545,10 +560,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.35,
+"lon": -8.2,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santiago-mino-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santiago-mino-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santo-anton-de-beldona-abegondo",
@@ -574,10 +590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.21667,
+"lon": -8.28333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santo-anton-de-beldona-abegondo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santo-anton-de-beldona-abegondo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-santo-antonio-arbo",
@@ -603,10 +620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.11667,
+"lon": -8.31667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santo-antonio-arbo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-santo-antonio-arbo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-do-carme-as-pontes-de-garcia-rodriguez",
@@ -632,10 +650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.45266,
+"lon": -7.85178,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-do-carme-as-pontes-de-garcia-rodriguez-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-do-carme-as-pontes-de-garcia-rodriguez-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-dos-milagres-de-verducedo-moana",
@@ -661,10 +680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.27807,
+"lon": -8.73921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-dos-milagres-de-verducedo-moana-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-dos-milagres-de-verducedo-moana-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-evanxelica-de-marin-marin",
@@ -690,10 +710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.39145,
+"lon": -8.70136,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-evanxelica-de-marin-marin-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-evanxelica-de-marin-marin-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-de-santiago-santiago-de-compostela",
@@ -719,10 +740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.88052,
+"lon": -8.54569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-de-santiago-santiago-de-compostela-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-de-santiago-santiago-de-compostela-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-de-martino-ortigueira",
@@ -777,10 +799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42995,
+"lon": -8.24254,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-da-merce-ares-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-da-merce-ares-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermida-de-san-eleuterio-mos",
@@ -806,10 +829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.16122,
+"lon": -7.54324,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-de-san-eleuterio-mos-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-de-san-eleuterio-mos-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermida-do-carme-ares",
@@ -835,10 +859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42995,
+"lon": -8.24254,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-do-carme-ares-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-do-carme-ares-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermida-virxe-do-porto-valdovino",
@@ -864,10 +889,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.6,
+"lon": -8.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-virxe-do-porto-valdovino-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermida-virxe-do-porto-valdovino-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cuerpo-de-cristo-lugo",
@@ -893,10 +919,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00992,
+"lon": -7.55602,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cuerpo-de-cristo-lugo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cuerpo-de-cristo-lugo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-de-hermanos-ebenezer-o-grove",
@@ -922,10 +949,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.49444,
+"lon": -8.86502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-ebenezer-o-grove-pontevedra"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-de-hermanos-ebenezer-o-grove-pontevedra",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-os-castros-a-coruna",
@@ -951,10 +979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.37135,
+"lon": -8.396,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-os-castros-a-coruna-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-os-castros-a-coruna-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pontevedra",
@@ -980,10 +1009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.431,
+"lon": -8.64435,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pontevedra-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-pontevedra-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-unida-vigo",
@@ -1009,10 +1039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.23282,
+"lon": -8.72264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-unida-vigo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-unida-vigo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-unida-ponteareas",
@@ -1038,10 +1069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.17476,
+"lon": -8.50398,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-unida-ponteareas-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-unida-ponteareas-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-caamouco-ares",
@@ -1067,10 +1099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42995,
+"lon": -8.24254,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-caamouco-ares-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-caamouco-ares-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-deus-pentecostal-de-ourense-ourense",
@@ -1096,10 +1129,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.33669,
+"lon": -7.86407,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-deus-pentecostal-de-ourense-ourense-ourense"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-deus-pentecostal-de-ourense-ourense-ourense",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-deus-pentecostal-de-vigo-vigo",
@@ -1125,10 +1159,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.23282,
+"lon": -8.72264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-deus-pentecostal-de-vigo-vigo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-deus-pentecostal-de-vigo-vigo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-deus-pentecostal-o-refuxio-o-porrino",
@@ -1183,10 +1218,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.18169,
+"lon": -7.89656,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-pedro-de-buriz-guitiriz-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-pedro-de-buriz-guitiriz-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-san-pedro-de-cumeiro-vila-de-cruces",
@@ -1241,10 +1277,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.8062,
+"lon": -7.61644,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-pedro-de-vilarbasin-portomarin-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-pedro-de-vilarbasin-portomarin-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-san-salvador-de-vilaeiriz-o-paramo",
@@ -1270,10 +1307,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.94655,
+"lon": -7.29617,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-salvador-de-vilaeiriz-o-paramo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-salvador-de-vilaeiriz-o-paramo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-san-telmo-tui",
@@ -1299,10 +1337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.04713,
+"lon": -8.64435,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-telmo-tui-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-telmo-tui-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-san-xiao-da-irixoa-vilalba",
@@ -1328,10 +1367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.29806,
+"lon": -7.6813,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-xiao-da-irixoa-vilalba-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-xiao-da-irixoa-vilalba-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-san-xoan-de-fontes-rosas-touro",
@@ -1357,10 +1397,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86812,
+"lon": -8.30764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-xoan-de-fontes-rosas-touro-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-san-xoan-de-fontes-rosas-touro-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-santa-maria-de-carballedo-carballedo",
@@ -1386,10 +1427,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.52191,
+"lon": -7.8284,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-santa-maria-de-carballedo-carballedo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-santa-maria-de-carballedo-carballedo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-santa-maria-de-santiso-santiso",
@@ -1415,10 +1457,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.87388,
+"lon": -8.05497,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-santa-maria-de-santiso-santiso-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-santa-maria-de-santiso-santiso-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-de-santo-andres-de-viladonelle-neda",
@@ -1473,10 +1516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.26972,
+"lon": -7.65052,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-tioira-maceda-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-de-tioira-maceda-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-do-carme-valdovino",
@@ -1502,10 +1546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.6,
+"lon": -8.13333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-do-carme-valdovino-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-do-carme-valdovino-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-evanxelica-boas-novas-lugo",
@@ -1531,10 +1576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00992,
+"lon": -7.55602,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-boas-novas-lugo-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-boas-novas-lugo-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-evanxelica-corpo-de-cristo-santiago-de-compostela",
@@ -1560,10 +1606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.88052,
+"lon": -8.54569,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-corpo-de-cristo-santiago-de-compostela-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-corpo-de-cristo-santiago-de-compostela-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-evanxelica-de-noia-noia",
@@ -1589,10 +1636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78583,
+"lon": -8.88734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-de-noia-noia-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-de-noia-noia-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igrexa-evanxelica-roca-viva-sarria",
@@ -1618,10 +1666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78148,
+"lon": -7.41431,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-roca-viva-sarria-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igrexa-evanxelica-roca-viva-sarria-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "o-culto-muinos",
@@ -1676,10 +1725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24148,
+"lon": -7.67223,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-eufemia-de-ambia-banos-de-molgas-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-eufemia-de-ambia-banos-de-molgas-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-estevo-banos-de-molgas",
@@ -1705,9 +1755,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.24148,
+"lon": -7.67223,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-estevo-banos-de-molgas-galicia"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-estevo-banos-de-molgas-galicia",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

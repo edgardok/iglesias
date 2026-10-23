@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81302,
+"lon": -98.95513,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/areas-verdes-iglesia-ntra-sra-de-la-luz-cuautla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/areas-verdes-iglesia-ntra-sra-de-la-luz-cuautla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-amayuca-jantetelco",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.71595,
+"lon": -98.77718,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-amayuca-jantetelco-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-amayuca-jantetelco-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-anglicana-de-san-miguel-y-todos-los-angeles-morelos",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.88139,
+"lon": -99.17778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-barrio-san-miguel-jiutepec-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-barrio-san-miguel-jiutepec-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-monte-abarim-cuernavaca",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-abarim-cuernavaca-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-monte-abarim-cuernavaca-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-apostolica-pentecostes-jojutla",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.61472,
+"lon": -99.18028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-apostolica-pentecostes-jojutla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-apostolica-pentecostes-jojutla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-temoac-temoac",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.77222,
+"lon": -98.7775,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-temoac-temoac-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-temoac-temoac-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-monte-de-sion-jojutla",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.61472,
+"lon": -99.18028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-monte-de-sion-jojutla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-monte-de-sion-jojutla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-nuevo-pacto-morelos",
@@ -284,10 +291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.84578,
+"lon": -99.22367,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-rey-temixco-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristo-rey-temixco-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-burgos-tres-de-mayo",
@@ -313,10 +321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.86861,
+"lon": -99.20833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-burgos-tres-de-mayo-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-burgos-tres-de-mayo-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-jantetelco-jantetelco",
@@ -342,10 +351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.71595,
+"lon": -98.77718,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jantetelco-jantetelco-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jantetelco-jantetelco-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-colonia-independencia-jojutla",
@@ -371,10 +381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.61472,
+"lon": -99.18028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-colonia-independencia-jojutla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-colonia-independencia-jojutla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-colonia-pedro-amaro-jojutla",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.61472,
+"lon": -99.18028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-colonia-pedro-amaro-jojutla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-colonia-pedro-amaro-jojutla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-sagrada-familia-cuautla",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81302,
+"lon": -98.95513,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-sagrada-familia-cuautla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-sagrada-familia-cuautla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-santisima-tepoztlan",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.98564,
+"lon": -99.1016,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-tepoztlan-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-tepoztlan-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cerro-del-tepeyac-la-joya",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.89054,
+"lon": -99.12493,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cerro-del-tepeyac-la-joya-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cerro-del-tepeyac-la-joya-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-del-pueblo-cuautla",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81302,
+"lon": -98.95513,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-del-pueblo-cuautla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-del-pueblo-cuautla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-francisco-de-asis-morelos",
@@ -574,10 +590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.24957,
+"lon": -99.76351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-asuncion-de-maria-tejalpa-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-asuncion-de-maria-tejalpa-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-maria-de-la-asuncion-jojutla",
@@ -603,10 +620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.61472,
+"lon": -99.18028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-de-la-asuncion-jojutla-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-maria-de-la-asuncion-jojutla-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-de-mexico-el-mesias-cuernavaca",
@@ -632,10 +650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mexico-el-mesias-cuernavaca-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-de-mexico-el-mesias-cuernavaca-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-bethel-cuernavaca",
@@ -661,10 +680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-bethel-cuernavaca-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-bethel-cuernavaca-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-senor-del-pueblo-amayuca",
@@ -690,10 +710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.72413,
+"lon": -98.79762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-del-pueblo-amayuca-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-del-pueblo-amayuca-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primera-iglesia-bautista-de-cuernavaca-cuernavaca",
@@ -719,10 +740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-de-cuernavaca-cuernavaca-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primera-iglesia-bautista-de-cuernavaca-cuernavaca-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-malinche-morelos",
@@ -806,10 +828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.87807,
+"lon": -98.77494,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santiago-apostol-ocuituco-morelos"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santiago-apostol-ocuituco-morelos",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-tepoztecatl-morelos",

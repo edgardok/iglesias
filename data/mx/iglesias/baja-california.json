@@ -81,10 +81,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.87149,
+"lon": -116.60071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/horizonte-ensenada-calvary-chapel-ensenada-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/horizonte-ensenada-calvary-chapel-ensenada-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iafcj-24-tijuana",
@@ -110,10 +111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5027,
+"lon": -117.00371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iafcj-24-tijuana-bc-mexico-8007"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iafcj-24-tijuana-bc-mexico-8007",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iafcj-no-24-tijuana",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5027,
+"lon": -117.00371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iafcj-no-24-tijuana-bc-mexico-3147"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iafcj-no-24-tijuana-bc-mexico-3147",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-apostolica-de-fe-en-cristo-jesus-ensenada",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.87149,
+"lon": -116.60071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-fe-en-cristo-jesus-ensenada-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-apostolica-de-fe-en-cristo-jesus-ensenada-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-asuncion-de-maria-delegacion-la-mesa",
@@ -255,10 +259,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5027,
+"lon": -117.00371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-camino-tijuana-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-el-camino-tijuana-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-rosa-de-saron-municipio-de-mexicali",
@@ -313,10 +318,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5027,
+"lon": -117.00371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-azul-tijuana-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-azul-tijuana-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-fabiola-alcala-delegacion-la-mesa",
@@ -458,10 +464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.43167,
+"lon": -116.95361,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-el-buen-pastor-san-luis-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-pentecostes-el-buen-pastor-san-luis-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristocentro-municipio-de-tijuana",
@@ -632,10 +639,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.87149,
+"lon": -116.60071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-ensenada-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-santisima-trinidad-ensenada-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nazareno-delegacion-la-mesa",
@@ -719,10 +727,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.19351,
+"lon": -114.99959,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-fuente-de-vida-ciudad-coahuila-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-fuente-de-vida-ciudad-coahuila-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-ascencion-del-senor-tijuana",
@@ -748,10 +757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5027,
+"lon": -117.00371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-ascencion-del-senor-tijuana-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-ascencion-del-senor-tijuana-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-casa-del-senor-municipio-de-mexicali",
@@ -835,10 +845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.62781,
+"lon": -115.45446,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-getsemani-mexicali-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-metodista-getsemani-mexicali-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-metodista-templo-el-divino-redentor-municipio-de-mexicali",
@@ -893,10 +904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5027,
+"lon": -117.00371,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-dios-de-la-profecia-reforma2xjesus-tijuana-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-iglesia-de-dios-de-la-profecia-reforma2xjesus-tijuana-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mision-familiar-bethlem-municipio-de-tijuana",
@@ -951,10 +963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.87149,
+"lon": -116.60071,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/purisimo-corazon-de-maria-ensenada-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/purisimo-corazon-de-maria-ensenada-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sagrada-familia-tecate",
@@ -980,10 +993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.566,
+"lon": -116.63187,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sagrada-familia-tecate-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sagrada-familia-tecate-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-maranatha-municipio-de-ensenada",
@@ -1038,10 +1052,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.62781,
+"lon": -115.45446,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-embajadores-de-jesus-mexicali-baja-california-norte"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-embajadores-de-jesus-mexicali-baja-california-norte",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-metodista-el-divino-redentor-municipio-de-mexicali",

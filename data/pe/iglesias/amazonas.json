@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.37167,
+"lon": -77.91194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-natividad-tingo-amazonas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-la-natividad-tingo-amazonas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-blanco-lamud",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.13722,
+"lon": -77.95361,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-blanco-lamud-amazonas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-blanco-lamud-amazonas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-buena-muerte-chachapoyas",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.23169,
+"lon": -77.86903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-buena-muerte-chachapoyas-amazonas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-buena-muerte-chachapoyas-amazonas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-levanto-levanto",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.30833,
+"lon": -77.89861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-levanto-levanto-amazonas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-levanto-levanto-amazonas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-carlos-san-carlos",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.96667,
+"lon": -77.93333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-carlos-san-carlos-amazonas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-carlos-san-carlos-amazonas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pablo-valera",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.48611,
+"lon": -77.81528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-jalca-la-jalca-amazonas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-jalca-la-jalca-amazonas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-ana-chachapoyas",
@@ -226,9 +232,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -6.23169,
+"lon": -77.86903,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-ana-chachapoyas-amazonas-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-ana-chachapoyas-amazonas-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

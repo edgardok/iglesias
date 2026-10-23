@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.16863,
+"lon": -114.26495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/3-angels-seventh-day-adventist-church-bluewater-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/3-angels-seventh-day-adventist-church-bluewater-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "adat-yeshua-messianic-jewish-congregation-albuquerque",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/adat-yeshua-messianic-jewish-congregation-albuquerque-nm-estados-unidos-1165"
+"fuente_url": "https://encuentraiglesias.com/iglesia/adat-yeshua-messianic-jewish-congregation-albuquerque-nm-estados-unidos-1165",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "albuquerque-chinese-baptist-church-embudo",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/animas-valley-community-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/animas-valley-community-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anthony-united-methodist-church-anthony",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.00399,
+"lon": -106.60583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anthony-united-methodist-church-anthony-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anthony-united-methodist-church-anthony-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apache-indian-assembly-of-god-church-mescalero",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.15759,
+"lon": -105.77415,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apache-indian-assembly-of-god-church-mescalero-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apache-indian-assembly-of-god-church-mescalero-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-assembly-arroyo-hondo",
@@ -284,10 +289,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-christian-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-christian-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aztec-presbyterian-church-aztec",
@@ -313,10 +319,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-presbyterian-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-presbyterian-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aztec-seventh-day-adventist-church-aztec",
@@ -342,10 +349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-seventh-day-adventist-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-seventh-day-adventist-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "aztec-united-methodist-church-aztec",
@@ -371,10 +379,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-united-methodist-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aztec-united-methodist-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belen-christian-church-belen",
@@ -400,10 +409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belen-christian-church-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belen-christian-church-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belen-missionary-baptist-church-belen",
@@ -429,10 +439,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belen-missionary-baptist-church-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belen-missionary-baptist-church-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belen-united-pentecostal-chruch-belen",
@@ -458,10 +469,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/belen-united-pentecostal-chruch-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/belen-united-pentecostal-chruch-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berean-baptist-church-albuquerque",
@@ -487,10 +499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berean-baptist-church-albuquerque-nm-estados-unidos-19334"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berean-baptist-church-albuquerque-nm-estados-unidos-19334",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bernalillo-independent-baptist-church-bernalillo",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.30004,
+"lon": -106.55114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bernalillo-independent-baptist-church-bernalillo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bernalillo-independent-baptist-church-bernalillo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethlehem-evangelical-lutheran-church-broadview",
@@ -548,7 +562,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-evangelical-lutheran-church-broadview-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethlehem-evangelical-lutheran-church-broadview-new-mexico",
+"geo_fuente": null
 },
 {
 "slug": "blodgett-street-baptist-church-carlsbad",
@@ -574,10 +589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.42067,
+"lon": -104.22884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blodgett-street-baptist-church-carlsbad-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blodgett-street-baptist-church-carlsbad-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bloomfield-assembly-of-god-bloomfield",
@@ -603,10 +619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.71112,
+"lon": -107.98451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bloomfield-assembly-of-god-bloomfield-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bloomfield-assembly-of-god-bloomfield-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bloomfield-hispanic-seventh-day-adventist-church-bloomfield",
@@ -632,10 +649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.71112,
+"lon": -107.98451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bloomfield-hispanic-seventh-day-adventist-church-bloomfield-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bloomfield-hispanic-seventh-day-adventist-church-bloomfield-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bosque-farm-church-bosque-farms",
@@ -661,10 +679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.85478,
+"lon": -106.7053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bosque-farm-church-bosque-farms-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bosque-farm-church-bosque-farms-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "caballo-community-church-caballo",
@@ -719,10 +738,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-rio-grande-vally-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-rio-grande-vally-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvery-chapen-new-harvest-buena-vista",
@@ -777,10 +797,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.38954,
+"lon": -106.8139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/camino-nuevo-dona-ana-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/camino-nuevo-dona-ana-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capa-del-san-antonio-church-arroyo-hondo",
@@ -893,10 +914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cathedral-church-of-saint-john-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cathedral-church-of-saint-john-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "celebration-baptist-church-corrales",
@@ -922,10 +944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.23782,
+"lon": -106.60669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/celebration-baptist-church-corrales-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/celebration-baptist-church-corrales-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "center-street-united-methodist-church-tucumcari",
@@ -951,10 +974,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.17191,
+"lon": -103.72686,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/center-street-united-methodist-church-tucumcari-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/center-street-united-methodist-church-tucumcari-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-seventh-day-adventist-church-bluewater",
@@ -980,10 +1004,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.16863,
+"lon": -114.26495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-seventh-day-adventist-church-bluewater-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-seventh-day-adventist-church-bluewater-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-united-methodist-church-albuquerque",
@@ -1009,10 +1034,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-united-methodist-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-united-methodist-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-of-the-desert-monastery-abiquiu",
@@ -1070,7 +1096,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-church-of-los-alamos-broadview-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-church-of-los-alamos-broadview-new-mexico",
+"geo_fuente": null
 },
 {
 "slug": "christian-faith-chapel-belen",
@@ -1096,10 +1123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-faith-chapel-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-faith-chapel-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-at-the-butte-elephant-butte",
@@ -1125,10 +1153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.14868,
+"lon": -107.18475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-at-the-butte-elephant-butte-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-at-the-butte-elephant-butte-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-christ-at-25th-and-hawaii-alamogordo",
@@ -1154,10 +1183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.89953,
+"lon": -105.96027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-christ-at-25th-and-hawaii-alamogordo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-christ-at-25th-and-hawaii-alamogordo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-christ-bosque-farms-bosque-farms",
@@ -1183,10 +1213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.85478,
+"lon": -106.7053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-christ-bosque-farms-bosque-farms-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-christ-bosque-farms-bosque-farms-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-triumphant-dona-ana",
@@ -1212,10 +1243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.38954,
+"lon": -106.8139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-triumphant-dona-ana-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-triumphant-dona-ana-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cimarron-united-methodist-church-cimarron",
@@ -1241,10 +1273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51087,
+"lon": -104.91583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cimarron-united-methodist-church-cimarron-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cimarron-united-methodist-church-cimarron-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "city-on-a-hill-albuquerque",
@@ -1270,10 +1303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/city-on-a-hill-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/city-on-a-hill-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-of-joy-lutheran-church-corrales",
@@ -1299,10 +1333,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.23782,
+"lon": -106.60669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-joy-lutheran-church-corrales-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-of-joy-lutheran-church-corrales-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "conchas-baptist-mission-conchas-dam",
@@ -1357,10 +1392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cope-memorial-chapel-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cope-memorial-chapel-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corona-united-presbyterian-church-corona",
@@ -1415,10 +1451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.23782,
+"lon": -106.60669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corrales-seventh-day-adventist-church-corrales-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corrales-seventh-day-adventist-church-corrales-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crossroads-of-albuquerque-embudo",
@@ -1473,10 +1510,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.70261,
+"lon": -103.13604,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crosswinds-community-church-hobbs-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crosswinds-community-church-hobbs-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crouch-mesa-baptist-church-flora-vista",
@@ -1502,10 +1540,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.79445,
+"lon": -108.08035,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crouch-mesa-baptist-church-flora-vista-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crouch-mesa-baptist-church-flora-vista-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "datil-first-baptist-church-datil",
@@ -1589,10 +1628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.16863,
+"lon": -114.26495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dayspring-missionary-baptist-church-bluewater-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dayspring-missionary-baptist-church-bluewater-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "del-norte-baptist-church-albuquerque",
@@ -1618,10 +1658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/del-norte-baptist-church-albuquerque-nm-estados-unidos-23673"
+"fuente_url": "https://encuentraiglesias.com/iglesia/del-norte-baptist-church-albuquerque-nm-estados-unidos-23673",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "deming-first-assembly-of-god-deming",
@@ -1647,10 +1688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.2687,
+"lon": -107.75864,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/deming-first-assembly-of-god-deming-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/deming-first-assembly-of-god-deming-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "deming-seventh-day-adventist-church-deming",
@@ -1676,10 +1718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.2687,
+"lon": -107.75864,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/deming-seventh-day-adventist-church-deming-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/deming-seventh-day-adventist-church-deming-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "des-moines-first-baptist-church-des-moines",
@@ -1734,10 +1777,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5012,
+"lon": -106.92807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/desert-springs-lutheran-church-radium-springs-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/desert-springs-lutheran-church-radium-springs-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dulce-baptist-church-dulce",
@@ -1763,10 +1807,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.93362,
+"lon": -106.99893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dulce-baptist-church-dulce-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dulce-baptist-church-dulce-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-aztec-baptist-church-gallup",
@@ -1792,10 +1837,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.52808,
+"lon": -108.74258,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-aztec-baptist-church-gallup-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-aztec-baptist-church-gallup-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-gate-foursquare-church-la-mesa",
@@ -1821,10 +1867,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.12204,
+"lon": -106.70778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-gate-foursquare-church-la-mesa-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-gate-foursquare-church-la-mesa-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-mountain-seventh-day-adventist-church-edgewood",
@@ -1850,10 +1897,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.06144,
+"lon": -106.19141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-mountain-seventh-day-adventist-church-edgewood-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-mountain-seventh-day-adventist-church-edgewood-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastern-hills-baptist-church-albuquerque",
@@ -1879,10 +1927,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eastern-hills-baptist-church-albuquerque-nm-estados-unidos-21595"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eastern-hills-baptist-church-albuquerque-nm-estados-unidos-21595",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-calvario-united-methodist-church-las-cruces",
@@ -1908,10 +1957,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-united-methodist-church-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-united-methodist-church-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-pueblito-united-methodist-church-el-prado",
@@ -1966,10 +2016,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-rito-community-united-methodist-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-rito-community-united-methodist-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elida-united-methodist-church-elida",
@@ -1998,7 +2049,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elida-united-methodist-church-elida-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elida-united-methodist-church-elida-new-mexico",
+"geo_fuente": null
 },
 {
 "slug": "embudo-presbyterian-church-dixon",
@@ -2024,10 +2076,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.19863,
+"lon": -105.88863,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/embudo-presbyterian-church-dixon-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/embudo-presbyterian-church-dixon-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "estancia-united-methodist-church-estancia",
@@ -2053,10 +2106,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.75839,
+"lon": -106.05585,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/estancia-united-methodist-church-estancia-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/estancia-united-methodist-church-estancia-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eternity-alamogordo",
@@ -2082,10 +2136,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.89953,
+"lon": -105.96027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eternity-alamogordo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eternity-alamogordo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "expound-bible-church-bluewater",
@@ -2111,10 +2166,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.16863,
+"lon": -114.26495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/expound-bible-church-bluewater-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/expound-bible-church-bluewater-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fairacres-baptist-church-dona-ana",
@@ -2140,10 +2196,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.38954,
+"lon": -106.8139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fairacres-baptist-church-dona-ana-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fairacres-baptist-church-dona-ana-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-chapel-albuquerque",
@@ -2169,10 +2226,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-chapel-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-chapel-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-chapel-assembly-of-god-dona-ana",
@@ -2198,10 +2256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.38954,
+"lon": -106.8139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-chapel-assembly-of-god-dona-ana-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-chapel-assembly-of-god-dona-ana-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "family-worship-center-assembly-of-god-raton",
@@ -2227,10 +2286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.90336,
+"lon": -104.43915,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-worship-center-assembly-of-god-raton-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-worship-center-assembly-of-god-raton-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-hobbs-hobbs",
@@ -2256,10 +2316,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.70261,
+"lon": -103.13604,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-hobbs-hobbs-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-hobbs-hobbs-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-espanola-arroyo-seco",
@@ -2285,10 +2346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-espanola-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-espanola-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-jal-jal",
@@ -2314,10 +2376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.11318,
+"lon": -103.19351,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-jal-jal-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-jal-jal-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-los-lunas-buena-vista",
@@ -2372,10 +2435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.10755,
+"lon": -106.3728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-tijeras-cedar-crest-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-tijeras-cedar-crest-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-mission-des-moines",
@@ -2430,10 +2494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.94401,
+"lon": -103.34855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-church-of-lovington-lovington-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-church-of-lovington-lovington-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-methodist-church-south-artesia",
@@ -2459,10 +2524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.84233,
+"lon": -104.4033,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-church-south-artesia-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-methodist-church-south-artesia-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-spanish-fruit-avenue-baptist-church-albuquerque",
@@ -2488,10 +2554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-spanish-fruit-avenue-baptist-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-spanish-fruit-avenue-baptist-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "floral-chapel-albuquerque",
@@ -2517,10 +2584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/floral-chapel-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/floral-chapel-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "folsom-first-baptist-church-folsom",
@@ -2575,10 +2643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-of-life-apostolic-church-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fountain-of-life-apostolic-church-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "franciscan-friars-of-the-renewal-albuquerque",
@@ -2604,10 +2673,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/franciscan-friars-of-the-renewal-albuquerque-nm-estados-unidos-10033"
+"fuente_url": "https://encuentraiglesias.com/iglesia/franciscan-friars-of-the-renewal-albuquerque-nm-estados-unidos-10033",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "garfield-gospel-chapel-albuquerque",
@@ -2633,10 +2703,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/garfield-gospel-chapel-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/garfield-gospel-chapel-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gila-valley-baptist-church-cliff",
@@ -2691,10 +2762,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/girard-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/girard-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "glorieta-baptist-church-flora-vista",
@@ -2720,10 +2792,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.79445,
+"lon": -108.08035,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/glorieta-baptist-church-flora-vista-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/glorieta-baptist-church-flora-vista-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gospel-line-church-arenas-valley",
@@ -2749,10 +2822,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.79396,
+"lon": -108.18421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-line-church-arenas-valley-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-line-church-arenas-valley-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-covenant-church-las-cruces",
@@ -2778,10 +2852,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-covenant-church-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-covenant-church-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grady-baptist-church-grady",
@@ -2894,10 +2969,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hacienda-de-guru-ramdas-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hacienda-de-guru-ramdas-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-baptist-church-arroyo-hondo",
@@ -2952,10 +3028,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harwood-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harwood-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "healing-word-sanctuary-las-cruces",
@@ -2981,10 +3058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/healing-word-sanctuary-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/healing-word-sanctuary-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "heights-cumberland-presbyterian-church-albuquerque",
@@ -3010,10 +3088,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heights-cumberland-presbyterian-church-albuquerque-nm-estados-unidos-14058"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heights-cumberland-presbyterian-church-albuquerque-nm-estados-unidos-14058",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "high-country-seventh-day-adventist-church-pie-town",
@@ -3068,10 +3147,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hoffmantown-church-albuquerque-nm-estados-unidos-1233"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hoffmantown-church-albuquerque-nm-estados-unidos-1233",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-buena-vista",
@@ -3155,10 +3235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-presbyterian-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/immanuel-presbyterian-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "inglesia-congregational-unida-albuquerque",
@@ -3184,10 +3265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/inglesia-congregational-unida-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/inglesia-congregational-unida-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "isglesia-de-jesucristo-apostolica-berino",
@@ -3213,10 +3295,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.07093,
+"lon": -106.62138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/isglesia-de-jesucristo-apostolica-berino-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/isglesia-de-jesucristo-apostolica-berino-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jemez-springs-prebyterian-church-jemez-springs",
@@ -3300,10 +3383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-saves-trinity-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-saves-trinity-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kirtland-air-force-base-chapel",
@@ -3358,10 +3442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-united-methodist-church-in-albuquerque-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-united-methodist-church-in-albuquerque-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-capilla-de-nacimiento-del-nino-dios-church-arroyo-seco",
@@ -3387,10 +3472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-capilla-de-nacimiento-del-nino-dios-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-capilla-de-nacimiento-del-nino-dios-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-huerta-baptist-church-carlsbad",
@@ -3416,10 +3502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.42067,
+"lon": -104.22884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-huerta-baptist-church-carlsbad-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-huerta-baptist-church-carlsbad-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-purisema-church-berino",
@@ -3445,10 +3532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.07093,
+"lon": -106.62138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-purisema-church-berino-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-purisema-church-berino-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-villita-church-alcalde",
@@ -3532,10 +3620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.30698,
+"lon": -106.42475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-placitas-presbytarian-church-placitas-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-placitas-presbytarian-church-placitas-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "las-vegas-bilingual-church-las-vegas",
@@ -3561,10 +3650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.59393,
+"lon": -105.2239,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-vegas-bilingual-church-las-vegas-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-vegas-bilingual-church-las-vegas-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-waters-assembly-of-god-las-cruces",
@@ -3590,10 +3680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-waters-assembly-of-god-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-waters-assembly-of-god-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-word-church-coyote",
@@ -3648,10 +3739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.36533,
+"lon": -103.41079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/logan-assembly-of-god-church-logan-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/logan-assembly-of-god-church-logan-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "methodist-episcopal-church-artesia",
@@ -3677,10 +3769,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.84233,
+"lon": -104.4033,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-artesia-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-artesia-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-hispano-del-norte-baptist-church-albuquerque",
@@ -3706,10 +3799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-hispano-del-norte-baptist-church-albuquerque-nm-estados-unidos-23672"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-hispano-del-norte-baptist-church-albuquerque-nm-estados-unidos-23672",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-liberando-al-cautivo-arroyo-hondo",
@@ -3764,10 +3858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.07093,
+"lon": -106.62138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mission-betel-berino-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mission-betel-berino-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mission-lutheran-church-las-cruces",
@@ -3793,10 +3888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mission-lutheran-church-las-cruces-nm-estados-unidos-13110"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mission-lutheran-church-las-cruces-nm-estados-unidos-13110",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monterey-baptist-church-albuquerque",
@@ -3822,10 +3918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monterey-baptist-church-albuquerque-nm-estados-unidos-23267"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monterey-baptist-church-albuquerque-nm-estados-unidos-23267",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mora-valley-community-baptist-cleveland",
@@ -3880,10 +3977,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/morning-star-a-united-methodist-comunity-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/morning-star-a-united-methodist-comunity-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-carmel-chapel-arroyo-seco",
@@ -3909,10 +4007,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-carmel-chapel-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-carmel-chapel-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-united-methodist-tijeras",
@@ -3938,10 +4037,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08088,
+"lon": -106.38808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-united-methodist-tijeras-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-united-methodist-tijeras-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountainside-united-methodist-church-cedar-crest",
@@ -3967,10 +4067,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.10755,
+"lon": -106.3728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountainside-united-methodist-church-cedar-crest-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountainside-united-methodist-church-cedar-crest-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountainview-mission-bernalillo",
@@ -3996,10 +4097,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.30004,
+"lon": -106.55114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountainview-mission-bernalillo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountainview-mission-bernalillo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nara-vista-assembly-of-god-nara-visa",
@@ -4054,10 +4156,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.89953,
+"lon": -105.96027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-covenant-worship-center-alamogordo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-covenant-worship-center-alamogordo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-creation-in-christ-ministries-arroyo-seco",
@@ -4083,10 +4186,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-creation-in-christ-ministries-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-creation-in-christ-ministries-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "newcomb-assembly-of-god-newcomb",
@@ -4141,10 +4245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northeast-church-of-christ-albuquerque-nm-estados-unidos-19415"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northeast-church-of-christ-albuquerque-nm-estados-unidos-19415",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nueva-vida-spanish-assembly-of-god-llano",
@@ -4170,10 +4275,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 30.75935,
+"lon": -98.67504,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-vida-spanish-assembly-of-god-llano-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nueva-vida-spanish-assembly-of-god-llano-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviour-lutheran-church-alamogordo",
@@ -4199,10 +4305,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.89953,
+"lon": -105.96027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviour-lutheran-church-alamogordo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviour-lutheran-church-alamogordo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peralta-memorial-united-methodist-church-bosque-farms",
@@ -4228,10 +4335,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.85478,
+"lon": -106.7053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peralta-memorial-united-methodist-church-bosque-farms-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peralta-memorial-united-methodist-church-bosque-farms-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "philathea-seventh-day-adventist-church-las-cruces",
@@ -4257,10 +4365,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/philathea-seventh-day-adventist-church-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/philathea-seventh-day-adventist-church-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phillips-chapel-christian-methodist-episcopal-church-las-cruces",
@@ -4286,10 +4395,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-chapel-christian-methodist-episcopal-church-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/phillips-chapel-christian-methodist-episcopal-church-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pinon-canyon-movie-ranch-cedar-crest",
@@ -4315,10 +4425,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.10755,
+"lon": -106.3728,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pinon-canyon-movie-ranch-cedar-crest-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pinon-canyon-movie-ranch-cedar-crest-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "potters-house-buena-vista",
@@ -4373,10 +4484,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.18619,
+"lon": -103.3344,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-center-portales-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-center-portales-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbyterian-cuba",
@@ -4402,10 +4514,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.02224,
+"lon": -106.95837,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-cuba-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-cuba-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "principe-de-paz-apostolic-assembly-lovington",
@@ -4431,10 +4544,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.94401,
+"lon": -103.34855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/principe-de-paz-apostolic-assembly-lovington-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/principe-de-paz-apostolic-assembly-lovington-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "questa-church-of-christ-buena-vista",
@@ -4518,10 +4632,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/refuge-church-worship-center-albuquerque-nm-estados-unidos-10915"
+"fuente_url": "https://encuentraiglesias.com/iglesia/refuge-church-worship-center-albuquerque-nm-estados-unidos-10915",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "revival-center-of-santa-fe-arroyo-hondo",
@@ -4605,10 +4720,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.30004,
+"lon": -106.55114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rio-west-bernalillo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rio-west-bernalillo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-of-life-united-pentecostal-church-fairacres",
@@ -4634,10 +4750,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.30398,
+"lon": -106.84667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-united-pentecostal-church-fairacres-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-united-pentecostal-church-fairacres-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sagebrush-community-church-arroyo-hondo",
@@ -4692,10 +4809,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrew-presbyterian-church-albuquerque-nm-estados-unidos-14232"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrew-presbyterian-church-albuquerque-nm-estados-unidos-14232",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-anthony-church-albuquerque",
@@ -4721,10 +4839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-anthony-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-anthony-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-marks-on-the-mesa-episcopal-church-albuquerque",
@@ -4750,10 +4869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-marks-on-the-mesa-episcopal-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-marks-on-the-mesa-episcopal-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-phillips-episcopal-church-belen",
@@ -4779,10 +4899,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-phillips-episcopal-church-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-phillips-episcopal-church-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-antonio-church-bosque",
@@ -4895,10 +5016,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sandia-baptist-church-embudo",
@@ -4953,10 +5075,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sandia-presbyterian-church-albuquerque-nm-estados-unidos-19416"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sandia-presbyterian-church-albuquerque-nm-estados-unidos-19416",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sangre-de-cristo-chapel-arroyo-seco",
@@ -4982,10 +5105,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sangre-de-cristo-chapel-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sangre-de-cristo-chapel-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-cruz-united-methodist-church-arroyo-seco",
@@ -5011,10 +5135,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-united-methodist-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-united-methodist-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-fe-jewish-center-chabad-arroyo-seco",
@@ -5040,10 +5165,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-fe-jewish-center-chabad-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-fe-jewish-center-chabad-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-fe-marcy-park-seventh-day-adventist-church-arroyo-seco",
@@ -5069,10 +5195,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-fe-marcy-park-seventh-day-adventist-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-fe-marcy-park-seventh-day-adventist-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "scripture-baptist-church-dona-ana",
@@ -5098,10 +5225,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.38954,
+"lon": -106.8139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/scripture-baptist-church-dona-ana-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/scripture-baptist-church-dona-ana-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "segre-de-cristo-bosque-farms",
@@ -5127,10 +5255,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.85478,
+"lon": -106.7053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/segre-de-cristo-bosque-farms-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/segre-de-cristo-bosque-farms-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shalom-church-arroyo-hondo",
@@ -5185,10 +5314,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.5012,
+"lon": -106.92807,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sierra-church-of-christ-radium-springs-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sierra-church-of-christ-radium-springs-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sierra-vista-baptist-church-belen",
@@ -5214,10 +5344,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sierra-vista-baptist-church-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sierra-vista-baptist-church-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sonoma-springs-presbyterian-church-las-cruces",
@@ -5243,10 +5374,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.31232,
+"lon": -106.77834,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sonoma-springs-presbyterian-church-las-cruces-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sonoma-springs-presbyterian-church-las-cruces-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "soul-harvest-ministries-albuquerque",
@@ -5272,10 +5404,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/soul-harvest-ministries-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/soul-harvest-ministries-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spanish-assembly-of-god-church-arroyo-seco",
@@ -5301,10 +5434,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spanish-assembly-of-god-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spanish-assembly-of-god-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spanish-seventh-day-adventist-church-san-ysidro",
@@ -5330,10 +5464,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.35093,
+"lon": -106.81112,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spanish-seventh-day-adventist-church-san-ysidro-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spanish-seventh-day-adventist-church-san-ysidro-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-andrew-lutheran-bernalillo",
@@ -5359,10 +5494,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.30004,
+"lon": -106.55114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrew-lutheran-bernalillo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrew-lutheran-bernalillo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-anthony-church-bernalillo",
@@ -5388,10 +5524,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.30004,
+"lon": -106.55114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-anthony-church-bernalillo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-anthony-church-bernalillo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-bedes-arroyo-seco",
@@ -5417,10 +5554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-bedes-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-bedes-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-matthews-esiscopal-church-buena-vista",
@@ -5475,10 +5613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sta-few-nm-sda-church-arroyo-hondo",
@@ -5649,10 +5788,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.39437,
+"lon": -104.52491,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/temple-betal-assembly-of-god-roswell-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/temple-betal-assembly-of-god-roswell-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-betel-arroyo-seco",
@@ -5678,10 +5818,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-betel-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-betel-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-hermosa",
@@ -5736,10 +5877,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72806,
+"lon": -108.21869,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-sinai-assembly-of-god-farmington-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-sinai-assembly-of-god-farmington-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-first-baptist-church-of-moreno-valley-eagle-nest",
@@ -5794,10 +5936,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.85478,
+"lon": -106.7053,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-great-commission-church-bosque-farms-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-great-commission-church-bosque-farms-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-light-at-mission-viejo-arroyo-hondo",
@@ -5852,10 +5995,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.2687,
+"lon": -107.75864,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-methodist-tabernacle-deming-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-methodist-tabernacle-deming-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-potters-house-bluewater",
@@ -5881,10 +6025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.16863,
+"lon": -114.26495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-potters-house-bluewater-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-potters-house-bluewater-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-protestant-episcopal-church-of-the-holy-faith-of-saint-francis-of-assisi-arroyo-seco",
@@ -5910,10 +6055,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-protestant-episcopal-church-of-the-holy-faith-of-saint-francis-of-assisi-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-protestant-episcopal-church-of-the-holy-faith-of-saint-francis-of-assisi-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-united-church-of-los-alamos-broadview",
@@ -5942,7 +6088,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-united-church-of-los-alamos-broadview-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-united-church-of-los-alamos-broadview-new-mexico",
+"geo_fuente": null
 },
 {
 "slug": "the-worship-center-alamogordo",
@@ -5968,10 +6115,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.89953,
+"lon": -105.96027,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-worship-center-alamogordo-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-worship-center-alamogordo-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thoreau-church-of-god-bluewater",
@@ -5997,10 +6145,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.16863,
+"lon": -114.26495,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/thoreau-church-of-god-bluewater-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/thoreau-church-of-god-bluewater-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "timberline-church-aztec",
@@ -6026,10 +6175,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.82223,
+"lon": -107.99285,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/timberline-church-aztec-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/timberline-church-aztec-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "transport-for-christ-albuquerque",
@@ -6055,10 +6205,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/transport-for-christ-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/transport-for-christ-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-lutheran-church-elca-farmington",
@@ -6084,10 +6235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72806,
+"lon": -108.21869,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-elca-farmington-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-elca-farmington-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-on-the-hill-parish-broadview",
@@ -6116,7 +6268,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-on-the-hill-parish-broadview-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-on-the-hill-parish-broadview-new-mexico",
+"geo_fuente": null
 },
 {
 "slug": "trinity-presbyterian-cliff",
@@ -6174,7 +6327,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-church-of-los-alamos-broadview-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-church-of-los-alamos-broadview-new-mexico",
+"geo_fuente": null
 },
 {
 "slug": "unitarian-universalist-congregation-of-santa-fe-arroyo-seco",
@@ -6200,10 +6354,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-congregation-of-santa-fe-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-congregation-of-santa-fe-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-church-of-santa-fe-arroyo-hondo",
@@ -6258,10 +6413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 32.2687,
+"lon": -107.75864,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-pentecostal-churchfirst-baptist-church-deming-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-pentecostal-churchfirst-baptist-church-deming-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unity-of-albuquerque-and-rio-rancho-albuquerque",
@@ -6287,10 +6443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unity-of-albuquerque-and-rio-rancho-albuquerque-nm-estados-unidos-9699"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unity-of-albuquerque-and-rio-rancho-albuquerque-nm-estados-unidos-9699",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "university-heights-united-methodist-church-albuquerque",
@@ -6316,10 +6473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/university-heights-united-methodist-church-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/university-heights-united-methodist-church-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valencia-valley-church-of-the-nazarene-buena-vista",
@@ -6374,10 +6532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-bible-baptist-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-bible-baptist-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-view-united-methodist-church-arroyo-seco",
@@ -6403,10 +6562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.51669,
+"lon": -105.56918,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-view-united-methodist-church-arroyo-seco-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-view-united-methodist-church-arroyo-seco-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vally-baptist-chruch-belen",
@@ -6432,10 +6592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.66284,
+"lon": -106.77642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vally-baptist-chruch-belen-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vally-baptist-chruch-belen-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vertical-church-albuquerque",
@@ -6461,10 +6622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vertical-church-albuquerque-nm-estados-unidos-11864"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vertical-church-albuquerque-nm-estados-unidos-11864",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "victory-in-the-word-bloomfield",
@@ -6490,10 +6652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.71112,
+"lon": -107.98451,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/victory-in-the-word-bloomfield-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/victory-in-the-word-bloomfield-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vida-cristiana-arroyo-hondo",
@@ -6548,10 +6711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.08449,
+"lon": -106.65114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vietnamese-baptist-church-of-albuquerque-albuquerque-new-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vietnamese-baptist-church-of-albuquerque-albuquerque-new-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wesly-student-center",
@@ -6606,10 +6770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.82753,
+"lon": -106.20391,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/white-rock-presbyterian-church-white-rock-nm-estados-unidos-22857"
+"fuente_url": "https://encuentraiglesias.com/iglesia/white-rock-presbyterian-church-white-rock-nm-estados-unidos-22857",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zia-united-methodist-church-arroyo-hondo",

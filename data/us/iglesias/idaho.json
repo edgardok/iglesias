@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78602,
+"lon": -112.85444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/aberdeen-united-methodist-church-american-falls-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/aberdeen-united-methodist-church-american-falls-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anthem-friends-church-avery",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anthem-friends-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anthem-friends-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apastolic-faith-tabernacle-blackfoot",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.19047,
+"lon": -112.34498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apastolic-faith-tabernacle-blackfoot-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apastolic-faith-tabernacle-blackfoot-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "athol-baptist-athol",
@@ -197,10 +200,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.63657,
+"lon": -113.30028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-community-church-arco-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-community-church-arco-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blackfoot-calvary-bible-church-blackfoot",
@@ -226,10 +230,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.19047,
+"lon": -112.34498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blackfoot-calvary-bible-church-blackfoot-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blackfoot-calvary-bible-church-blackfoot-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blackfoot-christian-fellowship-blackfoot",
@@ -255,10 +260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.19047,
+"lon": -112.34498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blackfoot-christian-fellowship-blackfoot-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blackfoot-christian-fellowship-blackfoot-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blanchard-community-church-blanchard",
@@ -316,7 +322,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bliss-community-church-bliss-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bliss-community-church-bliss-idaho",
+"geo_fuente": null
 },
 {
 "slug": "boise-friends-church-banks",
@@ -342,10 +349,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boise-friends-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boise-friends-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boise-hare-krishna-temple-and-vedic-cultural-center-atlanta",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boise-unitarian-universalist-fellowship-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boise-unitarian-universalist-fellowship-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bruneau-community-church-bruneau",
@@ -545,10 +554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-lighthouse-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-lighthouse-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "candlelight-christian-fellowship-avery",
@@ -574,10 +584,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/candlelight-christian-fellowship-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/candlelight-christian-fellowship-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capital-seminary-banks",
@@ -603,10 +614,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capital-seminary-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capital-seminary-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "castle-hills-nazarene-church-atlanta",
@@ -690,10 +702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.67768,
+"lon": -116.78047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cda-adventist-church-coeur-d-alene-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cda-adventist-church-coeur-d-alene-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centennial-baptist-church-caldwell",
@@ -777,10 +790,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-valley-baptist-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-valley-baptist-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-faith-center-assembly-of-god-nampa",
@@ -806,10 +820,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.54072,
+"lon": -116.56346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christian-faith-center-assembly-of-god-nampa-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christian-faith-center-assembly-of-god-nampa-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christian-revival-center-atlanta",
@@ -893,10 +908,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-heights-baptist-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-heights-baptist-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "community-of-christ-atlanta",
@@ -980,10 +996,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.251,
+"lon": -116.96933,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-assembly-weiser-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cornerstone-assembly-weiser-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cross-of-christ-holbrook",
@@ -1038,10 +1055,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.67241,
+"lon": -111.91497,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crown-of-life-lutheran-church-rigby-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crown-of-life-lutheran-church-rigby-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dalton-gardens-church-of-christ-avery",
@@ -1067,10 +1085,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dalton-gardens-church-of-christ-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dalton-gardens-church-of-christ-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "deary-adventist-church-deary",
@@ -1096,10 +1115,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.79934,
+"lon": -116.55599,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/deary-adventist-church-deary-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/deary-adventist-church-deary-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "discovery-church-atlanta",
@@ -1183,10 +1203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.00167,
+"lon": -109.96355,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eagle-lifechurch-north-fork-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eagle-lifechurch-north-fork-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "edgemere-adventist-church-laclede",
@@ -1241,10 +1262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/engage-boise-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/engage-boise-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "epworth-chapel-on-the-green-atlanta",
@@ -1299,10 +1321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.8713,
+"lon": -112.44553,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-lutheran-church-of-the-good-sheperd-pocatello-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelical-lutheran-church-of-the-good-sheperd-pocatello-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-journey-church-caldwell",
@@ -1386,10 +1409,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/foothills-christian-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/foothills-christian-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "full-gospel-slavic-church-cobalt",
@@ -1473,10 +1497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.92655,
+"lon": -116.12237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grangeville-adventist-church-grangeville-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grangeville-adventist-church-grangeville-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grangeville-united-methodist-church-grangeville",
@@ -1502,10 +1527,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.92655,
+"lon": -116.12237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grangeville-united-methodist-church-grangeville-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grangeville-united-methodist-church-grangeville-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harrison-community-baptist-church-harrison",
@@ -1560,10 +1586,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hayden-bible-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hayden-bible-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hayden-lake-seventh-day-adventist-church-avery",
@@ -1589,10 +1616,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hayden-lake-seventh-day-adventist-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hayden-lake-seventh-day-adventist-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hill-city-church-atlanta",
@@ -1647,10 +1675,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93807,
+"lon": -99.56067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hillview-united-methodist-church-ellis-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hillview-united-methodist-church-ellis-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hyde-park-mennonite-fellowship-atlanta",
@@ -1763,10 +1792,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/journey-ministries-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/journey-ministries-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "king-of-glory-lutheran-church-boise",
@@ -1792,10 +1822,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.6135,
+"lon": -116.20345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-glory-lutheran-church-boise-id-estados-unidos-24262"
+"fuente_url": "https://encuentraiglesias.com/iglesia/king-of-glory-lutheran-church-boise-id-estados-unidos-24262",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kuna-baptist-church-cobalt",
@@ -1850,10 +1881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.49183,
+"lon": -116.42012,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kuna-united-methodist-church-kuna-id-estados-unidos-23928"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kuna-united-methodist-church-kuna-id-estados-unidos-23928",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-city-church-avery",
@@ -1879,10 +1911,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-city-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-city-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-hazel-bible-church-boise",
@@ -1908,10 +1941,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.6135,
+"lon": -116.20345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-hazel-bible-church-boise-id-estados-unidos-23947"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-hazel-bible-church-boise-id-estados-unidos-23947",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "legacy-life-church-banks",
@@ -1937,10 +1971,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-life-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-life-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "light-mission-pentecostal-church-atlanta",
@@ -1995,10 +2030,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.33518,
+"lon": -116.88851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-adventist-church-plummer-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-hope-adventist-church-plummer-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-hope-bible-church-eagle",
@@ -2082,10 +2118,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maple-street-community-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maple-street-community-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "marsing-assembly-of-god-marsing",
@@ -2111,10 +2148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.54544,
+"lon": -116.8132,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/marsing-assembly-of-god-marsing-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/marsing-assembly-of-god-marsing-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "meridian-seventh-day-adventist-banks",
@@ -2140,10 +2178,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/meridian-seventh-day-adventist-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/meridian-seventh-day-adventist-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "methodist-episcopal-church-donnelly",
@@ -2256,10 +2295,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.67768,
+"lon": -116.78047,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-lakes-bible-church-coeur-d-alene-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-lakes-bible-church-coeur-d-alene-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-view-church-of-the-brethren-ellis",
@@ -2285,10 +2325,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93807,
+"lon": -99.56067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-view-church-of-the-brethren-ellis-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mountain-view-church-of-the-brethren-ellis-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mountain-view-community-fellowship-atlanta",
@@ -2343,10 +2384,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.54072,
+"lon": -116.56346,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nampa-seventh-day-adventist-church-nampa-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nampa-seventh-day-adventist-church-nampa-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northstar-baptist-church-avery",
@@ -2372,10 +2414,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northstar-baptist-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northstar-baptist-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "one-place-church-avery",
@@ -2401,10 +2444,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/one-place-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/one-place-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "orofino-community-church-ahsahka",
@@ -2488,10 +2532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pierce-park-baptist-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pierce-park-baptist-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pioneer-bible-baptist-church-hansen",
@@ -2517,10 +2562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.53068,
+"lon": -114.30101,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pioneer-bible-baptist-church-hansen-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pioneer-bible-baptist-church-hansen-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "potters-house-christian-center-caldwell",
@@ -2633,10 +2679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.93807,
+"lon": -99.56067,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-church-ellis-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-church-ellis-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-of-life-christian-church-banks",
@@ -2662,10 +2709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-christian-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-of-life-christian-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "river-valley-church-atlanta",
@@ -2720,10 +2768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rivers-edge-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rivers-edge-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-buhl",
@@ -2807,10 +2856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.93602,
+"lon": -114.40588,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shoshone-united-methodist-church-shoshone-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shoshone-united-methodist-church-shoshone-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "spirit-lake-seventh-day-adventist-church-spirit-lake",
@@ -2865,10 +2915,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.31435,
+"lon": -116.56267,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-maries-adventist-church-saint-maries-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-maries-adventist-church-saint-maries-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-northwest-ministries-post-falls",
@@ -2894,10 +2945,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.71796,
+"lon": -116.95159,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-northwest-ministries-post-falls-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-northwest-ministries-post-falls-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "table-rock-church-avery",
@@ -2923,10 +2975,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/table-rock-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/table-rock-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-emanuel-asamblea-de-dios-american-falls",
@@ -2952,10 +3005,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78602,
+"lon": -112.85444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-emanuel-asamblea-de-dios-american-falls-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-emanuel-asamblea-de-dios-american-falls-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ten-mile-christian-church-banks",
@@ -2981,10 +3035,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.61872,
+"lon": -123.11428,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ten-mile-christian-church-banks-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ten-mile-christian-church-banks-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-church-in-boise-atlanta",
@@ -3097,10 +3152,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.72325,
+"lon": -111.11133,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-summit-driggs-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-summit-driggs-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-fellowship-church-atlanta",
@@ -3213,10 +3269,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/true-north-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/true-north-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "whitney-bible-church-avery",
@@ -3242,10 +3299,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.20436,
+"lon": -120.36992,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/whitney-bible-church-avery-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/whitney-bible-church-avery-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "willow-bay-baptist-church-american-falls",
@@ -3271,10 +3329,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.78602,
+"lon": -112.85444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/willow-bay-baptist-church-american-falls-idaho"
+"fuente_url": "https://encuentraiglesias.com/iglesia/willow-bay-baptist-church-american-falls-idaho",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wright-congregational-church-atlanta",

@@ -110,10 +110,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.47025,
+"lon": -71.52758,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-cerro-salaverry-socabaya-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-cerro-salaverry-socabaya-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-sotillo-vitor",
@@ -139,10 +140,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.46576,
+"lon": -71.93541,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-sotillo-vitor-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-sotillo-vitor-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-el-senor-de-los-milagros-majes",
@@ -284,10 +286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.39809,
+"lon": -71.51987,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-obrero-miraflores-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-obrero-miraflores-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-redentor-arequipa",
@@ -458,10 +461,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.25223,
+"lon": -71.67969,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-los-angeles-yura-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-los-angeles-yura-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-socabaya",
@@ -487,10 +491,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.47025,
+"lon": -71.52758,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-socabaya-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-socabaya-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-alborada-jose-luis-bustamante-y-rivero",
@@ -545,10 +550,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.43299,
+"lon": -71.49674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-la-cruz-del-calvario-paucarpata-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-la-cruz-del-calvario-paucarpata-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-monte-calvario-arequipa",
@@ -719,10 +725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.38305,
+"lon": -71.55086,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-chachani-cayma-arequipa-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-chachani-cayma-arequipa-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-characato-characato",
@@ -748,10 +755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.46874,
+"lon": -71.48411,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-characato-characato-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-characato-characato-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-alto-selva-alegre",
@@ -806,10 +814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.47025,
+"lon": -71.52758,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-socabaya-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-socabaya-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-compania-arequipa",
@@ -893,10 +902,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -17.10176,
+"lon": -71.9057,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-mejia-mejia-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-mejia-mejia-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-nueva-alborada-paucarpata",
@@ -922,10 +932,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.43299,
+"lon": -71.49674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nueva-alborada-paucarpata-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nueva-alborada-paucarpata-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-quequena-quequena",
@@ -951,10 +962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.5574,
+"lon": -71.45132,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-quequena-quequena-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-quequena-quequena-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-corazon-de-la-misericordia-de-jesus-cayma",
@@ -980,10 +992,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.38305,
+"lon": -71.55086,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-corazon-de-la-misericordia-de-jesus-cayma-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-corazon-de-la-misericordia-de-jesus-cayma-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-zamacola-cerro-colorado",
@@ -1096,10 +1109,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -17.02306,
+"lon": -72.01472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asambleo-de-dios-mollendo-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-asambleo-de-dios-mollendo-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-andres-avelino-caceres-cerro-colorado",
@@ -1183,10 +1197,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.38305,
+"lon": -71.55086,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-esperanza-enace-cayma-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-esperanza-enace-cayma-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-palabra-miel-arequipa",
@@ -1241,10 +1256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.45,
+"lon": -71.59,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pampas-nuevas-tiabaya-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-pampas-nuevas-tiabaya-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pio-diaz-lomas",
@@ -1328,10 +1344,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.43299,
+"lon": -71.49674,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-rosa-paucarpata-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-rosa-paucarpata-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santiago-apostol-tiabaya",
@@ -1357,10 +1374,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.45,
+"lon": -71.59,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-tiabaya-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santiago-apostol-tiabaya-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santo-toribio-de-mogrovejo-cerro-colorado",
@@ -1415,10 +1433,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.39919,
+"lon": -71.50262,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesias-atalaya-mariano-melgar-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesias-atalaya-mariano-melgar-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "inglesia-christiana-pentecostas-movimento-lomas",
@@ -1560,10 +1579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.38305,
+"lon": -71.55086,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/las-asambleas-de-dios-iglesia-cristiana-aliento-de-vida-chachani-cayma-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/las-asambleas-de-dios-iglesia-cristiana-aliento-de-vida-chachani-cayma-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-francisco-arequipa",
@@ -1676,10 +1696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.25223,
+"lon": -71.67969,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-maximiliano-kolbe-yura-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-maximiliano-kolbe-yura-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-maria-majes",
@@ -1821,10 +1842,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.38305,
+"lon": -71.55086,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-carmen-alto-cayma-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-carmen-alto-cayma-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-santiago-apostol-del-madrigal-madrigal",
@@ -1850,10 +1872,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.60804,
+"lon": -71.80793,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santiago-apostol-del-madrigal-madrigal-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santiago-apostol-del-madrigal-madrigal-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-san-juan-bautista-de-sibayo-sibayo",
@@ -1879,9 +1902,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.48657,
+"lon": -71.45738,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-bautista-de-sibayo-sibayo-arequipa"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-san-juan-bautista-de-sibayo-sibayo-arequipa",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

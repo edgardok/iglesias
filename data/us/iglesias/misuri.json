@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abundant-life-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "adrian-christian-church-adrian",
@@ -400,10 +401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.65983,
+"lon": -85.83163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anniston-christian-church-anniston-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anniston-christian-church-anniston-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anthem-church-columbia",
@@ -458,10 +460,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.65334,
+"lon": -94.34884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antioch-southern-baptist-church-harrisonville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antioch-southern-baptist-church-harrisonville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostalic-temple-birch-tree",
@@ -487,10 +490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99116,
+"lon": -91.49264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostalic-temple-birch-tree-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostalic-temple-birch-tree-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-church-of-jesus-christ-blackwell",
@@ -516,10 +520,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-church-of-jesus-christ-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolic-church-of-jesus-christ-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "apostolic-life-church-of-washington-dawn",
@@ -574,10 +579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.08505,
+"lon": -89.65536,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/apostolics-of-oran-upc-oran-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/apostolics-of-oran-upc-oran-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "arcadia-valley-united-methodist-church-arcadia",
@@ -661,10 +667,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.51445,
+"lon": -90.75152,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asbury-baptist-church-asbury-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asbury-baptist-church-asbury-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ascension-evangelical-lutheran-church-fletcher",
@@ -719,10 +726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.31533,
+"lon": -93.5852,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ash-grove-assembly-of-god-ash-grove-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ash-grove-assembly-of-god-ash-grove-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "atonement-lutheran-florissant",
@@ -748,10 +756,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78922,
+"lon": -90.32261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/atonement-lutheran-florissant-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/atonement-lutheran-florissant-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "august-gate-church-dutchtown",
@@ -922,10 +931,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beautiful-savior-lutheran-lcms-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beautiful-savior-lutheran-lcms-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "believers-chapel-bible-church-black",
@@ -1067,10 +1077,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beloved-community-united-methodist-church-saint-louis-mo-estados-unidos-40282"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beloved-community-united-methodist-church-saint-louis-mo-estados-unidos-40282",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "belton-assembly-of-god-belton",
@@ -1154,10 +1165,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.65334,
+"lon": -94.34884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berea-church-of-god-in-christ-harrisonville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berea-church-of-god-in-christ-harrisonville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berea-mennonite-church-birch-tree",
@@ -1183,10 +1195,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99116,
+"lon": -91.49264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berea-mennonite-church-birch-tree-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berea-mennonite-church-birch-tree-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berea-presbyterian-church-saint-louis",
@@ -1212,10 +1225,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berea-presbyterian-church-saint-louis-mo-estados-unidos-40548"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berea-presbyterian-church-saint-louis-mo-estados-unidos-40548",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berea-temple-international-church-dutchtown",
@@ -1357,10 +1371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-lutheran-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-lutheran-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethesda-temple-church-belleview",
@@ -1386,10 +1401,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-temple-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethesda-temple-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bismarck-church-of-god-bismarck",
@@ -1560,10 +1576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-assembly-blue-springs-mo-estados-unidos-37151"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-assembly-blue-springs-mo-estados-unidos-37151",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-springs-baptist-temple-blue-springs",
@@ -1589,10 +1606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-baptist-temple-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-baptist-temple-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-springs-christian-church-blue-springs",
@@ -1618,10 +1636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-christian-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-christian-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-springs-church-of-christ-blue-springs",
@@ -1647,10 +1666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-church-of-christ-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-church-of-christ-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-springs-church-of-the-nazarene-blue-springs",
@@ -1676,10 +1696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-church-of-the-nazarene-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-springs-church-of-the-nazarene-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bnai-el-congregation-brownwood",
@@ -1705,10 +1726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bnai-el-congregation-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bnai-el-congregation-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bolivar-first-assembly-of-god-bolivar",
@@ -1792,10 +1814,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/branson-bible-church-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/branson-bible-church-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "branson-christian-church-disciples-of-christ-branson",
@@ -1821,10 +1844,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/branson-christian-church-disciples-of-christ-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/branson-christian-church-disciples-of-christ-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "branson-hills-church-branson",
@@ -1850,10 +1874,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/branson-hills-church-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/branson-hills-church-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "branson-united-methodist-church-branson",
@@ -1879,10 +1904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/branson-united-methodist-church-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/branson-united-methodist-church-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brighton-baptist-church-brighton",
@@ -1937,10 +1963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.85242,
+"lon": -92.68962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brookdale-presbyterian-church-cook-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brookdale-presbyterian-church-cook-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brookdale-student-ministry-center-cook",
@@ -1966,10 +1993,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.85242,
+"lon": -92.68962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brookdale-student-ministry-center-cook-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brookdale-student-ministry-center-cook-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brooking-heights-baptist-church-high-point",
@@ -2056,7 +2084,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/browning-methodist-church-browning-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/browning-methodist-church-browning-missouri",
+"geo_fuente": null
 },
 {
 "slug": "bruner-church-bruner",
@@ -2256,10 +2285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.25417,
+"lon": -97.68555,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/burr-oak-church-skidmore-mo-estados-unidos-50702"
+"fuente_url": "https://encuentraiglesias.com/iglesia/burr-oak-church-skidmore-mo-estados-unidos-50702",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "byers-avenue-united-methodist-church-joplin",
@@ -2285,10 +2315,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.08423,
+"lon": -94.51328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/byers-avenue-united-methodist-church-joplin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/byers-avenue-united-methodist-church-joplin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cabool-christian-church-cabool",
@@ -2314,10 +2345,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.12394,
+"lon": -92.10127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cabool-christian-church-cabool-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cabool-christian-church-cabool-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cabool-second-baptist-church-cabool",
@@ -2343,10 +2375,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.12394,
+"lon": -92.10127,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cabool-second-baptist-church-cabool-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cabool-second-baptist-church-cabool-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cadet-baptist-church-cadet",
@@ -2575,10 +2608,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77978,
+"lon": -89.38563,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/campbell-united-methodist-church-east-prairie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/campbell-united-methodist-church-east-prairie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "campground-church-aldrich",
@@ -2662,10 +2696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.00809,
+"lon": -92.74463,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canopy-church-camdenton-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canopy-church-camdenton-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cape-girardeau-seventh-day-adventist-church-cape-girardeau",
@@ -2691,10 +2726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.30588,
+"lon": -89.51815,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cape-girardeau-seventh-day-adventist-church-cape-girardeau-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cape-girardeau-seventh-day-adventist-church-cape-girardeau-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capernaum-missionary-baptist-church-of-jesus-christ-blue-springs",
@@ -2720,10 +2756,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capernaum-missionary-baptist-church-of-jesus-christ-blue-springs-mo-estados-unidos-52459"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capernaum-missionary-baptist-church-of-jesus-christ-blue-springs-mo-estados-unidos-52459",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cavalry-lutheran-church-kansas-city",
@@ -2778,10 +2815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.34622,
+"lon": -74.28792,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-grove-church-robertsville-mo-estados-unidos-38058"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cedar-grove-church-robertsville-mo-estados-unidos-38058",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "celebration-community-blue-springs",
@@ -2807,10 +2845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/celebration-community-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/celebration-community-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-assembly-of-god-independence",
@@ -2923,10 +2962,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/central-seventh-day-adventist-saint-louis-mo-estados-unidos-40358"
+"fuente_url": "https://encuentraiglesias.com/iglesia/central-seventh-day-adventist-saint-louis-mo-estados-unidos-40358",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "central-webb-city-carterville",
@@ -3010,10 +3050,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chapel-hill-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chapel-of-the-cross-black",
@@ -3071,7 +3112,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cherubim-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cherubim-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "chesterfield-presbyterian-church-ballwin",
@@ -3097,10 +3139,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chesterfield-presbyterian-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chesterfield-presbyterian-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-community-united-methodist-church-gibson",
@@ -3242,10 +3285,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-memorial-baptist-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-memorial-baptist-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-pilgrim-rest-missionary-baptist-church-eugene",
@@ -3274,7 +3318,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-pilgrim-rest-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-pilgrim-rest-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "christ-refuge-community-church-belton",
@@ -3445,10 +3490,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.05914,
+"lon": -92.31768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christy-memorial-united-methodist-church-new-hampton-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christy-memorial-united-methodist-church-new-hampton-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-god-holiness-columbia",
@@ -3503,10 +3549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-invisible-pink-unicorn-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-invisible-pink-unicorn-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-living-god-temple-number-1-belleview",
@@ -3532,10 +3579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-living-god-temple-number-1-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-living-god-temple-number-1-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-nazarene-north-county-black",
@@ -3590,10 +3638,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-open-word-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-open-word-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-reformation-lutheran-church-fletcher",
@@ -3648,10 +3697,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-resurrection-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-resurrection-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "city-on-a-hill-church-arnold",
@@ -3706,10 +3756,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80839,
+"lon": -82.97546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/clara-church-bucyrus-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/clara-church-bucyrus-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "coleman-wright-christian-methodist-episcopal-church-green-castle",
@@ -3764,10 +3815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/community-prayer-garden-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/community-prayer-garden-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "conerstone-church-blue-springs",
@@ -3793,10 +3845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/conerstone-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/conerstone-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corinth-general-church-black",
@@ -3880,10 +3933,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cote-brilliante-presbyterian-church-saint-louis-mo-estados-unidos-40337"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cote-brilliante-presbyterian-church-saint-louis-mo-estados-unidos-40337",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "country-club-united-methodist-church-kansas-city",
@@ -3967,10 +4021,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86,
+"lon": -90.17985,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-grace-mineral-point-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-grace-mineral-point-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "covenant-life-church-branson",
@@ -3996,10 +4051,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-life-church-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/covenant-life-church-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cravens-chapel-butler",
@@ -4112,10 +4168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/curby-memorial-presbyterian-church-saint-louis-mo-estados-unidos-40233"
+"fuente_url": "https://encuentraiglesias.com/iglesia/curby-memorial-presbyterian-church-saint-louis-mo-estados-unidos-40233",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "curryville-baptist-church-curryville",
@@ -4199,10 +4256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/daar-ul-islam-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/daar-ul-islam-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dearborn-united-methodist-church-dearborn",
@@ -4460,10 +4518,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/duncan-road-baptist-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/duncan-road-baptist-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dwight-mcdaniels-ministerial-center-black",
@@ -4518,10 +4577,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ecclesia-of-christ-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ecclesia-of-christ-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-faro-assembly-of-god-oak-grove",
@@ -4576,10 +4636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.16672,
+"lon": -90.78096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elsberry-united-methodist-church-elsberry-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elsberry-united-methodist-church-elsberry-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emerson-street-church-of-god-kennett",
@@ -4605,10 +4666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.23618,
+"lon": -90.05565,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emerson-street-church-of-god-kennett-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emerson-street-church-of-god-kennett-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emery-church-bucyrus",
@@ -4634,10 +4696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.80839,
+"lon": -82.97546,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emery-church-bucyrus-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emery-church-bucyrus-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanuel-missionary-church-butler",
@@ -4721,10 +4784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-temple-church-of-god-of-apostolic-faith-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanuel-temple-church-of-god-of-apostolic-faith-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "encounter-church-arnold",
@@ -4808,10 +4872,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42055,
+"lon": -88.34093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eureka-united-methodist-church-allenton-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eureka-united-methodist-church-allenton-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "evangelical-united-church-of-christ-boonville",
@@ -4895,10 +4960,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-and-des-peres-presbyterian-church-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-and-des-peres-presbyterian-church-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-church-st-louis-bridgeton",
@@ -4982,10 +5048,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19475,
+"lon": -92.58325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-evangelical-lutheran-church-of-kirksville-kirksville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-evangelical-lutheran-church-of-kirksville-kirksville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-miracle-temple-black",
@@ -5272,10 +5339,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ballwin-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ballwin-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-bates-city-bates-city",
@@ -5533,10 +5601,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ellisville-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-ellisville-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-ferguson-earth-city",
@@ -5591,10 +5660,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.65334,
+"lon": -94.34884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-harrisonville-harrisonville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-harrisonville-harrisonville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-kirksville-kirksville",
@@ -5620,10 +5690,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19475,
+"lon": -92.58325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-kirksville-kirksville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-kirksville-kirksville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-lees-summit-blackwell",
@@ -5649,10 +5720,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-lees-summit-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-lees-summit-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-maplewood-belleview",
@@ -5678,10 +5750,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-maplewood-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-maplewood-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-plattsburg-clinton",
@@ -5794,10 +5867,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78922,
+"lon": -90.32261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-christian-church-florissant-mo-estados-unidos-45123"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-christian-church-florissant-mo-estados-unidos-45123",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-christian-church-of-boonville-boonville",
@@ -5852,10 +5926,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-christ-scientist-of-creve-coeur-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-christ-scientist-of-creve-coeur-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-church-of-christ-scientist-of-overland-belleview",
@@ -5881,10 +5956,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-christ-scientist-of-overland-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-of-christ-scientist-of-overland-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-congregational-methodist-west-plains",
@@ -5910,10 +5986,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72812,
+"lon": -91.85237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-methodist-west-plains-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-methodist-west-plains-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-general-baptist-church-cape-girardeau",
@@ -5939,10 +6016,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.30588,
+"lon": -89.51815,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-general-baptist-church-cape-girardeau-mo-estados-unidos-46801"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-general-baptist-church-cape-girardeau-mo-estados-unidos-46801",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-ferguson-earth-city",
@@ -6026,10 +6104,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3673,
+"lon": -78.79141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-warrensburg-south-fork-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-warrensburg-south-fork-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-ship-of-zion-non-denominational-church-belleview",
@@ -6055,10 +6134,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-ship-of-zion-non-denominational-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-ship-of-zion-non-denominational-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-church-alexandria",
@@ -6113,10 +6193,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-blue-springs-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-blue-springs-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-rolla-powell",
@@ -6200,10 +6281,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78922,
+"lon": -90.32261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/florissant-general-baptist-church-florissant-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/florissant-general-baptist-church-florissant-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "foley-baptist-church-foley",
@@ -6490,10 +6572,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-christian-church-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gateway-christian-church-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gateway-to-the-high-country-cowboy-church-clark",
@@ -6548,10 +6631,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.31533,
+"lon": -93.5852,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gentral-church-ash-grove-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gentral-church-ash-grove-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gibson-heights-united-presbyterian-church-forest-city",
@@ -6780,10 +6864,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-church-of-saint-louis-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-church-of-saint-louis-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-christian-church-blue-springs",
@@ -6809,10 +6894,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-christian-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-christian-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-church-centralia",
@@ -6867,10 +6953,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.30588,
+"lon": -89.51815,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-lutheran-chapel-cape-girardeau-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-lutheran-chapel-cape-girardeau-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-united-methodist-church-gladstone-campus-gladstone",
@@ -7041,10 +7128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.62727,
+"lon": -90.19789,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-and-peace-fellowship-st-louis-mo-estados-unidos-34864"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-and-peace-fellowship-st-louis-mo-estados-unidos-34864",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-assembly-of-god-kansas-city",
@@ -7157,10 +7245,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-assembly-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-community-assembly-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-free-will-baptist-church-arnold",
@@ -7273,10 +7362,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-church-of-pagedale-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-lutheran-church-of-pagedale-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-luthern-church-missouri-synod-de-soto",
@@ -7360,10 +7450,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.74616,
+"lon": -90.65401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-pca-cottleville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-pca-cottleville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-united-methodist-buffalo",
@@ -7418,10 +7509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-unlimited-missionary-baptist-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-unlimited-missionary-baptist-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "graceland-new-testament-church-camden",
@@ -7505,10 +7597,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.65983,
+"lon": -85.83163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gravel-ridge-church-anniston-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gravel-ridge-church-anniston-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-bethlehem-missionary-baptist-church-center",
@@ -7595,7 +7688,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-mount-carmel-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-mount-carmel-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "greater-rising-star-missionary-baptist-church-center",
@@ -7650,10 +7744,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/greater-saint-paul-missionary-baptist-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/greater-saint-paul-missionary-baptist-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greater-union-missionary-baptist-church-center",
@@ -7737,10 +7832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.95829,
+"lon": -94.7947,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gunter-church-butterfield-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gunter-church-butterfield-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hale-baptist-church-hale",
@@ -7853,10 +7949,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19475,
+"lon": -92.58325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hamilton-street-baptist-church-kirksville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hamilton-street-baptist-church-kirksville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hamlin-memorial-baptist-church-clifton-hill",
@@ -7969,10 +8066,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.92311,
+"lon": -90.5554,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/happy-grove-church-of-god-bonne-terre-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/happy-grove-church-of-god-bonne-terre-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "happy-home-church-ava",
@@ -8027,10 +8125,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.65334,
+"lon": -94.34884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harrisonville-united-methodist-church-harrisonville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harrisonville-united-methodist-church-harrisonville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hartsburg-baptist-church-hartsburg",
@@ -8085,10 +8184,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-baptist-church-blue-springs-mo-estados-unidos-36939"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harvest-baptist-church-blue-springs-mo-estados-unidos-36939",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harvest-community-church-avilla",
@@ -8201,10 +8301,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19475,
+"lon": -92.58325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hazel-creek-free-will-baptist-church-kirksville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hazel-creek-free-will-baptist-church-kirksville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hazelwood-baptish-church-bridgeton",
@@ -8288,10 +8389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/heartland-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/heartland-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "highway-assembly-church-brighton",
@@ -8346,10 +8448,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/holy-hill-baptist-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/holy-hill-baptist-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "house-of-deliverance-pentecostal-church-belleview",
@@ -8375,10 +8478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-deliverance-pentecostal-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-deliverance-pentecostal-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hugo-church-bethel",
@@ -8462,10 +8566,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42055,
+"lon": -88.34093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ignite-church-allenton-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ignite-church-allenton-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-united-church-of-christ-wright-city",
@@ -8520,10 +8625,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/impact-ministry-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/impact-ministry-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "independence-ebenezer-spanish-seventh-day-adventist-church-dawn",
@@ -8636,10 +8742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jamison-memorial-christian-methodist-episcopal-church-saint-louis-mo-estados-unidos-40177"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jamison-memorial-christian-methodist-episcopal-church-saint-louis-mo-estados-unidos-40177",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jennings-church-belleview",
@@ -8665,10 +8772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jennings-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jennings-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesus-name-apostolic-united-pentecostal-church-mill-spring",
@@ -8723,10 +8831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3673,
+"lon": -78.79141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-saves-pentecostal-church-south-fork-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jesus-saves-pentecostal-church-south-fork-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "joplin-first-church-joplin",
@@ -8752,10 +8861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.08423,
+"lon": -94.51328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/joplin-first-church-joplin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/joplin-first-church-joplin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "junction-hill-pentecostal-church-west-plains",
@@ -8781,10 +8891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72812,
+"lon": -91.85237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/junction-hill-pentecostal-church-west-plains-mo-estados-unidos-39755"
+"fuente_url": "https://encuentraiglesias.com/iglesia/junction-hill-pentecostal-church-west-plains-mo-estados-unidos-39755",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kirksville-first-united-methodist-church-kirksville",
@@ -8810,10 +8921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.19475,
+"lon": -92.58325,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kirksville-first-united-methodist-church-kirksville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kirksville-first-united-methodist-church-kirksville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-methodist-church-of-saint-louis-maryland-heights",
@@ -8839,10 +8951,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.71311,
+"lon": -90.42984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-methodist-church-of-saint-louis-maryland-heights-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-methodist-church-of-saint-louis-maryland-heights-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-presbyterian-church-of-saint-louis-brownwood",
@@ -8868,10 +8981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-saint-louis-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-saint-louis-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-rose-church-bruner",
@@ -8955,10 +9069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ladue-chapel-presbyterian-church-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ladue-chapel-presbyterian-church-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lady-of-perpetual-help-church-beulah",
@@ -9013,10 +9128,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lafayette-church-of-christ-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lafayette-church-of-christ-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lakeview-pentecostal-church-blue-springs",
@@ -9042,10 +9158,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lakeview-pentecostal-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lakeview-pentecostal-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lane-avenue-baptist-church-high-point",
@@ -9100,10 +9217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lane-tabernacle-christian-methodist-episcopal-church-saint-louis-mo-estados-unidos-42480"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lane-tabernacle-christian-methodist-episcopal-church-saint-louis-mo-estados-unidos-42480",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "last-days-apostolic-church-saint-elizabeth",
@@ -9216,10 +9334,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-christian-church-lees-summit-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/legacy-christian-church-lees-summit-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "life-christian-center-blackwell",
@@ -9245,10 +9364,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-christian-center-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-christian-center-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "life-church-st-louis-ballwin",
@@ -9274,10 +9394,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-church-st-louis-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-church-st-louis-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "life-of-jericho-baptist-church-eugene",
@@ -9306,7 +9427,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-of-jericho-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-of-jericho-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "life-tabernacle-pentecostal-church-kansas-city",
@@ -9361,10 +9483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lifepoint-crossing-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lifepoint-crossing-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lifepoint-of-west-plains-west-plains",
@@ -9390,10 +9513,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.72812,
+"lon": -91.85237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lifepoint-of-west-plains-west-plains-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lifepoint-of-west-plains-west-plains-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "light-of-christ-apostolic-church-boonville",
@@ -9535,10 +9659,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.48978,
+"lon": -90.8168,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-united-pentacostal-church-gray-summit-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lighthouse-united-pentacostal-church-gray-summit-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lindenwood-baptist-church-fletcher",
@@ -9593,10 +9718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77978,
+"lon": -89.38563,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/little-bonne-femme-baptist-church-east-prairie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/little-bonne-femme-baptist-church-east-prairie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "little-dump-church-broseley",
@@ -9680,10 +9806,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.95829,
+"lon": -94.7947,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/log-church-butterfield-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/log-church-butterfield-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lone-hill-church-black",
@@ -9799,7 +9926,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lovejoy-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lovejoy-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "lutesville-general-baptist-church-glenallen",
@@ -9854,10 +9982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.30589,
+"lon": -89.97038,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutesville-presbyterian-church-marble-hill-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutesville-presbyterian-church-marble-hill-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-of-webster-gardens-green-city",
@@ -9883,10 +10012,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26863,
+"lon": -92.95326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-webster-gardens-green-city-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-webster-gardens-green-city-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "malachi-missionary-baptist-church-high-point",
@@ -9941,10 +10071,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/manchester-united-methodist-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/manchester-united-methodist-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "manger-of-bethlehem-church-birch-tree",
@@ -9970,10 +10101,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99116,
+"lon": -91.49264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/manger-of-bethlehem-church-birch-tree-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/manger-of-bethlehem-church-birch-tree-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "manna-fellowship-church-allendale",
@@ -10057,10 +10189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26863,
+"lon": -92.95326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/martin-luther-evangelical-lutheran-church-green-city-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/martin-luther-evangelical-lutheran-church-green-city-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mary-mother-of-the-church-parish-hall-arnold",
@@ -10173,10 +10306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78922,
+"lon": -90.32261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/memorial-tabernacle-christian-life-center-florissant-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/memorial-tabernacle-christian-life-center-florissant-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mercy-seat-baptist-church-center",
@@ -10376,10 +10510,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/miracle-temple-church-of-god-and-christ-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/miracle-temple-church-of-god-and-christ-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "missouri-united-methodist-church-columbia",
@@ -10434,10 +10569,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 35.87563,
+"lon": -89.39618,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/missouri-valley-baptist-church-halls-mo-estados-unidos-26787"
+"fuente_url": "https://encuentraiglesias.com/iglesia/missouri-valley-baptist-church-halls-mo-estados-unidos-26787",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "morgan-street-baptist-church-boonville",
@@ -10550,10 +10686,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-air-church-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-air-church-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-airy-missionary-baptist-church-eugene",
@@ -10582,7 +10719,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-airy-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-airy-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "mount-branson-christian-church-branson",
@@ -10608,10 +10746,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-branson-christian-church-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-branson-christian-church-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mount-esther-baptist-church-eugene",
@@ -10640,7 +10779,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mount-esther-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mount-esther-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "mount-sinai-chapel-barnard",
@@ -10782,10 +10922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.00809,
+"lon": -92.74463,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/myetta-church-camdenton-mo-estados-unidos-19448"
+"fuente_url": "https://encuentraiglesias.com/iglesia/myetta-church-camdenton-mo-estados-unidos-19448",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "n-hwy-73-church-of-christ-buffalo",
@@ -10840,10 +10981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/nazareth-temple-church-of-god-in-christ-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/nazareth-temple-church-of-god-in-christ-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "neighborhood-chapel-branson",
@@ -10869,10 +11011,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/neighborhood-chapel-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/neighborhood-chapel-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "nelson-memorial-united-methodist-church-boonville",
@@ -10956,10 +11099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-fellowship-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-fellowship-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginnings-lutheran-church-gray-summit",
@@ -10985,10 +11129,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.48978,
+"lon": -90.8168,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-lutheran-church-gray-summit-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-lutheran-church-gray-summit-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-cote-brilliante-church-of-god-mc-gee",
@@ -11072,10 +11217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-good-hope-baptist-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-good-hope-baptist-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-hope-church-cottleville",
@@ -11101,10 +11247,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.74616,
+"lon": -90.65401,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-church-cottleville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-hope-church-cottleville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-horizons-church-belton",
@@ -11275,10 +11422,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.97859,
+"lon": -76.49184,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-peace-and-harmony-church-annapolis-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-peace-and-harmony-church-annapolis-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-sunnymount-missionary-baptist-church-eugene",
@@ -11307,7 +11455,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-sunnymount-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-sunnymount-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "norborne-united-methodist-church-norborne",
@@ -11333,10 +11482,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.30252,
+"lon": -93.67744,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/norborne-united-methodist-church-norborne-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/norborne-united-methodist-church-norborne-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "norfleet-baptist-church-high-point",
@@ -11565,10 +11715,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.72727,
+"lon": -90.38317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northside-fellowship-assembly-of-god-church-saint-ann-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northside-fellowship-assembly-of-god-church-saint-ann-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oak-bridge-community-church-arnold",
@@ -11681,10 +11832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77978,
+"lon": -89.38563,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oak-hill-freewill-baptist-church-east-prairie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oak-hill-freewill-baptist-church-east-prairie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "odessa-first-united-methodist-church-odessa",
@@ -11974,7 +12126,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/original-friendship-missionary-baptist-church-eugene-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/original-friendship-missionary-baptist-church-eugene-missouri",
+"geo_fuente": null
 },
 {
 "slug": "our-savior-luthern-church-harrisonville",
@@ -12000,10 +12153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.65334,
+"lon": -94.34884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-luthern-church-harrisonville-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-savior-luthern-church-harrisonville-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "overland-church-of-christ-belleview",
@@ -12029,10 +12183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/overland-church-of-christ-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/overland-church-of-christ-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ozark-chapel-united-methodist-church-laurie",
@@ -12058,10 +12213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.1992,
+"lon": -92.83352,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ozark-chapel-united-methodist-church-laurie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ozark-chapel-united-methodist-church-laurie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ozark-church-anderson",
@@ -12116,10 +12272,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.95203,
+"lon": -76.45967,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pacific-assembly-of-god-catawissa-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pacific-assembly-of-god-catawissa-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pacific-united-methodist-church-pacific",
@@ -12174,10 +12331,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77978,
+"lon": -89.38563,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/park-crest-baptist-church-east-prairie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/park-crest-baptist-church-east-prairie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parkview-community-of-chirst-church-blue-springs",
@@ -12203,10 +12361,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkview-community-of-chirst-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkview-community-of-chirst-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parkway-united-church-of-christ-brownwood",
@@ -12232,10 +12391,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/parkway-united-church-of-christ-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/parkway-united-church-of-christ-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "parrish-temple-christian-methodist-church-mound-city",
@@ -12348,10 +12508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.03117,
+"lon": -111.58263,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peninsula-church-blackwater-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peninsula-church-blackwater-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentacostal-assembly-of-nevada-nevada",
@@ -12493,10 +12654,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-community-christian-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-community-christian-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "phillipsburg-united-methodist-phillipsburg",
@@ -12551,10 +12713,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-congregational-united-church-of-christ-saint-louis-mo-estados-unidos-37642"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-congregational-united-church-of-christ-saint-louis-mo-estados-unidos-37642",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pillsbury-chapeldale-williams-fine-arts-center-brownwood",
@@ -12580,10 +12743,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pillsbury-chapeldale-williams-fine-arts-center-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pillsbury-chapeldale-williams-fine-arts-center-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pine-lawn-glen-echo-baptist-church-belleview",
@@ -12609,10 +12773,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pine-lawn-glen-echo-baptist-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pine-lawn-glen-echo-baptist-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pioneer-baptist-church-birch-tree",
@@ -12638,10 +12803,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.99116,
+"lon": -91.49264,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pioneer-baptist-church-birch-tree-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pioneer-baptist-church-birch-tree-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "plaza-heights-baptist-church-christian-academy-blue-springs",
@@ -12667,10 +12833,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/plaza-heights-baptist-church-christian-academy-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/plaza-heights-baptist-church-christian-academy-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pointe-of-hope-church-blue-springs",
@@ -12696,10 +12863,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pointe-of-hope-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pointe-of-hope-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prairie-lee-church-blackwell",
@@ -12725,10 +12893,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-lee-church-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-lee-church-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prairie-presbyterian-church-revere",
@@ -12757,7 +12926,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-presbyterian-church-revere-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/prairie-presbyterian-church-revere-missouri",
+"geo_fuente": null
 },
 {
 "slug": "presbyterian-church-of-memphis-memphis",
@@ -12812,10 +12982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.72727,
+"lon": -90.38317,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-overland-saint-ann-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/presbyterian-church-of-overland-saint-ann-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prince-of-peace-pentecostal-church-garden-city",
@@ -12870,10 +13041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 33.65983,
+"lon": -85.83163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pulltight-church-anniston-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pulltight-church-anniston-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "radiant-love-church-arnold",
@@ -12957,10 +13129,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/reachout-missionary-baptist-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/reachout-missionary-baptist-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "red-bridge-united-methodist-kansas-city",
@@ -13015,10 +13188,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/redemption-center-church-of-god-in-christ-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/redemption-center-church-of-god-in-christ-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rejoice-free-will-baptist-church-columbia",
@@ -13102,10 +13276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/remnant-church-of-jesus-christ-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/remnant-church-of-jesus-christ-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "republic-assembly-of-god-republic",
@@ -13450,10 +13625,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.34422,
+"lon": -90.39345,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rock-church-barnhart-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rock-church-barnhart-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rock-house-church-camdenton",
@@ -13479,10 +13655,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.00809,
+"lon": -92.74463,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rock-house-church-camdenton-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rock-house-church-camdenton-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rockford-church-bosworth",
@@ -13624,10 +13801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-adalbert-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-adalbert-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-catherine-of-sienna-church-belleview",
@@ -13653,10 +13831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-catherine-of-sienna-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-catherine-of-sienna-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-charles-presbyterian-church-earth-city",
@@ -13711,10 +13890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-clement-church-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-clement-church-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-douglas-primitive-bapist-church-belleview",
@@ -13740,10 +13920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-douglas-primitive-bapist-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-douglas-primitive-bapist-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-ferdinand-baptist-church-dawn",
@@ -13798,10 +13979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.74283,
+"lon": -90.49762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-francois-missionary-baptist-church-doe-run-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-francois-missionary-baptist-church-doe-run-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-ame-church-earth-city",
@@ -13943,10 +14125,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-louis-eck-center-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-louis-eck-center-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-louis-southside-seventh-day-adventist-church-green-city",
@@ -13972,10 +14155,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26863,
+"lon": -92.95326,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-louis-southside-seventh-day-adventist-church-green-city-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-louis-southside-seventh-day-adventist-church-green-city-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-lucas-evangelical-lutheran-church-dutchtown",
@@ -14088,10 +14272,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mark-united-presbyterian-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-mark-united-presbyterian-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-matthew-lutheran-church-missouri-synod-belleview",
@@ -14117,10 +14302,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-matthew-lutheran-church-missouri-synod-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-matthew-lutheran-church-missouri-synod-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-matthews-african-methodist-episcopal-zion-church-santa-fe",
@@ -14204,10 +14390,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.85242,
+"lon": -92.68962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-cook-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-paul-cook-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-paul-lutheran-church-missouri-synod-union",
@@ -14262,10 +14449,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-evangelical-church-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-evangelical-church-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-pauls-lutheran-church-of-des-peres-brownwood",
@@ -14291,10 +14479,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-lutheran-church-of-des-peres-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-lutheran-church-of-des-peres-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-peter-united-methodist-church-blue-springs",
@@ -14320,10 +14509,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-peter-united-methodist-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-peter-united-methodist-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-peters-united-church-of-christ-belleview",
@@ -14349,10 +14539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-peters-united-church-of-christ-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-peters-united-church-of-christ-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-philips-evangelical-lutheran-church-center",
@@ -14407,10 +14598,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salem-in-ballwin-united-methodist-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salem-in-ballwin-united-methodist-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salem-united-methodist-church-in-ladue-brownwood",
@@ -14436,10 +14628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salem-united-methodist-church-in-ladue-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salem-united-methodist-church-in-ladue-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "samaritan-united-methodist-church-center",
@@ -14552,10 +14745,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.19058,
+"lon": -94.02939,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/schnurbusch-church-appleton-city-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/schnurbusch-church-appleton-city-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "scruggs-memorial-cme-church-center",
@@ -14610,10 +14804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 37.08423,
+"lon": -94.51328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-assembly-of-god-church-joplin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-assembly-of-god-church-joplin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sedalia-tabernacle-church-sedalia",
@@ -14726,10 +14921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77978,
+"lon": -89.38563,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seminole-baptist-temple-east-prairie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seminole-baptist-temple-east-prairie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senate-grove-church-berger",
@@ -14784,10 +14980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/shaare-emeth-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/shaare-emeth-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shalom-church-city-of-peace-black",
@@ -14900,10 +15097,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sisters-of-mercy-convent-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sisters-of-mercy-convent-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "slater-assembly-of-god-church-slater",
@@ -14987,10 +15185,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/slavic-baptist-of-ballwin-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/slavic-baptist-of-ballwin-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "souls-harbor-assembly-of-god-jackson",
@@ -15045,10 +15244,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/souls-harbor-church-of-god-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/souls-harbor-church-of-god-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-broadland-presbyterian-church-kansas-city",
@@ -15132,10 +15332,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.26983,
+"lon": -74.79988,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-haven-baptist-church-ewing-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-haven-baptist-church-ewing-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southern-mission-missionary-baptist-church-earth-city",
@@ -15219,10 +15420,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/southside-church-of-christ-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/southside-church-of-christ-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southside-first-baptist-church-kansas-city",
@@ -15306,10 +15508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spiritual-pathways-center-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spiritual-pathways-center-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "springhill-baptist-church-springfield",
@@ -15364,10 +15567,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-louis-chinese-gospel-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-louis-chinese-gospel-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-louis-korean-grace-church-of-nazarene-ballwin",
@@ -15393,10 +15597,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-louis-korean-grace-church-of-nazarene-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-louis-korean-grace-church-of-nazarene-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-evangelical-lutheran-church-mc-gee",
@@ -15451,10 +15656,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.83106,
+"lon": -94.59774,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-mary-magdalene-episcopal-church-loch-lloyd-mo-estados-unidos-26175"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-mary-magdalene-episcopal-church-loch-lloyd-mo-estados-unidos-26175",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-matthews-lutheran-church-blackwell",
@@ -15480,10 +15686,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-matthews-lutheran-church-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-matthews-lutheran-church-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-paul-a-m-e-church-columbia",
@@ -15538,10 +15745,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.80195,
+"lon": -94.45273,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-umc-raymore-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-umc-raymore-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-stephen-umc-troy",
@@ -15596,10 +15804,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stephan-memorial-united-methodist-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stephan-memorial-united-methodist-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stering-acres-baptist-church-dawn",
@@ -15683,10 +15892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.66894,
+"lon": -89.9687,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sugar-tree-church-bernie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sugar-tree-church-bernie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "summit-woods-baptist-church-blackwell",
@@ -15712,10 +15922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.80448,
+"lon": -97.28282,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/summit-woods-baptist-church-blackwell-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/summit-woods-baptist-church-blackwell-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sunnydale-seventh-day-adventist-church-centralia",
@@ -15828,10 +16039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.78922,
+"lon": -90.32261,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tabernacle-of-faith-and-deliverance-florissant-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tabernacle-of-faith-and-deliverance-florissant-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "taiwanese-presbyterian-church-ballwin",
@@ -15857,10 +16069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/taiwanese-presbyterian-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/taiwanese-presbyterian-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "talmage-community-church-aurora",
@@ -16002,10 +16215,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-cenacle-retreat-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-cenacle-retreat-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-gathering-baptist-church-dawn",
@@ -16060,10 +16274,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59255,
+"lon": -90.35734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-gathering-webster-webster-groves-mo-estados-unidos-40704"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-gathering-webster-webster-groves-mo-estados-unidos-40704",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-journey-west-county-ballwin",
@@ -16089,10 +16304,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-journey-west-county-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-journey-west-county-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-porch-allendale",
@@ -16176,10 +16392,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-temple-non-denominational-church-black",
@@ -16234,10 +16451,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/third-episcopal-district-christian-methodist-episcopal-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/third-episcopal-district-christian-methodist-episcopal-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thomas-chapel-belgrade",
@@ -16321,10 +16539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/timothy-lutheran-church-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/timothy-lutheran-church-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tower-of-light-church-alba",
@@ -16408,10 +16627,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 31.70932,
+"lon": -98.99116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/traditional-congregation-brownwood-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/traditional-congregation-brownwood-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "transfiguration-lutheran-church-saint-louis",
@@ -16437,10 +16657,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/transfiguration-lutheran-church-saint-louis-mo-estados-unidos-37482"
+"fuente_url": "https://encuentraiglesias.com/iglesia/transfiguration-lutheran-church-saint-louis-mo-estados-unidos-37482",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tri-lakes-christian-church-branson",
@@ -16466,10 +16687,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tri-lakes-christian-church-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tri-lakes-christian-church-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-christian-center-assembly-of-god-church-fletcher",
@@ -16611,10 +16833,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.47255,
+"lon": -90.8868,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-seventh-day-adventist-church-villa-ridge-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-seventh-day-adventist-church-villa-ridge-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "true-gospel-church-of-god-black",
@@ -16698,10 +16921,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/twin-oaks-presbyterian-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/twin-oaks-presbyterian-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-assembly-of-god-east-prairie",
@@ -16727,10 +16951,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.77978,
+"lon": -89.38563,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-assembly-of-god-east-prairie-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-assembly-of-god-east-prairie-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-avenue-christian-church-saint-louis",
@@ -16756,10 +16981,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-avenue-christian-church-saint-louis-mo-estados-unidos-37640"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-avenue-christian-church-saint-louis-mo-estados-unidos-37640",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-sinai-missionary-baptist-church-center",
@@ -16814,10 +17040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.01695,
+"lon": -94.28161,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-the-resurrection-blue-springs-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-church-of-the-resurrection-blue-springs-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-park-united-methodist-church-eagle-rock",
@@ -17046,10 +17273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.61857,
+"lon": -95.53772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/village-lutheran-church-in-ladue-missouri-city-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/village-lutheran-church-in-ladue-missouri-city-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "virginia-street-baptist-church-carrollton",
@@ -17162,10 +17390,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.3673,
+"lon": -78.79141,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/warrensburg-cumberland-presbyterian-church-south-fork-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/warrensburg-cumberland-presbyterian-church-south-fork-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "washington-metropolitan-african-methodist-episcopal-zion-church-center",
@@ -17249,10 +17478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59255,
+"lon": -90.35734,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/webster-united-methodist-webster-groves-mo-estados-unidos-28640"
+"fuente_url": "https://encuentraiglesias.com/iglesia/webster-united-methodist-webster-groves-mo-estados-unidos-28640",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wellspring-babtist-fellowship-bolivar",
@@ -17365,10 +17595,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.40836,
+"lon": -84.60667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-presbyterian-church-saint-louis-mo-estados-unidos-40401"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-presbyterian-church-saint-louis-mo-estados-unidos-40401",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-springs-church-ballwin",
@@ -17394,10 +17625,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 38.59505,
+"lon": -90.54623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-springs-church-ballwin-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-springs-church-ballwin-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "weston-united-methodist-church-weston",
@@ -17539,10 +17771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 36.64367,
+"lon": -93.21851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/williams-memorial-chapel-branson-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/williams-memorial-chapel-branson-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "woodlands-heights-presbyterian-church-clifton-hill",
@@ -17626,10 +17859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.05526,
+"lon": -82.06231,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-faith-foursquare-church-belleview-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/word-of-faith-foursquare-church-belleview-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "worsley-church-bronaugh",
@@ -17684,10 +17918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.85242,
+"lon": -92.68962,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wyatt-park-baptist-church-cook-missouri"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wyatt-park-baptist-church-cook-missouri",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-lutheran-church-harvester-saint-charles",

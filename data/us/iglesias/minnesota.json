@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.62163,
+"lon": -94.20694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/abounding-joy-lutheran-church-lcmcnalc-sartell-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/abounding-joy-lutheran-church-lcmcnalc-sartell-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "adrian-united-methodist-church-adrian",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.63497,
+"lon": -95.9328,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/adrian-united-methodist-church-adrian-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/adrian-united-methodist-church-adrian-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "alma-lutheran-church-argyle",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.33276,
+"lon": -96.82089,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alma-lutheran-church-argyle-mn-estados-unidos-26200"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alma-lutheran-church-argyle-mn-estados-unidos-26200",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ascension-dilworth",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87663,
+"lon": -96.70341,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ascension-dilworth-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ascension-dilworth-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assumption-church-barnesville",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.65218,
+"lon": -96.41979,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assumption-church-barnesville-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assumption-church-barnesville-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "berea-lutheran-church-alexandria",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.88524,
+"lon": -95.37754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berea-lutheran-church-alexandria-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berea-lutheran-church-alexandria-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethany-lutheran-church-arco",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.63657,
+"lon": -113.30028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-lutheran-church-arco-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethany-lutheran-church-arco-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethlehem-lutheran-church",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.33246,
+"lon": -93.74608,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bridgeview-church-big-lake-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bridgeview-church-big-lake-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-chapel-fergus-falls-fergus-falls",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.28302,
+"lon": -96.07756,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-fergus-falls-fergus-falls-mn-estados-unidos-28651"
+"fuente_url": "https://encuentraiglesias.com/iglesia/calvary-chapel-fergus-falls-fergus-falls-mn-estados-unidos-28651",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chatfield-lutheran-church-chatfield",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.84552,
+"lon": -92.18905,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chatfield-lutheran-church-chatfield-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chatfield-lutheran-church-chatfield-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comstock-lutheran-church-comstock",
@@ -371,10 +381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.64801,
+"lon": -93.36827,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crossroads-evangelical-free-church-albert-lea-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crossroads-evangelical-free-church-albert-lea-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dar-al-farooq-audubon",
@@ -400,10 +411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.86329,
+"lon": -95.98172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dar-al-farooq-audubon-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dar-al-farooq-audubon-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "detroit-lakes-united-methodist-detroit-lakes",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.81718,
+"lon": -95.84533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/detroit-lakes-united-methodist-detroit-lakes-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/detroit-lakes-united-methodist-detroit-lakes-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dovre-lutheran-church-winger",
@@ -516,10 +529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.15302,
+"lon": -95.32892,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elmo-lutheran-church-parkers-prairie-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elmo-lutheran-church-parkers-prairie-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "family-of-god-east-grand-forks",
@@ -545,10 +559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.92998,
+"lon": -97.02452,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-of-god-east-grand-forks-mn-estados-unidos-26772"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-of-god-east-grand-forks-mn-estados-unidos-26772",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-lutheran-church-audubon",
@@ -574,10 +589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.86329,
+"lon": -95.98172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-lutheran-church-audubon-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-lutheran-church-audubon-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-lutheran-church-elca-moorhead",
@@ -603,10 +619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87386,
+"lon": -96.76951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-lutheran-church-elca-moorhead-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-lutheran-church-elca-moorhead-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-presbyterian-church-of-moorhead-moorhead",
@@ -632,10 +649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87386,
+"lon": -96.76951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-moorhead-moorhead-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-presbyterian-church-of-moorhead-moorhead-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-appleton",
@@ -661,10 +679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.19691,
+"lon": -96.01977,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-appleton-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-appleton-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fisher-lutheran-church-fisher",
@@ -690,10 +709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.31476,
+"lon": -88.35005,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fisher-lutheran-church-fisher-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fisher-lutheran-church-fisher-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "giving-and-grace-christian-center-audubon",
@@ -719,10 +739,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.86329,
+"lon": -95.98172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/giving-and-grace-christian-center-audubon-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/giving-and-grace-christian-center-audubon-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepherd-lutheran-church-school-burnsville",
@@ -748,10 +769,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.76774,
+"lon": -93.27772,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-lutheran-church-school-burnsville-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepherd-lutheran-church-school-burnsville-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gospel-tabernacle-karlstad",
@@ -777,10 +799,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.57748,
+"lon": -96.5206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-tabernacle-karlstad-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gospel-tabernacle-karlstad-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-church-of-alexandria-alexandria",
@@ -806,10 +829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.88524,
+"lon": -95.37754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-of-alexandria-alexandria-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-of-alexandria-alexandria-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grue-lutheran-church-eagle-lake",
@@ -835,10 +859,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.16497,
+"lon": -93.88134,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grue-lutheran-church-eagle-lake-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grue-lutheran-church-eagle-lake-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hosanna-lutheran-church-garden-city",
@@ -922,10 +947,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.88524,
+"lon": -95.37754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-prayer-church-international-alexandria-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/house-of-prayer-church-international-alexandria-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "humboldt-united-methodist-church-humboldt",
@@ -980,10 +1006,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87386,
+"lon": -96.76951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ignite-church-moorhead-mn-estados-unidos-30874"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ignite-church-moorhead-mn-estados-unidos-30874",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "immanuel-lutheran-church-bejou",
@@ -1067,10 +1094,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.84997,
+"lon": -96.39865,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jasper-evangelical-lutheran-church-jasper-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jasper-evangelical-lutheran-church-jasper-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "joy-christian-center-benedict",
@@ -1125,10 +1153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.57748,
+"lon": -96.5206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/karlstad-assembly-of-god-karlstad-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/karlstad-assembly-of-god-karlstad-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "karlstad-baptist-church-karlstad",
@@ -1154,10 +1183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.57748,
+"lon": -96.5206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/karlstad-baptist-church-karlstad-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/karlstad-baptist-church-karlstad-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kirkebo-lutheran-church-perley",
@@ -1241,10 +1271,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.44968,
+"lon": -92.2682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lake-park-lutheran-church-lake-city-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lake-park-lutheran-church-lake-city-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lake-sarah-lutheran-church-garvin",
@@ -1299,10 +1330,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.28302,
+"lon": -96.07756,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/life-church-fergus-falls-mn-estados-unidos-52415"
+"fuente_url": "https://encuentraiglesias.com/iglesia/life-church-fergus-falls-mn-estados-unidos-52415",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-water-assembly-brook-park",
@@ -1328,10 +1360,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.39838,
+"lon": -81.80458,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-assembly-brook-park-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-water-assembly-brook-park-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mapleridge-church-grove-city",
@@ -1357,10 +1390,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.15052,
+"lon": -94.68305,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mapleridge-church-grove-city-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mapleridge-church-grove-city-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "medo-lutheran-church-pemberton",
@@ -1386,10 +1420,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.97206,
+"lon": -74.68294,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/medo-lutheran-church-pemberton-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/medo-lutheran-church-pemberton-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "methodist-church-of-beltrami-beltrami",
@@ -1473,10 +1508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.39838,
+"lon": -81.80458,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mn-muslims-community-center-brook-park-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mn-muslims-community-center-brook-park-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "moorhead-baptist-church-dilworth",
@@ -1502,10 +1538,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87663,
+"lon": -96.70341,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/moorhead-baptist-church-dilworth-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/moorhead-baptist-church-dilworth-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mt-zion-churchmt-zion-church-bemidji",
@@ -1531,10 +1568,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.47356,
+"lon": -94.88028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mt-zion-churchmt-zion-church-bemidji-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mt-zion-churchmt-zion-church-bemidji-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "newport-lutheran-church-canyon",
@@ -1560,10 +1598,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 34.98033,
+"lon": -101.9188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newport-lutheran-church-canyon-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newport-lutheran-church-canyon-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-immanuel-lutheran-church-grove-city",
@@ -1589,10 +1628,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.15052,
+"lon": -94.68305,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-immanuel-lutheran-church-grove-city-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-immanuel-lutheran-church-grove-city-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "northfield-united-methodist-church-northfield",
@@ -1618,10 +1658,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.4583,
+"lon": -93.1616,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northfield-united-methodist-church-northfield-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northfield-united-methodist-church-northfield-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olivet-lutheran-church-moorhead",
@@ -1647,10 +1688,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87386,
+"lon": -96.76951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olivet-lutheran-church-moorhead-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olivet-lutheran-church-moorhead-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "open-doors-united-methodist-church-wells",
@@ -1676,10 +1718,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.74607,
+"lon": -93.72884,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/open-doors-united-methodist-church-wells-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/open-doors-united-methodist-church-wells-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviors-free-lutheran-church-argyle",
@@ -1705,10 +1748,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.33276,
+"lon": -96.82089,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-free-lutheran-church-argyle-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-free-lutheran-church-argyle-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviors-lutheran-church-aurora",
@@ -1734,10 +1778,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.52993,
+"lon": -92.23712,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-lutheran-church-aurora-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviors-lutheran-church-aurora-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviors-lutheran-church-of-ham-lake-bethel",
@@ -1792,10 +1837,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.50691,
+"lon": -92.90548,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-evangelical-lutheran-cannon-falls-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-evangelical-lutheran-cannon-falls-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "our-saviours-lutheran-church-argyle",
@@ -1821,10 +1867,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.33276,
+"lon": -96.82089,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-lutheran-church-argyle-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/our-saviours-lutheran-church-argyle-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peoples-church-bemidji",
@@ -1850,10 +1897,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.47356,
+"lon": -94.88028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-church-bemidji-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-church-bemidji-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "peoples-congregational-church-bayport",
@@ -1879,10 +1927,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.02136,
+"lon": -92.78104,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-congregational-church-bayport-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/peoples-congregational-church-bayport-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "petra-lutheran-church-school-wels-benedict",
@@ -1937,10 +1986,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.01579,
+"lon": -95.23862,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/raymond-christian-reformed-church-raymond-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/raymond-christian-reformed-church-raymond-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "red-river-seventh-day-adventist-church-elementary-school-moorhead",
@@ -1966,10 +2016,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.87386,
+"lon": -96.76951,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/red-river-seventh-day-adventist-church-elementary-school-moorhead-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/red-river-seventh-day-adventist-church-elementary-school-moorhead-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "resurrection-community-church-karlstad",
@@ -1995,10 +2046,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.57748,
+"lon": -96.5206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/resurrection-community-church-karlstad-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/resurrection-community-church-karlstad-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "resurrection-free-lutheran-church-beltrami",
@@ -2053,10 +2105,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.33427,
+"lon": -76.43941,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ringbo-emmanual-lutheran-church-middle-river-mn-estados-unidos-26236"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ringbo-emmanual-lutheran-church-middle-river-mn-estados-unidos-26236",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rivers-edge-christian-church-amboy",
@@ -2082,10 +2135,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.88801,
+"lon": -94.15663,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rivers-edge-christian-church-amboy-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rivers-edge-christian-church-amboy-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "riverside-luthern-church-wannaska",
@@ -2140,10 +2194,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9958,
+"lon": -92.87938,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rockpoint-church-lake-elmo-mn-estados-unidos-28720"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rockpoint-church-lake-elmo-mn-estados-unidos-28720",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-andrew-eden-prairie",
@@ -2169,10 +2224,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.85469,
+"lon": -93.47079,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrew-eden-prairie-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-andrew-eden-prairie-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-johns-lutheran-stewartville",
@@ -2198,10 +2254,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.85552,
+"lon": -92.48851,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-johns-lutheran-stewartville-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-johns-lutheran-stewartville-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-pauls-lutheran-church-lcms-osseo",
@@ -2227,10 +2284,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.11941,
+"lon": -93.40245,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-lutheran-church-lcms-osseo-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-lutheran-church-lcms-osseo-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-pauls-lutheran-church-wels-alexandria",
@@ -2256,10 +2314,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.88524,
+"lon": -95.37754,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-lutheran-church-wels-alexandria-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-lutheran-church-wels-alexandria-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saterdal-lutheran-church-thief-river-falls",
@@ -2285,10 +2344,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 48.11914,
+"lon": -96.18115,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saterdal-lutheran-church-thief-river-falls-mn-estados-unidos-26189"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saterdal-lutheran-church-thief-river-falls-mn-estados-unidos-26189",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "shelly-lutheran-church-shelly",
@@ -2343,10 +2403,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.2333,
+"lon": -95.87224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skandia-evangelical-church-balaton-mn-estados-unidos-52661"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skandia-evangelical-church-balaton-mn-estados-unidos-52661",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-andrews-great-hall-echo",
@@ -2375,7 +2436,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-great-hall-echo-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-great-hall-echo-minnesota",
+"geo_fuente": null
 },
 {
 "slug": "st-andrews-lutheran-church-sanctuary-echo",
@@ -2404,7 +2466,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-lutheran-church-sanctuary-echo-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-lutheran-church-sanctuary-echo-minnesota",
+"geo_fuente": null
 },
 {
 "slug": "st-andrews-lutheran-church-youth-family-echo",
@@ -2433,7 +2496,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-lutheran-church-youth-family-echo-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrews-lutheran-church-youth-family-echo-minnesota",
+"geo_fuente": null
 },
 {
 "slug": "st-bartholomews-church-bemidji",
@@ -2459,10 +2523,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.47356,
+"lon": -94.88028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-bartholomews-church-bemidji-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-bartholomews-church-bemidji-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-johns-lutheran-elca-dundas",
@@ -2488,10 +2553,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.42941,
+"lon": -93.20188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-elca-dundas-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-johns-lutheran-elca-dundas-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-marks-lutheran-church-bemidji",
@@ -2517,10 +2583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 47.47356,
+"lon": -94.88028,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-lutheran-church-bemidji-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-marks-lutheran-church-bemidji-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-matthews-lutheran-church-saint-charles",
@@ -2546,10 +2613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.96941,
+"lon": -92.06433,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-matthews-lutheran-church-saint-charles-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-matthews-lutheran-church-saint-charles-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-paul-lutheran-euclid",
@@ -2575,10 +2643,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.5931,
+"lon": -81.52679,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-lutheran-euclid-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-paul-lutheran-euclid-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-pauls-church-campbell",
@@ -2633,10 +2702,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.88801,
+"lon": -94.15663,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-church-amboy-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-church-amboy-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-pauls-lutheran-lake-city",
@@ -2662,10 +2732,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.44968,
+"lon": -92.2682,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-lake-city-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-pauls-lutheran-lake-city-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peters-a-m-e-church-minneapolis",
@@ -2691,10 +2762,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.97997,
+"lon": -93.26384,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-a-m-e-church-minneapolis-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-peters-a-m-e-church-minneapolis-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-peters-lutheran-mendota",
@@ -2749,10 +2821,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.86329,
+"lon": -95.98172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-redeemed-christian-church-of-god-audubon-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-redeemed-christian-church-of-god-audubon-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-lutheran-church-elca-detroit-lakes",
@@ -2778,10 +2851,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 46.81718,
+"lon": -95.84533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-elca-detroit-lakes-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-lutheran-church-elca-detroit-lakes-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "true-life-church-lake-george",
@@ -2807,10 +2881,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.42618,
+"lon": -73.71234,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/true-life-church-lake-george-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/true-life-church-lake-george-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-methodist-presbyterian-church-browns-valley",
@@ -2836,10 +2911,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.59524,
+"lon": -96.83341,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-presbyterian-church-browns-valley-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-methodist-presbyterian-church-browns-valley-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "valley-baptist-church-afton",
@@ -2865,10 +2941,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.90275,
+"lon": -92.78354,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/valley-baptist-church-afton-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/valley-baptist-church-afton-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vining-lutheran-church-vining",
@@ -2923,10 +3000,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.15052,
+"lon": -94.68305,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/woodbury-lutheran-church-wakota-ridge-campus-grove-city-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/woodbury-lutheran-church-wakota-ridge-campus-grove-city-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-lutheran-church-browns-valley",
@@ -2952,10 +3030,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.59524,
+"lon": -96.83341,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-browns-valley-minnesota"
+"fuente_url": "https://encuentraiglesias.com/iglesia/zion-lutheran-church-browns-valley-minnesota",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "zion-sarpsborg-free-lutheran-dalton",

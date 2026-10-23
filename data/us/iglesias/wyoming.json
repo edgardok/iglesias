@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.80276,
+"lon": -105.08748,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-community-church-arvada-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/arvada-community-church-arvada-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "baptist-community-church-afton",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.72493,
+"lon": -110.93187,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-community-church-afton-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/baptist-community-church-afton-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "calvary-church-gillette-beulah",
@@ -139,10 +141,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13998,
+"lon": -104.82025,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cheyenne-baptist-temple-cheyenne-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cheyenne-baptist-temple-cheyenne-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "christ-the-king-evangelical-lutheran-church-buffalo",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.34831,
+"lon": -106.69894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/christ-the-king-evangelical-lutheran-church-buffalo-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/christ-the-king-evangelical-lutheran-church-buffalo-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "church-of-the-resurrection-pinedale",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86661,
+"lon": -109.86099,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-resurrection-pinedale-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-resurrection-pinedale-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "deaver-united-mehodist-church-deaver",
@@ -255,10 +260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.06246,
+"lon": -104.18439,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-wyoming-united-presbyterian-church-torrington-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-wyoming-united-presbyterian-church-torrington-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-english-lutheran-church-pine-bluffs",
@@ -284,10 +290,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.18193,
+"lon": -104.06912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-english-lutheran-church-pine-bluffs-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-english-lutheran-church-pine-bluffs-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-mission-baptist-church-kaycee",
@@ -429,10 +436,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.86663,
+"lon": -106.31308,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/imitate-the-image-ministries-casper-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/imitate-the-image-ministries-casper-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "laramie-first-baptist-church-boulder",
@@ -490,7 +498,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/laramie-reformed-presbyterian-church-buford-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/laramie-reformed-presbyterian-church-buford-wyoming",
+"geo_fuente": null
 },
 {
 "slug": "laramie-valley-chapel-boulder",
@@ -574,10 +583,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.34831,
+"lon": -106.69894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-buffalo-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/methodist-episcopal-church-buffalo-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "morning-star-church-alpine",
@@ -603,10 +613,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.16353,
+"lon": -111.01802,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/morning-star-church-alpine-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/morning-star-church-alpine-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-day-family-church-beulah",
@@ -661,10 +672,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.29109,
+"lon": -105.50222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-wesleyan-gillette-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-life-wesleyan-gillette-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-testament-missionary-baptist-church-boulder",
@@ -719,10 +731,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.13998,
+"lon": -104.82025,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/northwoods-presbyterian-church-cheyenne-wy-estados-unidos-21413"
+"fuente_url": "https://encuentraiglesias.com/iglesia/northwoods-presbyterian-church-cheyenne-wy-estados-unidos-21413",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oregon-trail-baptist-church-guernsey",
@@ -748,10 +761,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.26969,
+"lon": -104.74163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-trail-baptist-church-guernsey-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oregon-trail-baptist-church-guernsey-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pine-bluffs-united-methodist-church-pine-bluffs",
@@ -777,10 +791,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.18193,
+"lon": -104.06912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pine-bluffs-united-methodist-church-pine-bluffs-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pine-bluffs-united-methodist-church-pine-bluffs-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "platte-valley-lutheran-church-saratoga",
@@ -806,10 +821,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.45496,
+"lon": -106.80643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/platte-valley-lutheran-church-saratoga-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/platte-valley-lutheran-church-saratoga-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "presbytarian-church-of-burns-burns",
@@ -893,10 +909,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 41.45496,
+"lon": -106.80643,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saratoga-presbyterian-saratoga-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saratoga-presbyterian-saratoga-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-andrews-lutheran-church-and-campus-center-boulder",
@@ -980,10 +997,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.06246,
+"lon": -104.18439,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/torrington-united-methodist-church-torrington-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/torrington-united-methodist-church-torrington-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-baptist-boulder",
@@ -1038,10 +1056,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.53828,
+"lon": -110.11432,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/truth-ministries-big-piney-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/truth-ministries-big-piney-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unitarian-universalist-fellowship-of-laramie-boulder",
@@ -1096,10 +1115,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.00635,
+"lon": -108.88235,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wind-river-lutheran-mission-fort-washakie-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wind-river-lutheran-mission-fort-washakie-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wyoming-presbyterian-church-centennial",
@@ -1125,9 +1145,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 39.57916,
+"lon": -104.87692,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wyoming-presbyterian-church-centennial-wyoming"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wyoming-presbyterian-church-centennial-wyoming",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

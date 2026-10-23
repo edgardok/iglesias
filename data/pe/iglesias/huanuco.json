@@ -168,10 +168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.13083,
+"lon": -76.20472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alianza-cristiana-y-misionera-ambo-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-alianza-cristiana-y-misionera-ambo-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-alianza-cristina-y-misionera-huanuco",
@@ -255,10 +256,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.82608,
+"lon": -76.13332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cascay-churubamba-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cascay-churubamba-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-churubamba-churubamba",
@@ -284,10 +286,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.82608,
+"lon": -76.13332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-churubamba-churubamba-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-churubamba-churubamba-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-huayopampa-amarilis",
@@ -371,10 +374,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.82608,
+"lon": -76.13332,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pacapucro-churubamba-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pacapucro-churubamba-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pachabamba-santa-maria-del-valle",
@@ -400,10 +404,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.86305,
+"lon": -76.16945,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pachabamba-santa-maria-del-valle-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pachabamba-santa-maria-del-valle-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-sebastian-de-shismay-amarilis",
@@ -458,10 +463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.8585,
+"lon": -76.60855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-las-asambleas-de-dios-de-peru-chavinillo-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-las-asambleas-de-dios-de-peru-chavinillo-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-amarilis",
@@ -516,10 +522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.13083,
+"lon": -76.20472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-ambo-ambo-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-ambo-ambo-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-rios-de-vida-rupa-rupa",
@@ -690,10 +697,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.16028,
+"lon": -76.23694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-arcangel-huacar-huanuco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-miguel-arcangel-huacar-huanuco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-huanuco",

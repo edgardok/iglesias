@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.61052,
+"lon": -13.92912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/2-iglesia-de-la-candelaria-la-oliva-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/2-iglesia-de-la-candelaria-la-oliva-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-saints-anglicana-episcopal-church-puerto-de-la-cruz",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.41686,
+"lon": -16.55085,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-saints-anglicana-episcopal-church-puerto-de-la-cruz-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-saints-anglicana-episcopal-church-puerto-de-la-cruz-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "antigua-iglesia-de-la-victoria-la-matanza-de-acentejo",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.45242,
+"lon": -16.4472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-iglesia-de-la-victoria-la-matanza-de-acentejo-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/antigua-iglesia-de-la-victoria-la-matanza-de-acentejo-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-anglicana-episcopala-las-palmas-de-gran-canaria",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-anglicana-episcopala-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-anglicana-episcopala-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cristo-de-tacoronte-vilaflor",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.15623,
+"lon": -16.63592,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-de-tacoronte-vilaflor-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cristo-de-tacoronte-vilaflor-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-cruz-de-la-casa-azul-puerto-de-la-cruz",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.41686,
+"lon": -16.55085,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cruz-de-la-casa-azul-puerto-de-la-cruz-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-cruz-de-la-casa-azul-puerto-de-la-cruz-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-santa-clara-vallehermoso",
@@ -200,7 +206,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-santa-clara-vallehermoso-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-santa-clara-vallehermoso-santa-cruz-de-tenerife",
+"geo_fuente": null
 },
 {
 "slug": "cruz-de-la-rebanada-la-orotava",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.39076,
+"lon": -16.52309,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-la-rebanada-la-orotava-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-la-rebanada-la-orotava-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-de-los-caidos-aguimes",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.90539,
+"lon": -15.44609,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-los-caidos-aguimes-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-los-caidos-aguimes-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-de-nunu-puerto-de-la-cruz",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.41686,
+"lon": -16.55085,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-nunu-puerto-de-la-cruz-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-de-nunu-puerto-de-la-cruz-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-del-dornajito-la-orotava",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.39076,
+"lon": -16.52309,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-del-dornajito-la-orotava-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-del-dornajito-la-orotava-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cruz-en-montana-tenisca-los-llanos-de-aridane",
@@ -342,10 +353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.65851,
+"lon": -17.91821,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-en-montana-tenisca-los-llanos-de-aridane-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cruz-en-montana-tenisca-los-llanos-de-aridane-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-calvario-de-san-luis-santa-ursula",
@@ -371,10 +383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.42613,
+"lon": -16.48876,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-de-san-luis-santa-ursula-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-calvario-de-san-luis-santa-ursula-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-cruz-del-chacho-la-guancha",
@@ -400,10 +413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.3732,
+"lon": -16.65158,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cruz-del-chacho-la-guancha-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cruz-del-chacho-la-guancha-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-cruz-del-tronco-icod-de-los-vinos",
@@ -429,10 +443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.37241,
+"lon": -16.71188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cruz-del-tronco-icod-de-los-vinos-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-cruz-del-tronco-icod-de-los-vinos-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-candelaria-del-lomo-la-orotava",
@@ -458,10 +473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.39076,
+"lon": -16.52309,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-candelaria-del-lomo-la-orotava-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-candelaria-del-lomo-la-orotava-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-don-jose-gregorio-hernandez-vallehermoso",
@@ -490,7 +506,8 @@
 "lat": null,
 "lon": null,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-don-jose-gregorio-hernandez-vallehermoso-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-don-jose-gregorio-hernandez-vallehermoso-santa-cruz-de-tenerife",
+"geo_fuente": null
 },
 {
 "slug": "ermita-de-la-encarnacion-adeje",
@@ -516,10 +533,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.12271,
+"lon": -16.726,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-encarnacion-adeje-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-encarnacion-adeje-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-la-resbala-la-victoria-de-acentejo",
@@ -545,10 +563,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.43231,
+"lon": -16.46232,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-resbala-la-victoria-de-acentejo-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-la-resbala-la-victoria-de-acentejo-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-las-rosas-el-rosario",
@@ -603,10 +622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.95678,
+"lon": -13.76535,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-marina-rubicon-yaiza-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-marina-rubicon-yaiza-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-diego-san-cristobal-de-la-laguna",
@@ -661,10 +681,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.39076,
+"lon": -16.52309,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-felipe-la-orotava-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-felipe-la-orotava-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-isidro-labrador-agulo",
@@ -690,10 +711,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.18778,
+"lon": -17.19678,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-isidro-labrador-agulo-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-isidro-labrador-agulo-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-san-leandro-teguise",
@@ -719,10 +741,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 29.06049,
+"lon": -13.56397,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-leandro-teguise-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-san-leandro-teguise-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-de-santiago-apostol-santa-cruz-de-tenerife",
@@ -748,10 +771,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.46824,
+"lon": -16.25462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santiago-apostol-santa-cruz-de-tenerife-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-de-santiago-apostol-santa-cruz-de-tenerife-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-del-socorro-brena-baja",
@@ -777,10 +801,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.63011,
+"lon": -17.78953,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-socorro-brena-baja-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-del-socorro-brena-baja-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-perez-diaz-la-victoria-de-acentejo",
@@ -806,10 +831,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.43231,
+"lon": -16.46232,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-perez-diaz-la-victoria-de-acentejo-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-perez-diaz-la-victoria-de-acentejo-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-juan-hermigua",
@@ -835,10 +861,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.16766,
+"lon": -17.19051,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-juan-hermigua-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-juan-hermigua-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermita-san-sebastian-santa-cruz-de-la-palma",
@@ -864,10 +891,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.68351,
+"lon": -17.76421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-sebastian-santa-cruz-de-la-palma-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ermita-san-sebastian-santa-cruz-de-la-palma-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ermitero-san-juan-san-cristobal-de-la-laguna",
@@ -922,10 +950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.11882,
+"lon": -16.57599,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/family-of-hope-granadilla-de-abona-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/family-of-hope-granadilla-de-abona-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ghe-pel-ling-canarias-adeje",
@@ -951,10 +980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.12271,
+"lon": -16.726,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ghe-pel-ling-canarias-adeje-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ghe-pel-ling-canarias-adeje-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ieanjesus-arrecife",
@@ -980,10 +1010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.96302,
+"lon": -13.54769,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ieanjesus-arrecife-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ieanjesus-arrecife-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-tenerife-sur-arona",
@@ -1009,10 +1040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.09962,
+"lon": -16.68102,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-tenerife-sur-arona-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-tenerife-sur-arona-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-christiana-evangelica-arrecife",
@@ -1038,10 +1070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.96302,
+"lon": -13.54769,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-christiana-evangelica-arrecife-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-christiana-evangelica-arrecife-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-christiana-evangelica-puerto-del-rosario",
@@ -1067,10 +1100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.50038,
+"lon": -13.86272,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-christiana-evangelica-puerto-del-rosario-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-christiana-evangelica-puerto-del-rosario-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-coreana-de-altavista-las-palmas-de-gran-canaria",
@@ -1096,10 +1130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-coreana-de-altavista-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-coreana-de-altavista-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-de-canarias-san-cristobal-de-la-laguna",
@@ -1154,10 +1189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.80628,
+"lon": -17.91578,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-el-hierro-valverde-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-de-el-hierro-valverde-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-santa-cruz-de-tenerife",
@@ -1183,10 +1219,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.46824,
+"lon": -16.25462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-santa-cruz-de-tenerife-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-santa-cruz-de-tenerife-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cueva-bermeja-santa-cruz-de-tenerife",
@@ -1212,10 +1249,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.46824,
+"lon": -16.25462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cueva-bermeja-santa-cruz-de-tenerife-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-cueva-bermeja-santa-cruz-de-tenerife-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-lasso-las-palmas-de-gran-canaria",
@@ -1241,10 +1279,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-lasso-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-lasso-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-hornos-del-rey-telde",
@@ -1270,10 +1309,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.99243,
+"lon": -15.41915,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-hornos-del-rey-telde-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-hornos-del-rey-telde-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-cruz-del-senor-puntallana",
@@ -1299,10 +1339,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.73333,
+"lon": -17.73333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-cruz-del-senor-puntallana-canarias"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-cruz-del-senor-puntallana-canarias",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-divina-pastora-la-camella-arona",
@@ -1328,10 +1369,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.09962,
+"lon": -16.68102,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-divina-pastora-la-camella-arona-canarias"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-divina-pastora-la-camella-arona-canarias",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pentencostal-las-palmas-de-gran-canaria",
@@ -1357,10 +1399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pentencostal-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pentencostal-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-ravelo-el-sauzal",
@@ -1415,10 +1458,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.63011,
+"lon": -17.78953,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antonio-brena-baja-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-antonio-brena-baja-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-bosco-las-palmas-de-gran-canaria",
@@ -1444,10 +1488,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-bosco-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-bosco-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-venancio-telde",
@@ -1473,10 +1518,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.99243,
+"lon": -15.41915,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-venancio-telde-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-venancio-telde-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-vicente-ferrer-valleseco",
@@ -1502,10 +1548,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.0433,
+"lon": -15.57623,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-ferrer-valleseco-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-vicente-ferrer-valleseco-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-santisimo-redentor-san-cristobal-de-la-laguna",
@@ -1560,10 +1607,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.68351,
+"lon": -17.76421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-doctrina-cristiana-santa-cruz-de-la-palma-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-doctrina-cristiana-santa-cruz-de-la-palma-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-escandinava-las-palmas-de-gran-canaria",
@@ -1589,10 +1637,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-escandinava-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-escandinava-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-de-la-palma-tijarafe",
@@ -1618,10 +1667,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.7,
+"lon": -17.95,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-la-palma-tijarafe-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-de-la-palma-tijarafe-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-las-palmas-de-gran-canaria",
@@ -1647,10 +1697,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-bautista-santa-cruz-de-la-palma",
@@ -1676,10 +1727,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.68351,
+"lon": -17.76421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-santa-cruz-de-la-palma-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-bautista-santa-cruz-de-la-palma-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-vida-y-esperanza-santa-cruz-de-la-palma",
@@ -1705,10 +1757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.68351,
+"lon": -17.76421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-vida-y-esperanza-santa-cruz-de-la-palma-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-vida-y-esperanza-santa-cruz-de-la-palma-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-fatima-galdar",
@@ -1734,10 +1787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.14701,
+"lon": -15.6502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fatima-galdar-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-fatima-galdar-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-paz-y-la-union-san-cristobal-de-la-laguna",
@@ -1792,10 +1846,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.39276,
+"lon": -16.65015,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-rosas-san-juan-de-la-rambla-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-las-rosas-san-juan-de-la-rambla-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-maria-lola-garcia-gomez-arico",
@@ -1850,10 +1905,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.88385,
+"lon": -15.72538,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-noruega-mogan-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-noruega-mogan-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-alfonso-maria-de-ligorio-santa-cruz-de-tenerife",
@@ -1879,10 +1935,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.46824,
+"lon": -16.25462,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-alfonso-maria-de-ligorio-santa-cruz-de-tenerife-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-alfonso-maria-de-ligorio-santa-cruz-de-tenerife-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-bernabe-icod-de-los-vinos",
@@ -1908,10 +1965,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.37241,
+"lon": -16.71188,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-bernabe-icod-de-los-vinos-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-bernabe-icod-de-los-vinos-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-francisco-javier-las-palmas-de-gran-canaria",
@@ -1937,10 +1995,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.10178,
+"lon": -15.41573,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-javier-las-palmas-de-gran-canaria-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-francisco-javier-las-palmas-de-gran-canaria-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-isidro-galdar",
@@ -1966,10 +2025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.14701,
+"lon": -15.6502,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-isidro-galdar-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-isidro-galdar-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-titerroi-arrecife",
@@ -1995,10 +2055,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.96302,
+"lon": -13.54769,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-titerroi-arrecife-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-titerroi-arrecife-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-pilarica-guimar",
@@ -2024,10 +2085,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.31122,
+"lon": -16.41276,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-pilarica-guimar-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-pilarica-guimar-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "plaza-la-oliva",
@@ -2053,10 +2115,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.61052,
+"lon": -13.92912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/plaza-la-oliva-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/plaza-la-oliva-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sa-am-centro-bionergetico-candelaria",
@@ -2082,10 +2145,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.3548,
+"lon": -16.37268,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sa-am-centro-bionergetico-candelaria-canarias"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sa-am-centro-bionergetico-candelaria-canarias",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-mauro-de-abad-puntagorda",
@@ -2111,10 +2175,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.7749,
+"lon": -17.97741,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-mauro-de-abad-puntagorda-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-mauro-de-abad-puntagorda-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-cruz-de-las-dehesas-puerto-de-la-cruz",
@@ -2140,10 +2205,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.41686,
+"lon": -16.55085,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-de-las-dehesas-puerto-de-la-cruz-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-cruz-de-las-dehesas-puerto-de-la-cruz-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santo-cristo-del-planto-santa-cruz-de-la-palma",
@@ -2169,10 +2235,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.68351,
+"lon": -17.76421,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santo-cristo-del-planto-santa-cruz-de-la-palma-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santo-cristo-del-planto-santa-cruz-de-la-palma-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "skandinaviska-turistkyrkan-puerto-de-la-cruz",
@@ -2198,10 +2265,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 28.41686,
+"lon": -16.55085,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skandinaviska-turistkyrkan-puerto-de-la-cruz-santa-cruz-de-tenerife"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skandinaviska-turistkyrkan-puerto-de-la-cruz-santa-cruz-de-tenerife",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "svenska-kyrkan-san-bartolome-de-tirajana",
@@ -2227,9 +2295,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 27.92481,
+"lon": -15.57329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/svenska-kyrkan-san-bartolome-de-tirajana-las-palmas"
+"fuente_url": "https://encuentraiglesias.com/iglesia/svenska-kyrkan-san-bartolome-de-tirajana-las-palmas",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

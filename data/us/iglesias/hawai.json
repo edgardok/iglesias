@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.21758,
+"lon": -159.47888,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-pacific-princeville-hi-estados-unidos-20032"
+"fuente_url": "https://encuentraiglesias.com/iglesia/church-of-the-pacific-princeville-hi-estados-unidos-20032",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepard-episcopal-church-wailuku",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.89133,
+"lon": -156.50604,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepard-episcopal-church-wailuku-hi-estados-unidos-10644"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepard-episcopal-church-wailuku-hi-estados-unidos-10644",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "grace-church-kailua-kona",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64016,
+"lon": -155.99912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-kailua-kona-hi-estados-unidos-10629"
+"fuente_url": "https://encuentraiglesias.com/iglesia/grace-church-kailua-kona-hi-estados-unidos-10629",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kahuku-united-methodist-church-kahuku",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.68048,
+"lon": -157.95237,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kahuku-united-methodist-church-kahuku-hi-estados-unidos-21288"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kahuku-united-methodist-church-kahuku-hi-estados-unidos-21288",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kai-point-baptist-church-honolulu",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kai-point-baptist-church-honolulu-hi-estados-unidos-11053"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kai-point-baptist-church-honolulu-hi-estados-unidos-11053",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kalihi-union-church-honolulu",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kalihi-union-church-honolulu-hi-estados-unidos-20721"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kalihi-union-church-honolulu-hi-estados-unidos-20721",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kam-nam-united-methodist-church-honolulu",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kam-nam-united-methodist-church-honolulu-hi-estados-unidos-20637"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kam-nam-united-methodist-church-honolulu-hi-estados-unidos-20637",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kihei-baptist-kihei",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.76462,
+"lon": -156.44578,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kihei-baptist-kihei-hi-estados-unidos-19602"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kihei-baptist-kihei-hi-estados-unidos-19602",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kilohana-united-methodist-church-honolulu",
@@ -255,10 +263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kilohana-united-methodist-church-honolulu-hi-estados-unidos-28432"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kilohana-united-methodist-church-honolulu-hi-estados-unidos-28432",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "korean-presbyterian-church-of-honolulu-honolulu",
@@ -284,10 +293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-honolulu-honolulu-hi-estados-unidos-20659"
+"fuente_url": "https://encuentraiglesias.com/iglesia/korean-presbyterian-church-of-honolulu-honolulu-hi-estados-unidos-20659",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lutheran-church-of-honolulu-honolulu",
@@ -313,10 +323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-honolulu-honolulu-hi-estados-unidos-20247"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lutheran-church-of-honolulu-honolulu-hi-estados-unidos-20247",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mokuaikaua-church-kailua-kona",
@@ -342,10 +353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.64016,
+"lon": -155.99912,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mokuaikaua-church-kailua-kona-hi-estados-unidos-19809"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mokuaikaua-church-kailua-kona-hi-estados-unidos-19809",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olanui-honolulu",
@@ -371,10 +383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.30694,
+"lon": -157.85833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/olanui-honolulu-hi-estados-unidos-11352"
+"fuente_url": "https://encuentraiglesias.com/iglesia/olanui-honolulu-hi-estados-unidos-11352",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pearlside-church-aiea",
@@ -400,10 +413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.38222,
+"lon": -157.93361,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pearlside-church-aiea-hi-estados-unidos-12468"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pearlside-church-aiea-hi-estados-unidos-12468",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "waioli-huiia-church-hanalei",
@@ -458,9 +472,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.38667,
+"lon": -158.00917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/waipahu-seventh-day-adventist-church-waipahu-hi-estados-unidos-28356"
+"fuente_url": "https://encuentraiglesias.com/iglesia/waipahu-seventh-day-adventist-church-waipahu-hi-estados-unidos-28356",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

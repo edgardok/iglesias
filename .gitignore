@@ -7,3 +7,5 @@ dist/
 
 # Archivo de origen redundante (suma de los CSV por país, 46 MB)
 data/_origen/
+# GeoNames crudo (se baja con scripts/comunes/geonames.py; ~30 MB)
+data/_geonames/

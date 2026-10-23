@@ -168,10 +168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.43411,
+"lon": -99.20024,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiros-miguel-hidalgo-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-retiros-miguel-hidalgo-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-del-templo-san-cristobal-de-las-casas",
@@ -197,10 +198,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.73006,
+"lon": -92.63825,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-del-templo-san-cristobal-de-las-casas-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-del-templo-san-cristobal-de-las-casas-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-reto-a-la-esperanza-ciudad-de-mexico",
@@ -255,10 +257,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.39528,
+"lon": -99.09778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-integracion-agua-viva-a-c-iztacalco-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-de-integracion-agua-viva-a-c-iztacalco-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cio-centro-internacional-de-oracion-vicente-guerrero-iztapalapa",
@@ -284,10 +287,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35529,
+"lon": -99.06224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cio-centro-internacional-de-oracion-vicente-guerrero-iztapalapa-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cio-centro-internacional-de-oracion-vicente-guerrero-iztapalapa-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-galileo-eterno-venustiano-carranza",
@@ -313,10 +317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-galileo-eterno-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-galileo-eterno-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "entrance-to-templo-mayor-cuajimalpa-de-morelos",
@@ -371,10 +376,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/evangelio-de-cristo-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/evangelio-de-cristo-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ex-templo-de-la-encarnacion-cuajimalpa-de-morelos",
@@ -429,10 +435,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.47851,
+"lon": -99.23963,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ahuizotla-naucalpan-de-juarez-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-ahuizotla-naucalpan-de-juarez-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-antigua-mazatepec",
@@ -1009,10 +1016,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.3467,
+"lon": -99.16174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-lupita-coyoacan-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-lupita-coyoacan-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-la-resurreccion-coyoacan",
@@ -1038,10 +1046,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.3467,
+"lon": -99.16174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-resurreccion-coyoacan-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-la-resurreccion-coyoacan-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-los-santos-de-jesucristo-de-los-ultimos-dias-iztacalco",
@@ -1067,10 +1076,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.39528,
+"lon": -99.09778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-de-jesucristo-de-los-ultimos-dias-iztacalco-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-los-santos-de-jesucristo-de-los-ultimos-dias-iztacalco-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-juan-buatista-alvaro-obregon",
@@ -1096,10 +1106,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35867,
+"lon": -99.20329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-buatista-alvaro-obregon-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-juan-buatista-alvaro-obregon-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santa-teresa-la-antigua-cuauhtemoc",
@@ -1125,10 +1136,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44506,
+"lon": -99.14612,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-teresa-la-antigua-cuauhtemoc-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santa-teresa-la-antigua-cuauhtemoc-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-yancuitlalpan-huixquilucan-de-degollado",
@@ -1154,10 +1166,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.36004,
+"lon": -99.35163,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-yancuitlalpan-huixquilucan-de-degollado-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-yancuitlalpan-huixquilucan-de-degollado-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santo-tomas-moro-ciudad-de-mexico",
@@ -1386,10 +1399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.60006,
+"lon": -99.04855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-emiliano-zapata-ecatepec-de-morelos-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-emiliano-zapata-ecatepec-de-morelos-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-hefzi-ba-ciudad-de-mexico",
@@ -1502,10 +1516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.29513,
+"lon": -99.16206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-palma-tlalpan-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-palma-tlalpan-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-presa-tlalnepantla",
@@ -1705,10 +1720,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.78389,
+"lon": -98.76583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mis-siloe-zacualpan-de-amilpas-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mis-siloe-zacualpan-de-amilpas-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-coyoacan",
@@ -1734,10 +1750,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.3467,
+"lon": -99.16174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-coyoacan-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-coyoacan-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nacional-presbiteriana-el-divino-salvador-iztapalapa",
@@ -1763,10 +1780,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35529,
+"lon": -99.06224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-el-divino-salvador-iztapalapa-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nacional-presbiteriana-el-divino-salvador-iztapalapa-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nopalera-ciudad-de-mexico",
@@ -1821,10 +1839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.29513,
+"lon": -99.16206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuevo-ajusco-noche-tlalpan-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuevo-ajusco-noche-tlalpan-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-parajes-buenavista-iztapalapa",
@@ -1850,10 +1869,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35529,
+"lon": -99.06224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-parajes-buenavista-iztapalapa-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-parajes-buenavista-iztapalapa-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-unida-latinoamericana-ciudad-de-mexico",
@@ -1966,10 +1986,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.39528,
+"lon": -99.09778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-isidro-labrador-iztacalco-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-isidro-labrador-iztacalco-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-judas-ciudad-de-mexico",
@@ -2024,10 +2045,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.81722,
+"lon": -97.15444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-rafael-huiloapan-de-cuauhtemoc-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-rafael-huiloapan-de-cuauhtemoc-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-barbara-iztapalapa",
@@ -2053,10 +2075,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35529,
+"lon": -99.06224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-barbara-iztapalapa-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-barbara-iztapalapa-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santiago-tepalcatlalpan-ciudad-de-mexico",
@@ -2227,10 +2250,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.60006,
+"lon": -99.04855,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vision-victoria-ecatepec-de-morelos-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-vision-victoria-ecatepec-de-morelos-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "inglesia-bautista-misionera-en-aragon-alvaro-obregon",
@@ -2256,10 +2280,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35867,
+"lon": -99.20329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/inglesia-bautista-misionera-en-aragon-alvaro-obregon-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/inglesia-bautista-misionera-en-aragon-alvaro-obregon-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jardines-de-la-iglesia-de-cananea-iztapalapa",
@@ -2285,10 +2310,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35529,
+"lon": -99.06224,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/jardines-de-la-iglesia-de-cananea-iztapalapa-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/jardines-de-la-iglesia-de-cananea-iztapalapa-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-concepcion-ixnahualtongo-venustiano-carranza",
@@ -2314,10 +2340,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-concepcion-ixnahualtongo-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-concepcion-ixnahualtongo-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "la-iglesia-del-senor-ciudad-de-mexico",
@@ -2401,10 +2428,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-resurreccion-tultenco-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-resurreccion-tultenco-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "monte-miepi-venustiano-carranza",
@@ -2430,10 +2458,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/monte-miepi-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/monte-miepi-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portadores-de-bendicion-venustiano-carranza",
@@ -2459,10 +2488,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portadores-de-bendicion-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portadores-de-bendicion-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "preciosa-sangre-de-cristo-gustavo-a-madero",
@@ -2546,10 +2576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.43411,
+"lon": -99.20024,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rectoria-de-san-joaquin-miguel-hidalgo-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rectoria-de-san-joaquin-miguel-hidalgo-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "restauracion-y-libertad-venustiano-carranza",
@@ -2575,10 +2606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restauracion-y-libertad-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restauracion-y-libertad-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salem-venustiano-carranza",
@@ -2604,10 +2636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.44361,
+"lon": -99.10499,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salem-venustiano-carranza-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salem-venustiano-carranza-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-los-testigos-de-jehova-miguel-hidalgo",
@@ -2633,10 +2666,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.43411,
+"lon": -99.20024,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jehova-miguel-hidalgo-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jehova-miguel-hidalgo-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-rosa-de-lima-alvaro-obregon",
@@ -2662,10 +2696,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35867,
+"lon": -99.20329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santa-rosa-de-lima-alvaro-obregon-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santa-rosa-de-lima-alvaro-obregon-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "skatepark-templo-mayor-alvaro-obregon",
@@ -2691,10 +2726,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.35867,
+"lon": -99.20329,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skatepark-templo-mayor-alvaro-obregon-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skatepark-templo-mayor-alvaro-obregon-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-calendarico-tlatelolco-nonoalco-tlatelolco",
@@ -2749,10 +2785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.25465,
+"lon": -99.10356,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-jesus-y-nino-de-la-suerte-xochimilco-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-jesus-y-nino-de-la-suerte-xochimilco-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-santisima-trinidad-iglesia-metodista-de-mexico-ciudad-de-mexico",
@@ -2952,9 +2989,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.3467,
+"lon": -99.16174,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-shaolin-de-mexico-coyoacan-ciudad-de-mexico"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-shaolin-de-mexico-coyoacan-ciudad-de-mexico",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

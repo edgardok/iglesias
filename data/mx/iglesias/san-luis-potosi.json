@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/alabado-sea-el-templo-a-r-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/alabado-sea-el-templo-a-r-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-avivamiento-mundial-maranatha-ciudad-valles",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-avivamiento-mundial-maranatha-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-avivamiento-mundial-maranatha-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "centro-cristiano-casa-de-oracion-ciudad-valles",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-casa-de-oracion-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-cristiano-casa-de-oracion-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-templo-catorce",
@@ -168,10 +171,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-betsaida-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-betsaida-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-cristo-es-el-camino-ciudad-valles",
@@ -197,10 +201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-cristo-es-el-camino-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-cristo-es-el-camino-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-de-san-luis-potosi-san-luis-potosi",
@@ -255,10 +260,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-ebenezer-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-ebenezer-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-maranatha-san-luis-del-cordero",
@@ -284,10 +290,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.41688,
+"lon": -104.27842,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-maranatha-san-luis-del-cordero-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-maranatha-san-luis-del-cordero-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-torre-fuerte-ahualulco",
@@ -313,10 +320,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.6617,
+"lon": -99.64925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-torre-fuerte-ahualulco-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-bautista-torre-fuerte-ahualulco-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-dios-del-evangelio-completo-ciudad-valles",
@@ -342,10 +350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-del-evangelio-completo-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-dios-del-evangelio-completo-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cristo-de-samoa-ahualulco",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.6617,
+"lon": -99.64925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cristo-de-samoa-ahualulco-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cristo-de-samoa-ahualulco-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-dios-vivo-columna-y-apoyo-de-la-verdad-de-luz-del-mundo-san-luis-potosi",
@@ -429,10 +439,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.76708,
+"lon": -98.45186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-rosario-el-higo-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-rosario-el-higo-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-saucito-san-luis-del-cordero",
@@ -458,10 +469,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 25.41688,
+"lon": -104.27842,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-saucito-san-luis-del-cordero-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-saucito-san-luis-del-cordero-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-esfuerzo-magdiel-pentecostes-ciudad-valles",
@@ -487,10 +499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-esfuerzo-magdiel-pentecostes-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-esfuerzo-magdiel-pentecostes-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-alcance-victoria-san-luis-potosi",
@@ -545,10 +558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.80404,
+"lon": -90.60088,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-los-peregrinos-lerma-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-los-peregrinos-lerma-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-maranata-huehuetlan",
@@ -574,10 +588,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.54649,
+"lon": -98.96768,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-maranata-huehuetlan-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-maranata-huehuetlan-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-pentecostes-maranatha-centla",
@@ -632,10 +647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-luz-del-mundo-en-aquismon-aquismon",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.62159,
+"lon": -99.01984,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-en-aquismon-aquismon-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-luz-del-mundo-en-aquismon-aquismon-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-luz-del-mundo-ciudad-valles",
@@ -690,10 +707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-luz-del-mundo-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-luz-del-mundo-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-mision-de-gracia-ahualulco",
@@ -719,10 +737,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.6617,
+"lon": -99.64925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-de-gracia-ahualulco-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-mision-de-gracia-ahualulco-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-la-gloria-san-luis-potosi",
@@ -777,10 +796,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.43923,
+"lon": -98.87508,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-axtla-de-terrazas-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-axtla-de-terrazas-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-presbiteriana-el-divino-redentor-tabasco",
@@ -806,10 +826,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.86315,
+"lon": -102.91108,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-el-divino-redentor-tabasco-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-presbiteriana-el-divino-redentor-tabasco-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santa-gertrudis-villa-de-arista",
@@ -835,10 +856,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.64252,
+"lon": -100.84808,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-gertrudis-villa-de-arista-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santa-gertrudis-villa-de-arista-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-sauz-el-pueblito",
@@ -951,10 +973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bautista-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bautista-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-bautista-principe-de-dios-ciudad-valles",
@@ -980,10 +1003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bautista-principe-de-dios-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bautista-principe-de-dios-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-bethel-cuernavaca",
@@ -1009,10 +1033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.9261,
+"lon": -99.23075,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bethel-cuernavaca-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-bethel-cuernavaca-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-biblico-bautista-ciudad-valles",
@@ -1038,10 +1063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-biblico-bautista-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-biblico-bautista-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-casa-de-fe-ciudad-valles",
@@ -1067,10 +1093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-casa-de-fe-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-casa-de-fe-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-principe-de-paz-ciudad-valles",
@@ -1096,10 +1123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-principe-de-paz-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-principe-de-paz-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-cristiano-puerta-del-cielo-ciudad-valles",
@@ -1125,10 +1153,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-puerta-del-cielo-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-cristiano-puerta-del-cielo-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-getsemani-ciudad-valles",
@@ -1154,10 +1183,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-getsemani-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-getsemani-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-san-pedro-cerro-de-san-pedro",
@@ -1183,10 +1213,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 22.2178,
+"lon": -100.79961,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-pedro-cerro-de-san-pedro-san-luis-potosi-1"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-san-pedro-cerro-de-san-pedro-san-luis-potosi-1",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-emanuel-ciudad-valles",
@@ -1212,10 +1243,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-emanuel-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-emanuel-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-evangelico-emiliano-zapata-el-higo",
@@ -1241,10 +1273,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.76708,
+"lon": -98.45186,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-emiliano-zapata-el-higo-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-evangelico-emiliano-zapata-el-higo-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-fuente-de-agua-viva-ciudad-valles",
@@ -1270,10 +1303,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-fuente-de-agua-viva-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-fuente-de-agua-viva-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-rosa-de-saron-ciudad-valles",
@@ -1299,9 +1333,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 21.99631,
+"lon": -99.01093,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-rosa-de-saron-ciudad-valles-san-luis-potosi"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-la-rosa-de-saron-ciudad-valles-san-luis-potosi",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

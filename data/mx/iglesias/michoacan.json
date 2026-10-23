@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.73408,
+"lon": -100.35316,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-asd-senguio-senguio-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-asd-senguio-senguio-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-candelaria-arteaga",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.35679,
+"lon": -102.29113,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-candelaria-arteaga-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-candelaria-arteaga-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-tlazazalca-tlazazalca",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.97175,
+"lon": -102.0565,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tlazazalca-tlazazalca-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-tlazazalca-tlazazalca-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-nueva-vida-zamora",
@@ -226,10 +229,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5132,
+"lon": -101.60995,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cruz-verde-patzcuaro-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cruz-verde-patzcuaro-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-cheran-michoacan",
@@ -342,10 +346,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.62828,
+"lon": -101.57764,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-del-rescate-tzintzuntzan-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-del-rescate-tzintzuntzan-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-en-marcos-castellanos-marcos-castellanos",
@@ -458,10 +463,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.5132,
+"lon": -101.60995,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nino-dios-patzcuaro-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nino-dios-patzcuaro-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-tecolote-municipio-de-mexicali",
@@ -603,10 +609,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70078,
+"lon": -101.18443,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-las-monjas-morelia-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-las-monjas-morelia-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-santiago-apostol-huiramba",
@@ -632,10 +639,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.54606,
+"lon": -101.43651,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santiago-apostol-huiramba-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-santiago-apostol-huiramba-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-senor-del-perdon-cojumatlan-de-regules",
@@ -661,10 +669,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.11829,
+"lon": -102.85149,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-del-perdon-cojumatlan-de-regules-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-del-perdon-cojumatlan-de-regules-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-el-corazon-de-maria-morelia",
@@ -690,10 +699,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 19.70078,
+"lon": -101.18443,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-corazon-de-maria-morelia-michoacan"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-el-corazon-de-maria-morelia-michoacan",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-la-trinidad-nuevo-leon",

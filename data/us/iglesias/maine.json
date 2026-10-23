@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.22397,
+"lon": -68.67753,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/advent-christian-fellowship-deer-isle-me-estados-unidos-12711"
+"fuente_url": "https://encuentraiglesias.com/iglesia/advent-christian-fellowship-deer-isle-me-estados-unidos-12711",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-saints-by-the-sea-boothbay-harbor",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8523,
+"lon": -69.6281,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-saints-by-the-sea-boothbay-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-saints-by-the-sea-boothbay-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "all-souls-congregational-church-bangor",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/all-souls-congregational-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/all-souls-congregational-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "amazing-grace-mission-auburn",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/amazing-grace-mission-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/amazing-grace-mission-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "american-rescue-workers-auburn",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/american-rescue-workers-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/american-rescue-workers-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "anchor-baptist-church-biddeford",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.49258,
+"lon": -70.45338,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/anchor-baptist-church-biddeford-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/anchor-baptist-church-biddeford-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "augusta-church-of-christ-augusta",
@@ -197,10 +203,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/augusta-church-of-christ-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/augusta-church-of-christ-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "augusta-seventh-day-adventist-church-augusta",
@@ -226,10 +233,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/augusta-seventh-day-adventist-church-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/augusta-seventh-day-adventist-church-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "backside-redemption-church-bernard",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bangor-church-of-christ-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bangor-church-of-christ-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bar-harbor-congregational-church-bar-harbor",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.38758,
+"lon": -68.2039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bar-harbor-congregational-church-bar-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bar-harbor-congregational-church-bar-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "barters-island-baptist-church-boothbay",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.87647,
+"lon": -69.63366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/barters-island-baptist-church-boothbay-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/barters-island-baptist-church-boothbay-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bath-foursquare-gospel-church-bath",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91064,
+"lon": -69.8206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bath-foursquare-gospel-church-bath-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bath-foursquare-gospel-church-bath-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beans-corner-baptist-church-dryden",
@@ -429,10 +441,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.26592,
+"lon": -70.8645,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/berwick-full-gospel-church-berwick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/berwick-full-gospel-church-berwick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "beth-eden-church-brooklin",
@@ -458,10 +471,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.26619,
+"lon": -68.56919,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/beth-eden-church-brooklin-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/beth-eden-church-brooklin-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bethel-alliance-church-bethel",
@@ -487,10 +501,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.40423,
+"lon": -70.79062,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-alliance-church-bethel-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bethel-alliance-church-bethel-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bible-believing-baptist-church-gray",
@@ -516,10 +531,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.88563,
+"lon": -70.33172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bible-believing-baptist-church-gray-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bible-believing-baptist-church-gray-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "birch-harbor-baptist-church-birch-harbor",
@@ -574,10 +590,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.90449,
+"lon": -66.98438,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blakeley-memorial-methodist-church-eastport-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blakeley-memorial-methodist-church-eastport-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blood-bought-church-oakland",
@@ -603,10 +620,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.54034,
+"lon": -69.72199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blood-bought-church-oakland-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blood-bought-church-oakland-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "blue-hill-congregational-church-blue-hill",
@@ -632,10 +650,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.41397,
+"lon": -68.58669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/blue-hill-congregational-church-blue-hill-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/blue-hill-congregational-church-blue-hill-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "boothbay-baptist-church-boothbay",
@@ -661,10 +680,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.87647,
+"lon": -69.63366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/boothbay-baptist-church-boothbay-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/boothbay-baptist-church-boothbay-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bowdoin-chapel-brunswick",
@@ -690,10 +710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bowdoin-chapel-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bowdoin-chapel-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bradley-baptist-church-bradley",
@@ -719,10 +740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9209,
+"lon": -68.62809,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bradley-baptist-church-bradley-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bradley-baptist-church-bradley-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "bremen-union-church-bremen",
@@ -748,10 +770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.00147,
+"lon": -69.42866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/bremen-union-church-bremen-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/bremen-union-church-bremen-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brownfield-community-church-brownfield",
@@ -777,10 +800,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.93813,
+"lon": -70.90868,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brownfield-community-church-brownfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brownfield-community-church-brownfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brunswick-church-of-christ-brunswick",
@@ -806,10 +830,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-church-of-christ-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-church-of-christ-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brunswick-church-of-the-nazarene-brunswick",
@@ -835,10 +860,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-church-of-the-nazarene-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-church-of-the-nazarene-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brunswick-seventh-day-adventist-church-brunswick",
@@ -864,10 +890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-seventh-day-adventist-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-seventh-day-adventist-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "brunswick-united-methodist-church-brunswick",
@@ -893,10 +920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-united-methodist-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/brunswick-united-methodist-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "buckfield-community-church-buckfield",
@@ -922,10 +950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28951,
+"lon": -70.36534,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/buckfield-community-church-buckfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/buckfield-community-church-buckfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "buxton-center-baptist-church-bar-mills",
@@ -980,10 +1009,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.76173,
+"lon": -69.56144,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canaan-calvary-church-canaan-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canaan-calvary-church-canaan-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "canton-united-baptist-church-canton",
@@ -1009,10 +1039,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.4408,
+"lon": -70.31649,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/canton-united-baptist-church-canton-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/canton-united-baptist-church-canton-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cape-elizabeth-church-of-the-nazarene-blue-hill",
@@ -1038,10 +1069,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.41397,
+"lon": -68.58669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cape-elizabeth-church-of-the-nazarene-blue-hill-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cape-elizabeth-church-of-the-nazarene-blue-hill-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cape-elizabeth-united-methodist-church-blue-hill",
@@ -1067,10 +1099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.41397,
+"lon": -68.58669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cape-elizabeth-united-methodist-church-blue-hill-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cape-elizabeth-united-methodist-church-blue-hill-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cape-neddick-baptist-church-cape-neddick",
@@ -1096,10 +1129,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.1937,
+"lon": -70.62089,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cape-neddick-baptist-church-cape-neddick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cape-neddick-baptist-church-cape-neddick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "chestnut-street-baptist-church-camden",
@@ -1125,10 +1159,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.2098,
+"lon": -69.06476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/chestnut-street-baptist-church-camden-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/chestnut-street-baptist-church-camden-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "china-baptist-church-china-village",
@@ -1241,10 +1276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-street-baptist-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/columbia-street-baptist-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregation-etz-chaim-biddeford",
@@ -1270,10 +1306,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.49258,
+"lon": -70.45338,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-etz-chaim-biddeford-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregation-etz-chaim-biddeford-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregational-church-of-boothbay-harbor-boothbay",
@@ -1299,10 +1336,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.87647,
+"lon": -69.63366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-of-boothbay-harbor-boothbay-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregational-church-of-boothbay-harbor-boothbay-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "corliss-street-baptist-church-bath",
@@ -1328,10 +1366,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91064,
+"lon": -69.8206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/corliss-street-baptist-church-bath-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/corliss-street-baptist-church-bath-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "crossroads-united-methodist-church-alfred",
@@ -1357,10 +1396,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.47647,
+"lon": -70.71839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/crossroads-united-methodist-church-alfred-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/crossroads-united-methodist-church-alfred-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "damariscotta-baptist-church-damariscotta",
@@ -1386,10 +1426,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.03286,
+"lon": -69.51866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/damariscotta-baptist-church-damariscotta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/damariscotta-baptist-church-damariscotta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "days-ferry-congregational-church-bath",
@@ -1415,10 +1456,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91064,
+"lon": -69.8206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/days-ferry-congregational-church-bath-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/days-ferry-congregational-church-bath-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "dresden-richmond-united-methodist-church-richmond",
@@ -1444,10 +1486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.0873,
+"lon": -69.79893,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/dresden-richmond-united-methodist-church-richmond-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/dresden-richmond-united-methodist-church-richmond-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-auburn-baptist-church-auburn",
@@ -1473,10 +1516,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-auburn-baptist-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-auburn-baptist-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-boothbay-united-methodist-church-boothbay-harbor",
@@ -1502,10 +1546,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8523,
+"lon": -69.6281,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-boothbay-united-methodist-church-boothbay-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-boothbay-united-methodist-church-boothbay-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "east-brunswick-baptist-church-brunswick",
@@ -1531,10 +1576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/east-brunswick-baptist-church-brunswick-me-estados-unidos-26471"
+"fuente_url": "https://encuentraiglesias.com/iglesia/east-brunswick-baptist-church-brunswick-me-estados-unidos-26471",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eastbrook-baptist-church-hancock",
@@ -1560,10 +1606,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.52924,
+"lon": -68.25363,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/eastbrook-baptist-church-hancock-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/eastbrook-baptist-church-hancock-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "el-shaddi-foursquare-church-auburn",
@@ -1589,10 +1636,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/el-shaddi-foursquare-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/el-shaddi-foursquare-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "eleanor-forbes-chapel-biddeford-pool",
@@ -1647,10 +1695,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.54341,
+"lon": -68.41946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ellsworth-united-methodist-church-ellsworth-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ellsworth-united-methodist-church-ellsworth-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "elm-street-congregational-church-bucksport",
@@ -1676,10 +1725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.57369,
+"lon": -68.79559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/elm-street-congregational-church-bucksport-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/elm-street-congregational-church-bucksport-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "emmanual-baptist-church-belfast",
@@ -1705,10 +1755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.42591,
+"lon": -69.00642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/emmanual-baptist-church-belfast-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/emmanual-baptist-church-belfast-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fairfield-united-methodist-church-fairfield",
@@ -1734,10 +1785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.5884,
+"lon": -69.59866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fairfield-united-methodist-church-fairfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fairfield-united-methodist-church-fairfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-bible-chapel-buckfield",
@@ -1763,10 +1815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.28951,
+"lon": -70.36534,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-buckfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-bible-chapel-buckfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "faith-lighthouse-biddeford",
@@ -1792,10 +1845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.49258,
+"lon": -70.45338,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lighthouse-biddeford-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/faith-lighthouse-biddeford-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "farmington-falls-union-baptist-church-farmington-falls",
@@ -1850,10 +1904,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fellowship-gym-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fellowship-gym-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "fellowship-hall-brewer",
@@ -1879,10 +1934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79674,
+"lon": -68.76142,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/fellowship-hall-brewer-me-estados-unidos-26335"
+"fuente_url": "https://encuentraiglesias.com/iglesia/fellowship-hall-brewer-me-estados-unidos-26335",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-brooklin-brooklin",
@@ -1908,10 +1964,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.26619,
+"lon": -68.56919,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-brooklin-brooklin-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-brooklin-brooklin-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-bar-harbor-bar-harbor",
@@ -1937,10 +1994,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.38758,
+"lon": -68.2039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-bar-harbor-bar-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-bar-harbor-bar-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-blue-hill-blue-hill",
@@ -1966,10 +2024,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.41397,
+"lon": -68.58669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-blue-hill-blue-hill-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-blue-hill-blue-hill-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-brunswick-brunswick",
@@ -1995,10 +2054,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-brunswick-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-brunswick-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-cherryfield-cherryfield",
@@ -2024,10 +2084,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.6073,
+"lon": -67.92584,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-cherryfield-cherryfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-baptist-church-of-cherryfield-cherryfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-baptist-church-of-south-portland-cape-elizabeth",
@@ -2111,10 +2172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.42591,
+"lon": -69.00642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-in-belfast-united-church-of-christ-belfast-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-church-in-belfast-united-church-of-christ-belfast-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-congregational-church-of-andover-andover",
@@ -2140,10 +2202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63562,
+"lon": -70.75118,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-andover-andover-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-andover-andover-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-congregational-church-of-brewer-bangor",
@@ -2169,10 +2232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-brewer-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-congregational-church-of-brewer-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-light-assembly-of-god-church-new-harbor",
@@ -2227,10 +2291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.49258,
+"lon": -70.45338,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-parish-congregational-church-biddeford-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-parish-congregational-church-biddeford-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-parish-united-church-berwick",
@@ -2256,10 +2321,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.26592,
+"lon": -70.8645,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-parish-united-church-berwick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-parish-united-church-berwick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-methodist-church-of-boothbay-harbor-boothbay",
@@ -2285,10 +2351,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.87647,
+"lon": -69.63366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-boothbay-harbor-boothbay-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-methodist-church-of-boothbay-harbor-boothbay-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-united-pentacostal-church-lewiston",
@@ -2314,10 +2381,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.10035,
+"lon": -70.21478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-pentacostal-church-lewiston-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-united-pentacostal-church-lewiston-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "first-universalist-church-auburn",
@@ -2343,10 +2411,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/first-universalist-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/first-universalist-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "five-island-second-baptist-church-georgetown",
@@ -2430,10 +2499,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/free-grace-presbyterian-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/free-grace-presbyterian-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "freeport-seventh-day-adventist-church-freeport",
@@ -2459,10 +2529,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.85702,
+"lon": -70.10311,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/freeport-seventh-day-adventist-church-freeport-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/freeport-seventh-day-adventist-church-freeport-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "garrison-baptist-church-berwick",
@@ -2488,10 +2559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.26592,
+"lon": -70.8645,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/garrison-baptist-church-berwick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/garrison-baptist-church-berwick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "getchell-street-united-baptist-church-fairfield",
@@ -2517,10 +2589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.5884,
+"lon": -69.59866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/getchell-street-united-baptist-church-fairfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/getchell-street-united-baptist-church-fairfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "gomes-chapel-auburn",
@@ -2546,10 +2619,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/gomes-chapel-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/gomes-chapel-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "good-shepard-church-brunswick",
@@ -2575,10 +2649,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepard-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/good-shepard-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-memorial-african-methodist-episcopal-zion-church-portland",
@@ -2604,10 +2679,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.65737,
+"lon": -70.2589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/green-memorial-african-methodist-episcopal-zion-church-portland-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/green-memorial-african-methodist-episcopal-zion-church-portland-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "green-street-united-methodist-church-augusta",
@@ -2633,10 +2709,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/green-street-united-methodist-church-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/green-street-united-methodist-church-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "greene-baptist-church-greene",
@@ -2691,10 +2768,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hammond-street-congregational-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hammond-street-congregational-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hampden-highlands-united-methodist-church-hampden",
@@ -2720,10 +2798,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.74478,
+"lon": -68.83769,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hampden-highlands-united-methodist-church-hampden-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hampden-highlands-united-methodist-church-hampden-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "harrington-meetinghouse-bristol",
@@ -2749,10 +2828,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.95758,
+"lon": -69.50921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/harrington-meetinghouse-bristol-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/harrington-meetinghouse-bristol-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hartland-first-baptist-church-hartland",
@@ -2778,10 +2858,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.88339,
+"lon": -69.44755,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hartland-first-baptist-church-hartland-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hartland-first-baptist-church-hartland-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hartland-methodist-church-hartland",
@@ -2807,10 +2888,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.88339,
+"lon": -69.44755,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hartland-methodist-church-hartland-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hartland-methodist-church-hartland-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "head-tide-church-alna",
@@ -2836,10 +2918,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.10619,
+"lon": -69.60366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/head-tide-church-alna-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/head-tide-church-alna-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hebron-community-baptist-church-greenwood",
@@ -2865,10 +2948,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.3184,
+"lon": -70.6509,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-community-baptist-church-greenwood-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hebron-community-baptist-church-greenwood-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "henderson-memorial-baptist-church-farmington",
@@ -2894,10 +2978,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.67062,
+"lon": -70.15117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/henderson-memorial-baptist-church-farmington-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/henderson-memorial-baptist-church-farmington-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "high-street-congregational-church-auburn",
@@ -2923,10 +3008,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/high-street-congregational-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/high-street-congregational-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hilltop-babtist-church-cornish",
@@ -2952,10 +3038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8048,
+"lon": -70.80117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hilltop-babtist-church-cornish-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hilltop-babtist-church-cornish-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "his-hands-ministries-mexico",
@@ -2981,10 +3068,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.5609,
+"lon": -70.54534,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/his-hands-ministries-mexico-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/his-hands-ministries-mexico-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "hollis-center-baptist-church-bar-mills",
@@ -3039,10 +3127,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.49258,
+"lon": -70.45338,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/hosanna-christian-fellowship-biddeford-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/hosanna-christian-fellowship-biddeford-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "islamic-society-of-greater-augusta-augusta",
@@ -3068,10 +3157,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/islamic-society-of-greater-augusta-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/islamic-society-of-greater-augusta-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "kennebunk-baptist-church-kennebunk",
@@ -3097,10 +3187,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.38397,
+"lon": -70.54478,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/kennebunk-baptist-church-kennebunk-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/kennebunk-baptist-church-kennebunk-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "lewiston-church-of-the-brethren-auburn",
@@ -3126,10 +3217,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/lewiston-church-of-the-brethren-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/lewiston-church-of-the-brethren-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "littlefield-memorial-baptist-church-glen-cove",
@@ -3155,10 +3247,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86232,
+"lon": -73.63374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/littlefield-memorial-baptist-church-glen-cove-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/littlefield-memorial-baptist-church-glen-cove-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-waters-christian-church-buxton",
@@ -3184,10 +3277,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.63786,
+"lon": -70.51894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-waters-christian-church-buxton-me-estados-unidos-11841"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-waters-christian-church-buxton-me-estados-unidos-11841",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "living-waters-church-of-god-auburn",
@@ -3213,10 +3307,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/living-waters-church-of-god-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/living-waters-church-of-god-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "madison-congregational-church-anson",
@@ -3242,10 +3337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79839,
+"lon": -69.88922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/madison-congregational-church-anson-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/madison-congregational-church-anson-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "madison-methodist-church-anson",
@@ -3271,10 +3367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79839,
+"lon": -69.88922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/madison-methodist-church-anson-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/madison-methodist-church-anson-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maine-conference-united-church-of-christ-augusta",
@@ -3300,10 +3397,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maine-conference-united-church-of-christ-augusta-me-estados-unidos-18820"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maine-conference-united-church-of-christ-augusta-me-estados-unidos-18820",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "maine-street-baptist-church-brunswick",
@@ -3329,10 +3427,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maine-street-baptist-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maine-street-baptist-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "manset-union-church-bass-harbor",
@@ -3387,10 +3486,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.53425,
+"lon": -70.90978,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maple-grove-church-acton-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maple-grove-church-acton-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "marstons-corner-baptist-church-danville",
@@ -3445,10 +3545,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-baptist-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/messiah-baptist-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mid-coast-baptist-church-brunswick",
@@ -3474,10 +3575,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mid-coast-baptist-church-brunswick-me-estados-unidos-19044"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mid-coast-baptist-church-brunswick-me-estados-unidos-19044",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mid-coast-presbyterian-church-brunswick",
@@ -3503,10 +3605,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/mid-coast-presbyterian-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/mid-coast-presbyterian-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "middle-street-baptist-church-eliot",
@@ -3532,10 +3635,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15314,
+"lon": -70.80006,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/middle-street-baptist-church-eliot-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/middle-street-baptist-church-eliot-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "neighboorhood-church-bangor",
@@ -3561,10 +3665,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/neighboorhood-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/neighboorhood-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-beginnings-christian-church-alfred",
@@ -3590,10 +3695,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.47647,
+"lon": -70.71839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-christian-church-alfred-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-beginnings-christian-church-alfred-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-city-church-bath",
@@ -3619,10 +3725,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91064,
+"lon": -69.8206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-city-church-bath-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-city-church-bath-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "new-sharon-methodist-church-new-sharon",
@@ -3648,10 +3755,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.63895,
+"lon": -70.01561,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/new-sharon-methodist-church-new-sharon-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/new-sharon-methodist-church-new-sharon-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "newcastle-alna-baptist-church-alna",
@@ -3677,10 +3785,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.10619,
+"lon": -69.60366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newcastle-alna-baptist-church-alna-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newcastle-alna-baptist-church-alna-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "newhope-community-church-berwick",
@@ -3706,10 +3815,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.26592,
+"lon": -70.8645,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newhope-community-church-berwick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newhope-community-church-berwick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "newman-center-bradley",
@@ -3735,10 +3845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9209,
+"lon": -68.62809,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/newman-center-bradley-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/newman-center-bradley-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-alfred-baptist-church-alfred",
@@ -3764,10 +3875,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.47647,
+"lon": -70.71839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-alfred-baptist-church-alfred-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-alfred-baptist-church-alfred-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-baldwin-baptist-church-east-baldwin",
@@ -3822,10 +3934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.82618,
+"lon": -68.69337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-brewer-eddington-methodist-church-eddington-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-brewer-eddington-methodist-church-eddington-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-bucksport-methodist-church-buxton",
@@ -3851,10 +3964,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.63786,
+"lon": -70.51894,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-bucksport-methodist-church-buxton-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-bucksport-methodist-church-buxton-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-monmouth-community-church-monmouth",
@@ -3880,10 +3994,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.23868,
+"lon": -70.03561,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-monmouth-community-church-monmouth-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-monmouth-community-church-monmouth-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-pownal-united-methodist-church-pownal",
@@ -3909,10 +4024,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 42.76564,
+"lon": -73.23594,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-pownal-united-methodist-church-pownal-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-pownal-united-methodist-church-pownal-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-sullivan-united-methodist-church-hancock",
@@ -3938,10 +4054,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.52924,
+"lon": -68.25363,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-sullivan-united-methodist-church-hancock-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-sullivan-united-methodist-church-hancock-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "north-woolwich-church-woolwich",
@@ -3967,10 +4084,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91869,
+"lon": -69.80116,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/north-woolwich-church-woolwich-me-estados-unidos-27183"
+"fuente_url": "https://encuentraiglesias.com/iglesia/north-woolwich-church-woolwich-me-estados-unidos-27183",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "notre-dame-chapel-alfred",
@@ -3996,10 +4114,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.47647,
+"lon": -70.71839,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/notre-dame-chapel-alfred-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/notre-dame-chapel-alfred-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-south-church-belgrade",
@@ -4025,10 +4144,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.44729,
+"lon": -69.83255,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-south-church-belgrade-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-south-church-belgrade-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-town-christian-fellowship-bradley",
@@ -4054,10 +4174,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9209,
+"lon": -68.62809,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-town-christian-fellowship-bradley-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-town-christian-fellowship-bradley-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "old-walpole-meetinghouse-bristol",
@@ -4083,10 +4204,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.95758,
+"lon": -69.50921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/old-walpole-meetinghouse-bristol-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/old-walpole-meetinghouse-bristol-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "olsen-memorial-church-bass-harbor",
@@ -4141,10 +4263,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pathway-vineyard-church-of-brunswick-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pathway-vineyard-church-of-brunswick-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "penney-memorial-united-baptist-church-augusta",
@@ -4170,10 +4293,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/penney-memorial-united-baptist-church-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/penney-memorial-united-baptist-church-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "penobscot-church-brooksville",
@@ -4199,10 +4323,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.34674,
+"lon": -68.68364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/penobscot-church-brooksville-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/penobscot-church-brooksville-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "penobscot-united-methodist-church-penobscot",
@@ -4228,10 +4353,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.46452,
+"lon": -68.71114,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/penobscot-united-methodist-church-penobscot-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/penobscot-united-methodist-church-penobscot-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pentocostals-of-brunswick-brunswick",
@@ -4257,10 +4383,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pentocostals-of-brunswick-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pentocostals-of-brunswick-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pilgrim-orthodox-presbyterian-church-bangor",
@@ -4286,10 +4413,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-orthodox-presbyterian-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pilgrim-orthodox-presbyterian-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "pleasant-street-united-methodist-church-waterville",
@@ -4315,10 +4443,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.55201,
+"lon": -69.63171,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/pleasant-street-united-methodist-church-waterville-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/pleasant-street-united-methodist-church-waterville-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "portsmouth-seventh-day-adventist-church-eliot",
@@ -4344,10 +4473,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15314,
+"lon": -70.80006,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/portsmouth-seventh-day-adventist-church-eliot-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/portsmouth-seventh-day-adventist-church-eliot-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "praise-assembly-of-god-mexico",
@@ -4373,10 +4503,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.5609,
+"lon": -70.54534,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/praise-assembly-of-god-mexico-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/praise-assembly-of-god-mexico-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "prospect-harbor-united-methodist-church-birch-harbor",
@@ -4431,10 +4562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.72953,
+"lon": -70.24199,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rainbow-united-methodist-church-falmouth-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rainbow-united-methodist-church-falmouth-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "readfield-united-methodist-church-kents-hill",
@@ -4489,10 +4621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-wesleyan-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/river-city-wesleyan-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "royal-ridge-church-of-god-scarborough",
@@ -4518,10 +4651,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.57814,
+"lon": -70.32172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/royal-ridge-church-of-god-scarborough-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/royal-ridge-church-of-god-scarborough-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "rumford-center-united-methodist-church-rumford-center",
@@ -4576,10 +4710,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.5609,
+"lon": -70.54534,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/rumford-united-methodist-church-mexico-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/rumford-united-methodist-church-mexico-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-ansgar-lutheran-church-portland",
@@ -4605,10 +4740,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.65737,
+"lon": -70.2589,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-ansgar-lutheran-church-portland-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-ansgar-lutheran-church-portland-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-columbas-episcopal-church-boothbay",
@@ -4634,10 +4770,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.87647,
+"lon": -69.63366,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-columbas-episcopal-church-boothbay-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-columbas-episcopal-church-boothbay-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-margarets-episcopal-church-belfast",
@@ -4663,10 +4800,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.42591,
+"lon": -69.00642,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-margarets-episcopal-church-belfast-me-estados-unidos-27606"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-margarets-episcopal-church-belfast-me-estados-unidos-27606",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-marks-eliot",
@@ -4692,10 +4830,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15314,
+"lon": -70.80006,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-marks-eliot-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-marks-eliot-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-pauls-chapel-bremen",
@@ -4721,10 +4860,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.00147,
+"lon": -69.42866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-chapel-bremen-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-pauls-chapel-bremen-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-saviours-episcopal-church-bar-harbor",
@@ -4750,10 +4890,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.38758,
+"lon": -68.2039,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-saviours-episcopal-church-bar-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-saviours-episcopal-church-bar-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "saint-thomas-anglican-church-ellsworth",
@@ -4779,10 +4920,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.54341,
+"lon": -68.41946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/saint-thomas-anglican-church-ellsworth-me-estados-unidos-27520"
+"fuente_url": "https://encuentraiglesias.com/iglesia/saint-thomas-anglican-church-ellsworth-me-estados-unidos-27520",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "seacoast-community-church-eliot",
@@ -4808,10 +4950,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.15314,
+"lon": -70.80006,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/seacoast-community-church-eliot-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/seacoast-community-church-eliot-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "second-baptist-church-of-islesboro-islesboro",
@@ -4837,10 +4980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.30841,
+"lon": -68.90337,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-baptist-church-of-islesboro-islesboro-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-baptist-church-of-islesboro-islesboro-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "second-congregational-church-bangor",
@@ -4866,10 +5010,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-congregational-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-congregational-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "second-parish-orthodox-presbyterian-church-scarborough",
@@ -4895,10 +5040,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.57814,
+"lon": -70.32172,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/second-parish-orthodox-presbyterian-church-scarborough-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/second-parish-orthodox-presbyterian-church-scarborough-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sixth-street-congregational-church-auburn",
@@ -4924,10 +5070,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sixth-street-congregational-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sixth-street-congregational-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "skowhegan-foursquare-church-skowhegan",
@@ -4953,10 +5100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.76506,
+"lon": -69.71922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skowhegan-foursquare-church-skowhegan-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skowhegan-foursquare-church-skowhegan-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "skowhegan-orthodox-presbyterian-church-skowhegan",
@@ -4982,10 +5130,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.76506,
+"lon": -69.71922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/skowhegan-orthodox-presbyterian-church-skowhegan-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/skowhegan-orthodox-presbyterian-church-skowhegan-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-bridgton-congregational-church-burnham",
@@ -5011,10 +5160,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.69284,
+"lon": -69.42755,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-bridgton-congregational-church-burnham-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-bridgton-congregational-church-burnham-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-freeport-church-bustins-island",
@@ -5069,10 +5219,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.67952,
+"lon": -70.44422,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-gorham-baptist-church-gorham-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-gorham-baptist-church-gorham-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "south-parish-congregational-church-ucc-augusta",
@@ -5098,10 +5249,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/south-parish-congregational-church-ucc-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/south-parish-congregational-church-ucc-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "southport-united-methodist-church-isle-of-springs",
@@ -5185,10 +5337,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.41397,
+"lon": -68.58669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/spurwink-church-blue-hill-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/spurwink-church-blue-hill-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "squirrel-island-chapel-boothbay-harbor",
@@ -5214,10 +5367,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8523,
+"lon": -69.6281,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/squirrel-island-chapel-boothbay-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/squirrel-island-chapel-boothbay-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-andrew-lutheran-church-ellsworth",
@@ -5243,10 +5397,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.54341,
+"lon": -68.41946,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrew-lutheran-church-ellsworth-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-andrew-lutheran-church-ellsworth-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-annes-episcopal-church-calais",
@@ -5272,10 +5427,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 45.18376,
+"lon": -67.27662,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-annes-episcopal-church-calais-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-annes-episcopal-church-calais-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "st-francis-by-the-sea-blue-hill",
@@ -5301,10 +5457,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.41397,
+"lon": -68.58669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/st-francis-by-the-sea-blue-hill-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/st-francis-by-the-sea-blue-hill-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stevens-mill-church-auburn",
@@ -5330,10 +5487,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stevens-mill-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stevens-mill-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "stonington-methodist-church-stonington",
@@ -5359,10 +5517,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.15619,
+"lon": -68.66669,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/stonington-methodist-church-stonington-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/stonington-methodist-church-stonington-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "surry-united-methodist-church-surry",
@@ -5388,10 +5547,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.49591,
+"lon": -68.50169,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/surry-united-methodist-church-surry-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/surry-united-methodist-church-surry-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-church-at-209-augusta",
@@ -5417,10 +5577,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-at-209-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-church-at-209-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-little-brown-church-bristol",
@@ -5446,10 +5607,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.95758,
+"lon": -69.50921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-little-brown-church-bristol-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-little-brown-church-bristol-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-old-bowdoinham-meetinghouse-bowdoinham",
@@ -5475,10 +5637,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.01008,
+"lon": -69.89838,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-old-bowdoinham-meetinghouse-bowdoinham-me-estados-unidos-10222"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-old-bowdoinham-meetinghouse-bowdoinham-me-estados-unidos-10222",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-pursuit-church-glen-cove",
@@ -5504,10 +5667,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 40.86232,
+"lon": -73.63374,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-pursuit-church-glen-cove-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-pursuit-church-glen-cove-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-rock-church-of-old-town-bradley",
@@ -5533,10 +5697,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.9209,
+"lon": -68.62809,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-church-of-old-town-bradley-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-rock-church-of-old-town-bradley-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "the-white-church-bristol",
@@ -5562,10 +5727,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.95758,
+"lon": -69.50921,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/the-white-church-bristol-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/the-white-church-bristol-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "thomas-memorial-baptist-church-auburn",
@@ -5591,10 +5757,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/thomas-memorial-baptist-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/thomas-memorial-baptist-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tnt-bible-church-brunswick",
@@ -5620,10 +5787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tnt-bible-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tnt-bible-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "topsham-baptist-church-brunswick",
@@ -5649,10 +5817,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/topsham-baptist-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/topsham-baptist-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "topsham-seventh-day-adventist-church-brunswick",
@@ -5678,10 +5847,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/topsham-seventh-day-adventist-church-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/topsham-seventh-day-adventist-church-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "tremont-church-bass-harbor",
@@ -5736,10 +5906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.26592,
+"lon": -70.8645,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/tri-city-covenant-church-berwick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/tri-city-covenant-church-berwick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinitarian-congregational-parish-of-castine-brooksville",
@@ -5765,10 +5936,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.34674,
+"lon": -68.68364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinitarian-congregational-parish-of-castine-brooksville-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinitarian-congregational-parish-of-castine-brooksville-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "trinity-episcoal-church-brooksville",
@@ -5794,10 +5966,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.34674,
+"lon": -68.68364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-episcoal-church-brooksville-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/trinity-episcoal-church-brooksville-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "union-street-brick-church-bangor",
@@ -5823,10 +5996,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79884,
+"lon": -68.77265,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/union-street-brick-church-bangor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/union-street-brick-church-bangor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unitarian-universalist-church-of-brunswick-brunswick",
@@ -5852,10 +6026,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-church-of-brunswick-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-church-of-brunswick-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unitarian-universalist-community-church-augusta",
@@ -5881,10 +6056,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.31062,
+"lon": -69.77949,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-community-church-augusta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-community-church-augusta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unitarian-universalist-congregation-of-castine-brooksville",
@@ -5910,10 +6086,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.34674,
+"lon": -68.68364,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-congregation-of-castine-brooksville-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unitarian-universalist-congregation-of-castine-brooksville-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-baptist-church-of-madison-anson",
@@ -5939,10 +6116,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.79839,
+"lon": -69.88922,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-baptist-church-of-madison-anson-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-baptist-church-of-madison-anson-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-baptist-church-of-peru-dixfield",
@@ -5968,10 +6146,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.53395,
+"lon": -70.4559,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-baptist-church-of-peru-dixfield-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-baptist-church-of-peru-dixfield-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "united-baptist-church-of-topsham-brunswick",
@@ -5997,10 +6176,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91452,
+"lon": -69.96533,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/united-baptist-church-of-topsham-brunswick-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/united-baptist-church-of-topsham-brunswick-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "unity-bible-church-auburn",
@@ -6026,10 +6206,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.09785,
+"lon": -70.23117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/unity-bible-church-auburn-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/unity-bible-church-auburn-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "vesper-hill-childrens-chapel-camden",
@@ -6055,10 +6236,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.2098,
+"lon": -69.06476,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/vesper-hill-childrens-chapel-camden-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/vesper-hill-childrens-chapel-camden-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "water-of-life-lutheran-church-damariscotta",
@@ -6084,10 +6266,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.03286,
+"lon": -69.51866,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/water-of-life-lutheran-church-damariscotta-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/water-of-life-lutheran-church-damariscotta-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "way-side-chapel-long-island",
@@ -6142,10 +6325,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8048,
+"lon": -70.80117,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-baldwin-methodist-church-cornish-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-baldwin-methodist-church-cornish-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "west-parish-congregational-church-bethel",
@@ -6171,10 +6355,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 44.40423,
+"lon": -70.79062,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/west-parish-congregational-church-bethel-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/west-parish-congregational-church-bethel-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "wildwood-baptist-chapel-cape-porpoise",
@@ -6229,10 +6414,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.8523,
+"lon": -69.6281,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/wilson-memorial-chapel-boothbay-harbor-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/wilson-memorial-chapel-boothbay-harbor-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "winter-street-church-bath",
@@ -6258,9 +6444,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 43.91064,
+"lon": -69.8206,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/winter-street-church-bath-maine"
+"fuente_url": "https://encuentraiglesias.com/iglesia/winter-street-church-bath-maine",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

@@ -2111,10 +2111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.17944,
+"lon": -45.88694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/1a-igreja-batista-no-jardim-das-industrias-sao-jose-dos-campos-brasil-22864"
+"fuente_url": "https://encuentraiglesias.com/iglesia/1a-igreja-batista-no-jardim-das-industrias-sao-jose-dos-campos-brasil-22864",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "1a-igreja-bbatista",
@@ -2691,10 +2692,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.44417,
+"lon": -46.91778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/1a-igreja-presbiteriana-de-santana-de-parnaiba-santana-de-parnaiba-brasil-23432"
+"fuente_url": "https://encuentraiglesias.com/iglesia/1a-igreja-presbiteriana-de-santana-de-parnaiba-santana-de-parnaiba-brasil-23432",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "1a-igreja-presbiteriana-de-sarandi",
@@ -4837,10 +4839,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/4a-igreja-presbiteriana-independente-de-sorocaba-sorocaba-brasil-30735"
+"fuente_url": "https://encuentraiglesias.com/iglesia/4a-igreja-presbiteriana-independente-de-sorocaba-sorocaba-brasil-30735",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "4o-igreja-do-evangelho-quadrangular",
@@ -5243,10 +5246,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/5a-igreja-presbiteriana-independente-de-sorocaba-sorocaba-brasil-31324"
+"fuente_url": "https://encuentraiglesias.com/iglesia/5a-igreja-presbiteriana-independente-de-sorocaba-sorocaba-brasil-31324",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "60-salao-do-reino-das-testemunhas-de-jeova",
@@ -7070,10 +7074,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.83222,
+"lon": -46.81139,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ad-bras-ipe-cipo-embu-guacu-brasil-17086"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ad-bras-ipe-cipo-embu-guacu-brasil-17086",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ad-bras-madureira",
@@ -7157,10 +7162,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.62611,
+"lon": -46.79167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ad-bras-super-quadra-taboao-da-serra-brasil-17071"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ad-bras-super-quadra-taboao-da-serra-brasil-17071",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ad-braz",
@@ -18032,10 +18038,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-da-missao-jundiai-brasil-20187"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-da-missao-jundiai-brasil-20187",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-da-orla-charitas",
@@ -24528,10 +24535,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.65639,
+"lon": -47.2225,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-belem-ibiuna-brasil-35436"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-belem-ibiuna-brasil-35436",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-ministerio-belem-sao-jose-dos-campos",
@@ -24557,10 +24565,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.17944,
+"lon": -45.88694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-belem-sao-jose-dos-campos-brasil-3346"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-belem-sao-jose-dos-campos-brasil-3346",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-ministerio-betania",
@@ -25543,10 +25552,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.62028,
+"lon": -45.41306,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-de-santos-caraguatatuba-brasil-37033"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-de-santos-caraguatatuba-brasil-37033",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-ministerio-de-santos-guaruja",
@@ -25572,10 +25582,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.99306,
+"lon": -46.25639,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-de-santos-guaruja-brasil-24793"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-de-santos-guaruja-brasil-24793",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-ministerio-do-belem",
@@ -25717,10 +25728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.17944,
+"lon": -45.88694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-do-belem-sao-jose-dos-campos-brasil-37032"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-do-belem-sao-jose-dos-campos-brasil-37032",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-ministerio-dos-perus-sp",
@@ -25949,10 +25961,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-familia-sorocaba-brasil-30824"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleia-de-deus-ministerio-familia-sorocaba-brasil-30824",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleia-de-deus-ministerio-gileade",
@@ -33895,10 +33908,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.8091,
+"lon": -48.13096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/assembleias-de-deus-adtag-ceilandia-brasil-36938"
+"fuente_url": "https://encuentraiglesias.com/iglesia/assembleias-de-deus-adtag-ceilandia-brasil-36938",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "assembleiia-de-deus-buritizal",
@@ -34562,10 +34576,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.71694,
+"lon": -46.84917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/associacao-da-igreja-metodista-itapecerica-da-serra-brasil-34877"
+"fuente_url": "https://encuentraiglesias.com/iglesia/associacao-da-igreja-metodista-itapecerica-da-serra-brasil-34877",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "associacao-evangelica-jesus-cristo-vive",
@@ -40797,10 +40812,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.02639,
+"lon": -45.55528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-nossa-senhora-do-pilar-taubate-brasil-35929"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capela-de-nossa-senhora-do-pilar-taubate-brasil-35929",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capela-de-nossa-senhora-do-rosario",
@@ -56428,10 +56444,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -2.52972,
+"lon": -44.30278,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-das-minas-jeje-querebenta-toi-zomadonu-sao-luis-brasil-17042"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-das-minas-jeje-querebenta-toi-zomadonu-sao-luis-brasil-17042",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "casa-de-bencao-jesus",
@@ -59676,10 +59693,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ccb-congregacao-crista-no-brasil-sorocaba-brasil-31323"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ccb-congregacao-crista-no-brasil-sorocaba-brasil-31323",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ccb-congregacao-crista-no-brasil-vila-carol-sorocaba",
@@ -59705,10 +59723,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ccb-congregacao-crista-no-brasil-vila-carol-sorocaba-brasil-31211"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ccb-congregacao-crista-no-brasil-vila-carol-sorocaba-brasil-31211",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ccb-congregacao-crista-no-brasil-vila-kelly",
@@ -59763,10 +59782,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ccb-congregacao-crista-no-brasil-vila-olimpia-sorocaba-brasil-31308"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ccb-congregacao-crista-no-brasil-vila-olimpia-sorocaba-brasil-31308",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ccb-congregacao-crista-no-brasil-ze-preira",
@@ -67767,10 +67787,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-crista-vivendo-em-amor-sorocaba-brasil-31256"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-crista-vivendo-em-amor-sorocaba-brasil-31256",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidade-crista-zoe-itajai",
@@ -68782,10 +68803,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.02639,
+"lon": -45.55528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-do-evangelho-simples-taubate-brasil-32480"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-do-evangelho-simples-taubate-brasil-32480",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidade-do-reino",
@@ -72610,10 +72632,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -22.91944,
+"lon": -42.81861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-evangelica-tocar-te-marica-brasil-2650"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-evangelica-tocar-te-marica-brasil-2650",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidade-evangelica-trindade-de-ivoti",
@@ -73915,10 +73938,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.02639,
+"lon": -45.55528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-moria-taubate-brasil-33326"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-moria-taubate-brasil-33326",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidade-n-s-aparecida",
@@ -76177,10 +76201,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-sao-jose-operario-juazeiro-brasil-16971"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-sao-jose-operario-juazeiro-brasil-16971",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidade-sao-judas-tadeu",
@@ -76525,10 +76550,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-sao-sebastiao-juazeiro-brasil-17015"
+"fuente_url": "https://encuentraiglesias.com/iglesia/comunidade-sao-sebastiao-juazeiro-brasil-17015",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "comunidade-sao-vicente-de-paulo",
@@ -80730,10 +80756,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.64889,
+"lon": -46.85222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacao-crista-no-brasil-embu-das-artes-brasil-22990"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacao-crista-no-brasil-embu-das-artes-brasil-22990",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacao-crista-no-brasil-engenheiro-marsilac",
@@ -81339,10 +81366,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -24.715,
+"lon": -47.88111,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/congregacao-crista-no-brasil-pariquera-acu-brasil-29599"
+"fuente_url": "https://encuentraiglesias.com/iglesia/congregacao-crista-no-brasil-pariquera-acu-brasil-29599",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "congregacao-crista-no-brasil-parque-centenario-saltinho-campinas",
@@ -84935,10 +84963,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.60333,
+"lon": -47.02639,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-center-church-vargem-grande-paulista-brasil-34844"
+"fuente_url": "https://encuentraiglesias.com/iglesia/cristo-center-church-vargem-grande-paulista-brasil-34844",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "cristo-do-sao-bento",
@@ -94012,10 +94041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.02972,
+"lon": -46.97528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iasd-von-zuben-vinhedo-brasil-30348"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iasd-von-zuben-vinhedo-brasil-30348",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iave-samah",
@@ -94186,10 +94216,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.02972,
+"lon": -46.97528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ibaviva-vinhedo-brasil-35277"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ibaviva-vinhedo-brasil-35277",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ibb-igreja-batista-betesda-missao-santo-amaro",
@@ -96477,10 +96508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.44417,
+"lon": -46.91778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ieq-parque-santana-santana-de-parnaiba-brasil-17166"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ieq-parque-santana-santana-de-parnaiba-brasil-17166",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ieq-pr-celio",
@@ -101117,10 +101149,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -25.51626,
+"lon": -48.52537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-alexandra-paranagua-brasil-37039"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-alexandra-paranagua-brasil-37039",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-adventista-do-setimo-dia-alto-paraiso",
@@ -103901,10 +103934,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.60389,
+"lon": -46.91917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-iasd-cotia-brasil-35257"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-iasd-cotia-brasil-35257",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-adventista-do-setimo-dia-ipiranga",
@@ -104771,10 +104805,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-novo-tempo-juazeiro-brasil-37308"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-novo-tempo-juazeiro-brasil-37308",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-adventista-do-setimo-dia-oeiras",
@@ -104945,10 +104980,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-sao-bento-sorocaba-brasil-33931"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-adventista-do-setimo-dia-sao-bento-sorocaba-brasil-33931",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-adventista-do-setimo-dia-sao-joao",
@@ -109063,10 +109099,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-apostolica-leao-de-juda-jundiai-brasil-19904"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-apostolica-leao-de-juda-jundiai-brasil-19904",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-apostolica-mais",
@@ -118749,10 +118786,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -25.51626,
+"lon": -48.52537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-alexandra-paranagua-brasil-17012"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-alexandra-paranagua-brasil-17012",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-alianca-da-graca",
@@ -119068,10 +119106,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -26.24333,
+"lon": -48.63806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-angelim-do-sul-sao-francisco-do-sul-brasil-17170"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-angelim-do-sul-sao-francisco-do-sul-brasil-17170",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-apostolica-gileade-ibag",
@@ -120054,10 +120093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -22.97056,
+"lon": -46.99583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-biblica-da-vitoria-valinhos-brasil-24531"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-biblica-da-vitoria-valinhos-brasil-24531",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-biblica-de-caruaru",
@@ -120866,10 +120906,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-casa-de-deus-jundiai-brasil-22698"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-casa-de-deus-jundiai-brasil-22698",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-casa-de-oracao",
@@ -122055,10 +122096,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.60389,
+"lon": -46.91917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-cotia-cotia-brasil-22816"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-cotia-cotia-brasil-22816",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-cristo-vive",
@@ -123215,10 +123257,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-da-palavra-jundiai-brasil-20104"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-da-palavra-jundiai-brasil-20104",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-da-paz",
@@ -123476,10 +123519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -21.75227,
+"lon": -41.33044,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-da-promessa-campos-dos-goytacazes-brasil-17097"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-da-promessa-campos-dos-goytacazes-brasil-17097",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-da-recanto-verde",
@@ -123534,10 +123578,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-da-redencao-jundiai-brasil-19903"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-da-redencao-jundiai-brasil-19903",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-da-restauracao",
@@ -128609,10 +128654,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.19139,
+"lon": -39.49528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-em-jussari-jussari-brasil-16956"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-em-jussari-jussari-brasil-16956",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-em-lagoa-do-badico",
@@ -129102,10 +129148,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.675,
+"lon": -38.94722,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-em-poxim-do-sul-canavieiras-brasil-17008"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-em-poxim-do-sul-canavieiras-brasil-17008",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-em-prosperidade",
@@ -132350,10 +132397,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-memorial-de-jundiai-jundiai-brasil-20098"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-memorial-de-jundiai-jundiai-brasil-20098",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-memorial-de-osasco",
@@ -135511,10 +135559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -22.91944,
+"lon": -42.81861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-oceanica-de-itaipuacu-marica-brasil-36163"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-oceanica-de-itaipuacu-marica-brasil-36163",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-odre-novo",
@@ -136062,10 +136111,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -19.96778,
+"lon": -44.19833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-pentecostal-rocha-viva-betim-brasil-16905"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-pentecostal-rocha-viva-betim-brasil-16905",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-pentecostal-vale-de-bencaos",
@@ -138585,10 +138635,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -10.855,
+"lon": -37.12611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-siloe-nossa-senhora-do-socorro-brasil-31333"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-siloe-nossa-senhora-do-socorro-brasil-31333",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-sinai",
@@ -139368,10 +139419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-yaweh-shamah-juazeiro-brasil-16916"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-yaweh-shamah-juazeiro-brasil-16916",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batista-yerushalaim-juazeiro",
@@ -139397,10 +139449,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-yerushalaim-juazeiro-brasil-37309"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batista-yerushalaim-juazeiro-brasil-37309",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batistasao-vicente",
@@ -139455,10 +139508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.08917,
+"lon": -42.80194,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batistavida-nova-teresina-brasil-37134"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-batistavida-nova-teresina-brasil-37134",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-batitsa-de-cajati",
@@ -141485,10 +141539,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-caminho-da-restauracao-sorocaba-brasil-32728"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-caminho-da-restauracao-sorocaba-brasil-32728",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-caminho-pentecostal",
@@ -143428,10 +143483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-comunidade-da-graca-sorocaba-brasil-30853"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-comunidade-da-graca-sorocaba-brasil-30853",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-comunidade-das-nacoes",
@@ -144153,10 +144209,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.1425,
+"lon": -39.72444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-congregacao-batista-itaju-do-colonia-brasil-16961"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-congregacao-batista-itaju-do-colonia-brasil-16961",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-congregacao-batista-renovada",
@@ -144501,10 +144558,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.54583,
+"lon": -47.18333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-congregacao-crista-do-brasil-mairinque-brasil-32684"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-congregacao-crista-do-brasil-mairinque-brasil-32684",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-congregacao-crista-no-brasil",
@@ -150243,10 +150301,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -22.65278,
+"lon": -43.04056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-crista-rocha-firme-mage-brasil-37135"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-crista-rocha-firme-mage-brasil-37135",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-crista-sacerdocio-santo",
@@ -153955,10 +154014,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.60389,
+"lon": -46.91917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-da-restauracao-cotia-brasil-22925"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-da-restauracao-cotia-brasil-22925",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-da-restituicao",
@@ -154245,10 +154305,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.52806,
+"lon": -46.34472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-da-uniao-e-perseveranca-poa-brasil-21897"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-da-uniao-e-perseveranca-poa-brasil-21897",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-da-vida",
@@ -157986,10 +158047,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.10083,
+"lon": -45.70694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-de-missoes-ensina-me-cacapava-brasil-24712"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-de-missoes-ensina-me-cacapava-brasil-24712",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-de-missoes-mundiais-do-brasil",
@@ -167353,10 +167415,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-evangelho-quadrangular-jardim-iguatemi-sorocaba-brasil-32800"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-evangelho-quadrangular-jardim-iguatemi-sorocaba-brasil-32800",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-do-evangelho-quadrangular-obra-nova-afonso-pena",
@@ -167411,10 +167474,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -19.96778,
+"lon": -44.19833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-evangelho-quadrangular-santa-cruz-betim-brasil-16906"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-evangelho-quadrangular-santa-cruz-betim-brasil-16906",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-do-evangelho-quadrangular-sede-35-regiao",
@@ -167701,10 +167765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.52278,
+"lon": -46.18833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-evangelho-quadriangular-mogi-das-cruzes-brasil-21956"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-evangelho-quadriangular-mogi-das-cruzes-brasil-21956",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-do-evangelho-quandragular",
@@ -168890,10 +168955,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -22.97056,
+"lon": -46.99583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-nazareno-de-valinhos-valinhos-brasil-23349"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-nazareno-de-valinhos-valinhos-brasil-23349",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-do-nazareno-em-sobradinho",
@@ -170456,10 +170522,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-sao-geraldo-juazeiro-brasil-16973"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-do-sao-geraldo-juazeiro-brasil-16973",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-do-sao-jose",
@@ -171877,10 +171944,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.06944,
+"lon": -42.475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-em-caetite-comunidade-crista-caetite-brasil-2261"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-em-caetite-comunidade-crista-caetite-brasil-2261",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-em-celula-da-restauracao",
@@ -173617,10 +173685,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelho-quadrangular-jundiai-brasil-20928"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelho-quadrangular-jundiai-brasil-20928",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelia",
@@ -184086,10 +184155,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.26417,
+"lon": -47.29917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-de-pinheiros-em-itu-itu-brasil-862"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-de-pinheiros-em-itu-itu-brasil-862",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelica-de-testo-salto",
@@ -184289,10 +184359,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-deus-e-poder-sorocaba-brasil-31134"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-deus-e-poder-sorocaba-brasil-31134",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelica-deus-esta-neste-lugar",
@@ -190843,10 +190914,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.04972,
+"lon": -47.83667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-o-brasil-para-cristo-laranjal-paulista-brasil-4379"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-o-brasil-para-cristo-laranjal-paulista-brasil-4379",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelica-o-brasil-para-jesus-cristo",
@@ -192757,10 +192829,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.06944,
+"lon": -42.475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-pentescostal-cordeiro-de-deus-caetite-brasil-17172"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-pentescostal-cordeiro-de-deus-caetite-brasil-17172",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelica-pentescostal-em-obra-de-libertacao-iepol-mendanha",
@@ -194410,10 +194483,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.415,
+"lon": -46.035,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-semear-guararema-brasil-31327"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-semear-guararema-brasil-31327",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelica-sermao-da-montanha",
@@ -195135,10 +195209,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -24.18306,
+"lon": -46.78889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-testemunho-vivo-itanhaem-brasil-36460"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-evangelica-testemunho-vivo-itanhaem-brasil-36460",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-evangelica-thissaleia",
@@ -196904,10 +196979,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.5275,
+"lon": -46.9025,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-fogo-puro-jandira-brasil-4331"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-fogo-puro-jandira-brasil-4331",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-fonte-da-agua-viva",
@@ -203313,10 +203389,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.17944,
+"lon": -45.88694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-luterana-no-vale-do-paraiba-sao-jose-dos-campos-brasil-33847"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-luterana-no-vale-do-paraiba-sao-jose-dos-campos-brasil-33847",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-luterana-novo-encantado",
@@ -214043,10 +214120,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -9.41167,
+"lon": -40.49861,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-missao-de-siloe-juazeiro-brasil-37333"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-missao-de-siloe-juazeiro-brasil-37333",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-missao-do-bom-pastor",
@@ -214507,10 +214585,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.02639,
+"lon": -45.55528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-missionaria-adorai-taubate-brasil-24249"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-missionaria-adorai-taubate-brasil-24249",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-missionaria-assembleia-de-deus",
@@ -226542,10 +226621,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -29.95917,
+"lon": -51.72222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-canaa-celestial-sao-jeronimo-brasil-37370"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-canaa-celestial-sao-jeronimo-brasil-37370",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-pentecostal-carruagem-de-fogo",
@@ -229007,10 +229087,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.06944,
+"lon": -42.475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-eu-sou-o-senhor-teu-deus-caetite-brasil-2373"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-eu-sou-o-senhor-teu-deus-caetite-brasil-2373",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-pentecostal-evangelho-de-cristo",
@@ -230109,10 +230190,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.5425,
+"lon": -46.31083,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-jesus-disse-suzano-brasil-30279"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-jesus-disse-suzano-brasil-30279",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-pentecostal-jesus-e-a-estrela-da-manha",
@@ -230544,10 +230626,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.60389,
+"lon": -46.91917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-mensagem-de-cristo-cotia-brasil-23920"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-pentecostal-mensagem-de-cristo-cotia-brasil-23920",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-pentecostal-mensagem-de-cristo-no-brasil",
@@ -237214,10 +237297,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -24.18306,
+"lon": -46.78889,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-central-de-itanhaem-itanhaem-brasil-16255"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-central-de-itanhaem-itanhaem-brasil-16255",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-central-de-londrina",
@@ -238606,10 +238690,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.52278,
+"lon": -46.18833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-de-cesar-de-souza-mogi-das-cruzes-brasil-24362"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-de-cesar-de-souza-mogi-das-cruzes-brasil-24362",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-de-chapada-dos-guimaraes",
@@ -240230,10 +240315,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -20.81972,
+"lon": -49.37944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-de-sao-jose-do-rio-preto-sao-jose-do-rio-preto-brasil-35636"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-de-sao-jose-do-rio-preto-sao-jose-do-rio-preto-brasil-35636",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-de-sao-luis",
@@ -240578,10 +240664,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.54667,
+"lon": -47.43778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-de-votorantim-votorantim-brasil-31322"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-de-votorantim-votorantim-brasil-31322",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-do-bairro-varginha",
@@ -241506,10 +241593,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.795,
+"lon": -35.20944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-do-brasil-parque-dos-coqueiros-natal-brasil-17128"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-do-brasil-parque-dos-coqueiros-natal-brasil-17128",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-do-butanta",
@@ -241999,10 +242087,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.51056,
+"lon": -46.87611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-do-jardim-tupa-barueri-brasil-36260"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-do-jardim-tupa-barueri-brasil-36260",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-do-morro-chato",
@@ -244986,10 +245075,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.48972,
+"lon": -48.41278,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-renovada-angatuba-brasil-17127"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-presbiteriana-renovada-angatuba-brasil-17127",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-presbiteriana-renovada-congregacao-guaiapo",
@@ -255165,10 +255255,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -3.71722,
+"lon": -38.54306,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-senhor-dos-exercitos-fortaleza-brasil-17201"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-senhor-dos-exercitos-fortaleza-brasil-17201",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-senhor-justica-nossa",
@@ -258761,10 +258852,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.17944,
+"lon": -45.88694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-universal-do-reino-de-deus-sao-jose-dos-campos-brasil-2495"
+"fuente_url": "https://encuentraiglesias.com/iglesia/igreja-universal-do-reino-de-deus-sao-jose-dos-campos-brasil-2495",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "igreja-universal-do-reino-de-deus-templo-tibiri-ii",
@@ -262560,10 +262652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/imel-sorocaba-igreja-metodista-livre-concilio-nikkei-sorocaba-brasil-31158"
+"fuente_url": "https://encuentraiglesias.com/iglesia/imel-sorocaba-igreja-metodista-livre-concilio-nikkei-sorocaba-brasil-31158",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "imepe-sorocaba",
@@ -262589,10 +262682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/imepe-sorocaba-brasil-31309"
+"fuente_url": "https://encuentraiglesias.com/iglesia/imepe-sorocaba-brasil-31309",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "imf-igreja-m-familia",
@@ -265460,10 +265554,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/liberdade-crista-jundiai-brasil-19933"
+"fuente_url": "https://encuentraiglesias.com/iglesia/liberdade-crista-jundiai-brasil-19933",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "linha-18",
@@ -267780,10 +267875,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -16.18361,
+"lon": -40.69444,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/loja-maconica-torre-de-vigia-no-1580-almenara-brasil-37093"
+"fuente_url": "https://encuentraiglesias.com/iglesia/loja-maconica-torre-de-vigia-no-1580-almenara-brasil-37093",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "loja-maconica-uniao-constante",
@@ -268737,10 +268833,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.97563,
+"lon": -38.49096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/maisn-ministerio-apostolico-internacional-salvar-nacoes-salvador-brasil-17032"
+"fuente_url": "https://encuentraiglesias.com/iglesia/maisn-ministerio-apostolico-internacional-salvar-nacoes-salvador-brasil-17032",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "mana",
@@ -271550,10 +271647,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-chama-sorocaba-brasil-24777"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-chama-sorocaba-brasil-24777",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-chamas-do-santo-espirito",
@@ -272391,10 +272489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-evangelico-arden-anunciando-o-reino-de-deus-as-nacoes-sorocaba-brasil-17103"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-evangelico-arden-anunciando-o-reino-de-deus-as-nacoes-sorocaba-brasil-17103",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-evangelico-palavra-de-vida",
@@ -274305,10 +274404,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-plataforma-de-adoracao-sorocaba-brasil-31192"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-plataforma-de-adoracao-sorocaba-brasil-31192",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-primicias",
@@ -274392,10 +274492,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 0.03889,
+"lon": -51.06639,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-profetico-da-adoracao-macapa-brasil-37334"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-profetico-da-adoracao-macapa-brasil-37334",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "ministerio-promessa",
@@ -275175,10 +275276,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.50167,
+"lon": -47.45806,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-yahweh-shammah-sorocaba-brasil-17017"
+"fuente_url": "https://encuentraiglesias.com/iglesia/ministerio-yahweh-shammah-sorocaba-brasil-17017",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "minsterio-agape",
@@ -280859,10 +280961,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -25.51626,
+"lon": -48.52537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/oitava-igreja-do-evangelho-quadrangular-paranagua-brasil-17014"
+"fuente_url": "https://encuentraiglesias.com/iglesia/oitava-igreja-do-evangelho-quadrangular-paranagua-brasil-17014",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "oitava-igreja-presbiteriana",
@@ -281526,10 +281629,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.18639,
+"lon": -46.88417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/p4-church-igreja-protestante-jundiai-brasil-29549"
+"fuente_url": "https://encuentraiglesias.com/iglesia/p4-church-igreja-protestante-jundiai-brasil-29549",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "padre-belisario",
@@ -286253,10 +286357,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.97563,
+"lon": -38.49096,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-fazenda-grande-do-retiro-salvador-brasil-16909"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-fazenda-grande-do-retiro-salvador-brasil-16909",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-de-filadelfia",
@@ -286340,10 +286445,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.32167,
+"lon": -46.72694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-franco-da-rocha-franco-da-rocha-brasil-30987"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-franco-da-rocha-franco-da-rocha-brasil-30987",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-de-gandu",
@@ -286601,10 +286707,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -11.31667,
+"lon": -38.23333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-itapicuru-itapicuru-brasil-16918"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-itapicuru-itapicuru-brasil-16918",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-de-itapira",
@@ -286659,10 +286766,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.42278,
+"lon": -39.565,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-itapitanga-itapitanga-brasil-16950"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-de-itapitanga-itapitanga-brasil-16950",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-de-itororo",
@@ -288950,10 +289058,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.36417,
+"lon": -46.74056,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-caieiras-caieiras-brasil-30988"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-caieiras-caieiras-brasil-30988",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-em-cairu",
@@ -289675,10 +289784,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.28167,
+"lon": -46.74528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-francisco-morato-francisco-morato-brasil-30986"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-francisco-morato-francisco-morato-brasil-30986",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-em-frexeiras",
@@ -290806,10 +290916,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -22.96611,
+"lon": -42.02778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-monte-alto-arraial-do-cabo-brasil-1182"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-monte-alto-arraial-do-cabo-brasil-1182",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-em-monte-cristo",
@@ -291444,10 +291555,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -15.59472,
+"lon": -39.87667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-potiragua-potiragua-brasil-16984"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-batista-em-potiragua-potiragua-brasil-16984",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-batista-em-presidente-kennedy",
@@ -293619,10 +293731,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.52272,
+"lon": -46.835,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-presbiteriana-independente-de-carapicuiba-carapicuiba-brasil-24186"
+"fuente_url": "https://encuentraiglesias.com/iglesia/primeira-igreja-presbiteriana-independente-de-carapicuiba-carapicuiba-brasil-24186",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primeira-igreja-presbiteriana-independente-de-maringa",
@@ -296258,10 +296371,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.71694,
+"lon": -46.84917,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/restaurando-vidas-itapecerica-da-serra-brasil-34883"
+"fuente_url": "https://encuentraiglesias.com/iglesia/restaurando-vidas-itapecerica-da-serra-brasil-34883",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "restaurar-igreja-evangelica",
@@ -301420,10 +301534,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.23246,
+"lon": -44.78164,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/sede-assembleia-de-deus-nacao-madureira-bacabal-brasil-37363"
+"fuente_url": "https://encuentraiglesias.com/iglesia/sede-assembleia-de-deus-nacao-madureira-bacabal-brasil-37363",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "sede-do-ministerio-evangelico-palavra-de-vida",
@@ -306553,10 +306668,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.30528,
+"lon": -45.96583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-da-vida-jacarei-brasil-24173"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-da-vida-jacarei-brasil-24173",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-das-aguias",
@@ -307481,10 +307597,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.07444,
+"lon": -44.95972,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-luz-do-oracao-cunha-brasil-34161"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-luz-do-oracao-cunha-brasil-34161",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-macom-razao-e-lealdade",
@@ -309482,10 +309599,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -23.21139,
+"lon": -46.82833,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/universal-do-reino-de-deus-552-varzea-paulista-brasil-19922"
+"fuente_url": "https://encuentraiglesias.com/iglesia/universal-do-reino-de-deus-552-varzea-paulista-brasil-19922",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "universal-do-reino-de-deus-missionario",

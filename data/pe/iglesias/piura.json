@@ -23,10 +23,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-iglesia-del-nazareno-chililique-alto-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/asociacion-iglesia-del-nazareno-chililique-alto-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-apostol-san-andres-locuto-tambo-grande",
@@ -52,10 +53,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.92694,
+"lon": -80.34472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-apostol-san-andres-locuto-tambo-grande-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-apostol-san-andres-locuto-tambo-grande-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-carrasquillo-la-matanza",
@@ -81,10 +83,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.21334,
+"lon": -80.09149,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-carrasquillo-la-matanza-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-carrasquillo-la-matanza-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-fatima-chulucanas",
@@ -110,10 +113,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-fatima-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-fatima-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-carmen-catacaos",
@@ -139,10 +143,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.26667,
+"lon": -80.68333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-carmen-catacaos-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-carmen-catacaos-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-senor-cautivo-chulucanas",
@@ -168,10 +173,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-senor-cautivo-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-senor-cautivo-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-divina-misericordia-castilla",
@@ -255,10 +261,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-km-50-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-km-50-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-laynas-la-matanza",
@@ -284,10 +291,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.21334,
+"lon": -80.09149,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-laynas-la-matanza-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-laynas-la-matanza-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-maria-goretti-castilla",
@@ -342,10 +350,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.1868,
+"lon": -79.97076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-piedra-del-toro-morropon-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-piedra-del-toro-morropon-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-polvazal-morropon",
@@ -371,10 +380,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.1868,
+"lon": -79.97076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-polvazal-morropon-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-polvazal-morropon-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-religiosa-la-encantada-chulucanas",
@@ -400,10 +410,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-religiosa-la-encantada-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-religiosa-la-encantada-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-francisco-paccha-chulucanas",
@@ -429,10 +440,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-francisco-paccha-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-francisco-paccha-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-martin-de-porras-buenos-aires",
@@ -458,10 +470,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.2671,
+"lon": -79.96759,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-martin-de-porras-buenos-aires-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-martin-de-porras-buenos-aires-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-santa-rosa-morropon",
@@ -487,10 +500,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.1868,
+"lon": -79.97076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-rosa-morropon-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santa-rosa-morropon-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-senor-de-los-milagros-castilla",
@@ -545,10 +559,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.92694,
+"lon": -80.34472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-oracion-iglesia-del-nazareno-tambo-grande-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/casa-de-oracion-iglesia-del-nazareno-tambo-grande-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-la-menta-las-lomas",
@@ -574,10 +589,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.65333,
+"lon": -80.24667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-la-menta-las-lomas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-la-menta-las-lomas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-bautista-gracia-divina-castilla",
@@ -661,10 +677,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-casa-de-oracion-paccha-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-casa-de-oracion-paccha-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-presencia-de-dios-castilla",
@@ -748,10 +765,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.10778,
+"lon": -81.0475,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestro-senor-jesucristo-mancora-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-nuestro-senor-jesucristo-mancora-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-panecillo-chulucanas",
@@ -777,10 +795,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-panecillo-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-panecillo-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pablito-antiguo-las-pampas",
@@ -835,10 +854,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazarano-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-nazarano-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-nazareno-movimiento-de-santidad-castilla",
@@ -893,10 +913,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.83778,
+"lon": -80.64556,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-poder-del-espiritu-santo-querecotillo-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-el-poder-del-espiritu-santo-querecotillo-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-apostolica-del-nombre-de-jesus-chulucanas",
@@ -922,10 +943,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-apostolica-del-nombre-de-jesus-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-apostolica-del-nombre-de-jesus-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-casa-de-oracion-chulucanas",
@@ -951,10 +973,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-oracion-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-casa-de-oracion-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-cristiana-de-las-asambleas-de-dios-del-peru-canchaque",
@@ -980,10 +1003,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.37601,
+"lon": -79.60983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-de-las-asambleas-de-dios-del-peru-canchaque-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-cristiana-de-las-asambleas-de-dios-del-peru-canchaque-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-jesucristo-la-unica-esperanza-pacaipampa",
@@ -1009,10 +1033,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.99502,
+"lon": -79.66773,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-jesucristo-la-unica-esperanza-pacaipampa-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-jesucristo-la-unica-esperanza-pacaipampa-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-manatial-de-vida-las-lomas",
@@ -1038,10 +1063,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.65333,
+"lon": -80.24667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-manatial-de-vida-las-lomas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-manatial-de-vida-las-lomas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-franciscana-san-juan-bautista-de-canchaque-canchaque",
@@ -1067,10 +1093,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.37601,
+"lon": -79.60983,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-franciscana-san-juan-bautista-de-canchaque-canchaque-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-franciscana-san-juan-bautista-de-canchaque-canchaque-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-hermosa-querecotillo",
@@ -1096,10 +1123,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.83778,
+"lon": -80.64556,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-hermosa-querecotillo-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-hermosa-querecotillo-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-maria-auxiliadora-castilla",
@@ -1154,10 +1182,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.65333,
+"lon": -80.24667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuestro-senor-de-la-misericordia-las-lomas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nuestro-senor-de-la-misericordia-las-lomas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-pentecostal-la-cosecha-piura-castilla",
@@ -1212,10 +1241,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.92694,
+"lon": -80.34472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-andres-apostol-tambo-grande-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-andres-apostol-tambo-grande-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-fernando-chalaco-chalaco",
@@ -1241,10 +1271,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.40855,
+"lon": -80.76138,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-fernando-chalaco-chalaco-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-fernando-chalaco-chalaco-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-francisco-de-asis-el-carmen-de-la-frontera",
@@ -1299,10 +1330,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.1868,
+"lon": -79.97076,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-isidro-morropon-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-isidro-morropon-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-sebastian-yapatera-chulucanas",
@@ -1328,10 +1360,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.0925,
+"lon": -80.1625,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-yapatera-chulucanas-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-sebastian-yapatera-chulucanas-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santisima-cruz-pueblo-nuevo-de-colan",
@@ -1386,10 +1419,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.90389,
+"lon": -80.68528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-cautivo-el-obrero-sullana-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-cautivo-el-obrero-sullana-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "jesus-de-nzareth-nuevo-paraiso",
@@ -1444,10 +1478,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.92694,
+"lon": -80.34472,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/obra-evangelica-luz-del-mundo-tambo-grande-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/obra-evangelica-luz-del-mundo-tambo-grande-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "salon-del-reino-de-los-testigos-de-jehova-sullana",
@@ -1473,10 +1508,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -4.90389,
+"lon": -80.68528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jehova-sullana-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/salon-del-reino-de-los-testigos-de-jehova-sullana-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "san-juan-bautista-catacaos",
@@ -1502,10 +1538,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -5.26667,
+"lon": -80.68333,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-bautista-catacaos-piura"
+"fuente_url": "https://encuentraiglesias.com/iglesia/san-juan-bautista-catacaos-piura",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "santa-rosa-de-lima-lancones",

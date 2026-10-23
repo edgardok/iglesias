@@ -52,10 +52,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/auditorio-de-rosasani-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/auditorio-de-rosasani-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-alta-de-chucchucalla-senor-de-los-milagros-yanaoca",
@@ -81,10 +82,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-alta-de-chucchucalla-senor-de-los-milagros-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-alta-de-chucchucalla-senor-de-los-milagros-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-antigua-de-tarabamba-urubamba",
@@ -110,10 +112,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.30472,
+"lon": -72.11583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-antigua-de-tarabamba-urubamba-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-antigua-de-tarabamba-urubamba-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-chucchucalla-central-san-pedro-y-pablo-yanaoca",
@@ -139,10 +142,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chucchucalla-central-san-pedro-y-pablo-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chucchucalla-central-san-pedro-y-pablo-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-chuchuccaya-bajo-santisima-cruz-yanaoca",
@@ -168,10 +172,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chuchuccaya-bajo-santisima-cruz-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-chuchuccaya-bajo-santisima-cruz-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-ccochapata-tupac-amaru",
@@ -197,10 +202,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-ccochapata-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-ccochapata-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-chicnayhua-yanaoca",
@@ -226,10 +232,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-chicnayhua-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-chicnayhua-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-consabamba-checca",
@@ -255,10 +262,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.47351,
+"lon": -71.39426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-consabamba-checca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-consabamba-checca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-hilanaca-tinta",
@@ -284,10 +292,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.145,
+"lon": -71.40694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-hilanaca-tinta-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-hilanaca-tinta-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-kayno-san-antonio-livitaca",
@@ -313,10 +322,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-kayno-san-antonio-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-kayno-san-antonio-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-laymi-yanaoca",
@@ -342,10 +352,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-laymi-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-laymi-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-llalla-tupac-amaru",
@@ -371,10 +382,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-llalla-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-llalla-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-llankama-chico-livitaca",
@@ -400,10 +412,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-llankama-chico-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-llankama-chico-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-machacollo-b-tupac-amaru",
@@ -429,10 +442,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-machacollo-b-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-machacollo-b-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-pampamarca-pampamarca",
@@ -458,10 +472,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.14639,
+"lon": -71.45944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-pampamarca-pampamarca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-pampamarca-pampamarca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-parccoma-checca",
@@ -487,10 +502,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.47351,
+"lon": -71.39426,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-parccoma-checca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-parccoma-checca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-pataquena-livitaca",
@@ -516,10 +532,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-pataquena-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-pataquena-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-puca-puca-yanaoca",
@@ -545,10 +562,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-puca-puca-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-puca-puca-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-qquecha-qquecha-stma-cruz-3-de-mayo-yanaoca",
@@ -574,10 +592,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.21806,
+"lon": -71.43167,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-qquecha-qquecha-stma-cruz-3-de-mayo-yanaoca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-qquecha-qquecha-stma-cruz-3-de-mayo-yanaoca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-sayangara-livitaca",
@@ -603,10 +622,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-sayangara-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-sayangara-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-surimana-tupac-amaru",
@@ -632,10 +652,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-surimana-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-surimana-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-tankarpata-san-sebastian",
@@ -661,10 +682,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.53138,
+"lon": -71.93143,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-tankarpata-san-sebastian-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-tankarpata-san-sebastian-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-toccocori-tupac-amaru",
@@ -690,10 +712,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-toccocori-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-toccocori-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-totora-livitaca",
@@ -719,10 +742,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-totora-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-totora-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-tungasuca-tupac-amaru",
@@ -748,10 +772,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.71135,
+"lon": -76.1498,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-tungasuca-tupac-amaru-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-tungasuca-tupac-amaru-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-de-zarzuela-santiago",
@@ -777,10 +802,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.52728,
+"lon": -71.9843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-zarzuela-santiago-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-de-zarzuela-santiago-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-del-senor-de-muruhuay-yucay",
@@ -806,10 +832,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.32139,
+"lon": -72.08222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-senor-de-muruhuay-yucay-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-del-senor-de-muruhuay-yucay-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-malaga-ollantaytambo",
@@ -835,10 +862,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.25722,
+"lon": -72.26306,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-malaga-ollantaytambo-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-malaga-ollantaytambo-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-nino-samachina-ollantaytambo",
@@ -864,10 +892,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.25722,
+"lon": -72.26306,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nino-samachina-ollantaytambo-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-nino-samachina-ollantaytambo-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-pequenita-acopia",
@@ -893,10 +922,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.05793,
+"lon": -71.49307,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-pequenita-acopia-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-pequenita-acopia-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-quinsacucho-urubamba",
@@ -922,10 +952,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.30472,
+"lon": -72.11583,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-quinsacucho-urubamba-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-quinsacucho-urubamba-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-antonio-abad-santiago",
@@ -951,10 +982,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.52728,
+"lon": -71.9843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-antonio-abad-santiago-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-san-antonio-abad-santiago-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-san-juan-de-dios-cuzco",
@@ -1009,10 +1041,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.335,
+"lon": -72.15667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santisima-cruz-maras-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/capilla-santisima-cruz-maras-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "capilla-tintinco-sr-coyllur-riti-chillihuani",
@@ -1067,10 +1100,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.36462,
+"lon": -71.9205,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/centro-pastoral-san-vicente-de-paul-lamay-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/centro-pastoral-san-vicente-de-paul-lamay-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iasd-arco-tica-tica-cuzco",
@@ -1125,10 +1159,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.53138,
+"lon": -71.93143,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iep-san-antonio-san-sebastian-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iep-san-antonio-san-sebastian-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-conde-pampa-santo-tomas",
@@ -1154,10 +1189,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.44556,
+"lon": -72.08417,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-conde-pampa-santo-tomas-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-conde-pampa-santo-tomas-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-adventista-del-septimo-dia-de-pavayoc-santa-ana",
@@ -1183,10 +1219,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -12.86667,
+"lon": -72.71667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-de-pavayoc-santa-ana-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-adventista-del-septimo-dia-de-pavayoc-santa-ana-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-colonial-de-chinchero-chinchero",
@@ -1212,10 +1249,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.39222,
+"lon": -72.04778,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-colonial-de-chinchero-chinchero-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-colonial-de-chinchero-chinchero-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-evangelica-combapata-combapata",
@@ -1241,10 +1279,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.10111,
+"lon": -71.42944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-combapata-combapata-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-evangelica-combapata-combapata-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-el-triunfo-santiago",
@@ -1270,10 +1309,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.52728,
+"lon": -71.9843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-triunfo-santiago-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-el-triunfo-santiago-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pampa-ansa-sicuani",
@@ -1299,10 +1339,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.26944,
+"lon": -71.22611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pampa-ansa-sicuani-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pampa-ansa-sicuani-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-bartolome-de-tinta-tinta",
@@ -1328,10 +1369,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.145,
+"lon": -71.40694,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-bartolome-de-tinta-tinta-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-bartolome-de-tinta-tinta-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-cristobal-santiago",
@@ -1357,10 +1399,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.52728,
+"lon": -71.9843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cristobal-santiago-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-cristobal-santiago-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-francisco-de-asis-maras",
@@ -1386,10 +1429,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.335,
+"lon": -72.15667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-maras-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-francisco-de-asis-maras-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-san-pedro-apostol-pisac",
@@ -1415,10 +1459,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.4225,
+"lon": -71.84667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-apostol-pisac-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-san-pedro-apostol-pisac-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-apostol-ollantaytambo",
@@ -1444,10 +1489,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.25722,
+"lon": -72.26306,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-ollantaytambo-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-ollantaytambo-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tipon-oropesa",
@@ -1473,10 +1519,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.59454,
+"lon": -71.7636,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tipon-oropesa-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tipon-oropesa-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-cp-ccachin-lares",
@@ -1502,10 +1549,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.10441,
+"lon": -72.04394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cp-ccachin-lares-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-cp-ccachin-lares-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-evangelica-peruana-agua-viva-sicuani",
@@ -1531,10 +1579,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.26944,
+"lon": -71.22611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-agua-viva-sicuani-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-evangelica-peruana-agua-viva-sicuani-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-san-martin-de-porres-santiago",
@@ -1560,10 +1609,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.52728,
+"lon": -71.9843,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-martin-de-porres-santiago-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-san-martin-de-porres-santiago-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-santisima-trinidad-pilliray-maras",
@@ -1589,10 +1639,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.335,
+"lon": -72.15667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santisima-trinidad-pilliray-maras-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-santisima-trinidad-pilliray-maras-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-senor-de-pampacucho-sicuani",
@@ -1618,10 +1669,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.26944,
+"lon": -71.22611,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-de-pampacucho-sicuani-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-senor-de-pampacucho-sicuani-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesio-de-adventista-de-7mo-dia-quiquijana-occidental",
@@ -1676,10 +1728,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/la-capilla-san-juan-bautista-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/la-capilla-san-juan-bautista-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "primers-iglesia-evangelica-bautista-del-cusco-cusco",
@@ -1792,10 +1845,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.32139,
+"lon": -72.08222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-sr-cruz-mocco-yucay-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/santisima-sr-cruz-mocco-yucay-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-de-cana-layo",
@@ -1821,10 +1875,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.49361,
+"lon": -71.155,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-cana-layo-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-cana-layo-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-de-canibamba-yucay",
@@ -1850,10 +1905,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.32139,
+"lon": -72.08222,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-canibamba-yucay-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-canibamba-yucay-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-de-pasion-huayllabamba",
@@ -1879,10 +1935,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.33806,
+"lon": -72.06528,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-pasion-huayllabamba-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-de-pasion-huayllabamba-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "senor-del-calvario-wanchaq",
@@ -1908,10 +1965,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.52493,
+"lon": -71.96531,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/senor-del-calvario-wanchaq-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/senor-del-calvario-wanchaq-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-antiguo-de-totora-livitaca",
@@ -1937,10 +1995,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.31314,
+"lon": -71.68925,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-antiguo-de-totora-livitaca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-antiguo-de-totora-livitaca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-checacupe-checacupe",
@@ -1966,10 +2025,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.02694,
+"lon": -71.45278,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-checacupe-checacupe-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-checacupe-checacupe-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-cconamuro-urcos",
@@ -1995,10 +2055,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.68611,
+"lon": -71.62278,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-cconamuro-urcos-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-cconamuro-urcos-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-de-la-sagrada-familia-cuzco",
@@ -2053,10 +2114,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.335,
+"lon": -72.15667,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-tiobamba-maras-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-de-tiobamba-maras-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-del-senor-de-huanca-de-combapata-combapata",
@@ -2082,10 +2144,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -14.10111,
+"lon": -71.42944,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-de-huanca-de-combapata-combapata-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-del-senor-de-huanca-de-combapata-combapata-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-santiago-apostol-ccorca",
@@ -2111,10 +2174,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.585,
+"lon": -72.05972,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-santiago-apostol-ccorca-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-santiago-apostol-ccorca-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-santos-cosme-y-damian-lares",
@@ -2140,9 +2204,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": -13.10441,
+"lon": -72.04394,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-santos-cosme-y-damian-lares-cusco"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-santos-cosme-y-damian-lares-cusco",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

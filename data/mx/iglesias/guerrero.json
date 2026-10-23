@@ -168,10 +168,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.36926,
+"lon": -99.87041,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-27-de-septiembre-teloloapan-teloloapan-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-27-de-septiembre-teloloapan-teloloapan-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-avenida-emperador-cuauhtemoc-coyuca-de-benitez-coyuca-de-benitez",
@@ -197,10 +198,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.00763,
+"lon": -100.0879,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-emperador-cuauhtemoc-coyuca-de-benitez-coyuca-de-benitez-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-avenida-emperador-cuauhtemoc-coyuca-de-benitez-coyuca-de-benitez-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-en-guerrero-ajuchitlan-del-progreso",
@@ -226,10 +228,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.15189,
+"lon": -100.48353,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-guerrero-ajuchitlan-del-progreso-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-en-guerrero-ajuchitlan-del-progreso-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-cristiana-hebron-acapulco",
@@ -284,10 +287,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.84942,
+"lon": -99.90891,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-principe-de-paz-acapulco-de-juarez-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-cristiana-principe-de-paz-acapulco-de-juarez-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-arroyo-taxco-de-alarcon",
@@ -313,10 +317,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.55708,
+"lon": -99.60512,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-arroyo-taxco-de-alarcon-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-arroyo-taxco-de-alarcon-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-pedro-martin-taxco-de-alarcon",
@@ -342,10 +347,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.55708,
+"lon": -99.60512,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pedro-martin-taxco-de-alarcon-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-pedro-martin-taxco-de-alarcon-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-santiago-apostol-santiago-maravatio",
@@ -371,10 +377,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 20.17293,
+"lon": -100.99537,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-santiago-maravatio-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-santiago-apostol-santiago-maravatio-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-de-tecalpulco-taxco-de-alarcon",
@@ -400,10 +407,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.55708,
+"lon": -99.60512,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tecalpulco-taxco-de-alarcon-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-de-tecalpulco-taxco-de-alarcon-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-del-senor-de-chalma-tepecoacuilco-de-trujano",
@@ -429,10 +437,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.2866,
+"lon": -99.46527,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-chalma-tepecoacuilco-de-trujano-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-del-senor-de-chalma-tepecoacuilco-de-trujano-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-la-guadalupana-tlapehuala",
@@ -458,10 +467,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.24045,
+"lon": -100.53923,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-guadalupana-tlapehuala-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-la-guadalupana-tlapehuala-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-nueva-vida-la-ventosa",
@@ -487,10 +497,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 16.55188,
+"lon": -94.94762,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-vida-la-ventosa-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/iglesia-nueva-vida-la-ventosa-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "iglesia-vieja-apaxtla",
@@ -574,10 +585,11 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 18.4664,
+"lon": -100.57878,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/misioneros-cutzamala-de-pinzon-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/misioneros-cutzamala-de-pinzon-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 },
 {
 "slug": "templo-genesis-bautista-coyuca-de-benitez",
@@ -603,9 +615,10 @@
 "telefono": null,
 "email": null,
 "horarios": null,
-"lat": null,
-"lon": null,
+"lat": 17.00763,
+"lon": -100.0879,
 "reclamada": false,
-"fuente_url": "https://encuentraiglesias.com/iglesia/templo-genesis-bautista-coyuca-de-benitez-guerrero"
+"fuente_url": "https://encuentraiglesias.com/iglesia/templo-genesis-bautista-coyuca-de-benitez-guerrero",
+"geo_fuente": "GeoNames: centro de la localidad (aproximado)"
 }
 ]

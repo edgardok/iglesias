@@ -54,7 +54,7 @@ const Decision = z.object({
   }).describe('Datos normalizados a publicar. Teléfonos en formato +54..., URLs completas, horarios legibles.'),
 });
 
-const SISTEMA = `Sos el asistente de un directorio abierto de iglesias de América Latina. Recibís lo que una persona cargó en un formulario
+const SISTEMA = `Sos el asistente de un directorio abierto de iglesias de habla hispana. Recibís lo que una persona cargó en un formulario
 para sumar o reclamar la ficha de su iglesia, junto con fichas existentes que podrían ser la misma iglesia.
 
 Decidí una de cuatro acciones:

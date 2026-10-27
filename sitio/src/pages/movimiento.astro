@@ -3,17 +3,17 @@ import Base from '../layouts/Base.astro';
 import Donar from '../components/Donar.astro';
 import { iglesias, paises, listaPaises, NOMBRE_SITIO } from '../lib/datos';
 const total = iglesias.length.toLocaleString('es');
-const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline: 'Que toda iglesia de América Latina sea encontrable', inLanguage: 'es',
+const jsonld = { '@context': 'https://schema.org', '@type': 'Article', headline: 'Que toda iglesia de habla hispana sea encontrable', inLanguage: 'es',
   description: 'Por qué existe este directorio: miles de iglesias viven solo en redes sociales que ni los buscadores ni los asistentes de IA pueden leer. La idea, los principios y cómo sumarse.',
   publisher: { '@type': 'Organization', name: NOMBRE_SITIO, url: Astro.site?.href } };
 ---
-<Base titulo="El movimiento: que toda iglesia de América Latina sea encontrable" descripcion="Por qué existe este directorio: miles de iglesias viven solo en Facebook, Instagram y WhatsApp, que ni Google ni los asistentes de IA pueden leer. La idea, los principios y cómo sumarse." jsonld={jsonld}>
+<Base titulo="El movimiento: que toda iglesia de habla hispana sea encontrable" descripcion="Por qué existe este directorio: miles de iglesias viven solo en Facebook, Instagram y WhatsApp, que ni Google ni los asistentes de IA pueden leer. La idea, los principios y cómo sumarse." jsonld={jsonld}>
   <h1>Que toda iglesia sea encontrable</h1>
 
   <p><strong>Una persona se muda a un barrio nuevo y busca una iglesia.</strong> Hace diez años abría Google. Hoy, cada vez más, le pregunta a un asistente de inteligencia artificial: "¿qué iglesias hay cerca de mi casa?". Y el asistente responde con las que conoce. Las demás, para esa persona, no existen.</p>
 
   <h2>El problema</h2>
-  <p>La mayoría de las iglesias de América Latina están online, pero en el lugar equivocado. Tienen una página de Facebook, un Instagram, un grupo de WhatsApp. Para su comunidad alcanza. Para alguien de afuera, no: Facebook e Instagram bloquean a los buscadores y, explícitamente, a los rastreadores de los modelos de lenguaje. Lo que una iglesia publica ahí no lo lee Google, no lo lee ChatGPT, no lo lee Claude ni Perplexity ni Gemini.</p>
+  <p>La mayoría de las iglesias de habla hispana están online, pero en el lugar equivocado. Tienen una página de Facebook, un Instagram, un grupo de WhatsApp. Para su comunidad alcanza. Para alguien de afuera, no: Facebook e Instagram bloquean a los buscadores y, explícitamente, a los rastreadores de los modelos de lenguaje. Lo que una iglesia publica ahí no lo lee Google, no lo lee ChatGPT, no lo lee Claude ni Perplexity ni Gemini.</p>
   <p>Hicimos la prueba con un barrio del conurbano de Buenos Aires. Le preguntamos a varios asistentes qué iglesias había. Sin acceso a internet, ninguno pudo nombrar una. Con acceso a internet, encontraron tres: una cuyos datos aparecían solo en directorios raspados por terceros, y dos que existían únicamente como una cuenta de Instagram y una página de Facebook, sin dirección ni horario legibles. Y seguro había varias más que no aparecieron en absoluto. Hoy la identidad digital de esas iglesias la escriben desconocidos, o no la escribe nadie.</p>
 
   <h2>La idea</h2>

@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { iglesias, paises, provinciasDe, CHUNK_DATOS, clavesDatos } from '../../lib/datos';
 ---
-<Base titulo="Datos abiertos | Iglesias de América Latina" descripcion="Descargá el directorio de iglesias de América Latina en JSON, por país o por región. Licencia ODbL.">
+<Base titulo="Datos abiertos | Iglesias en español" descripcion="Descargá el directorio de iglesias de habla hispana en JSON, por país o por región. Licencia ODbL.">
   <h1>Datos abiertos</h1>
   <p>{iglesias.length.toLocaleString('es')} fichas, en un archivo JSON por región de cada país (sin campos vacíos; las regiones con más de {CHUNK_DATOS.toLocaleString('es')} fichas vienen en partes). Es la misma partición, sin recortar, que tiene el <a href="https://github.com/edgardok/iglesias/tree/main/data">repositorio</a> en <code>data/&lt;pais&gt;/iglesias/&lt;region&gt;.json</code>, así que podés bajar de acá o clonar.</p>
   {paises.map(p => <>

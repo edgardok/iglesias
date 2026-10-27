@@ -1,5 +1,5 @@
 // Helpers sin datos: se pueden importar desde páginas renderizadas en el Worker sin arrastrar el dataset.
-export const NOMBRE_SITIO = 'Iglesias de América Latina';
+export const NOMBRE_SITIO = 'Iglesias en español';
 export const urlPais = (p: string) => `/${p}/`;
 export const urlProvincia = (p: string, s: string) => `/${p}/${s}/`;
 export const urlLocalidad = (p: string, s: string, l: string) => `/${p}/${s}/${l}/`;

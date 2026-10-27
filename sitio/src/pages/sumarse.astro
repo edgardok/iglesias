@@ -1,11 +1,11 @@
 ---
 import Base from '../layouts/Base.astro';
-import { PAISES_LATAM } from '../lib/datos';
+import { PAISES_HISPANOS } from '../lib/datos';
 const siteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '0x4AAAAAAFXZf9Ea3xD7oeNy'; // clave pública (sitekey) del widget Turnstile 'iglesias'
 ---
-<Base titulo="Sumar o reclamar mi iglesia | Iglesias de América Latina" descripcion="Formulario para sumar una iglesia de cualquier país de América Latina al directorio abierto, o reclamar y corregir una ficha existente. Gratis.">
+<Base titulo="Sumar o reclamar mi iglesia | Iglesias en español" descripcion="Formulario para sumar una iglesia de cualquier país de habla hispana al directorio abierto, o reclamar y corregir una ficha existente. Gratis.">
   <h1 id="titulo">Sumá o reclamá tu iglesia</h1>
-  <p id="intro">Contanos los datos de tu iglesia. Vale para cualquier país de América Latina, aunque todavía no tenga datos cargados. Un asistente revisa lo que llega, lo cruza con los registros públicos y publica la ficha. Nadie va a venderte nada: el directorio es gratis y abierto.</p>
+  <p id="intro">Contanos los datos de tu iglesia. Vale para cualquier país de habla hispana, aunque todavía no tenga datos cargados. Un asistente revisa lo que llega, lo cruza con los registros públicos y publica la ficha. Nadie va a venderte nada: el directorio es gratis y abierto.</p>
   <form id="f" method="post" action="/api/sumarse">
     <input type="hidden" name="slug" id="slug" />
     <label>¿Qué necesitás? <select name="tipo" id="tipo" required>
@@ -16,7 +16,7 @@ const siteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '0x4AAAAAAFXZf9Ea3x
     </select></label>
     <label>País <select name="pais" id="pais" required>
       <option value="">Elegí</option>
-      {PAISES_LATAM.map(p => <option value={p.slug}>{p.nombre}</option>)}
+      {PAISES_HISPANOS.map(p => <option value={p.slug}>{p.nombre}</option>)}
     </select></label>
     <p id="reclamo" hidden class="aviso">Estás reclamando la ficha <strong id="reclamo-slug"></strong>. Completá solo lo que quieras corregir o agregar.</p>
     <label>Nombre de la iglesia <input name="nombre" required maxlength="200" /></label>

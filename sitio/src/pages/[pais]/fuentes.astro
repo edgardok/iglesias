@@ -6,7 +6,7 @@ const { p } = Astro.props;
 const f = p.fuentes;
 const porFuente = new Map<string, number>(); for (const i of p.iglesias) porFuente.set(i.fuente, (porFuente.get(i.fuente) ?? 0) + 1);
 ---
-<Base titulo={`Fuentes de datos de ${p.nombre} | Iglesias de América Latina`} descripcion={`De dónde salen las ${p.iglesias.length.toLocaleString('es')} fichas de ${p.nombre}: ${(f?.fuentes ?? []).map(x => x.nombre).join(', ')}. Licencias, fechas, scripts y limitaciones.`}>
+<Base titulo={`Fuentes de datos de ${p.nombre} | Iglesias en español`} descripcion={`De dónde salen las ${p.iglesias.length.toLocaleString('es')} fichas de ${p.nombre}: ${(f?.fuentes ?? []).map(x => x.nombre).join(', ')}. Licencias, fechas, scripts y limitaciones.`}>
   <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(p.slug)}>{p.nombre}</a></nav>
   <h1>De dónde salen los datos de {p.nombre}</h1>
   {f ? <>

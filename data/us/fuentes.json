@@ -2,7 +2,7 @@
   "pais": "Estados Unidos",
   "iso": "us",
   "region_nombre": "estado",
-  "actualizado": "2026-10-23",
+  "actualizado": "2026-10-26",
   "fuentes": [
     {
       "nombre": "EncuentraIglesias.com (directorio de terceros)",
@@ -11,9 +11,9 @@
       "archivo": "data/us/raw/churches_Estados_Unidos.csv",
       "descarga": "2026-10-22",
       "licencia": "Sin licencia abierta declarada. Se publican solo datos de hecho (nombre, denominación, ubicación aproximada) con el enlace a la página de origen en cada ficha, hasta reemplazarlos por un registro público.",
-      "que_aporta": "39.984 fichas de iglesias evangélicas y de otras confesiones cristianas no católicas; 32.370 con localidad (80%).",
+      "que_aporta": "487 iglesias con nombre en español de las 39.984 del CSV original de Estados Unidos.",
       "script": "scripts/comunes/csv_encuentraiglesias.py (listas de regiones en scripts/comunes/regiones.py)",
-      "limitaciones": "La ubicación se deduce del final de la URL de origen, sin tildes en las ciudades, y se puede equivocar. Sin dirección, teléfono ni coordenadas en casi todos los casos. Se descartaron filas con marcas católicas inequívocas en el nombre (parroquia, catedral, Nuestra Señora y similares); es una heurística y puede dejar pasar o excluir alguna."
+      "limitaciones": "Se publican solo las fichas con nombre en español, por una heurística sobre el nombre. El resto, casi todas iglesias de habla inglesa, está archivado en data/_archivo/us/ y no se publica; una iglesia de habla hispana con nombre en inglés queda ahí hasta que la reclame. La ubicación se deduce del final de la URL de origen, sin tildes en las ciudades, y se puede equivocar. Sin dirección, teléfono ni coordenadas en casi todos los casos. Se descartaron filas con marcas católicas inequívocas en el nombre (parroquia, catedral, Nuestra Señora y similares); es una heurística y puede dejar pasar o excluir alguna."
     },
     {
       "nombre": "GeoNames (coordenadas de localidades)",

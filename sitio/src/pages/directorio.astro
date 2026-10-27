@@ -1,23 +1,23 @@
 ---
 import Base from '../layouts/Base.astro';
-import { iglesias, paises, PAISES_HISPANOS, esHispano, NOMBRE_SITIO, urlPais, tiposDe, urlTipo } from '../lib/datos';
+import { iglesias, paises, PAISES_LATAM, esLatam, NOMBRE_SITIO, urlPais, tiposDe, urlTipo } from '../lib/datos';
 const total = iglesias.length;
 const conCoords = iglesias.filter(i => i.lat).length;
 const conHorarios = iglesias.filter(i => i.horarios).length;
 const cubiertos = new Set(paises.map(p => p.slug));
 const tipos = tiposDe(iglesias).slice(0, 12);
 ---
-<Base titulo={`Directorio | ${NOMBRE_SITIO}`} descripcion={`Directorio abierto con ${total.toLocaleString('es')} iglesias evangélicas y otras comunidades de fe de habla hispana, por país, región y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
+<Base titulo={`Directorio | ${NOMBRE_SITIO}`} descripcion={`Directorio abierto con ${total.toLocaleString('es')} iglesias evangélicas y otras comunidades de fe de América Latina, por país, región y localidad. Datos públicos, legibles por buscadores y asistentes de IA.`}>
   <h1>Directorio</h1>
   <p>Buscá por país, región y localidad, o <a href="/cerca/">buscá las iglesias cerca de tu ubicación</a>. Cada iglesia tiene una URL permanente con sus datos.</p>
   <div class="aviso"><strong>¿Tu iglesia está acá?</strong> Buscala por país, región y localidad. Si falta o tiene datos viejos, <a href="/sumarse/">sumala o corregila</a> en dos minutos.</div>
   <h2>Países</h2>
   <ul class="grilla">
-    {PAISES_HISPANOS.map(p => cubiertos.has(p.slug)
+    {PAISES_LATAM.map(p => cubiertos.has(p.slug)
       ? <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>({paises.find(x => x.slug === p.slug)!.iglesias.length.toLocaleString('es')})</small></li>
       : <li class="gris">{p.nombre} <small>(próximamente)</small></li>)}
   </ul>
-  {paises.some(p => !esHispano(p.slug)) && <><h2>Otros idiomas</h2><ul class="grilla">{paises.filter(p => !esHispano(p.slug)).map(p => <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>({p.iglesias.length.toLocaleString('es')})</small></li>)}</ul><p><small>Datos de iglesias en otros idiomas que conservamos por si el alcance se amplía.</small></p></>}
+  {paises.some(p => !esLatam(p.slug)) && <><h2>Otros idiomas</h2><ul class="grilla">{paises.filter(p => !esLatam(p.slug)).map(p => <li><a href={urlPais(p.slug)}>{p.nombre}</a> <small>({p.iglesias.length.toLocaleString('es')})</small></li>)}</ul><p><small>Datos de iglesias en otros idiomas que conservamos por si el alcance se amplía.</small></p></>}
   <p><small>Empezamos por Argentina. Cada país se suma cuando conseguimos una fuente pública confiable; <a href="/fuentes/">acá explicamos cuáles usamos</a> y <a href="https://github.com/edgardok/iglesias/blob/main/data/README.md">cómo agregar uno</a>.</small></p>
   <h2>Por tipo</h2>
   <ul class="grilla">{tipos.map(t => <li>{t.nombre} <small>({t.iglesias.length.toLocaleString('es')})</small></li>)}</ul>
@@ -26,7 +26,7 @@ const tipos = tiposDe(iglesias).slice(0, 12);
   <p>Cada iglesia tiene una URL permanente con su descripción en prosa y datos estructurados schema.org. Cada localidad tiene además una versión en Markdown. Todo el dataset se puede descargar en <a href="/datos/">datos abiertos</a> y hay un <a href="/llms.txt">llms.txt</a>.</p>
   <h2>Qué hay hoy</h2>
   <dl>
-    <dt>Países</dt><dd>{paises.length} de {PAISES_HISPANOS.length}</dd>
+    <dt>Países</dt><dd>{paises.length} de {PAISES_LATAM.length}</dd>
     <dt>Fichas</dt><dd>{total.toLocaleString('es')}</dd>
     <dt>Con ubicación en mapa</dt><dd>{conCoords.toLocaleString('es')}</dd>
     <dt>Con horarios</dt><dd>{conHorarios.toLocaleString('es')}</dd>

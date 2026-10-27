@@ -3,9 +3,9 @@ import Base from '../layouts/Base.astro';
 import Donar from '../components/Donar.astro';
 import { iglesias, paises, listaPaises } from '../lib/datos';
 ---
-<Base titulo="Apoyar el proyecto | Iglesias en español" descripcion="Cómo ayudar a que toda iglesia de habla hispana sea encontrable: con una donación, reclamando tu ficha, aportando datos de tu país o código.">
+<Base titulo="Apoyar el proyecto | Iglesias de América Latina" descripcion="Cómo ayudar a que toda iglesia de América Latina sea encontrable: con una donación, reclamando tu ficha, aportando datos de tu país o código.">
   <h1>Apoyar el proyecto</h1>
-  <p>Hoy el directorio tiene {iglesias.length.toLocaleString('es')} fichas de {listaPaises(paises.map(p => p.nombre))}. Queremos llegar a todo el mundo hispanohablante. Hay cuatro maneras de ayudar, y ninguna es más importante que otra.</p>
+  <p>Hoy el directorio tiene {iglesias.length.toLocaleString('es')} fichas de {listaPaises(paises.map(p => p.nombre))}. Queremos llegar a todo América Latina. Hay cuatro maneras de ayudar, y ninguna es más importante que otra.</p>
   <Donar />
   <h2>Con tu iglesia</h2>
   <p><a href="/sumarse/">Reclamá tu ficha</a> y cargá horarios y un teléfono. Es lo que más le sirve a quien busca, y cada ficha completa mejora el directorio entero.</p>

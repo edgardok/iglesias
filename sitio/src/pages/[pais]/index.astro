@@ -6,12 +6,14 @@ const { p } = Astro.props;
 const provs = provinciasDe(p.slug);
 const tipos = tiposDe(p.iglesias).slice(0, 10);
 const conCoords = p.iglesias.filter(i => i.lat).length;
+const idiomaAviso = p.fuentes?.idioma && p.fuentes.idioma !== 'es' ? p.fuentes.idioma : null;
 const desc = `${p.iglesias.length.toLocaleString('es')} iglesias, templos y comunidades de fe de ${p.nombre} por ${p.region_nombre} y localidad. ${tipos.slice(0, 4).map(t => `${t.iglesias.length.toLocaleString('es')} ${t.nombre.toLowerCase()}`).join(', ')}.`;
 ---
 <Base titulo={`Iglesias de ${p.nombre}: ${p.iglesias.length.toLocaleString('es')} templos por ${p.region_nombre}`} descripcion={desc}>
   <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href="/paises/">Países</a></nav>
   <h1>Iglesias de {p.nombre}</h1>
   <p>{desc} {conCoords.toLocaleString('es')} tienen ubicación en el mapa. <a href={`${urlPais(p.slug)}fuentes/`}>De dónde salen estos datos</a>.</p>
+  {idiomaAviso && <div class="aviso">Las iglesias de {p.nombre} están en {idiomaAviso} y por ahora el sitio está solo en español.</div>}
   <h2>Por {p.region_nombre}</h2>
   <ul class="grilla">{provs.map(r => <li><a href={urlProvincia(p.slug, r.slug)}>{r.nombre}</a> <small>({r.iglesias.length.toLocaleString('es')})</small></li>)}</ul>
   <h2>Por tipo</h2>

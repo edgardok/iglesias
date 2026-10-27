@@ -1,11 +1,11 @@
-# Iglesias en español: directorio abierto
+# Iglesias de América Latina: directorio abierto
 
 Directorio estático de iglesias evangélicas y otras comunidades de fe no católicas, con una URL por templo, pensado para que buscadores y asistentes de IA puedan responder
 "qué iglesias hay en tal localidad". Miles de iglesias existen solo en Facebook, Instagram o WhatsApp, que ni
 Google ni los modelos de lenguaje pueden leer. Acá juntamos los datos públicos de cada país, los normalizamos
 y los publicamos con datos estructurados, documentando de dónde sale cada dato.
 
-Alcance: el mundo hispanohablante, país por país: América Latina de habla hispana, España y las comunidades hispanas de Estados Unidos. Hoy hay datos de Argentina (la más completa, con el registro oficial), Colombia, Chile, México, Perú y España, y una pequeña parte de Estados Unidos. Brasil está cargado pero queda fuera del alcance por el idioma, pendiente de decidir. Las fichas que no entran en el alcance, como las 39.497 iglesias de habla inglesa de Estados Unidos, se guardan en `data/_archivo/` para el futuro. Salvo Argentina son semillas: casi todo viene de un directorio de terceros, sin dirección ni coordenadas.
+Alcance: América Latina, país por país, con todo lo que tenemos de la región, Brasil incluido. Hoy hay datos de Argentina (la más completa, con el registro oficial), Colombia, Chile, México, Perú y Brasil. Salvo Argentina son semillas: casi todo viene de un directorio de terceros, sin dirección ni coordenadas, y las de Brasil están en portugués y casi sin localidad. España y las iglesias de Estados Unidos están archivadas en `data/_archivo/` para el futuro, junto con las 39.497 de habla inglesa.
 fuente pública confiable.
 
 ## Estructura

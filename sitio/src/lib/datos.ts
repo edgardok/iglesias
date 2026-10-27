@@ -26,7 +26,7 @@ export type Iglesia = {
   reclamada: boolean; religion?: string | null; denominacion?: string | null; osm_id?: string | null; geo_fuente?: string | null;
 };
 export type Fuente = { nombre: string; organismo?: string; url?: string; archivo?: string; descarga?: string; licencia?: string; que_aporta?: string; script?: string; limitaciones?: string };
-export type Fuentes = { pais: string; iso: string; region_nombre: string; actualizado: string; fuentes: Fuente[]; pendientes?: string[] };
+export type Fuentes = { pais: string; iso: string; idioma?: string; region_nombre: string; actualizado: string; fuentes: Fuente[]; pendientes?: string[] };
 export type Pais = { nombre: string; slug: string; region_nombre: string; iglesias: Iglesia[]; fuentes: Fuentes | null };
 
 export const iglesias: Iglesia[] = leerTodo();
@@ -40,15 +40,14 @@ for (const i of iglesias) {
 }
 export const paises = [...porPais.values()].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
 
-/** Países de habla hispana y su estado de cobertura, para la portada. Brasil (portugués) queda fuera del alcance actual: sus datos se conservan. */
-export const PAISES_HISPANOS: { nombre: string; slug: string }[] = [
-  { nombre: 'Argentina', slug: 'ar' }, { nombre: 'Bolivia', slug: 'bo' }, { nombre: 'Chile', slug: 'cl' }, { nombre: 'Colombia', slug: 'co' },
-  { nombre: 'Costa Rica', slug: 'cr' }, { nombre: 'Cuba', slug: 'cu' }, { nombre: 'Ecuador', slug: 'ec' }, { nombre: 'El Salvador', slug: 'sv' }, { nombre: 'España', slug: 'es' },
-  { nombre: 'Estados Unidos', slug: 'us' }, { nombre: 'Guatemala', slug: 'gt' }, { nombre: 'Guinea Ecuatorial', slug: 'gq' }, { nombre: 'Honduras', slug: 'hn' }, { nombre: 'México', slug: 'mx' },
-  { nombre: 'Nicaragua', slug: 'ni' }, { nombre: 'Panamá', slug: 'pa' }, { nombre: 'Paraguay', slug: 'py' }, { nombre: 'Perú', slug: 'pe' }, { nombre: 'Puerto Rico', slug: 'pr' },
-  { nombre: 'República Dominicana', slug: 'do' }, { nombre: 'Uruguay', slug: 'uy' }, { nombre: 'Venezuela', slug: 've' },
+/** Países de América Latina y su estado de cobertura, para la portada. */
+export const PAISES_LATAM: { nombre: string; slug: string }[] = [
+  { nombre: 'Argentina', slug: 'ar' }, { nombre: 'Bolivia', slug: 'bo' }, { nombre: 'Brasil', slug: 'br' }, { nombre: 'Chile', slug: 'cl' }, { nombre: 'Colombia', slug: 'co' },
+  { nombre: 'Costa Rica', slug: 'cr' }, { nombre: 'Cuba', slug: 'cu' }, { nombre: 'Ecuador', slug: 'ec' }, { nombre: 'El Salvador', slug: 'sv' }, { nombre: 'Guatemala', slug: 'gt' },
+  { nombre: 'Honduras', slug: 'hn' }, { nombre: 'México', slug: 'mx' }, { nombre: 'Nicaragua', slug: 'ni' }, { nombre: 'Panamá', slug: 'pa' }, { nombre: 'Paraguay', slug: 'py' },
+  { nombre: 'Perú', slug: 'pe' }, { nombre: 'Puerto Rico', slug: 'pr' }, { nombre: 'República Dominicana', slug: 'do' }, { nombre: 'Uruguay', slug: 'uy' }, { nombre: 'Venezuela', slug: 've' },
 ];
-export const esHispano = (slug: string) => PAISES_HISPANOS.some(p => p.slug === slug);
+export const esLatam = (slug: string) => PAISES_LATAM.some(p => p.slug === slug);
 export const listaPaises = (nombres: string[]) => new Intl.ListFormat('es', { style: 'long', type: 'conjunction' }).format(nombres);
 /** Máximo de fichas por archivo JSON publicado en /datos/ (Cloudflare limita cada archivo a 25 MiB). */
 export const CHUNK_DATOS = 12000;

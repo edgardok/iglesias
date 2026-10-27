@@ -11,6 +11,7 @@ import { paises, urlPais } from '../lib/datos';
     <li>Preferimos no tener un dato a tenerlo mal: por ejemplo, no publicamos coordenadas si la geocodificación no pudo confirmar la localidad.</li>
     <li>Todo lo que aportan las iglesias se publica bajo ODbL, igual que el resto.</li>
     <li>Las coordenadas que dicen "GeoNames" son el centro de la localidad, no la ubicación del templo: sirven para buscar cerca, no para llegar. Datos de <a href="https://www.geonames.org/">GeoNames</a>, licencia CC BY 4.0.</li>
+    <li>Las fichas que solo tienen nombre, sin localidad ni ningún dato de contacto, se pueden consultar y están en los datos abiertos, pero no se indexan en buscadores hasta que alguien las complete.</li>
   </ul>
   {paises.map(p => <>
     <h2><a href={`${urlPais(p.slug)}fuentes/`}>{p.nombre}</a></h2>

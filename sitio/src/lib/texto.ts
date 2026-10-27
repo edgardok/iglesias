@@ -24,3 +24,11 @@ export function lineaMd(i: Iglesia, site: URL): string {
     i.lat && `Coordenadas: ${i.lat}, ${i.lon}`].filter(Boolean);
   return `- **${i.nombre}** (${new URL(urlIglesiaDe(i.pais_slug, i.slug), site).href})${campos.length ? '. ' + campos.join('. ') : ''}.`;
 }
+
+/** Ficha "delgada": sin localidad y sin ningún dato de contacto. Es una página casi vacía, así que no se indexa
+ *  (noindex y fuera del sitemap). Sigue visible, enlazada desde las listas y presente en los datos abiertos.
+ *  Una "dirección" que es solo el nombre de una calle, sin ciudad, no cuenta como dato. */
+export function esDelgada(i: Iglesia): boolean {
+  if (i.localidad_slug !== 'sin-localidad') return false;
+  return !(i.telefono || i.web || i.email || i.horarios || i.facebook || i.instagram || i.google_maps);
+}

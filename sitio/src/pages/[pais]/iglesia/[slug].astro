@@ -4,7 +4,7 @@ export const prerender = false;
 import Base from '../../../layouts/Base.astro';
 import { urlProvincia, urlLocalidad, urlPais, urlIglesiaDe, NOMBRE_SITIO } from '../../../lib/urls';
 import { db, iglesiaPorSlug, otrasEnLocalidad, CACHE } from '../../../lib/d1';
-import { descripcion } from '../../../lib/texto';
+import { descripcion, esDelgada } from '../../../lib/texto';
 const { pais, slug } = Astro.params;
 const i = await iglesiaPorSlug(db(Astro.locals), pais!, slug!);
 if (!i) return new Response('Ficha no encontrada', { status: 404, headers: { 'content-type': 'text/plain; charset=utf-8' } });
@@ -45,7 +45,7 @@ const jsonld = {
   ],
 };
 ---
-<Base titulo={`${i.nombre} - ${i.localidad}, ${i.provincia}, ${i.pais}`} descripcion={desc.slice(0, 300)} jsonld={jsonld}>
+<Base titulo={`${i.nombre} - ${i.localidad}, ${i.provincia}, ${i.pais}`} descripcion={desc.slice(0, 300)} jsonld={jsonld} noindex={esDelgada(i)}>
   <nav class="migas" aria-label="Ubicación"><a href="/">Inicio</a> › <a href={urlPais(i.pais_slug)}>{i.pais}</a> › <a href={urlProvincia(i.pais_slug, i.provincia_slug)}>{i.provincia}</a> › <a href={urlLocalidad(i.pais_slug, i.provincia_slug, i.localidad_slug)}>{i.localidad}</a></nav>
   <article>
     <h1>{i.nombre}</h1>
